@@ -103,6 +103,33 @@ body {
   transform: scale(1.1);
 }
 
+.header-controls {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.lang-toggle {
+  background: var(--toggle-bg);
+  border: none;
+  border-radius: 8px;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.2s ease, transform 0.2s ease;
+  flex-shrink: 0;
+}
+
+.lang-toggle:hover {
+  background: var(--toggle-hover);
+  transform: scale(1.05);
+}
+
 .main-content {
   flex: 1;
   padding: 2rem;
