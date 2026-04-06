@@ -134,6 +134,15 @@ function ReportCard({ report }) {
 
 function App() {
   const [reports, setReports] = useState([])
+  const [darkMode, setDarkMode] = useState(() => {
+    const saved = localStorage.getItem('theme')
+    return saved ? saved === 'dark' : true
+  })
+
+  useEffect(() => {
+    document.documentElement.classList.toggle('light-mode', !darkMode)
+    localStorage.setItem('theme', darkMode ? 'dark' : 'light')
+  }, [darkMode])
 
   useEffect(() => {
     const data = parseData(dataFiles)
@@ -143,8 +152,19 @@ function App() {
   return (
     <div className="app">
       <header className="header">
-        <h1>🤖 ClawBot US Market Insights</h1>
-        <p className="subtitle">Daily AI-powered premarket analysis</p>
+        <div className="header-content">
+          <div>
+            <h1>🤖 ClawBot US Market Insights</h1>
+            <p className="subtitle">Daily AI-powered premarket analysis</p>
+          </div>
+          <button
+            className="theme-toggle"
+            onClick={() => setDarkMode(!darkMode)}
+            aria-label={`Switch to ${darkMode ? 'light' : 'dark'} mode`}
+          >
+            {darkMode ? '☀️' : '🌙'}
+          </button>
+        </div>
       </header>
 
       <main className="main-content">
