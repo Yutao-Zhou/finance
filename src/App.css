@@ -480,6 +480,13 @@ body {
   font-style: italic;
 }
 
+.refresh-info {
+  margin-top: 8px;
+  font-size: 0.7rem;
+  color: #666;
+  opacity: 0.6;
+}
+
 @media (max-width: 640px) {
   .header-content {
     flex-direction: column;

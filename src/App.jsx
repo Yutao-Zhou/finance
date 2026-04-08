@@ -35,6 +35,7 @@ const ui = {
     title: '🤖 ClawBot US Market Insights',
     subtitle: 'Daily AI-powered premarket analysis',
     lastUpdated: 'Last updated',
+    refreshingIn: 'Refreshing in',
     summary: 'Summary',
     topNews: 'Top News',
     impact: 'Impact',
@@ -58,6 +59,7 @@ const ui = {
     title: '🤖 ClawBot 美股晨报',
     subtitle: '每日 AI 驱动盘前分析',
     lastUpdated: '最后更新',
+    refreshingIn: '距离刷新',
     summary: '一句话总览',
     topNews: '今日最重要新闻',
     impact: '为什么重要',
@@ -235,7 +237,9 @@ function App() {
   const [searchQuery, setSearchQuery] = useState('')
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(null)
+  const [nextRefreshIn, setNextRefreshIn] = useState(60 * 60) // 1 hour in seconds
 
+  // Auto-refresh every hour
   useEffect(() => {
     document.documentElement.classList.toggle('light-mode', !darkMode)
     localStorage.setItem('theme', darkMode ? 'dark' : 'light')
@@ -246,20 +250,61 @@ function App() {
   }, [lang])
 
   useEffect(() => {
-    try {
-      const data = parseData(dataFiles)
-      setReports(data)
-      setError(null)
-    } catch (err) {
-      console.error('Failed to load reports:', err)
-      setError(err)
-      setReports([])
-    } finally {
-      setLoading(false)
+    const loadData = () => {
+      try {
+        const data = parseData(dataFiles)
+        setReports(data)
+        setError(null)
+        // Reset refresh timer after successful load
+        setNextRefreshIn(60 * 60)
+      } catch (err) {
+        console.error('Failed to load reports:', err)
+        setError(err)
+        setReports([])
+      } finally {
+        setLoading(false)
+      }
     }
+
+    loadData()
   }, [])
 
+  // Countdown timer for auto-refresh (update every minute to reduce visual noise)
+  useEffect(() => {
+    if (loading || error) return
+
+    const updateClock = () => {
+      setNextRefreshIn(prev => {
+        if (prev <= 60) {
+          // Time to refresh (less than a minute left)
+          window.location.reload()
+          return 60 * 60
+        }
+        return prev - 60
+      })
+    }
+
+    // Initial update after 1 second to start from 60:00
+    const initialTimer = setTimeout(updateClock, 1000)
+
+    // Then update every minute
+    const intervalTimer = setInterval(updateClock, 60 * 1000)
+
+    return () => {
+      clearTimeout(initialTimer)
+      clearInterval(intervalTimer)
+    }
+  }, [loading, error])
+
   const labels = ui[lang]
+
+  // Format countdown display
+  const formatTime = (seconds) => {
+    const h = Math.floor(seconds / 3600)
+    const m = Math.floor((seconds % 3600) / 60)
+    const s = seconds % 60
+    return `${h}:${m.toString().padStart(2, '0')}:${s.toString().padStart(2, '0')}`
+  }
 
   // Filter reports based on search query
   const filteredReports = reports.filter(report => {
@@ -372,6 +417,14 @@ function App() {
             >
               {darkMode ? '☀️' : '🌙'}
             </button>
+            <button
+              className="refresh-toggle"
+              onClick={() => window.location.reload()}
+              aria-label="Refresh now"
+              title={lang === 'en' ? 'Refresh now' : '立即刷新'}
+            >
+              🔄
+            </button>
           </div>
         </div>
       </header>
@@ -398,6 +451,11 @@ function App() {
         <p>{labels.footer}</p>
         <p className="copyright">© 2026 Yutao Zhou. All rights reserved.</p>
         <p className="disclaimer">Yutao Zhou is not responsible for AI-generated content. This is not financial advice and is for informational purposes only.</p>
+        {reports.length > 0 && (
+          <p className="refresh-info" title={lang === 'en' ? 'Auto-refreshes every hour' : '每小时自动刷新'}>
+            {labels.refreshingIn}: {formatTime(nextRefreshIn)}
+          </p>
+        )}
       </footer>
     </div>
   )
