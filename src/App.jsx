@@ -407,14 +407,6 @@ function App() {
             >
               {darkMode ? '☀️' : '🌙'}
             </button>
-            <button
-              className="refresh-toggle"
-              onClick={() => window.location.reload()}
-              aria-label="Refresh now"
-              title={lang === 'en' ? 'Refresh now' : '立即刷新'}
-            >
-              🔄
-            </button>
           </div>
         </div>
       </header>
