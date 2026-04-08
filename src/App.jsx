@@ -34,6 +34,7 @@ const ui = {
   en: {
     title: '🤖 ClawBot US Market Insights',
     subtitle: 'Daily AI-powered premarket analysis',
+    lastUpdated: 'Last updated',
     summary: 'Summary',
     topNews: 'Top News',
     impact: 'Impact',
@@ -55,6 +56,7 @@ const ui = {
   zh: {
     title: '🤖 ClawBot 美股晨报',
     subtitle: '每日 AI 驱动盘前分析',
+    lastUpdated: '最后更新',
     summary: '一句话总览',
     topNews: '今日最重要新闻',
     impact: '为什么重要',
@@ -319,6 +321,11 @@ function App() {
           <div>
             <h1>{labels.title}</h1>
             <p className="subtitle">{labels.subtitle}</p>
+            {reports.length > 0 && (
+              <p className="last-updated">
+                {labels.lastUpdated}: {reports[0].date}
+              </p>
+            )}
           </div>
           <div className="header-controls">
             <div className="search-container">
