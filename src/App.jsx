@@ -215,6 +215,8 @@ function App() {
     return saved || 'en'
   })
   const [searchQuery, setSearchQuery] = useState('')
+  const [loading, setLoading] = useState(true)
+  const [error, setError] = useState(null)
 
   useEffect(() => {
     document.documentElement.classList.toggle('light-mode', !darkMode)
@@ -226,8 +228,17 @@ function App() {
   }, [lang])
 
   useEffect(() => {
-    const data = parseData(dataFiles)
-    setReports(data)
+    try {
+      const data = parseData(dataFiles)
+      setReports(data)
+      setError(null)
+    } catch (err) {
+      console.error('Failed to load reports:', err)
+      setError(err)
+      setReports([])
+    } finally {
+      setLoading(false)
+    }
   }, [])
 
   const labels = ui[lang]
@@ -267,6 +278,39 @@ function App() {
 
     return false
   })
+
+  // Error boundary fallback
+  if (error) {
+    return (
+      <div className="app">
+        <main className="main-content">
+          <div className="error-page">
+            <div className="error-icon">⚠️</div>
+            <h1>{lang === 'en' ? 'Something went wrong' : '出错了'}</h1>
+            <p className="error-message">
+              {lang === 'en'
+                ? 'Failed to load market data. This could be due to network issues or missing data files.'
+                : '无法加载市场数据。可能是网络问题或数据文件缺失。'}
+            </p>
+            <div className="error-details">
+              <code>{error.message || error.toString()}</code>
+            </div>
+            <button
+              className="retry-button"
+              onClick={() => window.location.reload()}
+            >
+              {lang === 'en' ? 'Try Again' : '重试'}
+            </button>
+            <p className="error-hint">
+              {lang === 'en'
+                ? 'If the problem persists, please check the data files in the repository.'
+                : '如果问题持续，请检查仓库中的数据文件。'}
+            </p>
+          </div>
+        </main>
+      </div>
+    )
+  }
 
   return (
     <div className="app">

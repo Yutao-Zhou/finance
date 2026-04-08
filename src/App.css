@@ -198,6 +198,77 @@ body {
   color: var(--text-secondary);
 }
 
+.error-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 4rem 2rem;
+  text-align: center;
+  min-height: 60vh;
+}
+
+.error-icon {
+  font-size: 4rem;
+  margin-bottom: 1rem;
+}
+
+.error-page h1 {
+  font-size: 1.75rem;
+  color: var(--accent-red);
+  margin-bottom: 0.75rem;
+}
+
+.error-message {
+  color: var(--text-secondary);
+  max-width: 500px;
+  margin-bottom: 1.5rem;
+  line-height: 1.6;
+}
+
+.error-details {
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+  max-width: 600px;
+  width: 100%;
+  overflow-x: auto;
+}
+
+.error-details code {
+  font-family: 'Monaco', 'Menlo', monospace;
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  word-break: break-word;
+}
+
+.retry-button {
+  background: var(--accent-blue);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 0.75rem 2rem;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.2s ease, transform 0.2s ease;
+  margin-bottom: 1rem;
+}
+
+.retry-button:hover {
+  background: var(--accent-blue);
+  opacity: 0.9;
+  transform: scale(1.02);
+}
+
+.error-hint {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  max-width: 500px;
+}
+
 .timeline {
   display: flex;
   flex-direction: column;
