@@ -214,6 +214,7 @@ function App() {
     const saved = localStorage.getItem('lang')
     return saved || 'en'
   })
+  const [searchQuery, setSearchQuery] = useState('')
 
   useEffect(() => {
     document.documentElement.classList.toggle('light-mode', !darkMode)
@@ -231,6 +232,42 @@ function App() {
 
   const labels = ui[lang]
 
+  // Filter reports based on search query
+  const filteredReports = reports.filter(report => {
+    if (!searchQuery.trim()) return true
+
+    const query = searchQuery.toLowerCase()
+
+    // Search in date
+    if (report.date.toLowerCase().includes(query)) return true
+
+    // Search in summary
+    if (t(report.summary, lang).toLowerCase().includes(query)) return true
+
+    // Search in top news titles and impact
+    if (report.topNews) {
+      for (const news of report.topNews) {
+        if (t(news.title, lang).toLowerCase().includes(query)) return true
+        if (t(news.impact, lang).toLowerCase().includes(query)) return true
+      }
+    }
+
+    // Search in sector radar
+    if (report.sectorRadar) {
+      for (const [key, value] of Object.entries(report.sectorRadar)) {
+        if (t(value, lang).toLowerCase().includes(query)) return true
+      }
+    }
+
+    // Search in judgment type and note
+    if (report.judgment) {
+      if (report.judgment.type.toLowerCase().includes(query)) return true
+      if (t(report.judgment.note, lang).toLowerCase().includes(query)) return true
+    }
+
+    return false
+  })
+
   return (
     <div className="app">
       <header className="header">
@@ -240,6 +277,20 @@ function App() {
             <p className="subtitle">{labels.subtitle}</p>
           </div>
           <div className="header-controls">
+            <div className="search-container">
+              <input
+                type="text"
+                className="search-input"
+                placeholder={lang === 'en' ? 'Search reports...' : '搜索报告...'}
+                value={searchQuery}
+                onChange={(e) => setSearchQuery(e.target.value)}
+              />
+              {searchQuery && (
+                <button className="search-clear" onClick={() => setSearchQuery('')}>
+                  ✕
+                </button>
+              )}
+            </div>
             <button
               className="lang-toggle"
               onClick={() => setLang(lang === 'en' ? 'zh' : 'en')}
@@ -263,9 +314,13 @@ function App() {
           <div className="empty-state">
             <p>{labels.empty}</p>
           </div>
+        ) : filteredReports.length === 0 ? (
+          <div className="empty-state">
+            <p>{lang === 'en' ? 'No reports match your search.' : '没有匹配的报告。'}</p>
+          </div>
         ) : (
           <div className="timeline">
-            {reports.map((report, index) => (
+            {filteredReports.map((report, index) => (
               <ReportCard key={index} report={report} lang={lang} />
             ))}
           </div>
