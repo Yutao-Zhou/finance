@@ -35,7 +35,6 @@ const ui = {
     title: '🤖 ClawBot US Market Insights',
     subtitle: 'Daily AI-powered premarket analysis',
     lastUpdated: 'Last updated',
-    refreshingIn: 'Refreshing in',
     summary: 'Summary',
     topNews: 'Top News',
     impact: 'Impact',
@@ -59,7 +58,6 @@ const ui = {
     title: '🤖 ClawBot 美股晨报',
     subtitle: '每日 AI 驱动盘前分析',
     lastUpdated: '最后更新',
-    refreshingIn: '距离刷新',
     summary: '一句话总览',
     topNews: '今日最重要新闻',
     impact: '为什么重要',
@@ -298,14 +296,6 @@ function App() {
 
   const labels = ui[lang]
 
-  // Format countdown display
-  const formatTime = (seconds) => {
-    const h = Math.floor(seconds / 3600)
-    const m = Math.floor((seconds % 3600) / 60)
-    const s = seconds % 60
-    return `${h}:${m.toString().padStart(2, '0')}:${s.toString().padStart(2, '0')}`
-  }
-
   // Filter reports based on search query
   const filteredReports = reports.filter(report => {
     if (!searchQuery.trim()) return true
@@ -451,11 +441,6 @@ function App() {
         <p>{labels.footer}</p>
         <p className="copyright">© 2026 Yutao Zhou. All rights reserved.</p>
         <p className="disclaimer">Yutao Zhou is not responsible for AI-generated content. This is not financial advice and is for informational purposes only.</p>
-        {reports.length > 0 && (
-          <p className="refresh-info" title={lang === 'en' ? 'Auto-refreshes every hour' : '每小时自动刷新'}>
-            {labels.refreshingIn}: {formatTime(nextRefreshIn)}
-          </p>
-        )}
       </footer>
     </div>
   )
