@@ -346,8 +346,28 @@ body {
 
 .news-title {
   font-size: 0.95rem;
-  color: var(--text-primary);
+  color: var(--accent-blue);
   margin-bottom: 0.5rem;
+  display: inline;
+}
+
+.news-title a {
+  color: inherit;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  transition: opacity 0.2s ease;
+}
+
+.news-title a:hover {
+  opacity: 0.8;
+  text-decoration: underline;
+}
+
+.news-link-icon {
+  font-size: 0.85rem;
+  opacity: 0.7;
 }
 
 .news-impact,

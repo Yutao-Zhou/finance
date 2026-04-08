@@ -50,6 +50,7 @@ const ui = {
     keyRisk: 'Key Risk',
     aiJudgment: 'AI Judgment',
     confidence: 'Confidence',
+    readMore: 'Read more',
     empty: 'No reports yet. ClawBot will publish daily insights here.',
     footer: 'Powered by ClawBot AI | Daily US Market Analysis'
   },
@@ -72,6 +73,7 @@ const ui = {
     keyRisk: '关键风险',
     aiJudgment: '我的判断',
     confidence: '置信度',
+    readMore: '查看原文',
     empty: '暂无报告。ClawBot 将在此发布每日洞察。',
     footer: 'ClawBot AI 驱动 | 每日美股分析'
   }
@@ -116,7 +118,21 @@ function ReportCard({ report, lang }) {
           <div className="news-list">
             {topNews.map((news, i) => (
               <div key={i} className="news-item">
-                <h4 className="news-title">{t(news.title, lang)}</h4>
+                <h4 className="news-title">
+                  {news.url ? (
+                    <a href={news.url} target="_blank" rel="noopener noreferrer">
+                      {t(news.title, lang)}
+                    </a>
+                  ) : (
+                    <a
+                      href={`https://www.google.com/search?q=${encodeURIComponent(t(news.title, lang))}`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      {t(news.title, lang)}
+                    </a>
+                  )}
+                </h4>
                 <p className="news-impact"><strong>{labels.impact}:</strong> {t(news.impact, lang)}</p>
                 {news.bullish && news.bullish.length > 0 && news.bullish[0] !== 'TICKER1' && (
                   <p className="news-bullish">
