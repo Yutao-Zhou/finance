@@ -1,0 +1,140 @@
+{
+  "date": "2026-04-07",
+  "summary": {
+    "en": "Markets turned cautiously risk-on as a two-week Middle East ceasefire window eased immediate Strait of Hormuz fears. U.S. equities were mixed-to-slightly higher, 10Y Treasury yields fell to about 4.24%, and oil backed off from panic highs, but the macro tape remained hostage to geopolitical headlines and energy pass-through risk.",
+    "zh": "市场重新偏向谨慎 risk-on：中东出现两周停火窗口，市场对霍尔木兹海峡风险的短期恐慌缓解。美股主要指数小幅分化偏强，10 年期美债收益率回落至约 4.24%，油价也从恐慌高位回落，但宏观主线仍然被地缘政治和能源传导风险主导。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Middle East ceasefire window gives global markets room to breathe",
+        "zh": "中东出现停火窗口，全球市场暂时松一口气"
+      },
+      "impact": {
+        "en": "Reuters framed the day as a relief trade after a two-week ceasefire reduced immediate concerns about disruption through the Strait of Hormuz. That lowers near-term tail risk for oil, shipping, inflation expectations, and broad equity multiples.",
+        "zh": "Reuters 将当天主线定义为“喘口气行情”：两周停火窗口降低了霍尔木兹海峡立刻中断的担忧，缓解了油价、航运、通胀预期和股权估值上的短期尾部风险。"
+      },
+      "bullish": ["SPY", "QQQ", "IWM", "XLI", "XLY"],
+      "bearish": ["XLE", "USO"],
+      "macroRisk": {
+        "en": "Yes - if ceasefire fails, oil/shipping/inflation shock can rapidly reprice bonds, cyclicals, and consumer risk assets.",
+        "zh": "是——若停火破裂，油价、航运和通胀冲击会迅速传导到债券、周期股和消费风险资产。"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil eases as markets price lower near-term Strait of Hormuz disruption risk",
+        "zh": "油价回落，市场下调霍尔木兹海峡短期中断风险定价"
+      },
+      "impact": {
+        "en": "Reuters and CNBC both showed the same direction: crude prices came off war-driven highs as traders priced de-escalation. Lower oil is mechanically supportive for transports, discretionary spending, and duration-sensitive assets, while reducing the immediate inflation scare.",
+        "zh": "Reuters 和 CNBC 给出的方向一致：随着市场押注局势缓和，原油从战争驱动的高位回落。油价回落会机械性利好运输、可选消费和久期资产，也会减轻短期通胀惊吓。"
+      },
+      "bullish": ["JETS", "XLY", "QQQ", "TLT"],
+      "bearish": ["XLE", "OXY", "CVX"],
+      "macroRisk": {
+        "en": "Yes - energy remains the fastest transmission channel from geopolitics into CPI, yields, and equity style rotation.",
+        "zh": "是——能源仍是地缘政治传导到 CPI、利率和股市风格切换最快的通道。"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury yields slide as growth scare cools inflation impulse from oil",
+        "zh": "美债收益率下行，市场在油价回落后重新交易增长与通胀平衡"
+      },
+      "impact": {
+        "en": "CNBC highlighted lower Treasury yields, while MarketWatch showed the U.S. 10Y note around 4.244%. Falling yields are supportive for mega-cap tech and long-duration growth, especially after a geopolitical squeeze starts to fade.",
+        "zh": "CNBC 强调美债收益率回落，MarketWatch 显示 10 年期美债约为 4.244%。利率下行通常利好 mega-cap 科技和长久期成长，尤其是在地缘政治挤压开始缓解之后。"
+      },
+      "bullish": ["QQQ", "XLK", "SOXX", "TLT"],
+      "bearish": ["KRE", "XLF"],
+      "macroRisk": {
+        "en": "Yes - rates remain the valuation bridge between geopolitics, inflation expectations, and tech multiples.",
+        "zh": "是——利率仍是连接地缘政治、通胀预期与科技估值的关键桥梁。"
+      }
+    },
+    {
+      "title": {
+        "en": "U.S. index tape stays constructive but not euphoric",
+        "zh": "美股指数层面偏建设性，但并未进入亢奋状态"
+      },
+      "impact": {
+        "en": "MarketWatch showed DJIA -0.18%, S&P 500 +0.08%, and Nasdaq +0.10%, meaning relief is real but narrow. This is consistent with a market that is reducing tail hedges rather than fully re-rating growth and earnings optimism.",
+        "zh": "MarketWatch 数据显示：道指 -0.18%、标普 +0.08%、纳指 +0.10%。说明缓和行情是真实存在的，但并不宽广，更像是在撤掉尾部对冲，而不是全面重估增长和盈利乐观情绪。"
+      },
+      "bullish": ["SPY", "QQQ"],
+      "bearish": ["DIA"],
+      "macroRisk": {
+        "en": "Yes - if newsflow turns again, this shallow risk-on can reverse quickly because positioning is still headline-driven.",
+        "zh": "是——若新闻流重新恶化，这种偏浅的 risk-on 很容易快速反转，因为当前仓位仍明显受 headline 驱动。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Lower yields and easing macro stress are a modest tailwind for AI leaders. The setup is better for multiple expansion than for a new fundamental leg higher; market focus is still macro first, AI second.",
+      "zh": "利率回落和宏观压力缓解，对 AI 龙头是温和利好。当前更像估值扩张条件改善，而不是新的基本面上修；市场排序仍是宏观优先、AI 其次。"
+    },
+    "semiconductor": {
+      "en": "Semis benefit from the same rates/downside-volatility relief as big tech. If oil keeps cooling and yields stay near current levels, semis should trade better than old-economy cyclicals.",
+      "zh": "半导体同样受益于利率下行和下行波动缓解。若油价继续回落、收益率维持当前水平，半导体大概率会跑赢传统经济周期板块。"
+    },
+    "bigTech": {
+      "en": "Big Tech remains the cleanest expression of falling yields plus improved risk appetite. Nasdaq's slight outperformance versus the Dow supports that read.",
+      "zh": "大科技仍然是“利率回落 + 风险偏好改善”最干净的表达。纳指相对道指的小幅跑赢也支持这个判断。"
+    },
+    "energy": {
+      "en": "Energy lost some near-term upside torque as crude backed off war highs. The sector still has geopolitical optionality, but the immediate momentum has softened.",
+      "zh": "能源板块的短期上行动能随着原油从战争高位回落而减弱。它仍然保留地缘政治期权价值，但眼下 momentum 明显放缓。"
+    },
+    "ev": {
+      "en": "EVs and other duration-heavy cyclicals should like lower yields and softer oil, especially if consumers are no longer pricing a fresh gasoline shock.",
+      "zh": "电动车和其他久期偏长的可选消费资产会受益于收益率下行和油价回落，尤其是在消费者不再担心新一轮汽油冲击时。"
+    },
+    "market": {
+      "en": "Broad market tone is cautiously constructive rather than aggressively bullish: S&P and Nasdaq positive, Dow slightly negative, suggesting selective risk appetite.",
+      "zh": "大盘基调是“谨慎建设性”，不是激进看多：标普和纳指为正，道指略负，说明风险偏好是选择性的。"
+    },
+    "preciousMetals": {
+      "en": "Gold stayed relatively steady as the market balanced reduced war panic against lingering geopolitical uncertainty. This is consistent with partial de-risking, not full normalization.",
+      "zh": "黄金整体偏稳：一边是战争恐慌缓解，另一边是地缘不确定性仍在。这更像部分去险，而不是完全恢复常态。"
+    },
+    "oil": {
+      "en": "Oil is still the central cross-asset variable. The direction has improved, but price action remains one hostile headline away from reversing.",
+      "zh": "原油仍是跨资产最关键变量。方向虽然改善了，但价格走势依旧可能因一条负面 headline 快速反转。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "Cash index tone was mixed-to-slightly positive: Dow -0.18%, S&P 500 +0.08%, Nasdaq +0.10% on MarketWatch. The market is expressing relief, but not all-clear optimism.",
+      "zh": "指数层面呈现分化偏强：MarketWatch 显示道指 -0.18%、标普 +0.08%、纳指 +0.10%。市场在交易缓和，但并未宣告“风平浪静”。"
+    },
+    "treasury10Y": {
+      "en": "U.S. 10Y Treasury near 4.244%, down on the day. This is an important support for tech/growth duration.",
+      "zh": "10 年期美债约 4.244%，日内回落。这对科技和成长久期资产是关键支撑。"
+    },
+    "dxy": {
+      "en": "Reuters described the safe-haven dollar as knocked back as ceasefire hopes improved risk sentiment.",
+      "zh": "Reuters 提到随着停火预期升温，避险美元回吐部分涨幅。"
+    },
+    "oil": {
+      "en": "Oil moved off panic highs as traders priced lower immediate Strait of Hormuz disruption risk, though the tape remains headline-sensitive.",
+      "zh": "随着市场下调霍尔木兹海峡短期中断风险，油价从恐慌高位回落，但走势依然高度依赖 headline。"
+    },
+    "keyRisk": {
+      "en": "The key risk is a ceasefire breakdown or renewed threat to energy transit. If that happens, oil, inflation expectations, yields, and equity leadership could all reprice in hours.",
+      "zh": "最大的风险点仍是停火破裂或能源运输再受威胁。一旦发生，油价、通胀预期、利率和市场领涨结构都可能在数小时内重定价。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "This is a real relief move, but not a clean fundamental risk-on day. Falling yields and softer oil support tech and duration, yet the entire setup still depends on whether Middle East de-escalation proves durable.",
+      "zh": "这是一波真实的缓和交易，但还不是干净的基本面 risk-on。利率回落和油价降温支撑科技与长久期资产，但整个格局仍取决于中东降温能否持续。"
+    }
+  }
+}

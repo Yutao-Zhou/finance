@@ -274,7 +274,7 @@ function App() {
 
       <footer className="footer">
         <p>{labels.footer}</p>
-        <p className="copyright">© 2025 Yutao Zhou. All rights reserved.</p>
+        <p className="copyright">© 2026 Yutao Zhou. All rights reserved.</p>
         <p className="disclaimer">Disclaimer: I am not responsible for AI-generated content.</p>
       </footer>
     </div>
