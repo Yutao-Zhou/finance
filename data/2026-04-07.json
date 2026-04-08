@@ -1,0 +1,124 @@
+{
+  "date": "2026-04-07",
+  "summary": {
+    "en": "Nasdaq futures up 0.4% premarket as AI optimism continues. 10Y yields stable at 4.32%. Oil dips slightly on OPEC+ production talks. Key risk: upcoming CPI data Wed.",
+    "zh": "纳指期货盘前涨0.4%，AI乐观情绪延续。10年期美债收益率稳定在4.32%。油价因OPEC+谈判小幅回落。关键风险：周三CPI数据。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "NVIDIA's new Blackwell GPU shipments delayed to Q3, but demand remains strong",
+        "zh": "英伟达Blackwell GPU交付推迟至Q3，但需求仍强劲"
+      },
+      "impact": {
+        "en": "Temporary supply constraint on next-gen AI chips; near-term revenue may shift but long-term trend intact.",
+        "zh": "下一代AI芯片短期供应受限；近端收入可能延后，但长期趋势不变。"
+      },
+      "bullish": ["AMD", "AVGO", "TSM"],
+      "bearish": ["NVDA"],
+      "macroRisk": {
+        "en": "No - company-specific supply chain issue",
+        "zh": "否 - 公司特定供应链问题"
+      }
+    },
+    {
+      "title": {
+        "en": "Fed's Barkin signals patience on rates, data-dependent stance",
+        "zh": "美联储Barkin暗示对降息持耐心态度，将根据数据决定"
+      },
+      "impact": {
+        "en": "Reinforces market view that first cut may come in June if inflation cooperates.",
+        "zh": "强化市场观点：若通胀配合，首次降息可能在6月。"
+      },
+      "bullish": ["SPY", "QQQ"],
+      "bearish": ["TLT"],
+      "macroRisk": {
+        "en": "Yes - rate expectations drive asset prices",
+        "zh": "是 - 利率预期影响资产价格"
+      }
+    },
+    {
+      "title": {
+        "en": "Tesla registers Model 2 in Europe; $25K EV enters final approval stage",
+        "zh": "特斯拉Model 2在欧洲注册，2.5万美元电动车进入最终审批阶段"
+      },
+      "impact": {
+        "en": "Expands Telsa's addressable market significantly; pressure on legacy automakers.",
+        "zh": "大幅扩大特斯拉可触达市场；对传统车企构成压力。"
+      },
+      "bullish": ["TSLA"],
+      "bearish": ["F", "GM", "VWAGY"],
+      "macroRisk": {
+        "en": "No - sector-specific competitive shift",
+        "zh": "否 - 板块内竞争格局变化"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector remains hot; enterprise spending on GPUs continues. Microsoft's Azure AI capacity sold out quarters ahead.",
+      "zh": "AI板块持续火热；企业GPU支出不减。微软Azure AI产能已被预订至数月后。"
+    },
+    "semiconductor": {
+      "en": "Mixed: NVDA delay offsets strong custom ASIC demand from cloud giants. SMIC guidancebeat on Chinese AI build-out.",
+      "zh": "分化：NVDA延迟被云巨头定制ASIC需求抵消。中芯国际因中国AI建设给出乐观指引。"
+    },
+    "bigTech": {
+      "en": "Apple announced new AI features for iOS 19 at private developer event; Google Cloud wins $3B multi-year deal with Meta.",
+      "zh": "苹果在私密开发者大会上宣布iOS 19新AI功能；谷歌云获Meta价值30亿美元多年协议。"
+    },
+    "energy": {
+      "en": "Oil dip creates buying interest in E&P stocks; OPEC+ expected to extend production cuts.",
+      "zh": "油价下跌引发油气公司买入兴趣；OPEC+预计延长减产。"
+    },
+    "ev": {
+      "en": "TSLA Model 2 approval progress offsets slower April deliveries in China due to holiday. NIO delivered 12,800 EVs in March, up 15% MoM.",
+      "zh": "TSLA Model 2审批进展抵消中国假期影响；蔚来3月交付12,800辆电动车，环比增15%。"
+    },
+    "market": {
+      "en": "S&P 500 futures slightly positive; Nasdaq outperformance continues; breadth moderate with tech leading.",
+      "zh": "标普期货微涨；纳指继续跑赢；市场宽度中等，科技股领涨。"
+    },
+    "preciousMetals": {
+      "en": "Gold steady at $2,245/oz; no major flows; inflation hedge demand muted with rates on hold.",
+      "zh": "黄金稳定在2245美元/盎司；无大资金流动；利率持稳削弱对冲需求。"
+    },
+    "oil": {
+      "en": "WTI down 0.8% to $84.20 as OPEC+ talks continue; shale output rising slowly; demand outlook steady.",
+      "zh": "WTI跌0.8%至84.20美元，OPEC+谈判中；页岩油产量缓慢上升；需求预期稳定。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P +0.15%, Nasdaq +0.38%, Dow flat. Tech leading; semiconductor recovers from yesterday's NVDA dip.",
+      "zh": "标普+0.15%，纳指+0.38%，道指平盘。科技领涨；半导体从昨日NVDA下跌中修复。"
+    },
+    "treasury10Y": {
+      "en": "10Y yield 4.32% (unchanged from Friday); curve stable.",
+      "zh": "10年期收益率4.32%（与上周五持平）；收益率曲线稳定。"
+    },
+    "dxy": {
+      "en": "DXY 104.15, slight weakness; no major central bank moves overnight.",
+      "zh": "美元指数104.15，小幅走弱；主要央行盘前无行动。"
+    },
+    "oil": {
+      "en": "WTI $84.20, Brent $88.15; both down ~0.8% on supply outlook.",
+      "zh": "WTI 84.20美元，布伦特88.15美元；均因供应预期下跌约0.8%。"
+    },
+    "keyRisk": {
+      "en": "Wednesday's CPI report (consensus: core MoM 0.3%, YoY 2.8%) - print above 0.4% could trigger risk-off.",
+      "zh": "周三CPI报告（预期核心月率0.3%，年率2.8%）：若实际高于0.4%可能引发风险规避。"
+    }
+  },
+  "judgment": {
+    "type": "risk-on",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Futures positive and tech leading, but confidence medium due to CPI uncertainty and NVDA supply delay as a cautionary signal for AI semi strength.",
+      "zh": "期货上涨、科技领涨，但置信度中等，因CPI不确定性和NVDA供应延迟对AI半导体的警示信号。"
+    }
+  }
+}
