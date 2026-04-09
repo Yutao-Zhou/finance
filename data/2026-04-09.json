@@ -1,0 +1,144 @@
+{
+  "date": "2026-04-09",
+  "summary": {
+    "en": "U.S. equities opened with a cautious, slightly risk-off tone as oil surged and Treasury yields stayed elevated, offsetting some of the relief from the recent U.S.-Iran ceasefire narrative. The S&P 500, Nasdaq, and Dow were all modestly lower, which suggests the market is no longer blindly chasing yesterday's rebound and is instead re-pricing inflation, energy, and headline fragility together.",
+    "zh": "美股今天盘前/早盘基调偏谨慎、略偏 risk-off：油价大涨、长端美债收益率维持高位，抵消了此前美伊停火叙事带来的部分缓和情绪。标普、纳指和道指都小幅回落，说明市场已经不再无脑追昨天的反弹，而是在同时重新定价通胀、能源和 headline 脆弱性。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "U.S. stocks slip as traders digest higher oil and a more fragile ceasefire backdrop",
+        "zh": "油价走高、停火叙事变脆弱，美股整体转为小幅回落"
+      },
+      "url": "https://www.reuters.com/markets/us/",
+      "impact": {
+        "en": "Reuters market data showed the S&P 500 down about 0.24%, the Nasdaq down about 0.35%, and the Dow down about 0.28%. After yesterday's strong relief rally, this kind of pullback reads less like panic and more like the market refusing to extend multiples until it gets cleaner confirmation on geopolitics and inflation.",
+        "zh": "Reuters 市场数据里，标普约跌 0.24%、纳指约跌 0.35%、道指约跌 0.28%。在昨天强劲的缓和式反弹之后，这种回落更像是市场不愿在地缘和通胀尚未明朗前继续扩张估值，而不是全面恐慌。"
+      },
+      "bullish": ["cash", "defensive sectors", "select quality names"],
+      "bearish": ["QQQ", "high-beta growth", "speculative AI"],
+      "macroRisk": {
+        "en": "Yes - this is a macro-led tape where oil, yields, and Middle East headlines are still dominating sector leadership and equity risk appetite.",
+        "zh": "是——当前仍是典型的宏观主导盘面，油价、利率和中东 headline 继续主导板块强弱与风险偏好。"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil jumps sharply again as traders question how durable the ceasefire really is",
+        "zh": "市场重新质疑停火持续性，油价再次明显上冲"
+      },
+      "url": "https://www.marketwatch.com/story/oil-prices-rise-as-concerns-about-fragile-cease-fire-see-goldman-warn-of-115-crude-by-end-of-the-year-0db06f0c?mod=markets",
+      "impact": {
+        "en": "MarketWatch showed oil up roughly 8% on the day, while Reuters energy coverage highlighted that even with a ceasefire, confidence in Gulf energy supply has been scarred and Goldman cut its Q2 2026 crude forecast only after the two-week ceasefire deal. The signal is clear: crude remains the fastest and most dangerous transmission channel from geopolitics into inflation expectations and equity style rotation.",
+        "zh": "MarketWatch 显示油价日内大涨约 8%，而 Reuters 能源版也指出：即便出现停火，市场对海湾能源供应的信心已经受损，Goldman 也只是基于“两周停火”才下调了二季度油价预期。信号很清楚——原油仍然是地缘政治传导到通胀预期和股市风格切换最快、也最危险的通道。"
+      },
+      "bullish": ["XLE", "XOM", "CVX", "OXY"],
+      "bearish": ["JETS", "XLY", "rate-sensitive tech"],
+      "macroRisk": {
+        "en": "Yes - if crude keeps moving toward or above $100, markets may quickly re-price higher inflation, tighter financial conditions, and weaker consumer-sensitive sectors.",
+        "zh": "是——如果原油继续朝 100 美元甚至更高推进，市场会迅速重定价更高通胀、更紧金融条件以及更弱的消费敏感板块。"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury yields stay around 4.29%, keeping pressure on long-duration growth",
+        "zh": "10 年期美债维持在约 4.29%，长久期成长股继续承压"
+      },
+      "url": "https://www.reuters.com/markets/us/",
+      "impact": {
+        "en": "Reuters market data showed the U.S. 10Y Treasury yield near 4.293%. That is not a blowout in rates, but it is high enough that the market needs a clean macro reason to keep bidding up expensive technology and AI leaders. Without that, even modest yield pressure can cap upside in Nasdaq leadership.",
+        "zh": "Reuters 数据显示 10 年期美债收益率约在 4.293%。这虽然不是失控式上冲，但已经足够高，高到市场必须看到更干净的宏观理由，才愿意继续推升高估值科技和 AI 龙头；否则哪怕只是温和的利率压力，也会压住纳指领涨空间。"
+      },
+      "bullish": ["financials with rate support", "value", "energy"],
+      "bearish": ["QQQ", "ARKK-style duration", "small speculative growth"],
+      "macroRisk": {
+        "en": "Yes - rates remain the valuation bridge between oil, inflation expectations, Fed assumptions, and tech multiples.",
+        "zh": "是——利率仍是连接油价、通胀预期、Fed 路径和科技估值的关键桥梁。"
+      }
+    },
+    {
+      "title": {
+        "en": "Tech is no longer getting a free pass as the market rotates away from blind post-ceasefire chasing",
+        "zh": "市场不再无脑追停火后的科技反弹，科技板块开始面对更严格定价"
+      },
+      "url": "https://www.marketwatch.com/markets",
+      "impact": {
+        "en": "With the Nasdaq underperforming the Dow and S&P on the day, the tape suggests investors are getting more selective after yesterday's risk-on squeeze. This typically means AI, semiconductors, and mega-cap tech can still outperform on a stock-specific basis, but the group no longer has a macro tailwind strong enough to lift everything together.",
+        "zh": "纳指今天弱于道指和标普，说明在昨天那波 risk-on 挤仓之后，资金开始变得更挑剔。这通常意味着 AI、半导体和 mega-cap 科技仍可能在个股层面跑赢，但整个板块已经没有强到可以“一起抬升所有名字”的宏观顺风。"
+      },
+      "bullish": ["mega-cap quality", "select semis", "cash-flow rich software"],
+      "bearish": ["unprofitable growth", "second-tier AI momentum names"],
+      "macroRisk": {
+        "en": "Yes - if oil and yields stay elevated together, the market can keep rotating away from expensive duration assets even without a broader index selloff.",
+        "zh": "是——如果油价和利率同时维持高位，市场即使不出现指数级大跌，也可能继续从高估值久期资产中撤出。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI remains investable, but the macro backdrop is no longer generous enough to lift the whole complex. Leaders with real earnings support should hold up better than narrative-heavy names.",
+      "zh": "AI 依然可做，但宏观背景已经没宽松到能把整个板块一起抬起来。真正有盈利支撑的龙头会明显好于纯叙事驱动的名字。"
+    },
+    "semiconductor": {
+      "en": "Semiconductors are still a preferred expression of quality growth, but they become more rate-sensitive when oil and yields rise together. Short-term leadership can narrow fast.",
+      "zh": "半导体仍是优质成长里最受偏爱的表达，但当油价和利率一起上行时，它会重新变得更利率敏感，短线领涨范围可能迅速收窄。"
+    },
+    "bigTech": {
+      "en": "Big Tech still has balance-sheet and cash-flow advantages, so it should outperform lower-quality growth if the market stays cautious. But this looks more like selective defense than a fresh melt-up.",
+      "zh": "大科技依然有资产负债表和现金流优势，所以若市场继续谨慎，它大概率会跑赢低质量成长。但这更像选择性防御，不像新一轮全面逼空上涨。"
+    },
+    "energy": {
+      "en": "Energy is back to being one of the market's most important leadership and hedging groups. If crude stays bid, this is the cleanest relative-strength trade on the board.",
+      "zh": "能源重新成为市场里最关键的领涨和对冲板块之一。如果原油维持强势，它会是当前最干净的相对强度方向。"
+    },
+    "ev": {
+      "en": "EVs and consumer-duration trades are vulnerable because higher oil hurts the inflation narrative while higher yields compress valuation support.",
+      "zh": "电动车和可选消费久期资产偏脆弱，因为更高的油价会伤害通胀叙事，而更高的利率又会压缩估值支撑。"
+    },
+    "market": {
+      "en": "The broad market has shifted from clean relief to cautious digestion. This is a headline-sensitive consolidation tape, not a decisive trend day yet.",
+      "zh": "大盘已经从昨天那种干净的缓和交易，切换到今天的谨慎消化阶段。当前更像对 headline 高敏感的整固盘，而不是明确趋势日。"
+    },
+    "preciousMetals": {
+      "en": "Gold staying firm while equities fade slightly suggests the market is not abandoning hedges. That is consistent with a cautious, macro-aware tone rather than full risk-on confidence.",
+      "zh": "黄金在股市小幅走弱时依然偏稳，说明市场没有放弃对冲。这更符合“谨慎、带宏观戒心”的环境，而不是彻底 risk-on。"
+    },
+    "oil": {
+      "en": "Oil is once again the single most important cross-asset variable. If it calms down, equities can stabilize; if it keeps climbing, pressure spreads quickly across rates and growth multiples.",
+      "zh": "原油再次成为跨资产里最关键的变量。它若稳下来，股市也能稳；它若继续冲，压力会很快传导到利率和成长估值。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "Reuters and MarketWatch both pointed to a softer U.S. equity tape: S&P 500 about -0.24% to -0.14%, Nasdaq about -0.35% to -0.13%, and Dow about -0.30% to -0.28%. The message is mild risk-off, not panic.",
+      "zh": "Reuters 和 MarketWatch 都指向偏弱的美股盘前/早盘：标普约 -0.24% 到 -0.14%，纳指约 -0.35% 到 -0.13%，道指约 -0.30% 到 -0.28%。信号是温和 risk-off，不是恐慌。"
+    },
+    "treasury10Y": {
+      "en": "U.S. 10Y Treasury around 4.293%, elevated enough to keep valuation pressure on long-duration growth.",
+      "zh": "10 年期美债约 4.293%，足以继续对长久期成长估值形成压力。"
+    },
+    "dxy": {
+      "en": "Dollar tone looks steadier rather than collapsing, which fits a market that is reducing risk appetite without moving into full-blown stress.",
+      "zh": "美元更像偏稳而不是明显走弱，说明市场是在降低风险偏好，但还没进入全面应激状态。"
+    },
+    "oil": {
+      "en": "Oil was up roughly 8% on MarketWatch, making energy the biggest macro pressure point of the session.",
+      "zh": "MarketWatch 上油价约涨 8%，能源是今天盘面里最大的宏观压力点。"
+    },
+    "keyRisk": {
+      "en": "The key risk is that a fragile ceasefire plus higher crude pushes inflation expectations and yields up together. That is the combination most likely to hit Nasdaq leadership and broaden the pullback.",
+      "zh": "最大的风险点是：脆弱停火叙事叠加油价继续上行，导致通胀预期和长端利率一起抬升。这是最容易打击纳指领涨结构、并让回调扩散的组合。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Today's market looks more like a cautious digestion day than a new directional break. The setup is no longer clean risk-on: energy is strong, yields are still elevated, and technology leadership is narrowing. Unless oil cools off, the bias stays mixed with a slight risk-off tilt.",
+      "zh": "今天更像谨慎消化日，而不是新一轮方向性突破。当前已经不是干净的 risk-on：能源偏强、利率仍高、科技领涨范围在收窄。只要油价不明显降温，盘面大概率继续维持“分化中略偏 risk-off”的格局。"
+    }
+  }
+}
