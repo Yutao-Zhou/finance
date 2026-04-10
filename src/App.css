@@ -519,3 +519,22 @@ body {
     grid-template-columns: 1fr;
   }
 }
+/* ----- 响应式基础 ----- */
+html {
+  font-size: 16px; /* 基准 */
+}
+@media (max-width: 768px) {
+  html { font-size: 14px; } /* 平板和小屏 */
+}
+@media (max-width: 480px) {
+  html { font-size: 12px; } /* 手机 */
+}
+
+/* 确保根容器能够撑满且不产生水平滚动 */
+#root {
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
