@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://Yutao-Zhou.github.io/finance/sitemap.xml
