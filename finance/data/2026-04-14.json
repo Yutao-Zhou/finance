@@ -1,0 +1,140 @@
+{
+  "date": "2026-04-14",
+  "summary": {
+    "en": "Markets are rallying despite Middle East escalation: U.S.-Iran negotiations collapsed, Trump announced a Strait of Hormuz blockade, and oil briefly surged above $100 before pulling back. Despite the geopolitical shock, equities are up broadly—driven by the fact that 10Y Treasury yields have rolled over from their March peak, keeping valuation pressure contained.",
+    "zh": "地缘政治升级但市场继续反弹：美伊谈判破裂，特朗普宣布封锁霍尔木兹海峡，油价一度突破 100 美元后回落。尽管地缘政治冲击，美股仍普遍上涨——关键原因是 10 年期美债收益率已从 3 月高点回落，估值压力得到缓解。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "U.S.-Iran talks fail; Trump announces blockade of Strait of Hormuz",
+        "zh": "美伊谈判破裂，特朗普宣布封锁霍尔木兹海峡"
+      },
+      "impact": {
+        "en": "CNBC and MarketWatch reported that negotiations collapsed, and the U.S. has moved to blockade Iranian ports. This is directly driving oil volatility—Brent briefly touched above $100, then pulled back as some tankers turned away from the blockade zone. This is a key test of whether markets can decouple from energy shocks, as we've seen in recent weeks.",
+        "zh": "CNBC 和 MarketWatch 报道称谈判破裂，美国已封锁伊朗港口。这直接引发油价波动——布伦特原油一度触及 100 美元以上，随后部分油轮避开封锁区，油价回落。这是测试市场能否像近几周那样与能源冲击脱钩的关键时刻。"
+      },
+      "bullish": ["XOM", "CVX", "COP", "MRO", "FANG+"],
+      "bearish": ["AAL", "UAL", "LUV", "JBLU", "high-beta discretionary"],
+      "macroRisk": {
+        "en": "Yes—if the Strait of Hormuz blockade persists and global oil flows are disrupted for an extended period, oil can re-accelerate, pushing inflation expectations higher and Treasury yields along with them. This would compress equity valuations, especially for long-duration growth.",
+        "zh": "是——如果霍尔木兹海峡封锁持续且全球石油运输长时间受阻，油价可能再次加速上涨，推高通胀预期和国债收益率。这会压缩股票估值，尤其对长久期成长股。"
+      }
+    },
+    {
+      "title": {
+        "en": "Markets rally on rate optimism: 10Y Treasury yield rolls over from March peak",
+        "zh": "市场对利率乐观推动反弹：10 年期美债收益率从 3 月高点回落"
+      },
+      "impact": {
+        "en": "CNBC's Jim Cramer highlights that the 10Y Treasury yield peaked on March 27 and has since eased, which is the primary reason equities are shrugging off geopolitical shocks. The S&P 500 is within 1.5% of its January record close, despite Middle East tensions. As long as rates don't spike, investors continue paying higher valuations for stocks.",
+        "zh": "CNBC 的 Jim Cramer 指出，10 年期美债收益率在 3 月 27 日见顶后回落，这是美股能无视地缘冲击的关键。标普 500 距离 1 月收盘纪录仅 1.5%，尽管中东紧张。只要利率不上升，投资者就继续给股票更高估值。"
+      },
+      "bullish": ["QQQ", "TSLA", "NVDA", "MSFT", "GOOGL", "AAPL"],
+      "bearish": ["TLT", "IEF", "long-duration growth if yields reverse"],
+      "macroRisk": {
+        "en": "Partly—the market's calm hinges on yields staying contained. If oil spikes and inflation resurfaces, Treasury yields could re-test their March highs, forcing a valuation reset. Current positioning assumes the Fed will 'asterisk' energy-driven inflation as temporary.",
+        "zh": "部分算——市场平静的前提是收益率保持低位。如果油价飙升、通胀重现，美债收益率可能再次测试 3 月高点，迫使估值重置。当前押注美联储会将能源驱动的通胀视为暂时性因素而用'星号'标注。"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil surges then retreats: Brent briefly above $100, now below as ships turn back",
+        "zh": "油價衝高回落：布倫特一度超 100 美元，部分油輪轉向後回落"
+      },
+      "impact": {
+        "en": "Reuters and MarketWatch data showed Brent crude touching above $100/barrel in the initial shock, then pulling back to around $98 as two ships turned back from the U.S.-enforced blockade zone. Oil is now trading lower on futures (-2.21%), but the underlying geopolitical risk remains. This volatility is the key transmission channel from Middle East to inflation to Treasury yields to equity multiples.",
+        "zh": "Reuters 和 MarketWatch 数据显示，布伦特原油在冲击初期一度触及 100 美元/桶以上，随后部分油轮避开美国封锁区，油价回落至约 98 美元。目前原油期货下跌 (-2.21%)，但地缘风险仍存。这种波动是从中东传导至通胀、美债收益率和股票估值的关键通道。"
+      },
+      "bullish": ["XLE", "OIH", "SLB", "HAL", "DVN", "FANG+"],
+      "bearish": ["XAL", "XLU", "KLM", "DAL", "UAA", "UHAL"],
+      "macroRisk": {
+        "en": "Yes—oil is the market's master variable today. If it re-accelerates, inflation and rate expectations will quickly reprice. If it cools further, equities can continue rallying on duration support.",
+        "zh": "是——油是今天的市场总开关。如果再度飙升，通胀和利率预期会迅速重定价。如果继续降温，股票可在久期支撑下继续反弹。"
+      }
+    },
+    {
+      "title": {
+        "en": "Software and big tech lead rebound: Salesforce, Microsoft among top gainers",
+        "zh": "软件和大型科技股领涨反弹：Salesforce、Microsoft 位列涨幅榜"
+      },
+      "impact": {
+        "en": "CNBC reported that beaten-up software names like Salesforce (CRM) and Microsoft (MSFT) were among Monday's best performers, as the market shows it's still focused on valuation and rate dynamics more than headlines. The Nasdaq (+1.23%) outperformed the Dow (+0.63%), indicating risk-on flows into duration assets.",
+        "zh": "CNBC 报道，此前受压的软件股如 Salesforce（CRM）和 Microsoft（MSFT）成为周一最佳表现者之一，显示市场仍更关注估值和利率动态而非头条新闻。纳指（+1.23%）跑大道指（+0.63%），显示风险偏好流向久期资产。"
+      },
+      "bullish": ["CRM", "MSFT", "ADBE", "NOW", "DDOG", "SNOW"],
+      "bearish": ["ZM", "WORK", "TEAM", "low-quality SaaS"],
+      "macroRisk": {
+        "en": "Partly—this is a rotation within tech, but if rates spike again, the entire growth complex could compress. The divergence shows selective appetite rather than broad risk-on.",
+        "zh": "部分算——这是科技内部轮动，但如果利率再次飙升，整个成长板块都会承压。这种分化显示的是选择性 appetite 而非全面 risk-on。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI continues to drive selective growth trades. The market is still rewarding names with credible monetization paths, not just narratives. Software volatility remains tied to rate sensitivity more than AI-specific catalysts.",
+      "zh": "AI 继续推动选择性成长交易。市场仍奖励有可信变现路径的公司，而非仅靠叙事。软件波动仍更关联利率敏感度而非 AI 专属催化剂。"
+    },
+    "semiconductor": {
+      "en": "Semis are showing resilience but remain sensitive to valuation re-pricing if yields reverse. NVIDIA and memory names are in focus as the market digests earnings season. Goldman Sachs is bullish on Rule of 10 stocks like NVDA.",
+      "zh": "半导体显示韧性，但若收益率逆转仍对估值重定价敏感。英伟达和存储芯片股受关注，市场消化财报季。高盛看好 NVDA 等 Rule of 10 股票。"
+    },
+    "bigTech": {
+      "en": "Big Tech is the market's duration anchor today. Nasdaq's outperformance shows capital flowing into quality growth names that benefit from lower rates, even as geopolitical noise persists. MSFT, GOOGL, AAPL leading.",
+      "zh": "大科技是今天的久期锚。纳指跑赢显示资金流向受益于低利率的高质量成长股，尽管地缘噪音持续。MSFT、GOOGL、AAPL 领涨。"
+    },
+    "energy": {
+      "en": "Energy is the direct geopolitical beneficiary today, but the sector is lagging in today's session as oil pulled back from peak levels. If oil re-accelerates, energy will rotate back in. XLE, XOM, CVX watch.",
+      "zh": "能源是今天的地缘直接受益方向，但油价从高点回落导致该板块今日滞后。如果油价再度加速，能源将重新旋转。关注 XLE、XOM、CVX。"
+    },
+    "ev": {
+      "en": "EVs remain tactically challenged—high gasoline prices from oil shocks help long-term demand but hurt short-term sentiment and discretionary spending. The sector is caught between macro headwinds.",
+      "zh": "电动车仍面临战术性挑战：高油价长期利好需求但短期打击情绪和可选支出。板块卡在宏观逆风中。"
+    },
+    "market": {
+      "en": "The tape is mixed but skewed risk-on: Nasdaq +1.23%, S&P +1.02%, Dow +0.63%. This is not a clean breakout—it's selective risk-on with big tech and quality growth outperforming, while cyclicals lag. The key test is whether this holds if oil re-surges.",
+      "zh": "分化但偏向风险偏好：纳指 +1.23%，标普 +1.02%，道指 +0.63%。这不是干净突破——是选择性 risk-on，大科技和高质量成长跑赢，周期股滞后。关键测试是如果油价再涨能否维持。"
+    },
+    "preciousMetals": {
+      "en": "Gold is elevated as a geopolitical and inflation hedge, but upside is capped by the fact that real yields are still contained. If oil spikes and Treasury yields move higher, gold will get squeezed from both sides.",
+      "zh": "黄金因地缘和通胀对冲而维持高位，但因实际收益率仍受控而上涨受限。如果油价飙升且美债收益率上行，黄金会两边承压。"
+    },
+    "oil": {
+      "en": "Oil is the market's key swing variable today. Brent briefly touched above $100, now around $98 after ships turned back. The Strait of Hormuz situation is the single biggest risk—if it persists, oil could re-accelerate to $110+, pushing inflation and yields higher.",
+      "zh": "油是今天的关键摇摆变量。布伦特一度突破 100，因油轮转向回落至约 98。霍尔木兹局势是最大风险点——如果持续，油价可能再度加速至 110+，推高通胀和收益率。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "U.S. futures are mixed but skewed positive: S&P 500 futures +0.07%, Dow +0.03%, Nasdaq likely positive given the session's strength. The tape showed risk-on flows into tech duration despite Iran war headlines.",
+      "zh": "美股期货分化但偏正：标普期货 +0.07%，道指 +0.03%，纳指可能因昨日强势也为正。尽管伊朗战争 headline，资金流向科技久期资产。"
+    },
+    "treasury10Y": {
+      "en": "10Y Treasury at 4.290% (-0.003). Yields have rolled over from their March 27 peak (~4.50%), which is the key reason equities can rally despite Middle East shocks. Watch for any reversal if oil re-accelerates.",
+      "zh": "10 年期美债 4.290% (-0.003)。收益率从 3 月 27 日高点（约 4.50%）回落，这是美股能在中东冲击下反弹的关键。关注油价再度加速导致的收益率反转。"
+    },
+    "dxy": {
+      "en": "Dollar is strengthened by Iran conflict避险 demand, though the exact DXY level is not as critical as the fact that yields are contained. A stronger dollar can compress multinationals' earnings.",
+      "zh": "美元因伊朗冲突避险需求走强，但 DXY 具体水平不如收益率受控这一事实关键。美元走强可能压缩跨国企业 earnings。"
+    },
+    "oil": {
+      "en": "Brent crude at ~$98/barrel, down from peak above $100 as ships turned back from the Strait of Hormuz blockade. Futures show -2.21% on the day. This volatility is the key transmission channel to inflation and equity valuations.",
+      "zh": "布伦特原油约 98 美元/桶，从霍尔木兹封锁冲击下的 100+ 回落。期货显示当日下跌 2.21%。这种波动是传导至通胀和股票估值的关键通道。"
+    },
+    "keyRisk": {
+      "en": "The key risk is oil re-accelerating from geopolitical escalations (Strait of Hormuz blockade, regional spillover). If Brent touches $110+, inflation expectations, Treasury yields, and equity valuations would all reprice quickly. The market's current stance assumes this risk is temporary.",
+      "zh": "关键风险是地缘升级（霍尔木兹海峡封锁、区域扩散）导致油价再度加速。如果布伦特触及 110+，通胀预期、美债收益率和股票估值都会快速重定价。市场当前立场是假设这一风险是暂时性。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Today's tape is a test case: markets are pricing in the assumption that oil shocks are temporary and yields will remain contained, allowing tech duration to stay in favor. This works as long as oil doesn't re-accelerate. The divergence between big tech's strength and energy's lag, plus software outperformance, shows selective risk-on rather than broad risk-on. If oil spikes again, the entire thesis flips. The market is not in clean risk-on—it's in a 'rates-are-key' mode with event-driven volatility.",
+      "zh": "今天是测试行情：市场假设油价冲击是暂时性且收益率受控，让科技久期仍占优。只要油价不再加速，这个逻辑就成立。大科技强、能源弱、软件跑赢的分化显示的是选择性 risk-on 而非全面 risk-on。如果油价再涨，整个逻辑会翻转。市场并非 cleanly risk-on，而是'利率是关键'模式下的事件驱动波动。"
+    }
+  }
+}
