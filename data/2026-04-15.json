@@ -1,0 +1,158 @@
+{
+  "date": "2026-04-15",
+  "summary": {
+    "en": "Markets open with a constructive but cautious tone after Tuesday's relief rally. Oil has cooled from the Hormuz scare, helping Treasury yields stabilize and supporting growth assets, but the tape is still highly headline-sensitive. The setup favors quality tech, semis, and selective duration if energy stays contained, while traders remain alert to renewed geopolitical or inflation shocks.",
+    "zh": "美股周三开盘前整体情绪偏建设性，但仍然谨慎。此前因霍尔木兹风险引发的油价冲击有所缓和，带动美债收益率趋稳，并继续支持成长资产表现。不过，市场依然高度受新闻标题驱动。如果能源价格继续受控，优质科技、半导体和部分久期资产仍占优，但交易者仍需警惕地缘政治或通胀风险再次升温。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Oil Pullback Extends as Markets Price Lower Immediate Hormuz Risk",
+        "zh": "市场下调霍尔木兹海峡短期风险定价，油价回落延续"
+      },
+      "url": "",
+      "impact": {
+        "en": "A softer oil tape reduces near-term inflation anxiety and eases pressure on rates-sensitive equities. The move supports tech and duration, but the risk premium has not disappeared, so any escalation headline can still reverse sentiment quickly.",
+        "zh": "油价走弱缓解了短期通胀焦虑，也减轻了利率敏感型股票的压力。这对科技股和久期资产有利，但地缘风险溢价并未完全消失，因此任何升级消息仍可能迅速扭转市场情绪。"
+      },
+      "bullish": ["QQQ", "XLK", "TLT"],
+      "bearish": ["XLE"],
+      "macroRisk": {
+        "en": "Yes. Energy remains the main macro swing factor for inflation expectations and cross-asset sentiment.",
+        "zh": "是。能源仍然是影响通胀预期和跨资产风险偏好的核心宏观变量。"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury Yields Stay Softer, Supporting Growth and Long-Duration Assets",
+        "zh": "美债收益率维持偏弱，继续支撑成长股和长久期资产"
+      },
+      "url": "",
+      "impact": {
+        "en": "Lower yields keep the valuation backdrop favorable for software, AI, and large-cap growth. If yields remain contained, leadership can stay with tech, but a sharp energy rebound would challenge that setup.",
+        "zh": "收益率回落使软件、AI 和大型成长股的估值环境继续受益。如果收益率维持温和，科技板块领导地位仍可延续，但若能源价格突然反弹，这一结构将受到挑战。"
+      },
+      "bullish": ["QQQ", "ARKK", "MSFT"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Yes. The 10-year yield remains one of the clearest real-time indicators for equity style rotation.",
+        "zh": "是。10 年期美债收益率仍是判断美股风格切换最直接的实时指标之一。"
+      }
+    },
+    {
+      "title": {
+        "en": "Cybersecurity Stays in Focus After High-Profile AI Security Warnings",
+        "zh": "高层对 AI 安全发出警告后，网络安全板块继续受关注"
+      },
+      "url": "",
+      "impact": {
+        "en": "Security concerns around advanced AI systems continue to push investor attention toward cybersecurity vendors and trusted enterprise infrastructure. The theme creates relative winners inside tech rather than a simple sector-wide bearish signal.",
+        "zh": "围绕先进 AI 系统的安全担忧，继续把投资者注意力推向网络安全厂商和更可信的企业级基础设施。这更像是科技板块内部的分化逻辑，而不是整个板块的单边利空。"
+      },
+      "bullish": ["CRWD", "PANW", "ZS"],
+      "bearish": ["META", "GOOGL"],
+      "macroRisk": {
+        "en": "No. This is mainly a sector allocation story, though it can influence leadership inside big tech.",
+        "zh": "否。这主要是板块内部配置逻辑，但会影响大型科技股内部的强弱分化。"
+      }
+    },
+    {
+      "title": {
+        "en": "China Growth Concerns Linger Despite Better Risk Sentiment",
+        "zh": "尽管风险情绪改善，中国增长担忧仍未消散"
+      },
+      "url": "",
+      "impact": {
+        "en": "Global markets may feel better about geopolitics, but softer China-linked data still caps enthusiasm for cyclicals and discretionary demand stories. This keeps the rally more sentiment-driven than macro-clean.",
+        "zh": "全球市场虽然对地缘局势更乐观，但与中国相关的偏弱数据仍限制了周期股和可选消费逻辑的弹性。这意味着当前反弹更像情绪修复，而非宏观基本面全面转强。"
+      },
+      "bullish": ["XLV"],
+      "bearish": ["XLY", "FXI"],
+      "macroRisk": {
+        "en": "No. It is more of a growth-discipline signal than an immediate systemic threat.",
+        "zh": "否。这更像是对增长预期的约束，而不是即时性的系统性风险。"
+      }
+    },
+    {
+      "title": {
+        "en": "Broad Market Still Trading a Relief Bounce, Not a Full All-Clear",
+        "zh": "大盘目前仍处于缓和预期驱动的反弹，而非全面无忧状态"
+      },
+      "url": "",
+      "impact": {
+        "en": "The market tone remains constructive, but conviction is limited because it depends heavily on the absence of new shocks. Traders can stay pro-risk tactically, yet should keep stops tighter than usual.",
+        "zh": "市场整体基调仍偏积极，但由于这一走势高度依赖没有新的负面冲击，资金的确定性并不高。短线可以保持偏风险资产的交易思路，但止损应比平时更紧。"
+      },
+      "bullish": ["SPY", "QQQ"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Yes. The key risk is that relief positioning can unwind quickly if macro headlines deteriorate.",
+        "zh": "是。核心风险在于，一旦宏观消息恶化，基于缓和预期建立的仓位可能会迅速回吐。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI remains strategically strong, but the market is becoming more selective and increasingly rewards security, governance, and enterprise-grade deployment quality.",
+      "zh": "AI 长期逻辑依旧稳固，但市场正变得更挑剔，更偏好安全性、治理能力和企业级落地质量更高的公司。"
+    },
+    "semiconductor": {
+      "en": "Semis benefit from calmer yields and intact AI capex expectations. The group still looks constructive as long as macro stress does not re-accelerate.",
+      "zh": "半导体板块受益于收益率回落和 AI 资本开支预期维持。只要宏观压力不再次升温，板块整体仍偏积极。"
+    },
+    "bigTech": {
+      "en": "Big Tech keeps leadership, but internal differentiation is rising. Security credibility and balance-sheet quality matter more in this tape.",
+      "zh": "大型科技股仍维持领导地位，但内部强弱分化正在加大。在当前市场环境中，安全可信度和资产负债表质量变得更重要。"
+    },
+    "energy": {
+      "en": "Energy cools as crude retreats, though the group still has support from unresolved supply uncertainty. Expect more volatility than trend certainty.",
+      "zh": "随着原油回落，能源板块热度有所降温，但未解决的供应不确定性仍提供支撑。这个板块接下来更可能体现高波动，而不是单边趋势。"
+    },
+    "ev": {
+      "en": "EV sentiment is mixed, with lower oil offering only limited support. Broader growth concerns and China demand still matter more than crude moves.",
+      "zh": "电动车板块情绪偏中性，油价回落带来的帮助有限。相比原油波动，增长担忧和中国需求仍是更关键的变量。"
+    },
+    "market": {
+      "en": "The broad market is in rebound mode, but this still looks like a fragile relief setup rather than a fully repaired macro trend.",
+      "zh": "大盘目前处于反弹模式，但更像脆弱的情绪修复，而不是宏观趋势已经完全恢复。"
+    },
+    "preciousMetals": {
+      "en": "Gold is still supported by residual geopolitical risk, but softer oil and steadier rates reduce the urgency of chasing defensives.",
+      "zh": "黄金仍受到残余地缘风险支撑，但油价走弱和利率趋稳降低了追逐防御资产的迫切性。"
+    },
+    "oil": {
+      "en": "Oil is off the highs, but the market is still carrying a geopolitical premium. Traders should expect fast reactions to shipping or diplomacy headlines.",
+      "zh": "油价已从高位回落，但市场仍保留一定地缘溢价。交易者应预期对航运或外交相关新闻的反应会非常迅速。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "U.S. equity futures lean modestly higher, with growth still showing relative leadership into the open.",
+      "zh": "美股期货盘前小幅偏强，成长风格在开盘前仍显示出相对领先。"
+    },
+    "treasury10Y": {
+      "en": "The 10-year yield remains a key monitor. If it stays calm, the current growth-friendly setup can continue.",
+      "zh": "10 年期美债收益率仍是关键观察指标。如果它保持稳定，当前偏利多成长股的结构就有望延续。"
+    },
+    "dxy": {
+      "en": "The dollar is relatively stable. A softer dollar would add support for risk assets, but safe-haven demand has not fully gone away.",
+      "zh": "美元整体相对稳定。若美元进一步走弱，将对风险资产形成额外支撑，但避险需求并未完全消失。"
+    },
+    "oil": {
+      "en": "Oil remains the fastest macro transmission channel into rates, inflation expectations, and market mood.",
+      "zh": "原油仍是影响利率、通胀预期和市场情绪最快的宏观传导变量。"
+    },
+    "keyRisk": {
+      "en": "Main risk: a fresh geopolitical escalation pushes oil and yields higher again. Secondary risk: the relief rally fades as investors refocus on growth softness and headline volatility.",
+      "zh": "主要风险是新的地缘升级再次推高油价和收益率。次要风险是投资者重新关注增长偏弱和消息面波动，导致这轮缓和反弹逐渐降温。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": "medium",
+    "note": {
+      "en": "This still looks like a tradable relief market, not a fully healed macro environment. Staying constructive makes sense, but only with respect for headline risk and fast reversals.",
+      "zh": "当前更像是一个可交易的缓和型反弹市场，而不是宏观环境已经完全修复。在保持偏积极判断的同时，仍必须尊重消息面风险和快速反转的可能性。"
+    }
+  }
+}
