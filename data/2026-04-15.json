@@ -1,0 +1,185 @@
+{
+  "date": "2026-04-15",
+  "summary": {
+    "en": "US stocks trade near record highs as Middle East peace hopes briefly lift sentiment before oil price volatility returns focus. Key risks: Hormuz blockade impact, inflation data implications, and Middle East escalation concerns.",
+    "zh": "美股在记录高位附近交易，中东和平希望短暂提振情绪后，油价波动再次聚焦市场。关键风险：霍尔木兹海峡封锁影响、通胀数据含义及中东局势升级担忧。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "U.S. says Hormuz blockade 'fully implemented' amid Iran ceasefire talks deadline",
+        "zh": "美国宣布霍尔木兹海峡封锁'全面生效'，伊朗停火谈判 deadline 临近"
+      },
+      "impact": {
+        "en": "Critical energy risk: If oil prices spike above $100/barrel, inflation expectations could reignite, forcing Fed to hold rates longer. Energy stocks rally but broad market faces downside risk if supply chain disruptions escalate.",
+        "zh": "关键能源风险：若油价突破 100 美元/桶，通胀预期可能重燃，迫使美联储维持利率更久。能源股上涨但大盘面临下行风险，若供应链中断升级。"
+      },
+      "bullish": ["XOM", "CVX", "COP"],
+      "bearish": ["SPX", "QQQ", "XLE-ETN"],
+      "macroRisk": {
+        "en": "HIGH - Strait of Hormuz closure could spike oil to $120+, triggering stagflation fears and equity sell-off.",
+        "zh": "高 - 霍尔木兹海峡关闭可能使油价飙升至 120 美元以上，引发滞胀恐慌并导致股市抛售。"
+      }
+    },
+    {
+      "title": {
+        "en": "S&P 500 ticks higher at 6,986.91, within striking distance of all-time high",
+        "zh": "标普 500 小幅上涨至 6986.91，距历史新高近在咫尺"
+      },
+      "impact": {
+        "en": "Momentum remains intact but fragility evident. Market relies on AI/tech earnings expectations and rate hold expectations. Any Middle East escalation could reverse rally quickly.",
+        "zh": "势头完好但脆弱性明显。市场依赖 AI/科技财报预期和利率维持预期。任何中东局势升级都可能快速逆转反弹。"
+      },
+      "bullish": ["MSFT", "AAPL", "NVDA", "AVGO"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "MEDIUM - DXY strength at 1.3559 creates headwinds for multinationals. Treasury yield stability at 4.27% provides floor.",
+        "zh": "中 - 美元指数 1.3559 对跨国企业构成逆风。美债收益率 4.27% 提供支撑。"
+      }
+    },
+    {
+      "title": {
+        "en": "Asia markets mostly higher amid hopes for U.S.-Iran peace deal",
+        "zh": "亚洲市场主要上涨，对美伊和平协议抱有希望"
+      },
+      "impact": {
+        "en": "Global risk sentiment remains sensitive to diplomacy. EU luxury stocks underperform on Iran war earnings impact. Commodities mixed - gold holds, oil volatile.",
+        "zh": "全球风险情绪对外交敏感。欧洲奢侈品股因伊朗战争业绩影响表现不佳。商品混杂-黄金持稳，油价波动。"
+      },
+      "bullish": ["GLD", "GDX"],
+      "bearish": ["LVMH", "HERM"],
+      "macroRisk": {
+        "en": "LOW-MEDIUM - Peace resolution de-escalates, but ceasefire breach could be sudden.",
+        "zh": "低中 - 和平解决缓解局势，但停火破裂可能突然。"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury yields steady at 4.27% as Fed hold expectations priced in",
+        "zh": "美债收益率稳定在 4.27%，美联储维持预期已定价"
+      },
+      "impact": {
+        "en": "Yield stability supports equity valuations. Bessent comments on 'OK to wait on rate cuts' align with market. Real yields elevated but no spike yet.",
+        "zh": "收益率稳定支持股权估值。Bessent 关于'可以等待降息'的言论与市场一致。实际收益率较高但尚未飙升。"
+      },
+      "bullish": ["TLT", "BND"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "LOW - Yield floor prevents deep bear market but limits rally space.",
+        "zh": "低 - 收益率地板防止深度熊市但限制反弹空间。"
+      }
+    },
+    {
+      "title": {
+        "en": "Gold climbs to 4,818.40 as safe-haven demand persists",
+        "zh": "黄金升至 4818.40，避险需求持续"
+      },
+      "impact": {
+        "en": "Real yields elevated but geopolitical premiums keep gold bid. DXY weakness would further support precious metals. Central bank buying continues.",
+        "zh": "实际收益率较高但地缘溢价维持金价。美元指数走弱将进一步支持贵金属。央行购买持续。"
+      },
+      "bullish": ["GLD", "NEM", "AAAU"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "MEDIUM - Gold as hedge but opportunity cost rises if rates remain sticky.",
+        "zh": "中 - 黄金作为对冲但机会成本在利率粘性时上升。"
+      }
+    },
+    {
+      "title": {
+        "en": "AI and semiconductor stocks lead rally as earnings expectations build",
+        "zh": "AI 和半导体股票领涨，财报预期积累"
+      },
+      "impact": {
+        "en": "Tech mega-caps anchor market. Nvidia partnerships and chip demand remain strong. AI infrastructure capex spending continues despite macro headwinds.",
+        "zh": "科技巨头锚定市场。英伟达合作伙伴关系和芯片需求保持强劲。AI 基础设施资本支出持续，尽管宏观逆风。"
+      },
+      "bullish": ["NVDA", "AMD", "AVGO", "INTC"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "LOW-MEDIUM - Tech earnings can offset macro worries but valuations remain stretched.",
+        "zh": "低中 - 科技财报可抵消宏观担忧但估值仍显扩张。"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil price eases slightly as peace hopes temporarily outweigh supply concerns",
+        "zh": "油价小幅回落，和平希望暂时压倒供应担忧"
+      },
+      "impact": {
+        "en": "Brent at 94.77 (+0.02%). Any actual supply disruption at Hormuz would spike oil quickly. Energy sector benefits but broader market faces volatility risk.",
+        "zh": "布伦特原油 94.77(+0.02%)。任何霍尔木兹实际供应中断都会快速推升油价。能源板块受益但大盘面临波动风险。"
+      },
+      "bullish": ["XOM", "CVX", "OXY"],
+      "bearish": ["XLE"],
+      "macroRisk": {
+        "en": "MEDIUM-HIGH - Oil prices drive inflation and Fed policy. Stable oil supports risk assets but spike would be devastating.",
+        "zh": "中高 - 油价驱动通胀和美联储政策。稳定油价支持风险资产但飙升将致命。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector remains the primary rally driver. Chip demand, infrastructure capex, and earnings expectations keep momentum. Partnerships and custom AI chips (e.g., Meta-Broadcom) boost valuations. Watch for any demand slowdown signals.",
+      "zh": "AI 板块仍是主要反弹驱动力。芯片需求、基础设施资本支出和财报预期维持势头。合作伙伴关系和定制 AI 芯片（如 Meta-Broadcom）提升估值。关注需求放缓信号。"
+    },
+    "semiconductor": {
+      "en": "Semiconductor stocks lead tech rally. AI chip demand remains robust despite cyclical concerns. Memory, analog, and GPU sectors all benefit from AI infrastructure buildout. Watch for China tariff impact on exports.",
+      "zh": "半导体股票领涨科技。AI 芯片需求保持强劲，尽管有周期性担忧。内存、模拟和 GPU 板块均受益于 AI 基础设施建设。关注对华关税对出口影响。"
+    },
+    "bigTech": {
+      "en": "Mega-cap tech anchors market. AI monetization progress and cloud demand provide upside. However, valuations stretched relative to broader market. Expect some earnings-driven divergence ahead of quarterly reports.",
+      "zh": "大盘科技锚定市场。AI 货币化进展和云需求提供上行空间。但估值相对大盘扩张。预期季度财报前出现收益驱动的分散。"
+    },
+    "energy": {
+      "en": "Energy sector benefits from Middle East premium but faces volatility risk. Brent at 94.77, stable but elevated. Any supply disruption at Hormuz would trigger oil spike. Banks and utilities with energy exposure watch closely.",
+      "zh": "能源板块受益于中东溢价但面临波动风险。布伦特 94.77，稳定但偏高。任何霍尔木兹供应中断都会触发油价飙升。关注具有能源敞口的银行和公用事业。"
+    },
+    "ev": {
+      "en": "EV sector mixed as high rates dampen consumer demand. Battery cost reductions and charging infrastructure progress provide long-term upside. Geopolitical tensions with China impact supply chain. Watch for policy tailwinds in U.S./EU.",
+      "zh": "EV 板块混杂，高利率抑制消费需求。电池成本削减和充电基础设施进展提供长期上行空间。与中国地缘政治紧张影响供应链。关注美国/欧洲政策顺风。"
+    },
+    "market": {
+      "en": "Broad market near record highs but shows fragility. Market breadth mixed as energy outperforms and defensive sectors hold. Tech rally leads but any macro scare (oil spike, geopolitical escalation) could reverse quickly. VIX remains elevated.",
+      "zh": "大盘接近记录高位但显示脆弱性。市场广度混杂，能源优于防御板块持稳。科技反弹领先但任何宏观惊吓（油价飙升、地缘升级）都可能快速逆转。VIX 保持较高水平。"
+    },
+    "preciousMetals": {
+      "en": "Gold at 4,818.40, silver lagging. Real yields elevated but geopolitical premiums keep metals bid. Central bank purchases and ETF inflows support prices. Any DXY weakness would further boost precious metals.",
+      "zh": "黄金 4818.40，白银滞后。实际收益率较高但地缘溢价维持金属买单。央行购买和 ETF 流入支持价格。任何美元走弱将进一步提振贵金属。"
+    },
+    "oil": {
+      "en": "Crude oil stable at ~$94.77/barrel with 0.02% gain. Hormuz blockade news adds volatility premium. Peace talks hope provides temporary relief. Watch for OPEC+ supply discipline and actual geopolitical supply disruptions.",
+      "zh": "原油稳定在约 94.77 美元/桶，上涨 0.02%。霍尔木兹封锁新闻增加波动溢价。和平谈判希望提供暂时缓解。关注 OPEC+ 供应纪律和实际地缘供应中断。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 futures flat to +0.28%, Dow futures -0.18%, Nasdaq +0.39%. Mixed signals: peace hopes lift but oil risk weighs.",
+      "zh": "标普 500 期货平盘至 +0.28%，道指期货 -0.18%，纳斯达克 +0.39%。信号混杂：和平希望提振但油价风险拖累。"
+    },
+    "treasury10Y": {
+      "en": "10Y Treasury yield at 4.27%, up 0.014%. Fed hold expectations priced in but inflation/oil risks could push yields higher.",
+      "zh": "10 年期美债收益率 4.27%，上涨 0.014%。美联储维持预期已定价但通胀/油价风险可能推高收益率。"
+    },
+    "dxy": {
+      "en": "DXY at 1.3559 (+0.07%). Dollar strong on Iran talks breakdown but may soften if peace deal emerges.",
+      "zh": "DXY 1.3559(+0.07%)。美元因伊朗谈判破裂而强劲，但和平协议出现可能软化。"
+    },
+    "oil": {
+      "en": "Brent crude 94.77 (+0.02%), WTI likely similar. Watch for actual supply disruptions vs. blockade headlines.",
+      "zh": "布伦特原油 94.77(+0.02%)，WTI 类似。关注实际供应中断与封锁头条的区别。"
+    },
+    "keyRisk": {
+      "en": "Hormuz blockade implementation deadline: actual oil supply disruption could spike prices and ignite stagflation fears. Secondary: inflation data, Fed policy, and China trade tensions.",
+      "zh": "霍尔木兹封锁生效 deadline：实际石油供应中断可能推高价格并点燃滞胀恐慌。次要：通胀数据、美联储政策和中美贸易紧张。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": "medium",
+    "note": {
+      "en": "Market caught between AI rally momentum and Middle East risk premium. Tech leads but broader index shows fragility. Peace deal hopes are fragile; oil risk could reverse sentiment quickly.",
+      "zh": "市场夹在 AI 反弹势头和中东风险溢价之间。科技领涨但大盘指数显示脆弱性。和平协议希望脆弱；油价风险可能快速逆转情绪。"
+    }
+  }
+}
