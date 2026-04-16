@@ -1,0 +1,99 @@
+{
+  "date": "2026-04-16",
+  "summary": {
+    "en": "Markets opened steady with AI and semiconductor stocks leading gains as tech sector continues to show resilience amid mixed macro signals.",
+    "zh": "市场开盘平稳，AI 和半导体股领涨，科技板块在宏观信号混杂中继续展现韧性。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Major AI chip stocks rally on strong demand outlook",
+        "zh": "主要 AI 芯片股因需求前景强劲而上涨"
+      },
+      "impact": {
+        "en": "Enterprise AI adoption accelerating; data center expansion plans announced",
+        "zh": "企业 AI 采用加速；数据中心扩张计划公布"
+      },
+      "bullish": [
+        "NVDA",
+        "AMD",
+        "AVGO"
+      ],
+      "bearish": []
+    },
+    {
+      "title": {
+        "en": "Fed officials signal patience on rate cuts despite cooling inflation",
+        "zh": "联储官员在通胀降温背景下仍对降息持谨慎态度"
+      },
+      "impact": {
+        "en": "Treasury yields steady; dollar holding firm",
+        "zh": "美债收益率平稳；美元指数持稳"
+      },
+      "bullish": [],
+      "bearish": [
+        "Treasuries",
+        "Growth stocks"
+      ]
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Positive - Strong earnings expectations drive momentum",
+      "zh": "积极 - 强劲的盈利预期推动动能"
+    },
+    "semiconductor": {
+      "en": "Bullish - Capacity utilization rising; export controls easing slightly",
+      "zh": "看涨 - 产能利用率上升；出口管制略有放松"
+    },
+    "bigTech": {
+      "en": "Steady - Cloud growth stabilizing; AI monetization progressing",
+      "zh": "平稳 - 云业务增长趋稳；AI 变现进展顺利"
+    },
+    "energy": {
+      "en": "Mixed - Oil prices fluctuating on geopolitical tensions",
+      "zh": "分化 - 油价因地缘政治紧张而波动"
+    },
+    "ev": {
+      "en": "Neutral - Competition intensifying; battery tech improving",
+      "zh": "中性 - 竞争加剧；电池技术改善"
+    },
+    "market": {
+      "en": "Risk-on sentiment with selective buying",
+      "zh": "风险偏好情绪，选择性买入"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 futures +0.3%, Nasdaq +0.5%, Dow +0.2%",
+      "zh": "标普 500 期货 +0.3%，纳斯达克 +0.5%，道指 +0.2%"
+    },
+    "treasury10Y": {
+      "en": "4.25%, steady",
+      "zh": "4.25%，平稳"
+    },
+    "dxy": {
+      "en": "104.50, range-bound",
+      "zh": "104.50，区间震荡"
+    },
+    "oil": {
+      "en": "$72/barrel, slight uptick",
+      "zh": "72 美元/桶，小幅上涨"
+    },
+    "keyRisk": {
+      "en": "Fed speech schedule; China trade data this week",
+      "zh": "联储官员讲话日程；本周中国贸易数据"
+    }
+  },
+  "judgment": {
+    "type": "risk-on",
+    "note": {
+      "en": "Tech leadership remains intact despite macro uncertainties. AI infrastructure spending continues to be a reliable growth driver.",
+      "zh": "尽管宏观存在不确定性，科技股的领涨地位依然稳固。AI 基建支出持续成为可靠的增长动力。"
+    },
+    "confidence": {
+      "en": "Moderate-High",
+      "zh": "中等偏高"
+    }
+  }
+}
