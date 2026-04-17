@@ -1,0 +1,153 @@
+{
+  "date": "2026-04-17",
+  "summary": {
+    "en": "Futures point to a higher open as markets assess progress in Middle East peace talks. Iran declares Strait of Hormuz open to shipping, easing geopolitical tensions and potentially supporting oil prices. The rally extends hopes for broader de-escalation in the region.",
+    "zh": "期货指向更高开盘，市场评估中东和平会谈进展。伊朗宣布霍尔木兹海峡对航运开放，缓解地缘紧张局势，可能支撑油价。市场希望该地区缓和的局势扩大。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Iran declares Strait of Hormuz open to shipping as U.S. blockade remains active",
+        "zh": "伊朗宣布霍尔木兹海峡对航运开放，同时美国封锁仍有效"
+      },
+      "impact": {
+        "en": "Significant de-escalation signal. Opening Hormuz could stabilize oil prices while preserving Iranian leverage. Markets priced in potential Middle East peace deal.",
+        "zh": "重大缓和信号。开放霍尔木兹可能稳定油价同时保留伊朗筹码。市场已定价中东和平协议可能性。"
+      },
+      "bullish": ["SPY", "QQQ", "OIL", "XOM", "COP"],
+      "bearish": ["Brent crude uncertainty"],
+      "macroRisk": {
+        "en": "Yes - Geopolitical de-escalation benefits risk assets. Oil price stability helps inflation expectations. DXY may face headwinds from peace premium.",
+        "zh": "是 - 地缘缓和利好风险资产。油价稳定有助于通胀预期。DXY可能因和平溢价承压。"
+      }
+    },
+    {
+      "title": {
+        "en": "Stock futures rise on Middle East peace prospects and lower oil volatility",
+        "zh": "股市期货上涨，中东和平前景及油价波动降低推动"
+      },
+      "impact": {
+        "en": "Futures up S&P +0.17%, Nasdaq +0.32%, Dow +0.12%. Peace premium extends rally hopes.",
+        "zh": "期货上涨标普 +0.17%，纳指 +0.32%，道指 +0.12%。和平溢价延续反弹希望。"
+      },
+      "bullish": ["SPY", "QQQ", "DIA"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - Direct positive catalyst for equity risk appetite.",
+        "zh": "否 - 对股票风险偏好多头直接正面催化。"
+      }
+    },
+    {
+      "title": {
+        "en": "10Y Treasury yield drops 0.08 to 4.23% on rate relief hopes",
+        "zh": "10 年期美债收益率降至 4.23%，降息预期推动下跌"
+      },
+      "impact": {
+        "en": "Rate decline supports growth stocks. Treasury yields normalize as geopolitical premium fades.",
+        "zh": "收益率下降利好成长股。地缘溢价消退后美债收益率回归正常。"
+      },
+      "bullish": ["QQQ", "XLK", "MSFT", "NVDA"],
+      "bearish": ["TLT"],
+      "macroRisk": {
+        "en": "No - Positive for equities. Yield curve support remains intact.",
+        "zh": "否 - 利好股市。收益率曲线支持保持完整。"
+      }
+    },
+    {
+      "title": {
+        "en": "Gold rises 1.84% to $4,874 amid peace premium and weaker dollar",
+        "zh": "金价上涨 1.84% 至 4874 美元，和平溢价和美元走弱推动"
+      },
+      "impact": {
+        "en": "Gold benefits from safe haven status and real rates decline. Mixed signal for industrial metals.",
+        "zh": "黄金受益于避风港地位及实际利率下降。工业金属信号复杂。"
+      },
+      "bullish": ["GLD", "GOLD", "NEM"],
+      "bearish": ["Copper futures"],
+      "macroRisk": {
+        "en": "Partial - Gold is safe haven but industrial metals may face demand concerns.",
+        "zh": "部分 - 黄金是避风港但工业金属可能面临需求担忧。"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil prices surge 10%+ as supply shock concerns persist",
+        "zh": "油价暴涨 10% 以上，供应冲击担忧持续"
+      },
+      "impact": {
+        "en": "Oil up despite Hormuz opening due to lingering supply fears. Inflation implications debated.",
+        "zh": "尽管霍尔木兹开放，油价仍涨 10% 以上，供应担忧 lingering。通胀影响存疑。"
+      },
+      "bullish": ["USO", "XLE", "CVX", "COP"],
+      "bearish": ["Consumer discretionary"],
+      "macroRisk": {
+        "en": "Yes - High oil prices risk inflation repricing. Geopolitical oil premium dominates.",
+        "zh": "是 - 高油价风险通胀重新定价。地缘政治油价溢价主导。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector benefits from rate relief as 10Y yields fall. Tech earnings backdrop remains intact.",
+      "zh": "AI 板块从美债收益率下降中受益。科技盈利背景保持完整。"
+    },
+    "semiconductor": {
+      "en": "Semiconductors rally on rate-sensitive growth story. AI demand continues to drive fundamentals.",
+      "zh": "半导体从利率敏感的成长股中反弹。AI 需求继续支撑基本面。"
+    },
+    "bigTech": {
+      "en": "Magnificent seven leaders positioned well. Cloud growth and AI monetization support valuations.",
+      "zh": "七巨头表现良好。云增长和 AI 变现支撑估值。"
+    },
+    "energy": {
+      "en": "Energy sector volatile. Oil surge benefits producers despite Hormuz opening. Watch for inflation repricing.",
+      "zh": "能源板块波动。油价上涨利好生产商，尽管霍尔木兹开放。关注通胀重新定价。"
+    },
+    "ev": {
+      "en": "EV sector faces mixed outlook. Higher oil prices may reduce urgency but supply chain costs pressure margins.",
+      "zh": "电动车板块前景复杂。高油价降低紧迫性但供应链成本挤压利润率。"
+    },
+    "market": {
+      "en": "Broad market rallies on peace premium and rate relief. Risk appetite improves ahead of week close.",
+      "zh": "大盘因和平溢价和利率缓解上涨。周末前风险偏好改善。"
+    },
+    "preciousMetals": {
+      "en": "Gold rises on safe haven flows and weaker dollar. Silver follows mixed by industrial demand.",
+      "zh": "黄金因避险资金和美元走弱上涨。白银受工业需求拖累表现复杂。"
+    },
+    "oil": {
+      "en": "Oil at multi-month highs despite Hormuz opening. Supply disruption fears and OPEC+ discipline sustain prices.",
+      "zh": "油价创多月新高，尽管霍尔木兹开放。供应中断担忧和 OPEC+ 纪律支撑价格。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 futures +0.17%, Nasdaq +0.32%, Dow +0.12%. Positive open expected.",
+      "zh": "标普 +0.17%，纳指 +0.32%，道指 +0.12%。预计正面开盘。"
+    },
+    "treasury10Y": {
+      "en": "10Y yield down 0.08bp to 4.23%. Rate easing backdrop supports equities.",
+      "zh": "10Y 收益率降 0.08BP 至 4.23%。降息背景下利好股票。"
+    },
+    "dxy": {
+      "en": "DXY faces headwinds from peace premium and safe haven flows to gold.",
+      "zh": "DXY 因和平溢价和黄金避险资金承压。"
+    },
+    "oil": {
+      "en": "Brent crude +10.48%. Geopolitical premium overshadows supply easing from Hormuz opening.",
+      "zh": "布伦特原油 +10.48%。地缘溢价超越霍尔木兹开放的供应缓解。"
+    },
+    "keyRisk": {
+      "en": "Oil price sustainability. If oil remains high, inflation expectations could derail Fed easing path.",
+      "zh": "油价可持续性。若油价保持高位，通胀预期可能阻碍美联储降息路径。"
+    }
+  },
+  "judgment": {
+    "type": "risk-on",
+    "confidence": "medium",
+    "note": {
+      "en": "Peace hopes and rate relief drive risk-on bias. Monitor oil sustainability and inflation implications.",
+      "zh": "和平希望和利率缓解驱动风险偏好。监控油价可持续性及通胀影响。"
+    }
+  }
+}
