@@ -1,0 +1,158 @@
+{
+  "date": "2026-04-14",
+  "summary": {
+    "en": "Markets trade higher as Middle East geopolitics pivots toward de-escalation hopes, with U.S.-Iran talks continuing and oil retreating below $100. Treasury yields edge lower on calmer oil, while cyber-security concerns from Jamie Dimon's Mythos warning add nuanced risk to tech. The rally reflects relief that Hormuz disruption may ease, though fuel supply risks in Europe remain unresolved.",
+    "zh": "市场整体走强，中东局势从升级交易转向缓和预期，美伊接触继续，油价回落至100美元下方。随着油价降温，10年期美债收益率小幅回落，但 Jamie Dimon 对 Anthropic Mythos 暴露网络安全脆弱性的警告，又给科技板块增加了一层风险。当前反弹本质上是对霍尔木兹风险暂时缓和的 relief rally，不过欧洲燃料供应隐忧仍未消失。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "China Condemns U.S. Hormuz Blockade, Oil Retreats Below $100",
+        "zh": "中国谴责美国封锁霍尔木兹海峡，油价回落至100美元下方"
+      },
+      "url": "",
+      "impact": {
+        "en": "China called the U.S. blockade dangerous and irresponsible, highlighting how fragile any ceasefire path remains. But markets are focusing on de-escalation hopes for now, easing oil pressure and supporting risk assets, while leaving upside inflation risk if talks fail.",
+        "zh": "中国称美国对霍尔木兹海峡的封锁“危险且不负责任”，这说明停火基础依然脆弱。不过市场眼下更愿意先交易缓和预期，油价因此回落，短线缓解通胀压力并提振风险资产；但如果谈判破裂，油价和通胀预期仍可能迅速反弹。"
+      },
+      "bullish": ["XLE", "COP", "XLRE"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No, but it remains an important macro watchpoint. Oil volatility is still high and any renewed tightening in Hormuz could re-ignite inflation fears.",
+        "zh": "否，但仍然是非常重要的宏观观察点。当前主线是缓和预期，不过油价波动性依旧很高；如果霍尔木兹局势重新收紧，通胀预期可能再次抬头。"
+      }
+    },
+    {
+      "title": {
+        "en": "Jamie Dimon Warns Anthropic Mythos Exposes More Cyber Vulnerabilities",
+        "zh": "Jamie Dimon 警告，Anthropic Mythos 暴露更多网络安全脆弱点"
+      },
+      "url": "",
+      "impact": {
+        "en": "Dimon's comments push investors to reprice cyber and compliance risks across AI and big tech. Security leaders may benefit, while platform companies without clear security moats could face extra scrutiny.",
+        "zh": "Dimon 的表态让市场重新评估 AI 和大科技板块的网络安全与合规成本。短线更利好安全能力强、基础设施属性更强的公司，而缺乏安全护城河的平台型科技公司可能面临更多审视。"
+      },
+      "bullish": ["CRWD", "PANW", "ZS"],
+      "bearish": ["MSFT", "GOOGL", "META"],
+      "macroRisk": {
+        "en": "Yes. This is a sector-wide risk that could shift flows from general tech into cybersecurity leaders.",
+        "zh": "是。这属于科技板块层面的系统性风险，可能推动资金从泛科技转向网络安全龙头和更稳健的基础设施资产。"
+      }
+    },
+    {
+      "title": {
+        "en": "Asia Rallies on U.S.-Iran Deal Hopes, but China Exports Miss Estimates",
+        "zh": "亚洲市场因美伊缓和预期上涨，但中国出口不及预期"
+      },
+      "url": "",
+      "impact": {
+        "en": "The move higher in Asia suggests markets are embracing geopolitical relief, but weak China export data is a reminder that underlying global demand is not fully repaired. This looks more like sentiment recovery than a clean growth re-acceleration.",
+        "zh": "亚洲市场走强说明全球资金先押注美伊局势缓和，但中国出口不及预期也提醒市场，全球需求动能并不稳固。所以这更像是情绪修复，而不是增长逻辑全面修复。"
+      },
+      "bullish": ["XLI", "XLV"],
+      "bearish": ["XLY"],
+      "macroRisk": {
+        "en": "No. This is more a mix of growth caution and geopolitical sentiment than a full systemic threat.",
+        "zh": "否，更多是增长预期与地缘情绪的交叉影响，暂时还不到系统性风险级别。"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury Yields Ease as Oil Calms, Supporting Duration Assets",
+        "zh": "油价降温带动美债收益率回落，利好久期资产"
+      },
+      "url": "",
+      "impact": {
+        "en": "The 10-year Treasury yield pulled back as oil retreated, reducing near-term inflation pressure. That supports long-duration assets like growth and tech, but the move can reverse quickly if energy spikes again.",
+        "zh": "随着油价回落，10年期美债收益率也从早前高位回落，说明市场对短期通胀冲击的担忧有所缓和。这通常利好科技和成长这类久期更长的资产，但如果能源价格再次急涨，这个逻辑也可能很快反转。"
+      },
+      "bullish": ["TLT", "QQQ", "IWM"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Yes. Treasury yields remain one of the clearest signals for inflation expectations and overall risk appetite.",
+        "zh": "是。美债收益率仍然是观察通胀预期和市场风险偏好的核心宏观信号之一。"
+      }
+    },
+    {
+      "title": {
+        "en": "European Jet Fuel Supply Stress Keeps Energy Chain Risk Alive",
+        "zh": "欧洲喷气燃料供应承压，能源链风险并未真正解除"
+      },
+      "url": "",
+      "impact": {
+        "en": "Even as crude prices retreat, downstream fuel availability remains vulnerable. That means airline costs and transport pricing could still face pressure, especially if Middle East logistics worsen again.",
+        "zh": "即使原油价格回落，下游燃料供应仍然偏紧，这意味着航空运营成本和运输价格依旧可能承压。也就是说，表面上的油价缓和并不代表能源供应链风险已经真正解除。"
+      },
+      "bullish": ["FDX", "UPS"],
+      "bearish": ["UAL", "AAL"],
+      "macroRisk": {
+        "en": "Yes. If the conflict worsens again, supply chain stress could spread from energy into transportation and inflation.",
+        "zh": "是。如果冲突再次升级，供应链压力可能从能源继续向运输和通胀链条扩散。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI faces a more nuanced security narrative after Mythos-related warnings. Fundamentals remain strong, but the market may increasingly favor secure infrastructure, enterprise tooling, and governance-heavy winners.",
+      "zh": "AI 板块今天的核心不是景气度，而是安全与治理溢价。基本面仍强，但市场可能更偏好底层基础设施、安全能力强、企业级属性更重的受益者。"
+    },
+    "semiconductor": {
+      "en": "Semis benefit from calmer rates and sustained AI capex expectations. The group still needs to watch supply chain and cyclical inventory trends, but today's tone is constructive.",
+      "zh": "半导体受益于利率回落和 AI 资本开支持续预期，今天基调偏积极。短线仍要关注供应链扰动和周期库存，但整体风向对板块偏友好。"
+    },
+    "bigTech": {
+      "en": "Big Tech continues to ride the relief rally, but security-related headlines could create sharper differentiation within the group. Mega-cap leadership stays intact unless cyber concerns escalate.",
+      "zh": "大科技继续受益于 relief rally，但网络安全相关新闻可能让板块内部出现更明显分化。只要安全担忧不进一步升级，巨头主导格局暂时还在。"
+    },
+    "energy": {
+      "en": "Energy cools with oil back below $100, but the sector is not breaking down because supply uncertainty still supports the floor. Producers remain relatively resilient.",
+      "zh": "随着油价回到100美元下方，能源板块的亢奋有所降温，但并没有明显转弱，因为供应不确定性仍然提供支撑。生产商整体韧性还在。"
+    },
+    "ev": {
+      "en": "EVs are less directly tied to today's oil move than traditional autos, but broader risk appetite and China growth concerns still matter for sentiment.",
+      "zh": "电动车板块并不像传统汽车那样直接交易今天的油价波动，但风险偏好和中国增长担忧仍会影响整体情绪。"
+    },
+    "market": {
+      "en": "The broad tape is trading a geopolitical relief scenario. Today's move looks more like a sentiment rebound than a clean all-clear, so headline sensitivity remains high.",
+      "zh": "大盘当前在交易一个“地缘缓和”的情景。今天更像情绪修复，不是真正意义上的风险彻底解除，所以市场对头条新闻仍然会非常敏感。"
+    },
+    "preciousMetals": {
+      "en": "Gold remains supported by residual geopolitical risk, but calmer oil and steadier yields reduce the urgency of chasing defensives.",
+      "zh": "贵金属仍受到地缘风险残余支撑，但随着油价和收益率回落，市场追逐纯避险资产的迫切性有所下降。"
+    },
+    "oil": {
+      "en": "Oil is retreating on de-escalation hopes, but the risk premium has not disappeared. Any negative headline around Hormuz can still trigger a fast reversal.",
+      "zh": "油价因缓和预期而回落，但风险溢价并没有完全消失。只要霍尔木兹方向出现负面消息，油价仍可能迅速反抽。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "U.S. index futures are biased slightly higher, with tech leadership still visible as rates ease and oil cools.",
+      "zh": "美股三大指数期货整体偏强，其中科技方向相对更占优，背后逻辑是收益率回落和油价降温。"
+    },
+    "treasury10Y": {
+      "en": "The 10-year yield is easing with crude, helping growth and duration-sensitive assets. Watch for reversal risk if energy rebounds.",
+      "zh": "10年期美债收益率随原油回落而走低，这对成长和久期敏感资产更友好。但如果能源价格重新走高，收益率也可能迅速反弹。"
+    },
+    "dxy": {
+      "en": "The dollar is relatively steady. A durable easing in geopolitical stress could soften safe-haven demand later.",
+      "zh": "美元指数整体偏稳。如果地缘缓和信号持续，后续避险需求减弱可能会让美元略有回落。"
+    },
+    "oil": {
+      "en": "Brent and WTI have both moved lower on de-escalation hopes, but the market is still highly headline-driven.",
+      "zh": "布伦特和 WTI 都因缓和预期而回落，但油价依旧是典型的 headline-driven 市场，消息面驱动非常强。"
+    },
+    "keyRisk": {
+      "en": "Main risk: U.S.-Iran talks fail and Hormuz tension re-escalates, sending oil and yields back higher. Secondary risk: cybersecurity concerns widen from AI into broader tech leadership.",
+      "zh": "核心风险仍是美伊谈判失败、霍尔木兹局势再度升级，从而带动油价和收益率重新上行。次要风险是网络安全担忧从 AI 扩散到更广泛的大科技龙头。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": "medium",
+    "note": {
+      "en": "This is a relief-driven market rather than a fully repaired macro backdrop. I would read today's tone as constructive but fragile, with quality growth and selective duration still favored as long as oil stays contained.",
+      "zh": "今天更像是一场由缓和预期推动的 relief rally，而不是宏观环境已经完全修复。我的判断是偏积极但依旧脆弱，只要油价继续受控，优质成长和部分久期资产仍然更占优。"
+    }
+  }
+}

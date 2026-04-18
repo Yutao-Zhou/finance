@@ -1,0 +1,121 @@
+{
+  "date": "2026-04-13",
+  "summary": {
+    "en": "Markets mixed on Monday as US-Iran peace talks collapsed and Strait of Hormuz blockade sparked oil volatility: Dow -0.6%, S&P -0.3%, Nasdaq -0.4%. Oil briefly surged above $100 before easing. Tech underperformed as geopolitical risk premium elevated, while energy producers benefited. 10Y Treasury yields stable at 4.29% despite oil spike. Investors weighing recession risks from energy inflation versus earnings quality support.",
+    "zh": "美股周一受挫：美伊和平会谈破裂，美国封锁伊朗港口引发油价飙升：道指 -0.6%、标普 -0.3%、纳指 -0.4%。WTI 跳涨突破 100 美元后回落。科技股受地缘政治压制，能源板块受益。10Y 美债收益率稳定在 4.29%。投资者权衡能源通胀引发的衰退风险与财报质量的支撑。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "U.S.-Iran Peace Talks Collapse After U.S. Naval Blockade of Iranian Ports, Oil Prices Surge 6%",
+        "zh": "美伊和平会谈崩溃后美国封锁伊朗港口，油价跳涨 6%"
+      },
+      "impact": {
+        "en": "U.S. President ordered naval blockade of Iranian ports as peace talks failed, escalating tensions in Strait of Hormuz. This directly threatens global oil supply, with WTI surging to $104 and Brent to $102. If supply disruption materializes, oil could exceed $110-120, triggering stagflation fears and recession dynamics. Energy producers benefit short-term but consumer discretionary faces headwinds.",
+        "zh": "美国封锁伊朗港口导致美伊会谈崩溃，霍尔木兹海峡紧张升级。全球油价面临供应威胁，WTI 升至 104 美元，布伦特触及 102 美元。若供应中断，油价可能超过 110-120 美元，引发滞胀担忧。能源生产商短期受益但消费者可选板块面临阻力。"
+      },
+      "bullish": ["oil producers", "energy producers", "energy infrastructure", "utilities", "defense contractors"],
+      "bearish": ["consumer discretionary", "travel", "aerospace", "retail", "transportation"],
+      "macroRisk": {
+        "en": "High - Oil supply chain risk via Hormuz Strait; geopolitical escalation directly threatening energy security; energy inflation expectations driving consumer spending power; stagflation narrative emerging if oil exceeds $110 sustained."
+      }
+    },
+    {
+      "title": {
+        "en": "Stock Futures Down 0.5-0.7% as U.S. Iran Blockade Move Sparks Geopolitical Shock",
+        "zh": "股票期货下跌 0.5-0.7% 因美国封锁伊朗港口行动引发地缘政治冲击"
+      },
+      "impact": {
+        "en": "S&P 500 e-mini futures down 0.6%, Dow futures slip 0.5%, Nasdaq 100 futures drop 0.7% ahead of open. Futures direction reflects risk-off positioning as geopolitical uncertainty overshadows earnings quality. Tech stocks under pressure despite TSMC record profits.",
+        "zh": "标普 500 期货跌 0.6%、道指期货跌 0.5%、纳指期货跌 0.7%。地缘政治不确定性 overshadow 财报质量，市场避险。尽管台积电创纪录利润，科技股仍受压制。"
+      },
+      "bullish": ["value stocks (if recession priced in)", "gold miners", "energy sector"],
+      "bearish": ["growth stocks", "tech", "cyclicals", "international exposure"],
+      "macroRisk": {
+        "en": "Yes - Geopolitical escalation threatening energy security; broad market risk appetite deteriorating; stagflation concerns emerging from energy price spike; earnings support may be overwhelmed by macro uncertainty."
+      }
+    },
+    {
+      "title": {
+        "en": "Oil Above $100 Lifts Energy Stocks; Travel & Airline Stocks Under Pressure",
+        "zh": "油价突破 100 美元提振能源股，航空旅行股受压"
+      },
+      "impact": {
+        "en": "Energy stocks were the only major sector in positive territory, with Chevron, Exxon Mobil and ConocoPhillips rising 1.8%, 1.2% and 2%, respectively, pushing the sector 1.2% higher. Travel-related stocks declined, with Delta Air Lines and JetBlue Airways falling 2.9% and 2.4%, respectively, on concerns that higher oil prices could increase fuel costs.",
+        "zh": "能源板块是唯一上涨的主要板块，雪佛龙、埃克森美孚和康菲石油分别上涨 1.8%、1.2% 和 2%，板块上涨 1.2%。旅行股下跌，达美航空和捷蓝航空分别跌 2.9% 和 2.4%，因高油价增加燃油成本担忧。"
+      },
+      "bullish": ["XOM", "CVX", "COP", "MRO", "FANG+"],
+      "bearish": ["AAL", "UAL", "LUV", "JBLU", "high-beta discretionary"],
+      "macroRisk": {
+        "en": "Partial - Energy inflation expectations drive consumer spending power. Oil price direction key inflation indicator feeding through to CPI concerns."
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI hardware winners (TSMC record profits, equipment makers) outperform while application layer faces headwinds from recession fears and energy costs. Hardware-focused AI names benefit from AI boom but software/AI application names under pressure.",
+      "zh": "AI 硬件赢家（TSMC 创纪录利润、设备制造商）跑赢，而应用层面临衰退担忧和能源成本的阻力。专注于硬件的 AI 名称受益于 AI 热潮，但软件/AI 应用名称因增长担忧受压。"
+    },
+    "semiconductor": {
+      "en": "Strong fundamentals with TSMC delivering fourth consecutive record quarter on 35% revenue surge. AI chip demand sustaining capex plans despite geopolitical noise. Semiconductor hardware strong, application layer weak.",
+      "zh": "基本面强劲，TSMC 连续第四个季度创纪录，营收跳增 35%。尽管有地缘政治噪音，AI 芯片需求支撑资本支出计划。半导体硬件强劲，应用层疲软。"
+    },
+    "bigTech": {
+      "en": "Mega-cap tech showing selective resilience with cloud and infrastructure plays preferred. Investors rotating from pure AI plays to value. Earnings quality supporting valuations but AI narrative fatigue setting in.",
+      "zh": "大科技股展示选择性韧性，云和基础设施押注获青睐。投资者从纯 AI 押注转向价值。财报质量支撑估值但 AI 叙事疲劳。"
+    },
+    "energy": {
+      "en": "Oil prices volatile but elevated: WTI ~$104, Brent ~$102. Energy producers benefiting from high prices as geopolitical risk keeps floor elevated. If tensions escalate further, oil could exceed $110.",
+      "zh": "油价波动但 Elevated：WTI 约 104 美元，布伦特约 102 美元。能源生产商从高价格受益，地缘政治风险支撑底部。若局势进一步升级，油价可能超过 110 美元。"
+    },
+    "ev": {
+      "en": "EV sector faces significant headwinds from rising fuel costs and recession fears. Consumer sentiment weakening could slow adoption. EV demand elastic to gasoline prices.",
+      "zh": "电动车板块面临燃料成本上升和衰退担忧的重大逆风。消费者情绪减弱可能放缓采用率。电动车需求对汽油价格弹性。"
+    },
+    "market": {
+      "en": "Broad market mixed: Dow -0.6%, S&P -0.6%, Nasdaq -0.7%. Divergence driven by tech vs value rotation and earnings quality versus macro uncertainty. Nasdaq underperforming as growth stocks face headwinds from energy costs and recession fears.",
+      "zh": "大盘分化：道指 -0.6%、标普 -0.6%、纳指 -0.7%。分化由科技与价值股轮动和财报质量与宏观不确定性驱动。纳指表现不佳，成长股面临能源成本和衰退担忧的阻力。"
+    },
+    "preciousMetals": {
+      "en": "Gold prices supported by geopolitical risk premium and central bank buying. Safe-haven demand from escalating tensions supporting prices.",
+      "zh": "黄金价格受地缘政治风险溢价和央行购金支持。升级的紧张局势的避险需求支撑价格。"
+    },
+    "oil": {
+      "en": "WTI/Brent volatile and elevated: WTI ~$104, Brent ~$102, up from ~$90-95 range. Oil markets cautious on geopolitics with Hormuz security as primary concern. If tensions escalate further, prices could surge past $110.",
+      "zh": "WTI/布伦特波动 Elevated：WTI 约 104 美元，布伦特约 102 美元，上涨约 90-95 美元区间。石油市场在地缘政治上谨慎，霍尔木兹海峡安全是主要担忧。若局势升级，价格可能飙升至 110 美元以上。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 e-mini futures -0.6%, Dow futures -0.5%, Nasdaq 100 futures -0.7%. All three indexes pointing lower as geopolitical risk overshadows earnings quality.",
+      "zh": "标普 500 期货 -0.6%、道指期货 -0.5%、纳指期货 -0.7%。三大指数因地缘政治风险 overshadow 财报质量而走低。"
+    },
+    "treasury10Y": {
+      "en": "10Y Treasury yield at 4.29% stable. Real yields elevated historically suggesting Fed pivot coming but energy price spike could reverse this dynamic.",
+      "zh": "10Y 美债收益率稳定在 4.29%。真实收益率 historically elevated 暗示美联储转向，但油价飙升可能逆转这一动态。"
+    },
+    "dxy": {
+      "en": "Dollar index DXY neutral with mixed currency flows. Fed pivot expectations support USD weakness but geopolitical risk supports strength.",
+      "zh": "美元指数 DXY 中性，货币流向混杂。美联储转向预期支撑美元疲软但地缘政治风险支撑走强。"
+    },
+    "oil": {
+      "en": "WTI ~$104, Brent ~$102, up from ~$90-95 range. Oil prices elevated due to geopolitical risk premium and supply disruption concerns.",
+      "zh": "WTI 约 104 美元，布伦特约 102 美元，上涨约 90-95 美元区间。油价因风险溢价和供应中断担忧 Elevated。"
+    },
+    "keyRisk": {
+      "en": "Primary concern: U.S.-Iran talks outcome and Hormuz Strait security. If ceasefire breaks or tensions escalate, oil price surge could trigger stagflation narrative and recession fears.",
+      "zh": "主要担忧：美伊会谈结果和霍尔木兹海峡安全。若停火破裂或局势升级，油价飙升可能触发滞胀叙事和衰退担忧。"
+    }
+  },
+  "judgment": {
+    "type": "risk-off",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Market showing risk-off positioning as geopolitical escalation overshadows earnings quality. Oil price surge triggering stagflation fears and recession dynamics. Energy producers benefit but consumer discretionary faces headwinds.",
+      "zh": "市场显示避险定位，地缘政治升级 overshadow 财报质量。油价飙升触发滞胀担忧和衰退动态。能源生产商受益但消费者可选板块面临阻力。"
+    }
+  }
+}

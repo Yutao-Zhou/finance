@@ -1,0 +1,121 @@
+{
+  "date": "2026-04-16",
+  "summary": {
+    "en": "US stocks opened higher driven by Middle East de-escalation hopes and AI earnings momentum, with S&P 500 and Nasdaq hitting new highs. Strong semiconductor earnings and AI super-cycle optimism boosted tech leadership.",
+    "zh": "美股在中东局势缓和希望与 AI 财报 momentum 推动下高开走强，标普 500 和纳指创下历史新高。半导体强劲财报与 AI 超级周期乐观情绪带动科技股领涨。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Middle East diplomatic breakthrough + AI earnings drive S&P 500 and Nasdaq to new highs",
+        "zh": "中东外交突破 + AI 财报推动标普 500 和纳指创历史新高"
+      },
+      "impact": {
+        "en": "Market sentiment improved as geopolitical risks eased with US-Iran conflict resolution expected in late April and Israel-Lebanon ceasefire agreed for 10 days. Risk capital rotated back to growth stocks.",
+        "zh": "地缘政治风险随着美伊冲突有望 4 月下旬达成和平协议、以黎停火 10 日而缓和，市场情绪回升，风险资本重新流向成长股。"
+      },
+      "bullish": ["S&P 500", "Nasdaq", "Tech Growth", "Energy (oil prices stabilizing)"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Positive - geopolitical risk premium declined, supporting risk assets",
+        "zh": "正面 - 地缘政治风险溢价下降，支持风险资产"
+      }
+    },
+    {
+      "title": {
+        "en": "TSMC earnings beat expectations, ADR up ~2% in premarket on AI super-cycle confidence",
+        "zh": "台积电财报超预期，盘前 ADR 涨约 2%，对 AI 超级周期充满信心"
+      },
+      "impact": {
+        "en": "TSMC raised CAPEX guidance for next 3 years above prior 3-year average, accelerating Arizona fab construction. Strong AI chip demand validates semiconductor capex cycle.",
+        "zh": "台积电将未来三年资本支出指引提升至高于过去三年水平，加快亚利桑那工厂建设。强劲 AI 芯片需求验证半导体资本支出周期。"
+      },
+      "bullish": ["TSM", "Semiconductor", "AI Infrastructure"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Positive - confirms AI hardware demand and semiconductor leadership",
+        "zh": "正面 - 证实 AI 硬件需求和半导体领先地位"
+      }
+    },
+    {
+      "title": {
+        "en": "Banking sector earnings (BAC, MS) beat expectations, driving financials rally",
+        "zh": "银行板块财报（BAC、MS）超预期，带动金融股上涨"
+      },
+      "impact": {
+        "en": "Significantly better-than-expected Q1 trading revenues lifted financial sentiment. Capital rotated from defensive positions back to cyclicals and tech.",
+        "zh": "远超预期的 Q1 交易收入提振金融股情绪，资金从防御配置转向周期股和科技股。"
+      },
+      "bullish": ["BAC", "MS", "Financials", "Regional Banks"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Positive - financials strength supports overall market stability",
+        "zh": "正面 - 金融部门强劲支持整体市场稳定"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Strong momentum driven by TSMC earnings and infrastructure capex cycle. NVDA, AMD, and cloud AI providers leading gains.",
+      "zh": "AI 板块势头强劲，由台积电财报和基础设施资本支出周期推动。NVDA、AMD 和云 AI 提供商领涨。"
+    },
+    "semiconductor": {
+      "en": "Semiconductor sector rallied with TSMC leading. AI chip demand remains robust, validating CAPEX cycle through 2027-2029.",
+      "zh": "半导体板块随台积电领涨。AI 芯片需求强劲，验证资本支出周期可持续至 2027-2029 年。"
+    },
+    "bigTech": {
+      "en": "Big Tech continues to lead, with cloud AI services and data center demand driving growth. Market cap extensions at new highs.",
+      "zh": "大科技持续领涨，云 AI 服务和数据中心需求驱动增长，市值扩展至新高。"
+    },
+    "energy": {
+      "en": "Oil prices stabilized after geopolitical spike. Energy sector modest gains as risk appetite returned, but not primary driver today.",
+      "zh": "油价在地缘政治飙升后企稳。能源板块随风险偏好回升小幅上涨，但非今日主要驱动力。"
+    },
+    "ev": {
+      "en": "EV sector neutral to slightly underperforming. No major catalysts today. Market focus remains on AI and traditional tech leaders.",
+      "zh": "电动车板块中性至略微跑输。今日无重大催化剂。市场焦点仍集中在 AI 和传统科技巨头。"
+    },
+    "market": {
+      "en": "S&P 500 and Nasdaq hit new highs on mixed bag of positive catalysts. Broad-based rally with tech leadership and some rotation into financials.",
+      "zh": "标普 500 和纳指在多重积极催化剂推动下创历史新高。全面上涨，科技股领涨，部分资金轮动至金融股。"
+    },
+    "preciousMetals": {
+      "en": "Precious metals declined as risk premium evaporated with geopolitical de-escalation. Gold and silver under pressure from lower safe-haven demand.",
+      "zh": "贵金属因地缘政治缓和导致避险溢价消失而下跌。黄金和白银因避险需求减弱承压。"
+    },
+    "oil": {
+      "en": "Oil prices cooled after Middle East escalation premium. WTI trading range-bound as demand outlook remains stable and supply concerns eased.",
+      "zh": "油价在地缘政治升级溢价消退后回落。WTI 在需求前景稳定、供应担忧缓解的区间内交易。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 futures up, Nasdaq futures slightly higher, Dow futures positive. All pointing to upside open.",
+      "zh": "标普 500 期货上涨，纳指期货小幅走高，道指期货为正。全部指向高开。"
+    },
+    "treasury10Y": {
+      "en": "10Y Treasury yield normalized after spike, trading near recent averages as inflation concerns eased and rate cut expectations re-emerged.",
+      "zh": "10 年期美债收益率在飙升后恢复正常，随着通胀担忧缓解和降息预期重现，交易于近期平均水平附近。"
+    },
+    "dxy": {
+      "en": "DXY slightly higher as risk on reduced dollar hedging demand. Still within normal range, not a key driver today.",
+      "zh": "美元指数小幅走高，因风险偏好增加减少了美元避险需求。仍在正常范围内，非今日关键驱动。"
+    },
+    "oil": {
+      "en": "WTI cooling after Middle East spike. Crude prices stabilizing as geopolitical risk premium declined and demand fundamentals hold.",
+      "zh": "WTI 在地缘政治飙升后回落。原油价格随着地缘政治风险溢价消退和需求基本面稳固而企稳。"
+    },
+    "keyRisk": {
+      "en": "Watch Middle East ceasefire negotiations progress. Any escalation could reverse risk-on sentiment. Also monitor inflation data for Fed policy implications.",
+      "zh": "关注中东停火谈判进展。任何升级都可能逆转风险偏好。同时监控通胀数据对美联储政策的含义。"
+    }
+  },
+  "judgment": {
+    "type": "risk-on",
+    "confidence": "medium",
+    "note": {
+      "en": "Mixed signals but overall risk-on from geopolitical de-escalation + AI strength. Confidence medium due to ongoing Middle East uncertainty and waiting for clearer inflation data.",
+      "zh": "信号混合但整体风险偏好提升，源于地缘政治缓和 +AI 强势。因中东持续不确定性和等待更明确的通胀数据，信心中等。"
+    }
+  }
+}
