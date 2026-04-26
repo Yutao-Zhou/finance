@@ -1,0 +1,103 @@
+{
+  "date": "2026-04-26",
+  "summary": {
+    "en": "Geopolitical tensions in the Middle East remain the primary driver today, with US-Iran diplomatic stalemate and Hormuz Strait disruption risks elevating oil prices and inflation expectations. Markets show mixed sentiment as investors weigh supply chain impacts against US rate cut timing, with energy sector gaining relative strength.",
+    "zh": "今日市场主线仍是中东地缘政治紧张局势，美伊外交僵局与霍尔木兹海峡中断风险推升油价和通胀预期。市场情绪分化，投资者在权衡供应链影响与美联储降息时点，能源板块相对走强。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "US-Iran diplomatic talks stall as Hormuz Strait disruption fears mount",
+        "zh": "美伊会谈陷入僵局，霍尔木兹海峡中断担忧升温"
+      },
+      "impact": "The failure of diplomatic negotiations increases geopolitical risk premium, particularly impacting oil and energy sectors. Any physical disruption to Hormuz Strait could spike crude prices above 85-90 USD/barrel, directly pressuring inflation expectations.",
+      "bullish": ["energy", "oil", "oil services"],
+      "bearish": ["consumer discretionary", "transportation", "retail"],
+      "macroRisk": "Yes - Transmission path: Geopolitical risk → oil price surge → inflation expectations rise → Fed policy uncertainty → mixed market reaction"
+    },
+    {
+      "title": {
+        "en": "Iran's Araghchi expected back in Pakistan after Oman diplomatic mission",
+        "zh": "伊朗高官阿拉吉奇预计回国，Oman 外交任务后返回巴基斯坦"
+      },
+      "impact": "Diplomatic developments may signal either de-escalation or escalation depending on outcome. Uncertainty around talks creates volatility in energy-related sectors while tech and growth stocks face headwinds from higher oil price inflation risk.",
+      "bullish": ["oil", "energy", "defensive sectors"],
+      "bearish": ["growth", "tech", "cyclical discretionary"],
+      "macroRisk": "Yes - Diplomatic uncertainty → oil volatility → inflation expectations → mixed asset allocation"
+    },
+    {
+      "title": {
+        "en": "US rate cut timing remains central to market sentiment amid geopolitical noise",
+        "zh": "美联储降息时点仍是市场情绪核心，受地缘政治噪音影响"
+      },
+      "impact": "With geopolitical risks elevating oil prices, the Fed may pause at first quarter cut as inflation data could turn sticky. This creates a mixed risk-on/risk-off environment where energy outperforms growth.",
+      "bullish": ["energy", "value stocks"],
+      "bearish": ["rate-sensitive tech", "growth"],
+      "macroRisk": "Yes - Geopolitical oil shock → sticky inflation → Fed may delay cuts → growth stock pressure"
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector faces headwinds from higher oil price inflation risk and potential Fed pause. Uncertainty around rate timing weighs on long-duration tech valuations, though AI fundamentals remain intact.",
+      "zh": "AI 板块受油价通胀风险及潜在美联储暂停的打击。降息时点不确定影响长期科技股估值，但 AI 基本面保持完好。"
+    },
+    "semiconductor": {
+      "en": "Semiconductors mixed as chip demand remains strong but rate sensitivity and geopolitical tensions create volatility. Trade route disruptions could impact supply chains for Taiwan-based manufacturers.",
+      "zh": "半导体板块分化：芯片需求强劲但利率敏感性和地缘政治紧张造成波动。贸易路线中断可能影响台湾制造商供应链。"
+    },
+    "bigTech": {
+      "en": "Big Tech stocks under pressure from rate uncertainty and potential oil price-driven inflation spike. Cloud revenue remains resilient but ad spending and consumer discretionary face headwinds.",
+      "zh": "大科技股受利率不确定性和油价驱动的通胀飙升压力。云收入保持韧性，但广告支出和消费者可选支出面临逆风。"
+    },
+    "energy": {
+      "en": "Energy sector gains from geopolitical risk premium and potential oil price breakout above 85 USD. Oil majors, LNG players, and service companies should see elevated volume as Hormuz tensions persist.",
+      "zh": "能源板块因地缘政治风险溢价和油价突破 85 美元而受益。石油巨头、LNG 运营商和服务公司因霍尔木兹紧张局势持续而交易量上升。"
+    },
+    "ev": {
+      "en": "EV sector faces mixed signals: high oil prices benefit EV substitution thesis but regulatory uncertainty and high rates pressure valuations. Tesla and rivals need to navigate both tailwinds and headwinds.",
+      "zh": "电动车板块信号混杂：高油价利好电动车替代叙事，但监管不确定性和高利率压制估值。特斯拉和竞争对手需同时应对顺风和逆风。"
+    },
+    "market": {
+      "en": "Broad market sentiment is mixed given geopolitical uncertainty and inflation risks from oil prices. S&P 500 futures direction uncertain as investors wait for clearer signals on US economy and Fed policy.",
+      "zh": "大盘情绪分化，因地缘政治不确定性和油价通胀风险。标普 500 期货方向不确定，投资者等待美国经济和美联储政策更清晰信号。"
+    },
+    "preciousMetals": {
+      "en": "Gold and silver benefit from geopolitical risk and potential Fed pivot uncertainty. Precious metals hedge against oil-driven inflation and serve as safe haven during Middle East tensions.",
+      "zh": "黄金和白银因地缘政治风险和潜在美联储转向不确定性而受益。贵金属对冲油价驱动的通胀，并在中东紧张局势中充当避风港。"
+    },
+    "oil": {
+      "en": "Oil prices elevated by geopolitical risk premium and Hormuz disruption fears. Crude could test 85-90 USD range with any physical threat to the Strait. Energy sector leadership likely to persist today.",
+      "zh": "油价因地缘政治风险溢价和霍尔木兹中断担忧而 elevated。任何对海峡的实际威胁可能使原油测试 85-90 美元区间。能源板块领导地位今天可能持续。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 futures: Uncertain direction, likely choppy as energy outperforms. Nasdaq futures face pressure from rate sensitivity. Dow may show relative strength in industrials and energy.",
+      "zh": "标普 500 期货：方向不确定，可能震荡，因能源板块跑赢。纳斯达克期货受利率敏感压制。道指可能在工业和能源股显示相对强势。"
+    },
+    "treasury10Y": {
+      "en": "10Y Treasury yields volatile above 4.2-4.3% range. Geopolitical risk may push yields up as inflation expectations rise from oil prices. Fed pivot timeline remains a key uncertainty.",
+      "zh": "10 年期美债收益率在 4.2-4.3% 区间波动。地缘政治风险可能推升收益率，因油价驱动通胀预期上升。美联储转向时点仍是关键不确定因素。"
+    },
+    "dxy": {
+      "en": "DXY mixed, hovering near 104.5-105. Geopolitical uncertainty and oil price support provide some floor, but yield sensitivity and economic data weigh on greenback.",
+      "zh": "美元指数在 104.5-105 附近波动。地缘政治不确定性和油价支撑提供一定底，但收益率敏感性和经济数据拖累美元。"
+    },
+    "oil": {
+      "en": "WTI crude likely testing 85-87 USD range amid geopolitical tension. Any physical threat to Hormuz could trigger rapid spike toward 90-95 USD. Watch Middle East news feeds closely.",
+      "zh": "WTI 原油在地缘政治紧张中测试 85-87 美元区间。霍尔木兹任何实际威胁可能触发快速飙升至 90-95 美元。密切关注中东新闻。"
+    },
+    "keyRisk": {
+      "en": "Key risk: Geopolitical escalation in Middle East could trigger oil price spike, forcing Fed to pause cuts and weighing on risk assets. Monitor Iranian statements and diplomatic developments closely.",
+      "zh": "关键风险：中东地缘政治升级可能触发油价飙升，迫使美联储暂停降息并压制风险资产。密切关注伊朗表态和外交进展。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": "medium",
+    "note": {
+      "en": "Today's market likely to be mixed as energy sector outperforms while tech faces headwinds from rate uncertainty. Geopolitical uncertainty dominates sentiment, creating selective opportunities rather than broad risk-on/risk-off move.",
+      "zh": "今日市场可能分化：能源板块跑赢而科技股受利率不确定逆风。地缘政治不确定性主导情绪，创造选择性机会而非广泛风险情绪转变。"
+    }
+  }
+}
