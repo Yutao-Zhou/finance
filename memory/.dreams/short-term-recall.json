@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-13T23:32:31.200Z",
+  "entries": {
+    "memory:memory/2026-04-13.md:1:25": {
+      "key": "memory:memory/2026-04-13.md:1:25",
+      "path": "memory/2026-04-13.md",
+      "startLine": 1,
+      "endLine": 25,
+      "source": "memory",
+      "snippet": "# US Stock Morning Brief - 2026-04-13 ## Market Overview - **Dow Jones**: Down over 300 points (-0.6%) - **S&P 500**: Down 0.11% - **Nasdaq**: Up 0.15% ## Key Drivers - US-Iran negotiations failed - Oil prices >/barrel - Middle East tensions ## Notable Stocks - NVIDIA: +2.57% - Google: -0.21% - Microsoft: -0.59% ## Market Concerns - Ongoing Middle East tensions - Energy inflation risks - Potential impact on global trade routes --- *Generated: 2026-04-13*",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-04-13T23:32:31.200Z",
+      "lastRecalledAt": "2026-04-13T23:32:31.200Z",
+      "queryHashes": [
+        "129d16f16140"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "0.6",
+        "0.11",
+        "0.15",
+        "us-iran",
+        "2.57",
+        "0.21",
+        "0.59",
+        "stock"
+      ]
+    }
+  }
+}

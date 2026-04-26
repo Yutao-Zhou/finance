@@ -1,0 +1,9 @@
+# Cron job for US Stock Morning Brief
+# Run every morning at 6:30 AM Pacific Time (14:30 UTC)
+
+# Linux/Mac format:
+# 30 6 * * * /usr/local/bin/powershell -File C:/Users/Yutao Zhou/.openclaw/workspace/scripts/stocks-morning-brief.ps1 >> C:/Users/Yutao Zhou/.openclaw/workspace/logs/morning-brief.log 2>&1
+
+# Windows Task Scheduler equivalent:
+# Trigger: Daily at 6:30 AM
+# Action: PowerShell -> C:/Users/Yutao Zhou/.openclaw/workspace/scripts/stocks-morning-brief.ps1
