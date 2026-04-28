@@ -380,6 +380,44 @@ body {
   margin-top: 0.25rem;
 }
 
+.impact-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.75rem;
+  margin-top: 0.5rem;
+}
+
+.impact-column {
+  padding: 0.5rem 0.75rem;
+  border-radius: 6px;
+  font-size: 0.85rem;
+}
+
+.impact-column.bullish {
+  background: rgba(16, 185, 129, 0.1);
+  border: 1px solid var(--accent-green);
+}
+
+.impact-column.bearish {
+  background: rgba(239, 68, 68, 0.1);
+  border: 1px solid var(--accent-red);
+}
+
+.impact-label {
+  display: block;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  color: var(--text-secondary);
+  margin-bottom: 0.25rem;
+  font-weight: 600;
+}
+
+.impact-value {
+  display: block;
+  font-weight: 500;
+  line-height: 1.5;
+}
+
 .news-bullish {
   color: var(--accent-green);
 }
@@ -387,7 +425,6 @@ body {
 .news-bearish {
   color: var(--accent-red);
 }
-
 .sector-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));

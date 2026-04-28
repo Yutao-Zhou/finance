@@ -134,15 +134,35 @@ function ReportCard({ report, lang }) {
                   )}
                 </h4>
                 <p className="news-impact"><strong>{labels.impact}:</strong> {t(news.impact, lang)}</p>
-                {news.bullish && news.bullish.length > 0 && news.bullish[0] !== 'TICKER1' && (
-                  <p className="news-bullish">
-                    <strong>{labels.bullish}:</strong> {news.bullish.join(', ')}
-                  </p>
-                )}
-                {news.bearish && news.bearish.length > 0 && news.bearish[0] !== 'TICKER3' && (
-                  <p className="news-bearish">
-                    <strong>{labels.bearish}:</strong> {news.bearish.join(', ')}
-                  </p>
+                {(news.bullish && news.bullish.length > 0 && news.bullish[0] !== 'TICKER1') ||
+                 (news.bearish && news.bearish.length > 0 && news.bearish[0] !== 'TICKER3') ? (
+                  <div className="impact-grid">
+                    {news.bullish && news.bullish.length > 0 && news.bullish[0] !== 'TICKER1' && (
+                      <div className="impact-column bullish">
+                        <span className="impact-label">{labels.bullish}</span>
+                        <span className="impact-value">{news.bullish.join(', ')}</span>
+                      </div>
+                    )}
+                    {news.bearish && news.bearish.length > 0 && news.bearish[0] !== 'TICKER3' && (
+                      <div className="impact-column bearish">
+                        <span className="impact-label">{labels.bearish}</span>
+                        <span className="impact-value">{news.bearish.join(', ')}</span>
+                      </div>
+                    )}
+                  </div>
+                ) : (
+                  <>
+                    {news.bullish && news.bullish.length > 0 && news.bullish[0] !== 'TICKER1' && (
+                      <p className="news-bullish">
+                        <strong>{labels.bullish}:</strong> {news.bullish.join(', ')}
+                      </p>
+                    )}
+                    {news.bearish && news.bearish.length > 0 && news.bearish[0] !== 'TICKER3' && (
+                      <p className="news-bearish">
+                        <strong>{labels.bearish}:</strong> {news.bearish.join(', ')}
+                      </p>
+                    )}
+                  </>
                 )}
                 {news.macroRisk && t(news.macroRisk, lang) && !t(news.macroRisk, lang).startsWith('[') && (
                   <p className="news-macro">
