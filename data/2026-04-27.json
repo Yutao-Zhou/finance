@@ -1,0 +1,194 @@
+{
+  "date": "2026-04-27",
+  "summary": {
+    "en": "U.S. equity futures are leaning modestly higher, but the real premarket story is cross-asset tension: oil is extending its surge above $109 as U.S.-Iran talks stall and Strait of Hormuz flows stay constrained, while the 10-year Treasury yield edges up to about 4.35%. That keeps the tape investable for tech, but more fragile for the broad market because higher energy and firmer yields revive inflation-risk concerns.",
+    "zh": "美股期货盘前偏强，但真正的主线在跨资产：由于美伊谈判受阻、霍尔木兹海峡运输仍受限制，油价继续冲到 109 美元上方；与此同时，10 年期美债收益率回到约 4.35%。这意味着科技股情绪还能撑住，但大盘层面更脆弱，因为更高的能源价格和收益率重新抬升了通胀风险。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Oil jumps to a two-week high as U.S.-Iran peace talks stall and Hormuz shipments remain limited",
+        "zh": "美伊和谈受阻、霍尔木兹运输仍受限，油价升至两周高位"
+      },
+      "impact": {
+        "en": "This is the main macro driver into the open. Higher crude supports energy producers, but it also tightens financial conditions by lifting inflation expectations, complicating the path for rate cuts and reducing the market’s margin for error.",
+        "zh": "这是今天盘前最核心的宏观驱动。油价上行直接利好能源生产商，但同时会通过抬升通胀预期来收紧金融条件，让降息路径更复杂，也压缩股市的容错空间。"
+      },
+      "bullish": [
+        "XLE",
+        "XOM",
+        "CVX",
+        "COP",
+        "OIH"
+      ],
+      "bearish": [
+        "IWM",
+        "XLY",
+        "航空与运输",
+        "高油耗可选消费"
+      ],
+      "macroRisk": {
+        "en": "Yes. The transmission path runs from oil to inflation expectations, then to Treasury yields and style rotation away from rate-sensitive pockets if energy stays elevated.",
+        "zh": "是。传导路径是油价先推高通胀预期，再抬升美债收益率，并在高油价持续时触发市场从利率敏感板块向能源等防御方向切换。"
+      }
+    },
+    {
+      "title": {
+        "en": "U.S. futures show a split tone: S&P 500 and Nasdaq higher, Dow slightly lower",
+        "zh": "美股期货呈分化：标普与纳指偏涨，道指小幅偏弱"
+      },
+      "impact": {
+        "en": "The split indicates investors are still willing to own growth, but not embracing the whole market. That usually means leadership remains narrow and any rise in yields or oil can quickly cap index breadth.",
+        "zh": "这种分化说明资金仍愿意持有成长股，但并没有全面拥抱整个市场。通常这意味着市场领涨面偏窄，一旦收益率或油价继续上行，指数广度就容易被压制。"
+      },
+      "bullish": [
+        "QQQ",
+        "大型科技",
+        "成长风格"
+      ],
+      "bearish": [
+        "DIA",
+        "价值链下游周期股",
+        "小盘广度"
+      ],
+      "macroRisk": {
+        "en": "No direct systemic shock, but narrow leadership raises fragility if macro headlines worsen.",
+        "zh": "不属于直接系统性冲击，但领涨过窄会放大市场对后续宏观消息的脆弱性。"
+      }
+    },
+    {
+      "title": {
+        "en": "The 10-year Treasury yield rises to about 4.35% as markets reprice inflation risk",
+        "zh": "10 年期美债收益率升至约 4.35%，市场重新计入通胀风险"
+      },
+      "impact": {
+        "en": "A firmer long-end yield is manageable if growth expectations improve, but less friendly when it is driven by oil. That mix tends to pressure valuation-heavy sectors even if index futures remain green.",
+        "zh": "如果长端利率上行来自增长改善，市场通常还能消化；但若主要由油价和通胀预期推动，对高估值板块就不友好。即使指数期货仍为正，高估值资产也会承压。"
+      },
+      "bullish": [
+        "银行息差交易",
+        "价值因子相对收益"
+      ],
+      "bearish": [
+        "长久期科技",
+        "高估值软件",
+        "REITs"
+      ],
+      "macroRisk": {
+        "en": "Yes. If yields keep climbing alongside oil, the market could shift from a growth rally to an inflation scare regime.",
+        "zh": "是。如果收益率与油价同步继续走高，市场可能从增长交易切换为通胀惊吓交易。"
+      }
+    },
+    {
+      "title": {
+        "en": "Shell agrees to buy ARC Resources in a $16.4 billion deal as majors lean into supply security",
+        "zh": "壳牌以 164 亿美元收购 ARC Resources，能源巨头继续押注供应安全"
+      },
+      "impact": {
+        "en": "The deal reinforces how large energy companies are positioning for a world where supply reliability commands a premium. It is supportive for upstream and LNG-linked assets, while reminding equity investors that the energy cycle still has capital behind it.",
+        "zh": "这笔交易强化了一个信号：在供应安全重新变贵的环境里，大型能源公司仍在积极配置资源。这利好上游和 LNG 相关资产，也提醒权益市场能源周期并未结束。"
+      },
+      "bullish": [
+        "XLE",
+        "加拿大能源资产",
+        "LNG 链条"
+      ],
+      "bearish": [
+        "依赖低能源成本的制造业利润率"
+      ],
+      "macroRisk": {
+        "en": "Partial. More sector-specific than macro, but it fits the broader theme of structurally firmer energy pricing.",
+        "zh": "部分属于。它更偏行业事件，但与能源价格中枢结构性抬高的大主题一致。"
+      }
+    },
+    {
+      "title": {
+        "en": "Gold stays firm near record territory while the dollar shows only limited follow-through",
+        "zh": "黄金维持在高位附近，美元并未同步出现强势跟涨"
+      },
+      "impact": {
+        "en": "That combination suggests the market is not in full panic, but it is still paying for geopolitical and inflation hedges. When gold is firm alongside oil, risk appetite can coexist with caution rather than clean risk-on behavior.",
+        "zh": "这说明市场并非完全进入恐慌模式，但仍在为地缘和通胀对冲付费。当黄金和油价同时偏强时，往往意味着市场不是纯粹 risk-on，而是带着防御的冒险。"
+      },
+      "bullish": [
+        "GLD",
+        "金矿股",
+        "防御型配置"
+      ],
+      "bearish": [
+        "纯风险偏好扩张逻辑"
+      ],
+      "macroRisk": {
+        "en": "Yes. Firm gold with firm oil points to hedging demand and argues against complacency on macro risk.",
+        "zh": "是。黄金和油价同步偏强说明对冲需求仍在，不宜对宏观风险掉以轻心。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI remains relatively resilient because Nasdaq futures are still leading, but the backdrop is less clean if yields keep drifting higher. The group still has leadership quality, yet it is no longer insulated from macro duration pressure.",
+      "zh": "AI 方向相对仍有韧性，因为纳指期货继续领涨；但如果收益率继续上行，这条主线就没那么干净了。板块依旧具备领涨属性，只是不再完全免疫于久期压力。"
+    },
+    "semiconductor": {
+      "en": "Semis should trade with the same push-pull as AI: strong structural demand versus a slightly worse rate backdrop. If yields stabilize, chips can resume leadership; if not, beta may fade intraday.",
+      "zh": "半导体大概率延续 AI 的拉扯格局：结构性需求仍强，但利率环境略差。若收益率企稳，芯片股有望继续领涨；若继续上行，盘中弹性可能回落。"
+    },
+    "bigTech": {
+      "en": "Big Tech is still the market’s quality growth shelter. In a mixed tape, cash-rich mega caps can outperform the broader market, though upside may narrow if oil-led inflation fear intensifies.",
+      "zh": "大科技仍是当前市场里的优质成长避风港。在分化市况下，现金流强的大盘科技股仍可能跑赢大盘，但若油价推动的通胀担忧升温，上行空间会被压缩。"
+    },
+    "energy": {
+      "en": "Energy has the clearest near-term tailwind. Elevated crude, tighter flows, and fresh M&A all support the sector, with the main risk being a sudden geopolitical de-escalation that reverses the oil premium.",
+      "zh": "能源板块是当前短线逻辑最清晰的方向。高油价、运输受限和新的并购事件都在支撑板块，主要风险则是地缘局势突然缓和、油价溢价快速回吐。"
+    },
+    "ev": {
+      "en": "EVs face a tougher macro setup. Higher oil is directionally supportive for the electrification story over time, but rising yields and consumer affordability pressure are the more immediate trading forces.",
+      "zh": "电动车面对的宏观环境偏难。高油价长期有利于电动化叙事，但从交易层面看，更直接的变量仍是收益率走高和消费承受力压力。"
+    },
+    "market": {
+      "en": "The broad market looks mixed rather than decisively bullish. Index futures are positive, but cross-asset signals argue for a narrower, more headline-sensitive session.",
+      "zh": "大盘更像分化市，而不是明确的全面看多。虽然指数期货偏正，但跨资产信号提示今天更可能是领涨收窄、对标题更敏感的交易日。"
+    },
+    "preciousMetals": {
+      "en": "Precious metals remain supported by hedging demand. Gold strength is consistent with a market that wants protection against both geopolitics and sticky inflation.",
+      "zh": "贵金属继续受到对冲需求支撑。黄金偏强符合当前市场同时防范地缘风险与黏性通胀的心态。"
+    },
+    "oil": {
+      "en": "Oil is the key cross-asset variable today. As long as Brent holds above $109, markets will have to respect the possibility of higher inflation expectations and a tougher Fed path.",
+      "zh": "今天最关键的跨资产变量就是油价。只要布油维持在 109 美元上方，市场就必须认真对待更高通胀预期和更强硬美联储路径的可能性。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "Reuters market data show S&P 500 futures up about 0.12%, Nasdaq up about 0.20%, and Dow futures down about 0.13%, pointing to a split open led by tech rather than broad risk appetite.",
+      "zh": "根据 Reuters 市场数据，标普 500 期货约涨 0.12%，纳指期货约涨 0.20%，道指期货约跌 0.13%，显示盘前更像科技领涨而非全面风险偏好回升。"
+    },
+    "treasury10Y": {
+      "en": "The U.S. 10-year yield is around 4.348%, up modestly on the session. Watch whether oil-driven inflation repricing pushes it further higher after the cash open.",
+      "zh": "美国 10 年期国债收益率约为 4.348%，当日小幅上行。需要观察现货开盘后，油价驱动的通胀重定价是否会把收益率继续往上推。"
+    },
+    "dxy": {
+      "en": "Reuters page data show EUR/USD at about 1.1713, implying the dollar is not surging even with higher oil and yields. That softens the shock, but does not remove the inflation concern.",
+      "zh": "Reuters 页面数据显示 EUR/USD 约为 1.1713，意味着即便油价和收益率走高，美元也没有出现明显单边冲高。这减弱了冲击强度，但并未消除通胀担忧。"
+    },
+    "oil": {
+      "en": "Brent crude is around $109.7, up roughly 1.4% on Reuters market data after Reuters reported a roughly 3% rally to a two-week high on stalled U.S.-Iran talks and limited Hormuz shipments.",
+      "zh": "Reuters 市场数据显示，布伦特原油约 109.7 美元、上涨约 1.4%；而 Reuters 能源页面同时提到，因美伊谈判受阻和霍尔木兹运输受限，油价周一一度涨约 3% 并触及两周高点。"
+    },
+    "keyRisk": {
+      "en": "The main risk is that oil, yields, and hedging assets all stay firm together. If that combination persists, the market can remain green at the index level while breadth and valuation-sensitive sectors quietly deteriorate.",
+      "zh": "今天最大的风险是油价、收益率和对冲资产同时维持强势。如果这个组合延续，指数层面即使仍是上涨，市场广度和高估值板块也可能在内部悄悄走弱。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Tech leadership keeps risk appetite alive, but oil-led inflation pressure prevents a clean risk-on read. This looks like a mixed session with cross-asset macro dominating stock-specific narratives.",
+      "zh": "科技领涨让风险偏好没有熄火，但油价带来的通胀压力又不足以支持一个干净的 risk-on 判断。今天更像是跨资产宏观主导、个股叙事退居次要的分化交易日。"
+    }
+  }
+}

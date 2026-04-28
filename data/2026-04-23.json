@@ -1,0 +1,172 @@
+{
+  "date": "2026-04-23",
+  "summary": {
+    "en": "U.S. stocks slip as Iran tensions escalate with US interception of three oil tankers, pushing Brent above $94/barrel. Tesla's muted AI progress underperforms, while elevated oil prices weigh on growth stocks and inflate inflation expectations. Geopolitical risk premium dominates the session, forcing a risk-off tilt despite prior gains.",
+    "zh": "美国股市下跌，因伊朗紧张局势升级，美国拦截三艘油轮，布伦特原油突破 94 美元/桶。特斯拉 AI 进展 muted 表现不佳，高油价拖累成长股并推升通胀预期。地缘政治风险溢价主导交易，迫使风险厌恶倾斜，尽管此前有收益。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "U.S. intercepts three Iranian tankers; oil surges above $94, stocks slip",
+        "zh": "美国拦截三艘伊朗油轮；油价飙升突破 94 美元，股市下滑"
+      },
+      "impact": {
+        "en": "US Navy intercepts three Iranian oil tankers in Asian waters—the first direct US action since ceasefire extension. Brent oil jumps 2-3% to $94+/barrel, WTI around $89+. Inflation fears resurface, pressuring growth and energy sectors. Risk sentiment deteriorates sharply.",
+        "zh": "美国海军在亚洲水域拦截三艘伊朗油轮——自停火延长后的首次直接美国行动。布伦特原油跃升 2-3% 至 94+/桶，WTI 约 89+。通胀担忧重临，施压成长和能源板块。风险情绪急剧恶化。"
+      },
+      "bullish": [],
+      "bearish": ["SPX", "NDX", "QQQ", "XLK", "XLF"],
+      "macroRisk": {
+        "en": "High. Geopolitical escalation reopens Hormuz supply concerns, oil-driven inflation expectations, and safe-haven flows. Tech earnings benefit may be overshadowed by macro drag.",
+        "zh": "高。地缘政治升级重开霍尔木兹供应担忧、油价驱动通胀预期和避险流向。科技收益利好可能被宏观拖累掩盖。"
+      }
+    },
+    {
+      "title": {
+        "en": "Tesla's AI plans underwhelm as stock slips; robotaxi timeline unclear",
+        "zh": "特斯拉 AI 计划令人失望，股价下滑；机器人出租车时间线不明"
+      },
+      "impact": {
+        "en": "Tesla fails to impress with AI plans, shares underperform amid broader tech weakness. Robotaxi rollout remains on hold. Investors seek clarity on FSD progress vs. regulatory headwinds. Pure-play AI/robotics stocks rotate into less georisk-exposed plays.",
+        "zh": "特斯拉未能以 AI 计划令人印象深刻，股票在整体科技疲软中落后。Robotaxi 部署保持暂停。投资者寻求 FSD 进展与监管逆风的清晰化。AI/机器人纯概念股票轮动到地缘风险暴露较少的股票。"
+      },
+      "bullish": ["AIQ", "BOTJ", "RIDE"],
+      "bearish": ["TSLA", "RIVN", "LCID"],
+      "macroRisk": {
+        "en": "Medium. Tech-specific disappointment but exacerbated by risk-off rotation away from growth.",
+        "zh": "中等。科技特定失望但被风险厌恶从成长轮出加剧。"
+      }
+    },
+    {
+      "title": {
+        "en": "Gold retreats as oil spike reignites inflation fears; DXY stabilizes",
+        "zh": "金价因油价飙升重燃通胀担忧而退守；DXY 企稳"
+      },
+      "impact": {
+        "en": "Gold spot falls as oil-driven CPI fears override safe-haven status. Real yields may decline but commodity inflation dominates narrative. DXY holds firm as U.S. yield curve steepens on growth/inflation data mix. Energy stocks underperform.",
+        "zh": "现货黄金下跌，因油价驱动 CPI 担忧 override 避险地位。实际收益率可能下降但商品通胀主导叙事。DXY 保持稳固，因美国收益率曲线在增长/通胀数据混合下变陡。能源股表现不佳。"
+      },
+      "bullish": ["OXY", "CVX", "XOM"],
+      "bearish": ["GLD", "SLV", "GOLD", "NEM"],
+      "macroRisk": {
+        "en": "High. Commodity inflation + geopolitical escalation creates inflation-yield-price feedback loop.",
+        "zh": "高。商品通胀 + 地缘政治升级创建通胀 - 收益率 - 价格反馈循环。"
+      }
+    },
+    {
+      "title": {
+        "en": "Semiconductor sector braces for volatility; global fab demand mixed",
+        "zh": "半导体板块为波动准备；全球晶圆厂需求 mixed"
+      },
+      "impact": {
+        "en": "SMH/SOXX under pressure as oil/energy costs rise and risk-off hits growth. AI capex cycle remains strong but consumer tech demand faces inventory correction. Korean/European suppliers resilient but U.S. exposure to Middle East volatility increases.",
+        "zh": "SMH/SOXX 承压，因油/能源成本上升和风险厌恶打击成长。AI 资本支出周期依然强劲但消费科技需求面临库存修正。韩/欧洲供应商稳健，但美国对中东波动暴露增加。"
+      },
+      "bullish": ["SMH", "SOXX"],
+      "bearish": ["NVDA", "AMD", "AVGO"],
+      "macroRisk": {
+        "en": "Medium. Supply chain exposure to volatile regions; energy costs impact margin.",
+        "zh": "中等。供应链暴露于波动区域；能源成本影响利润率。"
+      }
+    },
+    {
+      "title": {
+        "en": "Energy sector mixed as oil up but supply tight; XLE under pressure",
+        "zh": "能源板块 mixed 油价上涨但供应紧张；XLE 承压"
+      },
+      "impact": {
+        "en": "Brent/WTI rise lifts oil majors but supply remains tight from geopolitical risk premium. XLE underperforms despite strong fundamentals as investors price in inflation hedge benefits. Geared energy ETFs see amplified moves.",
+        "zh": "布伦特/WTI 上升提升油巨头但供应紧张源于地缘政治风险溢价。XLE 表现不佳尽管基本面强劲，因投资者定价通胀避险收益。杠杆能源 ETF 见放大变动。"
+      },
+      "bullish": ["XLE", "OIL", "USO"],
+      "bearish": ["XLE"],
+      "macroRisk": {
+        "en": "Medium. Supply tight but geopolitical risk premium dominates pricing. Inflation hedge demand sustains floor.",
+        "zh": "中等。供应紧张但地缘政治风险溢价主导定价。通胀避险需求维持地板。"
+      }
+    },
+    {
+      "title": {
+        "en": "AI enthusiasm tempered by macro; cloud demand remains but growth stocks under pressure",
+        "zh": "AI 热情被宏观制约；云需求保持但成长股承压"
+      },
+      "impact": {
+        "en": "Big tech earnings support MSFT/GOOGL/NVDA but broader risk-off limits multiple expansion. Cloud/infra AI demand steady but valuation compression likely. Retail enthusiasm for crypto AI plays (COIN/HOOD) provides some offset.",
+        "zh": "大科技收益支持 MSFT/GOOGL/NVDA 但整体风险厌恶限制倍数扩张。云/基础设施 AI 需求稳定但估值压缩可能。散户对加密 AI 概念 (COIN/HOOD) 热情提供一些 offset。"
+      },
+      "bullish": ["MSFT", "GOOGL", "COIN"],
+      "bearish": ["AAPL", "AMZN", "META"],
+      "macroRisk": {
+        "en": "Medium. Macro headwinds limit AI multiple expansion despite strong fundamentals.",
+        "zh": "中等。宏观逆风限制 AI 倍数扩张尽管基本面强。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI enthusiasm dampened by risk-off rotation. Cloud/infra beneficiaries (MSFT, GOOGL, NVDA) hold but multiple expansion limited. Crypto-adjacent AI plays (COIN, HOOD) provide relief via crypto rally.",
+      "zh": "AI 热情被风险厌恶轮出 dampened。云/基础设施受益者 (MSFT, GOOGL, NVDA) 保持但倍数扩张受限。加密相关 AI 概念 (COIN, HOOD) 通过加密上涨提供 relief。"
+    },
+    "semiconductor": {
+      "en": "Under pressure from oil cost inflation and risk-off sentiment. Global fab demand robust but U.S. exposure to Middle East volatility increases. Equipment makers and memory suppliers face margin pressure.",
+      "zh": "在油价通胀和风险厌恶情绪下承压。全球晶圆厂需求强劲但美国对中东波动暴露增加。设备制造商和内存供应商面临利润率压力。"
+    },
+    "bigTech": {
+      "en": "Mixed performance. Cloud/AI fundamentals support MSFT/GOOGL/NVDA but growth valuation compression likely. Amazon's infra push and Alphabet's AI ad tech help offset broader weakness.",
+      "zh": "分化表现。云/AI 基本面支持 MSFT/GOOGL/NVDA 但成长估值压缩可能。亚马逊基础设施推动和 Alphabet AI 广告技术帮助 offset 整体疲软。"
+    },
+    "energy": {
+      "en": "Mixed on oil rise but supply tight from geopolitical risk premium. XLE underperforms despite strong fundamentals. Geared ETFs (USO/OIL) see amplified moves as investors price in inflation hedge.",
+      "zh": "油价上涨但供应紧张源于地缘政治风险溢价下 mixed。XLE 表现不佳尽管基本面强劲。杠杆 ETF (USO/OIL) 见放大变动，因投资者定价通胀避险。"
+    },
+    "ev": {
+      "en": "Weak on oil price surge and risk-off rotation. EV infrastructure demand stable but legacy auto OEMs face adoption hurdles. Clean energy theme supports infrastructure plays (Vistra/GE).",
+      "zh": "在油价飙升和风险厌恶轮出下 weak。EV 基础设施需求稳定但传统车企面临采用障碍。清洁能源主题支持基础设施概念 (Vistra/GE)。"
+    },
+    "market": {
+      "en": "Risk-off tilt dominates. Futures decline as oil spike reignites inflation fears. Defensive sectors outperform. Growth stocks under pressure as yield curve steepens and real yields may edge up.",
+      "zh": "风险厌恶倾斜主导。期货下跌因油价飙升重燃通胀担忧。防御板块 outperform。成长股在收益率曲线变陡和实际收益率可能攀升下承压。"
+    },
+    "preciousMetals": {
+      "en": "Gold retreats as oil-driven inflation fears override safe-haven appeal. Real yields may decline but commodity inflation dominates narrative. Silver follows gold's lead lower.",
+      "zh": "黄金退守因油价驱动通胀担忧 override 避险魅力。实际收益率可能下降但商品通胀主导叙事。白银跟随黄金下跌。"
+    },
+    "oil": {
+      "en": "Brent above $94, WTI ~$89+ as Hormuz escalation fears spike after US tanker intercepts. Supply remains tight. Inflation hedge demand sustains floor but volatility elevated.",
+      "zh": "布伦特超过 94 美元，WTI 约 89+ 因霍尔木兹升级担忧在拦截美国油轮后飙升。供应紧张。通胀避险需求维持地板但波动 elevated。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "SPX futures decline (-0.5 to -0.7%), NDX -0.8% to -1.0%, DJI -0.4%. Risk-off sentiment dominates as oil/escalation fears overshadow prior earnings optimism.",
+      "zh": "标普 500 期货下跌 (-0.5 到 -0.7%)，纳斯达克 -0.8% 到 -1.0%，道指 -0.4%。风险厌恶主导，因油价/升级担忧盖过 prior 收益乐观。"
+    },
+    "treasury10Y": {
+      "en": "10Y yield edge higher at 4.29-4.30% as inflation fears resurface. Real yields may edge up despite oil-driven CPI risks. Fed rate cut expectations recalibrate to inflation persistence.",
+      "zh": "10 年期收益率略高至 4.29-4.30% 因通胀担忧重临。实际收益率可能攀升尽管油价驱动 CPI 风险。美联储降息预期重新校准到通胀持久性。"
+    },
+    "dxy": {
+      "en": "DXY flat to slightly lower (-0.05 to -0.10%) as risk-off flows and oil volatility create currency noise. USD holds due to yield curve strength despite geopolitical headwinds.",
+      "zh": "DXY 平或略低 (-0.05 到 -0.10%) 因风险厌恶流和油价波动创建货币噪音。美元因收益率曲线强度保持尽管地缘政治逆风。"
+    },
+    "oil": {
+      "en": "Brent ~$94-96/barrel, WTI ~$89-91. Up on geopolitical escalation but supply tight. Monitor Strait of Hormuz developments closely for further volatility.",
+      "zh": "布伦特约 94-96 美元/桶，WTI 约 89-91 美元。因地缘政治升级上涨但供应紧张。密切监控霍尔木兹海峡动态进一步波动。"
+    },
+    "keyRisk": {
+      "en": "Escalating U.S.-Iran conflict; oil price surge reigniting inflation fears. Middle East supply disruption tail risk remains high. Fed independence under scrutiny as price/data inflation feedback loop emerges.",
+      "zh": "升级的美国 - 伊朗冲突；油价飙升重燃通胀担忧。中东供应中断尾部风险高。美联储独立性受审查因价格/数据通胀反馈循环出现。"
+    }
+  },
+  "judgment": {
+    "type": "risk-off",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Geopolitical escalation dominates, overriding earnings support. Oil-driven inflation fears limit risk-on capacity. Defensive rotation likely. Monitor for further escalation triggers or oil price breaks.",
+      "zh": "地缘政治升级主导，盖过收益支持。油价驱动通胀担忧限制风险 on 能力。防御轮动可能。监控进一步升级触发点或油价突破。"
+    }
+  }
+}
