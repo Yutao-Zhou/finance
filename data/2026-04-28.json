@@ -1,0 +1,156 @@
+{
+  "date": "2026-04-28",
+  "summary": {
+    "en": "Geopolitical tensions in the Middle East push oil above $110, reigniting inflation concerns as Fed policy uncertainty looms ahead of big tech earnings. Tech futures slip on AI jitters despite record highs, while energy names benefit from the oil surge.",
+    "zh": "中东地缘政治紧张推高油价突破 110 美元，通胀担忧再起，加上美联储政策不确定性 looming，正值科技股财报季前夕。科技股因 AI 焦虑回落，尽管指数仍处高位；能源股因油价上涨受益。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Oil Surges Above $110 on Middle East Tensions",
+        "zh": "中东局势推动油价突破 110 美元"
+      },
+      "impact": {
+        "en": "Oil spike from Hormuz/Uran conflict risks rekindles stagflation fears. BP profits more than double as energy supermajors boost on fuel prices. Transmission path: higher oil → inflation expectations up → Fed rate cut probability down → tech valuations pressured.",
+        "zh": "霍尔木兹/伊朗冲突风险推高油价，引发滞胀担忧。BP 盈利因燃料价格飙升翻倍。传导路径：油价上涨→通胀预期上升→降息概率下降→科技股估值承压。"
+      },
+      "bullish": ["XOM", "CVX", "COP", "BP", "SLB"],
+      "bearish": ["TSLA", "UAA", "JPM", "XOM (consumer demand risk)"],
+      "macroRisk": {
+        "en": "Yes - Oil price shock adds to inflation risk, constrains Fed cutting space, benefits energy cyclicals, pressures rate-sensitive tech and consumer names.",
+        "zh": "是 - 油价冲击加大通胀风险，压缩 Fed 降息空间，利好能源周期股，压制对利率敏感的科技和消费股。"
+      }
+    },
+    {
+      "title": {
+        "en": "Big Tech Earnings Week: Nvidia, Amazon Lead 180 S&P Components",
+        "zh": "科技股财报周：Nvidia、Amazon 领衔 180 家 S&P 公司"
+      },
+      "impact": {
+        "en": "180 S&P 500 companies report this week with megacaps as focal points. Nvidia and Amazon weigh heavily on indices. Earnings expectations set tone for risk-off vs. risk-on pivot post-April highs.",
+        "zh": "本周 180 家 S&P 500 公司发布财报，科技巨头为重点。Nvidia 和 Amazon 对指数影响大。财报预期将决定风险偏好从高位后的走向。"
+      },
+      "bullish": ["NVDA", "AMZN", "MSFT", "GOOGL"],
+      "bearish": ["META", "NFLX", "BABA"],
+      "macroRisk": {
+        "en": "Yes - Earnings miss or guidance weakness could trigger broad tech selloff and risk-off rotation, especially if oil/inflation backdrop worsens.",
+        "zh": "是 - 财报或指引不及可能触发科技股抛售和风险偏好切换，尤其在油价/通胀背景恶化时。"
+      }
+    },
+    {
+      "title": {
+        "en": "Dalio Warns of Stagflation; Fed Rate Cut Outlook Dimming",
+        "zh": "Dalio 警告滞胀风险，Fed 降息前景黯淡"
+      },
+      "impact": {
+        "en": "Ray Dalio says Fed shouldn't cut rates amid stagflation risks. Market priced for cuts; hawkish hold from BOJ reinforces global central bank divergence. Sticky inflation + supply shocks constrain policy easing.",
+        "zh": "Dalio 称滞胀风险下 Fed 不应降息。市场原本计价降息，日本央行鹰派持稳强化全球央行分化。通胀粘性 + 供给冲击限制宽松政策。"
+      },
+      "bullish": ["GLD", "SLV", "PDBC", "XLE"],
+      "bearish": ["TLT", "VEA", "VWO", "XLI"],
+      "macroRisk": {
+        "en": "Yes - Fed policy pivot delayed or reversed increases discount rates, pressures long-duration tech, and favors value/cyclicals over growth.",
+        "zh": "是 - Fed 转向推迟或逆转将提高折现率，压制长久期科技股，利好价值和周期股而非成长股。"
+      }
+    },
+    {
+      "title": {
+        "en": "CATL Announces $5B Hong Kong Share Placement",
+        "zh": "宁德时代宣布 50 亿港元港股配售计划"
+      },
+      "impact": {
+        "en": "CATL seeking HK$39.2B (~$5B) to expand overseas production and capacity. Shares slide on placement concerns. EV sector faces margin pressure and capex intensity amid competition.",
+        "zh": "宁德时代拟募资约 50 亿港元用于海外产能扩张。配售消息引发股价下跌。电动车板块面临利润率压力和资本开支强度竞争。"
+      },
+      "bullish": ["TSLA", "F", "GM", "RIVN"],
+      "bearish": ["CATL", "ALB", "SQM"],
+      "macroRisk": {
+        "en": "No - Company-specific capex/dilution story, but reflects EV sector margin and competition dynamics.",
+        "zh": "否 - 公司特定资本开支/稀释事件，但反映电动车行业利润率和竞争态势。"
+      }
+    },
+    {
+      "title": {
+        "en": "Dow Jones Erases 300-Point Gain as Losses Deepen Midday",
+        "zh": "道指抹去 300 点涨幅，午盘下跌加深"
+      },
+      "impact": {
+        "en": "Intraday volatility signals rotation away from rate-sensitive names as oil and bond yields rise. Mixed signals: S&P 500 and Nasdaq make modest gains, but Dow underperforms on energy/consumer rotation.",
+        "zh": "盘中波动显示资金从对利率敏感股撤出，油价和债利率上升。信号混杂：标普和纳指小幅上涨，但道指因能源/消费切换表现落后。"
+      },
+      "bullish": ["XOM", "CVX", "COP", "SLB"],
+      "bearish": ["AAPL", "JPM", "MS", "DIS"],
+      "macroRisk": {
+        "en": "No - Intraday rotation reflects short-term flow dynamics rather than systemic shift.",
+        "zh": "否 - 日内轮动反映短期资金流动而非系统性转变。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Mixed on earnings prep: Nvidia guidance critical post-April highs. AI momentum tested as valuations stretch. Bullish on leaders, cautious on laggards.",
+      "zh": "财报季前夕混合信号：Nvidia 指引关键，四月高点后表现。AI 动量面临估值压力。龙头乐观，落后者谨慎。"
+    },
+    "semiconductor": {
+      "en": "Chips long, software short per RBC. Supply-demand dynamics intact but cyclical headwinds possible if demand weakens.",
+      "zh": "芯片长期乐观、软件短期谨慎（RBC）。供需基本面仍好，但需求下滑可能引发周期压力。"
+    },
+    "bigTech": {
+      "en": "Megacaps test this week with earnings. Oil pressure on consumer names, AI optimism on leaders. Rotation risk elevated.",
+      "zh": "科技巨头本周财报测试。油价施压消费相关股，AI 乐观支撑龙头。轮动风险上升。"
+    },
+    "energy": {
+      "en": "Oil surge above $110 boosts XOM, CVX, BP. Energy supermajors outperform on trading contributions. Favored style in inflation shock.",
+      "zh": "油价突破 110 美元利好 XOM、CVX、BP。能源巨头因交易贡献跑赢。通胀冲击下风格占优。"
+    },
+    "ev": {
+      "en": "Pressure from margin concerns and CATL dilution. TSLA, GM, F face capex intensity. Long-term AI narrative intact, near-term volatility up.",
+      "zh": "利润率担忧和 CATL 稀释带来压力。TSLA、GM、F 面临资本开支强度。长期 AI 叙事完好，短期波动上升。"
+    },
+    "market": {
+      "en": "S&P 500 and Nasdaq make modest gains, Dow underperforms. Mixed signals: tech highs vs. oil-driven rotation. Risk-on sentiment fading.",
+      "zh": "标普和纳指小幅上涨，道指表现落后。信号混杂：科技高位 vs. 油价驱动的轮动。风险偏好情绪消退。"
+    },
+    "preciousMetals": {
+      "en": "Benefit from stagflation hedge demand. GLD, SLV favored as inflation risks rise. Safe-haven flows potential if geopolitics escalates.",
+      "zh": "滞胀对冲需求支撑。通胀风险上升利好 GLD、SLV。若地缘政治升级，避险资金可能流入。"
+    },
+    "oil": {
+      "en": "Hormuz tension and Iran war risk push oil above $110. BP, XOM, CVX report strong trading. Supply shock narrative dominant.",
+      "zh": "霍尔木兹紧张和伊朗战争风险推高油价至 110 美元以上。BP、XOM、CVX 交易强劲。供给冲击叙事主导。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 futures down 0.16% near 7,160; Dow Jones flat to slightly negative. Nasdaq mixed on tech earnings uncertainty.",
+      "zh": "标普期货跌 0.16% 约 7160；道指平盘略负。纳指因科技财报不确定性震荡。"
+    },
+    "treasury10Y": {
+      "en": "10Y yield coiling for breakout; spike on oil-driven inflation expectations would pressure tech valuations. Watch for 4.3-4.5% level.",
+      "zh": "10 年期收益率即将突破；油价驱动通胀预期推升将压制科技估值。关注 4.3-4.5% 区间。"
+    },
+    "dxy": {
+      "en": "DXY elevated as US safety trade amid global uncertainty. RBC Calvasina sees US as global safety trade.",
+      "zh": "DXY 因全球不确定性下美国避险地位走强。RBC Calvasina 认为美国作为全球避险资产。"
+    },
+    "oil": {
+      "en": "Brent/WTI above $110 on Middle East tension. BP profits double on trading. Supply risk dominant narrative.",
+      "zh": "布伦特/WTI 因中东紧张突破 110 美元。BP 交易盈利翻倍。供给风险主导叙事。"
+    },
+    "keyRisk": {
+      "en": "Oil price shock → inflation expectations → Fed policy delay → tech selloff. Earnings miss from megacaps could trigger broader rotation.",
+      "zh": "油价冲击→通胀预期→Fed 政策延迟→科技股抛售。科技巨头财报不及可能触发更大范围轮动。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Geopolitics-driven oil spike creates bifurcation: energy cyclicals benefit while tech valuations pressured. Earnings will determine if rotation deepens. Mixed tape with event-driven flavor.",
+      "zh": "地缘政治驱动的油价上涨导致分化：能源周期股受益而科技估值承压。财报将决定轮动是否深化。混合走势带事件驱动特征。"
+    }
+  }
+}

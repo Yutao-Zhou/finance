@@ -1,0 +1,169 @@
+{
+  "date": "2026-04-20",
+  "summary": {
+    "en": "Stock futures point to mixed open as AI sector rally continues amid Google TPU launch and TSMC earnings momentum. Geopolitical risk premium remains embedded in oil prices despite Hormuz opening. 10Y yields stabilize near 4.27%.",
+    "zh": "股市期货指向混合开盘，AI 板块在 Google TPU 发布和台积电财报带动下继续反弹。尽管霍尔木兹开放，油价仍嵌入了地缘政治风险溢价。10 年期美债收益率稳定在 4.27% 附近。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Google challenges NVIDIA's AI chip dominance with new TPUs ahead of earnings",
+        "zh": "Google 在新财报前推出新 TPU 挑战 Nvidia AI 芯片主导地位"
+      },
+      "impact": {
+        "en": "Competitive pressure intensifies in AI hardware. Beneficial for diversification but risks Nvidia pricing power narrative.",
+        "zh": "AI 硬件竞争加剧。利好多元化，但可能削弱 Nvidia 定价权叙事。"
+      },
+      "bullish": ["GOOGL", "NVDA", "AMD"],
+      "bearish": ["AI infrastructure monopoly thesis"],
+      "macroRisk": {
+        "en": "No - Sector competition accelerates innovation but maintains overall AI growth thesis.",
+        "zh": "否 - 行业竞争加速创新但维持整体 AI 增长叙事。"
+      }
+    },
+    {
+      "title": {
+        "en": "TSMC Q1 2026 earnings: Record revenue on strong AI chip demand",
+        "zh": "台积电 Q1 2026 财报：强劲 AI 芯片需求带动创纪录营收"
+      },
+      "impact": {
+        "en": "Supply chain validation for AI boom. Foundry leader confirms demand sustainability across data center segment.",
+        "zh": "AI 繁荣的供应链验证。代工厂龙头确认数据中心需求可持续性。"
+      },
+      "bullish": ["SMH", "NVDA", "AMD", "AVGO"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - Positive capital expenditure signal from hyperscalers.",
+        "zh": "否 - 超大规模数据中心资本支出正面信号。"
+      }
+    },
+    {
+      "title": {
+        "en": "Palantir earnings +70%: Record AI boom rally continues",
+        "zh": "Palantir 财报上涨 70%，AI 繁荣行情持续"
+      },
+      "impact": {
+        "en": "Government and commercial AI adoption accelerating. SaaS metrics exceed Street expectations.",
+        "zh": "政府和商业 AI 采用加速。SaaS 指标超出市场预期。"
+      },
+      "bullish": ["PLTR", "AI", "C3"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - Sector-specific growth story independent of macro environment.",
+        "zh": "否 - 板块特定增长故事独立于宏观环境。"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil at 95.11 despite Hormuz opening as Iran war premium persists",
+        "zh": "伊朗战争溢价持续，霍尔木兹开放后油价仍维持在 95.11"
+      },
+      "impact": {
+        "en": "Geopolitical risk dominates supply logic. High oil prices sustain energy sector but risk inflation repricing.",
+        "zh": "地缘政治风险主导供应逻辑。高油价支撑能源板块但风险通胀重新定价。"
+      },
+      "bullish": ["XLE", "XOM", "CVX", "COP"],
+      "bearish": ["Consumer discretionary", " Airlines"],
+      "macroRisk": {
+        "en": "Yes - Persistent oil premium complicates inflation-Fed policy dynamics.",
+        "zh": "是 - 持续的油价溢价使通胀-美联储政策动态复杂化。"
+      }
+    },
+    {
+      "title": {
+        "en": "Gold rises 1.13% to $4,802 amid safe haven flows and weaker dollar",
+        "zh": "黄金避险资金和美元走弱推动下上涨 1.13% 至 4802 美元"
+      },
+      "impact": {
+        "en": "Real rates decline supports precious metals. Gold-hedged portfolios benefit from geopolitical uncertainty.",
+        "zh": "实际利率下降支撑贵金属。地缘政治不确定性下黄金对冲组合受益。"
+      },
+      "bullish": ["GLD", "GOLD", "NEM"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Partial - Diversification hedge but industrial demand concerns for silver.",
+        "zh": "部分 - 分散化对冲但白银面临工业需求担忧。"
+      }
+    },
+    {
+      "title": {
+        "en": "Cadence Design Systems up 7.9% on AI ties with Google and NVIDIA",
+        "zh": "Cadence 因与 Google 和 Nvidia 的 AI 合作上涨 7.9%"
+      },
+      "impact": {
+        "en": "Design tool demand from AI chip complexity surge. EDA sector benefits from capex cycles.",
+        "zh": "AI 芯片复杂性激增带动设计工具需求。电子设计自动化板块受益于资本支出周期。"
+      },
+      "bullish": ["CDNS", "SMH", "ANSS"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - Sector tailwind from AI infrastructure buildout.",
+        "zh": "否 - AI 基础设施建设推动板块顺风。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector rally continues on TSMC earnings and Google TPU news. Competitive dynamics intensify but fundamentals remain strong.",
+      "zh": "AI 板块在台积电财报和 Google TPU 消息下继续反弹。竞争动态加剧但基本面保持强劲。"
+    },
+    "semiconductor": {
+      "en": "Semiconductor rally driven by AI demand and rate-sensitive growth story. TSMC earnings validate supply chain.",
+      "zh": "半导体板块在 AI 需求和利率敏感成长股推动下反弹。台积电财报验证供应链。"
+    },
+    "bigTech": {
+      "en": "Magnificent seven positioned well with cloud growth and AI monetization. Google's TPU launch diversifies AI hardware options.",
+      "zh": "七巨头在云增长和 AI 变现方面布局良好。Google TPU 发布分散 AI 硬件选项。"
+    },
+    "energy": {
+      "en": "Energy sector benefits from persistent oil premiums despite Hormuz opening. Watch inflation repricing risk.",
+      "zh": "尽管霍尔木兹开放，能源板块受益于持续的油价溢价。关注通胀重新定价风险。"
+    },
+    "ev": {
+      "en": "EV sector faces mixed backdrop with high oil prices reducing urgency but supply chain costs pressing margins.",
+      "zh": "电动车板块在高油价降低紧迫性但供应链成本挤压利润率下前景复杂。"
+    },
+    "market": {
+      "en": "Broad market mixed on open. AI strength offsets energy inflation concerns. Risk appetite medium.",
+      "zh": "大盘开盘分化。AI 强势对冲能源通胀担忧。风险偏好中等。"
+    },
+    "preciousMetals": {
+      "en": "Gold rallies on safe haven flows and declining real rates. Silver mixed by industrial metal concerns.",
+      "zh": "黄金在避险资金和实际利率下降推动下反弹。白银受工业金属担忧拖累表现复杂。"
+    },
+    "oil": {
+      "en": "Oil maintains high levels at 95+ despite Hormuz opening. Geopolitical Iran war premium dominates supply logic.",
+      "zh": "油价维持在 95 美元以上，尽管霍尔木兹开放。伊朗战争地缘政治溢价主导供应逻辑。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 futures slightly higher on AI momentum. Nasdaq expected to lead on tech earnings backdrop.",
+      "zh": "标普 500 期货在 AI 势头推动下小幅上涨。纳指在科技财报背景下领涨。"
+    },
+    "treasury10Y": {
+      "en": "10Y yield stabilizes near 4.27%. Rate relief hopes fade as oil inflation premium persists.",
+      "zh": "10Y 收益率稳定在 4.27% 附近。油价通胀溢价持续，降息希望消退。"
+    },
+    "dxy": {
+      "en": "DXY faces moderate headwinds from safe haven flows to gold but remains resilient.",
+      "zh": "DXY 因黄金避险资金面临中等阻力但仍保持韧性。"
+    },
+    "oil": {
+      "en": "Brent crude 95.11, WTI expected near 87. Geopolitical supply risk overshadows inventory data.",
+      "zh": "布伦特原油 95.11，预计 WTI 在 87 附近。地缘供应风险掩盖库存数据。"
+    },
+    "keyRisk": {
+      "en": "Oil price sustainability amid persistent Iran war tensions. Monitor inflation repricing for Fed policy implications.",
+      "zh": "伊朗战争持续紧张下的油价可持续性。监控通胀重新定价对美联储政策影响。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": "medium",
+    "note": {
+      "en": "AI strength offsets energy inflation concerns. Mixed judgment due to oil premium complicating Fed policy. Monitor geopolitical developments.",
+      "zh": "AI 强势对冲能源通胀担忧。油价溢价使美联储政策复杂化导致判断分化。监控地缘政治发展。"
+    }
+  }
+}
