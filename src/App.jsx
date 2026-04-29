@@ -181,7 +181,7 @@ function ReportCard({ report, lang }) {
           <div className="sector-grid">
             {Object.entries(sectorRadar).map(([key, value]) => (
               t(value, lang) && !t(value, lang).startsWith('[') && (
-                <div key={key} className="sector-item">
+                <div key={key} className="sector-item" data-sector={key}>
                   <h4 className="sector-name">{t(sectorNames[key], lang)}</h4>
                   <p className="sector-desc">{t(value, lang)}</p>
                 </div>

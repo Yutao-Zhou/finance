@@ -440,9 +440,47 @@ body {
 
 .sector-name {
   font-size: 0.85rem;
-  color: var(--accent-blue);
   text-transform: capitalize;
   margin-bottom: 0.25rem;
+  font-weight: 600;
+}
+
+/* Sector-specific colors */
+.sector-item[data-sector="ai"] .sector-name {
+  color: #A78BFA;
+}
+
+.sector-item[data-sector="semiconductor"] .sector-name {
+  color: #60A5FA;
+}
+
+.sector-item[data-sector="bigTech"] .sector-name {
+  color: #22D3EE;
+}
+
+.sector-item[data-sector="energy"] .sector-name {
+  color: #FB923C;
+}
+
+.sector-item[data-sector="ev"] .sector-name {
+  color: #34D399;
+}
+
+.sector-item[data-sector="market"] .sector-name {
+  color: #E5E7EB;
+}
+
+.sector-item[data-sector="preciousMetals"] .sector-name {
+  color: #FACC15;
+}
+
+.sector-item[data-sector="oil"] .sector-name {
+  color: #F59E0B;
+}
+
+/* Light mode adjustments */
+html.light-mode .sector-item[data-sector="market"] .sector-name {
+  color: #1F2937;
 }
 
 .sector-desc {
