@@ -1,0 +1,156 @@
+{
+  "date": "2026-04-29",
+  "summary": {
+    "en": "Fed holds rates steady amid record dissent as Iran-UAE geopolitical tensions reshape oil supply outlook. Powell's final press conference underscores policy uncertainty, while market recalibrates on OPEC dynamics and energy security risks.",
+    "zh": "Fed 维持利率不变，分歧程度达 1992 年来最高，伊朗-阿联酋地缘政治紧张重塑石油供应前景。Powell 的最终记者会凸显政策不确定性，市场对 OPEC 格局和能源安全风险重新定价。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Fed Holds Rates Steady, Powell Delivers Final Press Conference Amid 1992-Level Dissent",
+        "zh": "Fed 维持利率不变，Powell 在分歧达 1992 年来最高水平下发表最终记者会"
+      },
+      "impact": {
+        "en": "Highest level of FOMC dissent since 1992 signals deep policy uncertainty ahead. Powell's likely final press conference as central bank leader provides critical guidance. Markets reassess rate cut expectations as inflation dynamics remain sticky post-war shock.",
+        "zh": "FOMC 分歧达 1992 年来最高，预示政策前景充满不确定性。Powell 作为央行领袖的最终记者会提供关键指引。市场重新评估降息预期，通胀动态在战争冲击后仍具粘性。"
+      },
+      "bullish": ["SPY", "TLT (if yields stabilize)"],
+      "bearish": ["TSLA", "XLK", "XLI"],
+      "macroRisk": {
+        "en": "Yes - Record dissent implies potential policy pivot risk. Sticky inflation + supply shocks constrain easing, pressures long-duration assets.",
+        "zh": "是 - 记录性分歧暗示政策转向风险。通胀粘性 + 供给冲击限制宽松，压制长久期资产。"
+      }
+    },
+    {
+      "title": {
+        "en": "UAE Exits OPEC, Iran War Escalates: Oil Supply Outlook Complicates",
+        "zh": "阿联酋退出 OPEC，伊朗战争升级：石油供应前景复杂化"
+      },
+      "impact": {
+        "en": "UAE OPEC exit + Iran war developments create supply shock narrative. European stocks fell on this news. Oil price surge drives inflation expectations higher, forcing market to recalibrate energy security premium. BP profits more than double on trading contributions.",
+        "zh": "阿联酋退出 OPEC+ 伊朗战争进展形成供给冲击叙事。欧股因此消息下跌。油价飙升推高通胀预期，市场重新定价能源安全溢价。BP 因交易贡献盈利翻倍。"
+      },
+      "bullish": ["XOM", "CVX", "COP", "BP", "SLB", "XLE"],
+      "bearish": ["TSLA", "JPM", "DIS", "XLI"],
+      "macroRisk": {
+        "en": "Yes - Oil price shock adds stagflation risk, compresses Fed cutting space, benefits energy cyclicals, pressures rate-sensitive growth and consumer names.",
+        "zh": "是 - 油价冲击加大滞胀风险，压缩 Fed 降息空间，利好能源周期股，压制对利率敏感的成长和消费股。"
+      }
+    },
+    {
+      "title": {
+        "en": "Mortgage Rates Move Higher Amid Iran War Developments",
+        "zh": "伊朗战争进展推动房贷利率上升"
+      },
+      "impact": {
+        "en": "Geopolitical escalation pushes risk premiums into fixed income markets. Mortgage rates move higher as investors demand compensation for uncertainty. Real estate and homebuilder sectors face headwinds as borrowing costs rise.",
+        "zh": "地缘政治升级推高固定收益市场风险溢价。投资者因不确定性要求补偿，房贷利率上升。房地产和建筑商行业因借贷成本上升面临压力。"
+      },
+      "bullish": ["XOM", "GLD", "TLT (if safe-haven flows dominate)"],
+      "bearish": ["ITB", "PHM", "LEN", "TSLA", "JPM", "MS"],
+      "macroRisk": {
+        "en": "Yes - Rising mortgage rates constrain housing demand, broader credit conditions tighten, pressures rate-sensitive cyclical sectors.",
+        "zh": "是 - 房贷利率上升抑制住房需求，更广泛的信贷条件收紧，压制对利率敏感的周期板块。"
+      }
+    },
+    {
+      "title": {
+        "en": "PayPal Restructures Venmo as Standalone Business Unit Amid M&A Scrutiny",
+        "zh": "PayPal 重组 Venmo 为独立业务单元，面临并购审查"
+      },
+      "impact": {
+        "en": "PayPal's strategic move makes Venmo standalone as potential buyers circle. Digital payments sector dynamics shift as consolidation continues. Reflects broader fintech M&A activity amid regulatory scrutiny.",
+        "zh": "PayPal 战略举措使 Venmo 独立，潜在买家关注。数字支付行业格局变化，整合持续。反映 fintech 并购活动在监管审查下的态势。"
+      },
+      "bullish": ["PYPL", "SQ", "V", "MA"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - Company-specific strategic repositioning, not systemically material.",
+        "zh": "否 - 公司特定战略重新定位，非系统性重要事件。"
+      }
+    },
+    {
+      "title": {
+        "en": "Bill Ackman's Pershing Square USA IPO Trades Below Offering Price",
+        "zh": "Bill Ackman 的 Pershing Square USA IPO 交易价格低于发行价"
+      },
+      "impact": {
+        "en": "Pershing Square USA starts trading well below IPO price, reminiscent of Berkshire-style concentrated value approach. Activist investor sentiment tested as new vehicle faces market skepticism. Highlights premium valuations for specialized investment vehicles.",
+        "zh": "Pershing Square USA 以明显低于 IPO 价格开盘，类似伯克希尔式集中价值方法。活跃投资者情绪受考验，新工具面临市场怀疑。凸显专业投资工具的高溢价估值。"
+      },
+      "bullish": ["PSAUX", "BRK.B"],
+      "bearish": ["PSAUX (short-term)"],
+      "macroRisk": {
+        "en": "No - Specific to this investment vehicle, but signals market skepticism on activist premium valuations.",
+        "zh": "否 - 特定于该投资工具，但反映市场对活跃投资者高溢价估值的怀疑。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Cautious on AI momentum amid geopolitical uncertainty. Valuation stretches tested as Fed dissent signals policy inflection. Leaders with pricing power favored over speculative names.",
+      "zh": "地缘政治不确定性下对 AI 动量谨慎。Fed 分歧信号预示政策拐点，估值压力测试。具定价权的龙头优于投机股。"
+    },
+    "semiconductor": {
+      "en": "Mixed: Supply-demand fundamentals intact but cyclical headwinds from rate sensitivity. China exposure and energy costs weigh on sentiment.",
+      "zh": "混合：供需基本面完好，但对利率敏感带来周期压力。中国风险加能源成本压制情绪。"
+    },
+    "bigTech": {
+      "en": "Megacaps face headwinds from rising rates and oil-driven inflation concerns. AI narrative remains intact for leaders with cash flow visibility.",
+      "zh": "科技巨头面临利率上升和油价驱动通胀担忧的压力。AI 叙事对现金流可视性强的龙头仍完好。"
+    },
+    "energy": {
+      "en": "Oil supply shock narrative dominates. UAE OPEC exit + Iran war creates premium pricing. XOM, CVX, BP outperform on trading contributions and margin expansion.",
+      "zh": "石油供给冲击叙事主导。阿联酋退出 OPEC+ 伊朗战争创造溢价定价。XOM、CVX、BP 因交易贡献和利润率扩张跑赢。"
+    },
+    "ev": {
+      "en": "Pressure from higher oil prices paradoxically boosts alternative fuel narrative, but margin concerns and rate-sensitive valuations weigh. CATL dilution concerns linger.",
+      "zh": "高油价 paradoxically 强化替代燃料叙事，但利润率担忧和利率敏感估值压制压力。CATL 稀释担忧犹存。"
+    },
+    "market": {
+      "en": "Mixed signals: Fed dissent creates uncertainty, oil shock drives sector rotation. European stocks fell on OPEC news. Risk-on sentiment challenged.",
+      "zh": "信号混杂：Fed 分歧造成不确定性，油价冲击驱动板块轮动。欧股因 OPEC 消息下跌。风险偏好情绪受挑战。"
+    },
+    "preciousMetals": {
+      "en": "Benefit from stagflation hedge and geopolitical risk premium. GLD, SLV favored as safe-haven demand rises amid Middle East volatility.",
+      "zh": "滞胀对冲和地缘风险溢价支撑。中东波动下避险需求上升，利好 GLD、SLV。"
+    },
+    "oil": {
+      "en": "Supply shock narrative: UAE OPEC exit + Iran war escalation pushes oil prices higher. BP profits double on trading. Energy supermajors outperform on volume and margin.",
+      "zh": "供给冲击叙事：阿联酋退出 OPEC+ 伊朗战争升级推高油价。BP 交易盈利翻倍。能源巨头因量和价跑赢。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "US equity futures mixed following European selloff on OPEC news. S&P 500 futures test support as oil-driven inflation concerns weigh. Nasdaq under pressure from rate sensitivity.",
+      "zh": "美股期货欧股因 OPEC 消息下跌后震荡。标普期货测试支撑位，油价驱动通胀担忧压制。纳指受利率敏感性压力。"
+    },
+    "treasury10Y": {
+      "en": "10Y yield elevated on inflation fears and geopolitical risk premium. Watch for 4.2-4.5% range. Safe-haven flows may provide temporary support.",
+      "zh": "10 年期收益率因通胀担忧和地缘风险溢价处于高位。关注 4.2-4.5% 区间。避险资金可能提供临时支撑。"
+    },
+    "dxy": {
+      "en": "DXY strengthens on US safety trade and Fed policy uncertainty. Dollar benefits as global risk sentiment deteriorates on Middle East developments.",
+      "zh": "DXY 因美国避险交易和 Fed 政策不确定性走强。美元因中东进展恶化、全球风险情绪下降而受益。"
+    },
+    "oil": {
+      "en": "Oil price surge on UAE OPEC exit and Iran war escalation. Brent/WTI premium elevated. Supply shock narrative drives energy sector outperformance.",
+      "zh": "油价因阿联酋退出 OPEC+ 伊朗战争升级而飙升。布伦特/WTI 溢价高企。供给冲击叙事驱动能源板块跑赢。"
+    },
+    "keyRisk": {
+      "en": "Oil price shock → inflation expectations → Fed policy uncertainty → tech selloff. Middle East escalation could trigger broader risk-off rotation. Fed dissent signals potential pivot risk.",
+      "zh": "油价冲击→通胀预期→Fed 政策不确定性→科技股抛售。中东升级可能触发更大范围风险偏好切换。Fed 分歧信号预示潜在转向风险。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Geopolitical shock creates bifurcated market: energy cyclicals benefit from oil supply dynamics while rate-sensitive tech and consumer names face headwinds. Fed dissent adds policy uncertainty. Mixed tape with event-driven flavor dominates.",
+      "zh": "地缘政治冲击造成分化市场：能源周期股受益于石油供应动态，而对利率敏感的科技和消费股面临压力。Fed 分歧增加政策不确定性。事件驱动特征主导混合走势。"
+    }
+  }
+}
