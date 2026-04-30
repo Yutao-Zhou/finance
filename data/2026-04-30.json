@@ -1,0 +1,156 @@
+{
+  "date": "2026-04-30",
+  "summary": {
+    "en": "Oil surges to 4-year highs amid Iran war escalation, pushing Brent above $114/barrel and raising inflation concerns. US stocks close near record highs as tech earnings offset energy-driven headwinds. Fed policy uncertainty persists with record-level dissent.",
+    "zh": "油价因伊朗战争升级飙升至 4 年高位，布油突破 114 美元/桶，引发通胀担忧。美股收盘逼近历史高位，科技财报抵消能源领域压力。Fed 政策不确定性持续，分歧达纪录水平。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Oil Strikes 4-Year High on Iran War Fears, Brent Surges Above $114",
+        "zh": "伊朗战争担忧推动油价触及 4 年高位，布油升破 114 美元"
+      },
+      "impact": {
+        "en": "Fresh escalation in U.S.-Iran hostilities sent Brent crude to a four-year peak before retreating to $114. Oil market remains in backwardation, signaling supply shortage expectations. Energy sector outperforms broadly as $100+ oil reshapes inflation dynamics and Fed easing timeline.",
+        "zh": "美伊敌对行动升级推动布油触及 4 年高位后回落至 114 美元。石油市场处于贴水状态，预示供应短缺预期。能源板块普遍跑赢，$100+ 油价重塑通胀动态和 Fed 宽松时间表。"
+      },
+      "bullish": ["XOM", "CVX", "COP", "SLB", "XLE", "OXY", "CNP"],
+      "bearish": ["TSLA", "RIVN", "F", "GM", "XLI", "XLY"],
+      "macroRisk": {
+        "en": "Yes - Oil price shock compresses Fed rate-cutting space, risks stagflation, pressures rate-sensitive growth names and consumer discretionary. Commodity backwardation signals immediate supply concerns.",
+        "zh": "是 - 油价冲击压缩 Fed 降息空间，加大滞胀风险，压制对利率敏感的成长股和可选消费。商品贴水反映即时供应担忧。"
+      }
+    },
+    {
+      "title": {
+        "en": "Microsoft Shares Slide Despite Beat: OpenAI Exposure and Capex Concerns Cloud Outlook",
+        "zh": "微软股价承压：财报虽超预期，OpenAI 风险与资本开支担忧压制前景"
+      },
+      "impact": {
+        "en": "Microsoft delivered solid earnings but shares declined as investors scrutinize OpenAI investment risk and AI capex trajectory. Concerns over sustainable AI monetization weigh on mega-cap tech. Cloud growth remains strong but margin pressure from AI infrastructure investments evident.",
+        "zh": "微软财报稳健但股价下跌，投资者关注 OpenAI 投资风险和 AI 资本开支路径。对 AI 可持续变现的担忧压制科技巨头。云业务增长强劲，但 AI 基础设施投资导致利润率压力。"
+      },
+      "bullish": ["MSFT", "GOOGL", "AMZN"],
+      "bearish": ["MSFT (short-term)", "NVDA", "META", "XLK"],
+      "macroRisk": {
+        "en": "No - Company-specific headwinds but reflects broader AI capex sustainability concerns among investors.",
+        "zh": "否 - 公司特定压力，但反映投资者对 AI 资本开支可持续性的普遍担忧。"
+      }
+    },
+    {
+      "title": {
+        "en": "Amazon Rises on Strongest Top-Line and Margin Print in Quarters",
+        "zh": "亚马逊因最强营收和利润率表现上涨"
+      },
+      "impact": {
+        "en": "Amazon reported robust revenue growth and margin expansion, the best in several quarters. AWS acceleration and advertising strength drive optimism. Cloud computing recovery story intact while e-commerce margins improve. Outperforms amid tech sector rotation.",
+        "zh": "亚马逊报告强劲营收增长和利润率扩张，表现数季度最佳。AWS 加速和广告业务提振乐观情绪。云计算复苏叙事完好，电商利润率改善。板块轮动中跑赢。"
+      },
+      "bullish": ["AMZN", "XLP", "WMT", "COST"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - Company-specific execution strength in challenging macro environment.",
+        "zh": "否 - 公司在宏观挑战环境中表现强劲。"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury Yields Stabilize After Selloff as Oil Surge Stalls",
+        "zh": "油价涨势暂停后美债收益率企稳"
+      },
+      "impact": {
+        "en": "10Y Treasury yield at 4.398% after initial selloff from oil-driven inflation fears. Buyers stepped in as Brent crude retreated from $125 peak. Rate-sensitive sectors find relief but inflation premium remains embedded in longer-duration assets.",
+        "zh": "10 年期美债收益率 4.398%，油价驱动通胀担忧后初现抛售。随着布油从$125 高位回落，买盘介入。对利率敏感板块获得喘息，但通胀溢价仍嵌入长久期资产。"
+      },
+      "bullish": ["TLT", "LQD", "AGG"],
+      "bearish": ["TLT (if yields resume rise)", "REITs", "XLU"],
+      "macroRisk": {
+        "en": "Yes - Yield trajectory uncertain; oil inflation persistence could reignite rate fears and compress equity valuations.",
+        "zh": "是 - 收益率路径不确定；油价通胀持续可能重燃利率担忧并压缩估值。"
+      }
+    },
+    {
+      "title": {
+        "en": "Fed Split Pushes Yen Past 160, Policy Uncertainty Lingers",
+        "zh": "Fed 分歧推日元突破 160，政策不确定性犹存"
+      },
+      "impact": {
+        "en": "Record-level FOMC dissent creates policy uncertainty as Powell's dot plot signals divergent views. JPY/USD exceeded 160 amid risk-off flows. Currency volatility adds another layer to Fed trajectory questions, complicating global capital allocation.",
+        "zh": "FOMC 分歧达历史水平造成政策不确定性，Powell 点阵图显示观点分化。避险资金推动日元/美元突破 160。汇率波动为 Fed 路径问题增加变数，复杂化全球资本配置。"
+      },
+      "bullish": ["USD", "GLD", "SLV"],
+      "bearish": ["JPM", "GS", "MS", "DAL", "UUP"],
+      "macroRisk": {
+        "en": "Yes - Policy divergence signals potential pivot risk. Currency volatility complicates Fed's dual mandate, adds to global risk-off sentiment.",
+        "zh": "是 - 政策分化预示潜在转向风险。汇率波动使 Fed 双目标复杂化，加剧全球避险情绪。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Mixed sentiment: AI capex sustainability concerns cloud MSFT outlook, but AMZN cloud acceleration supports optimism. Valuation pressure from rate sensitivity tests growth narratives. Focus shifts to monetization visibility.",
+      "zh": "情绪混杂：AI 资本开支可持续性担忧压制 MSFT 前景，但 AMZN 云业务加速提振乐观情绪。利率敏感性带来估值压力，关注变现可视性。"
+    },
+    "semiconductor": {
+      "en": "NVDA faces headwinds from MSFT OpenAI exposure concerns. Semiconductor sector broadly pressured by rate sensitivity and China risk. Equipment names like SLB benefit from energy sector strength.",
+      "zh": "NVDA 受 MSFT OpenAI 风险担忧压制。半导体板块整体受利率敏感性和中国风险压力。设备股如 SLB 受益于能源板块强势。"
+    },
+    "bigTech": {
+      "en": "Divergent: AMZN strongest print in quarters, MSFT struggles with OpenAI capex narrative. Mega-caps tested on inflation and rate fears but overall resilience near record highs. Meta under pressure from JPM downgrade.",
+      "zh": "分化：AMZN 数季度最佳表现，MSFT 受 OpenAI 资本开支叙事拖累。科技巨头受通胀和利率担忧考验，但接近历史高位仍显韧性。Meta 受 JPM 下调压力。"
+    },
+    "energy": {
+      "en": "Oil price shock narrative dominates. Brent above $110 on Iran war premium. XOM, CVX, SLB outperform as $100+ oil drives margin expansion. Energy supermajors benefit from volume and price dynamics.",
+      "zh": "油价冲击叙事主导。布油因伊朗战争溢价高于$110。XOM、CVX、SLB 跑赢，$100+ 油价驱动利润率扩张。能源巨头因量和价受益。"
+    },
+    "ev": {
+      "en": "Pressured from higher oil paradoxically supports alternative fuel thesis but margin concerns dominate. EV names like TSLA, RIVN, F, GM face headwinds from energy cost dynamics and rate-sensitive valuations.",
+      "zh": "高油价 paradoxically 支持替代燃料逻辑，但利润率担忧主导。EV 股如 TSLA、RIVN、F、GM 受能源成本动态和利率敏感估值压制。"
+    },
+    "market": {
+      "en": "Resilient: Dow +1.73%, S&P 500 +1.03%, Nasdaq +0.92% close near record highs. Oil-driven inflation creates sector rotation rather than broad selloff. Energy cyclicals offset tech valuation pressure.",
+      "zh": "韧性：道指 +1.73%，标普 +1.03%，纳指 +0.92%，收盘逼近历史高位。油价驱动通胀造成板块轮动而非普跌。能源周期股抵消科技估值压力。"
+    },
+    "preciousMetals": {
+      "en": "Gold at $4,618 benefits from stagflation hedge and currency volatility. GLD, SLV favored as Fed uncertainty and Middle East tensions drive safe-haven demand. Physical metal demand supports premium.",
+      "zh": "黄金$4,618 受益于滞胀对冲和汇率波动。GLD、SLV 受青睐，Fed 不确定性和中东 tension 推升避险需求。实物金属需求支撑溢价。"
+    },
+    "oil": {
+      "en": "Supply shock drives 4-year high narrative. Brent briefly $125, settles $114 on Iran war escalation. Market in backwardation signals immediate shortage expectations. Energy sector rotation intensifies.",
+      "zh": "供给冲击驱动 4 年高位叙事。布油短暂$125 后企稳$114，伊朗战争升级。市场贴水反映即时短缺预期。能源板块轮动加剧。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "US equity futures mixed: Oil surge creates headwinds but strong earnings from AMZN and others support risk-on. Dow and S&P 500 futures track recent close near records. Nasdaq under pressure from rate sensitivity and capex concerns.",
+      "zh": "美股期货震荡：油价冲击带来压力，但 AMZN 等强劲财报支撑风险偏好。道指和标普期货跟踪接近历史高位收盘。纳指受利率敏感性和资本开支担忧压制。"
+    },
+    "treasury10Y": {
+      "en": "10Y at 4.398%, stabilized after initial oil-driven selloff. Watch 4.4-4.6% range for inflation premium. Buyer support at current levels but upside risk remains if oil re-tests $125.",
+      "zh": "10 年期 4.398%，油价抛售初现后企稳。关注 4.4-4.6% 区间通胀溢价。当前水平有买盘支撑，但若油重返$125 仍存在上行风险。"
+    },
+    "dxy": {
+      "en": "DXY elevated on Fed policy uncertainty and global risk-off flows. JPY below 160 adds currency volatility. Dollar strength from US safety trade and rate differential concerns.",
+      "zh": "DXY 因 Fed 政策不确定性和全球避险资金处于高位。日元低于 160 增加汇率波动。美元从美国避险交易和利率差异担忧中受益。"
+    },
+    "oil": {
+      "en": "Brent $114 on Iran war premium, backwardation signals supply shortage. Oil market remains in backwardation as OPEC dynamics and Middle East risks compress supply expectations. Watch for $120+ re-test.",
+      "zh": "布油$114 因伊朗战争溢价，贴水反映供应短缺。OPEC 动态和中东风险压缩供应预期，石油市场仍处贴水状态。关注$120+ 重新测试。"
+    },
+    "keyRisk": {
+      "en": "Oil surge → inflation spike → Fed rate-cut压缩. Iran war escalation risk remains elevated. Tech sector rotation from capex concerns. Currency volatility adds global capital allocation complexity.",
+      "zh": "油价飙升→通胀 spike→Fed 降息空间压缩。伊朗战争升级风险仍高。科技板块从资本开支担忧轮动。汇率波动增加全球资本配置复杂性。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Energy cyclicals benefit from oil supply dynamics while rate-sensitive tech faces headwinds from capex and inflation concerns. Market shows resilience near record highs but sector rotation intensifies. Mixed tape with event-driven oil shock dominates. Fed policy uncertainty adds to complexity.",
+      "zh": "能源周期股受益于石油供应动态，而对利率敏感的科技股受资本开支和通胀担忧压制。市场接近历史高位显示韧性，但板块轮动加剧。事件驱动油价冲击主导混合走势。Fed 政策不确定性增加复杂性。"
+    }
+  }
+}
