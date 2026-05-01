@@ -1,0 +1,156 @@
+{
+  "date": "2026-05-01",
+  "summary": {
+    "en": "US equities open mixed with tech strength offsetting energy headwinds. S&P 500 at 7,230, Nasdaq +0.89% as cloud/AI leaders rally. Oil remains elevated near $109/barrel on Middle East tensions. 10Y Treasury at 4.37% with stable yields. Markets digest Fed policy uncertainty amid record FOMC dissent.",
+    "zh": "美股开盘震荡，科技股强势抵消能源领域压力。标普 500 在 7,230 点，纳指 +0.89% 受云/AI 龙头带动。中东紧张推动油价维持 $109/桶高位。10 年期美债收益率 4.37% 保持稳定。市场在 Fed 政策不确定性中消化，FOMC 分歧达纪录水平。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Oil Holds Near $109 on Middle East Supply Risk, Brent Premium Persists",
+        "zh": "中东供应风险推动油价维持在 $109 附近，布油溢价持续"
+      },
+      "impact": {
+        "en": "Brent crude holds above $108 on Iran-UAE geopolitical tensions and OPEC+ supply disruption fears. Market remains in backwardation signaling tight near-term supply. Energy sector outperformance continues as $100+ oil environment persists. SLB, XOM, CVX benefit from sustained high prices.",
+        "zh": "布油因伊朗-阿联酋地缘紧张和 OPEC+ 供应中断担忧维持在$108 以上。市场仍处贴水状态反映近期供应紧张。能源板块跑赢持续，$100+ 油价环境延续。SLB、XOM、CVX 受益于高价持续。"
+      },
+      "bullish": ["XOM", "CVX", "COP", "SLB", "OXY", "XLE", "BP"],
+      "bearish": ["TSLA", "F", "GM", "RIVN", "XLI", "XLY"],
+      "macroRisk": {
+        "en": "Yes - Oil price shock maintains stagflation risk, compresses Fed rate-cutting space. Supply constraints could push toward $115 if tensions escalate further. Energy sector rotation intensifies.",
+        "zh": "是 - 油价冲击维持滞胀风险，压缩 Fed 降息空间。供应紧张若局势升级可能推高至$115。能源板块轮动加剧。"
+      }
+    },
+    {
+      "title": {
+        "en": "Nasdaq Leads Market Rally on Cloud/AI Momentum Despite Rate Concerns",
+        "zh": "纳指受云/AI 动量带动领涨市场，尽管利率担忧犹存"
+      },
+      "impact": {
+        "en": "Nasdaq Composite gains 0.89% to 25,114 as AMZN, MSFT cloud acceleration narratives support risk-on sentiment. AI capex sustainability questions remain but leaders with strong monetization paths outperform. Rate sensitivity tests growth valuations but momentum persists.",
+        "zh": "纳指上涨 0.89% 至 25,114，AMZN、MSFT 云业务加速叙事支撑风险偏好情绪。AI 资本开支可持续性疑问犹存，但具强劲变现路径的龙头跑赢。利率敏感性考验成长股估值，但动量持续。"
+      },
+      "bullish": ["AMZN", "MSFT", "GOOGL", "META", "XLK", "QQQ"],
+      "bearish": ["NVDA (if OpenAI concerns resurface)", "TSLA", "XLK (if rates spike)"],
+      "macroRisk": {
+        "en": "No - Company-specific momentum stronger than sector headwinds. AI narrative remains intact for leaders with cash flow visibility.",
+        "zh": "否 - 公司特定动量强于板块压力。AI 叙事对现金流可视性强的龙头仍完好。"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury Yields Stabilize After Initial Volatility, 10Y at 4.37%",
+        "zh": "美债收益率在波动后企稳，10 年期 4.37%"
+      },
+      "impact": {
+        "en": "10Y Treasury yield holds at 4.37% as oil-driven inflation fears subside. Buyers step in as Brent crude stabilizes below $110. Rate-sensitive sectors find relief but inflation premium remains embedded. TLT, LQD show resilience amid policy uncertainty.",
+        "zh": "10 年期美债收益率维持在 4.37%，油价驱动的通胀担忧消退。买盘介入，布油稳定在$110 以下。对利率敏感板块获得喘息，但通胀溢价仍嵌入。TLT、LQD 在政策不确定性下显示韧性。"
+      },
+      "bullish": ["TLT", "LQD", "AGG"],
+      "bearish": ["REITs", "XLU", "TLT (if yields resume rise)"],
+      "macroRisk": {
+        "en": "Yes - Yield trajectory uncertain. Oil inflation persistence could reignite rate fears and compress equity valuations.",
+        "zh": "是 - 收益率路径不确定。油价通胀持续可能重燃利率担忧并压缩估值。"
+      }
+    },
+    {
+      "title": {
+        "en": "Fed Policy Uncertainty Lingers Amid Record FOMC Dissent",
+        "zh": "Fed 政策不确定性犹存，FOMC 分歧达纪录水平"
+      },
+      "impact": {
+        "en": "Record-level FOMC dissent creates policy uncertainty as Powell's dot plot signals divergent views. Dollar strengthens on US safety trade. Policy divergence signals potential pivot risk, complicating Fed's dual mandate. JPY volatility adds to global capital allocation complexity.",
+        "zh": "FOMC 分歧达历史水平造成政策不确定性，Powell 点阵图显示观点分化。美元因美国避险交易走强。政策分化预示潜在转向风险，复杂化 Fed 双目标。日元波动增加全球资本配置复杂性。"
+      },
+      "bullish": ["USD", "GLD", "SLV", "UUP"],
+      "bearish": ["JPM", "GS", "MS", "DAL", "JPM (short-term)"],
+      "macroRisk": {
+        "en": "Yes - Policy uncertainty signals potential pivot risk. Currency volatility complicates Fed trajectory, adds to global risk-off sentiment.",
+        "zh": "是 - 政策不确定性预示潜在转向风险。汇率波动复杂化 Fed 路径，加剧全球避险情绪。"
+      }
+    },
+    {
+      "title": {
+        "en": "European Markets Mixed Following OPEC News, Energy Leaders Outperform",
+        "zh": "欧股在 OPEC 消息后震荡，能源龙头跑赢"
+      },
+      "impact": {
+        "en": "European indices show mixed performance as BP profits more than double on oil trading contributions. Energy sector benefits from supply shock narrative while financials face rate sensitivity headwinds. Stochastic dynamics persist as OPEC+ reshapes supply outlook.",
+        "zh": "欧股指数表现震荡，BP 因石油交易贡献盈利翻倍。能源板块受益于供给冲击叙事，金融股面临利率敏感性压力。OPEC+ 重塑供应前景，动态持续。"
+      },
+      "bullish": ["XOM", "CVX", "BP", "XLE", "STOXX"],
+      "bearish": ["ITB", "PHM", "LEN", "TSLA", "XLI"],
+      "macroRisk": {
+        "en": "No - Sector-specific dynamics, not systemically material. Energy cyclicals benefit from oil price environment.",
+        "zh": "否 - 板块特定动态，非系统性重要事件。能源周期股受益于油价环境。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Momentum intact for leaders: AMZN cloud acceleration supports optimism. AI capex sustainability questions remain but monetization visibility strengthens case for MSFT, GOOGL. Rate sensitivity tests valuations but growth narratives persist.",
+      "zh": "龙头动量完好：AMZN 云业务加速提振乐观情绪。AI 资本开支可持续性疑问犹存，但变现可视性强化 MSFT、GOOGL 地位。利率敏感性考验估值，但成长叙事持续。"
+    },
+    "semiconductor": {
+      "en": "Mixed sentiment: Supply-demand fundamentals intact but rate sensitivity and China risk weigh. SLB benefits from energy sector strength. NVDA faces OpenAI exposure concerns.",
+      "zh": "情绪混杂：供需基本面完好，但利率敏感性和中国风险压制。SLB 受益于能源板块强势。NVDA 受 OpenAI 风险担忧影响。"
+    },
+    "bigTech": {
+      "en": "Divergent performance: AMZN, MSFT, GOOGL show strength from cloud/AI narratives. Mega-caps tested on inflation and rate fears but resilience persists near record highs. Meta faces pressure from policy uncertainty.",
+      "zh": "表现分化：AMZN、MSFT、GOOGL 从云/AI 叙事中展现强势。科技巨头受通胀和利率担忧考验，但接近历史高位仍显韧性。Meta 受政策不确定性压力。"
+    },
+    "energy": {
+      "en": "Supply shock narrative continues. Oil holds near $109 on Middle East tensions. XOM, CVX, BP outperform on margin expansion and trading contributions. Energy supermajors benefit from volume and price dynamics.",
+      "zh": "供给冲击叙事持续。油价因中东紧张维持在$109 附近。XOM、CVX、BP 因利润率扩张和交易贡献跑赢。能源巨头因量和价受益。"
+    },
+    "ev": {
+      "en": "Pressured from higher oil paradoxically supports alternative fuel thesis but margin concerns dominate. EV names face headwinds from energy cost dynamics and rate-sensitive valuations. CATL dilution concerns remain.",
+      "zh": "高油价 paradoxically 支持替代燃料逻辑，但利润率担忧主导。EV 股受能源成本动态和利率敏感估值压制。CATL 稀释担忧犹存。"
+    },
+    "market": {
+      "en": "Mixed tape: S&P 500 at 7,230, Dow +0.29%, Nasdaq +0.89%. Oil-driven inflation creates sector rotation rather than broad selloff. Energy cyclicals offset tech valuation pressure. Resilient near record highs.",
+      "zh": "混合走势：标普 500 在 7,230，道指 +0.29%，纳指 +0.89%。油价驱动通胀造成板块轮动而非普跌。能源周期股抵消科技估值压力。接近历史高位显示韧性。"
+    },
+    "preciousMetals": {
+      "en": "Gold at $4,630 benefits from stagflation hedge and geopolitical risk premium. GLD, SLV favored as Fed uncertainty and Middle East tensions drive safe-haven demand. Physical metal demand supports premium.",
+      "zh": "黄金$4,630 受益于滞胀对冲和地缘风险溢价。GLD、SLV 受青睐，Fed 不确定性和中东 tension 推升避险需求。实物金属需求支撑溢价。"
+    },
+    "oil": {
+      "en": "Supply shock narrative dominates. Brent holds $108-109 on Iran war premium. Market in backwardation signals immediate shortage expectations. Energy sector rotation intensifies as $100+ environment persists.",
+      "zh": "供给冲击叙事主导。布油维持在$108-109 因伊朗战争溢价。市场贴水反映即时短缺预期。$100+ 环境持续，能源板块轮动加剧。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "US equity futures mixed: Oil surge creates headwinds but strong earnings from AMZN and tech leaders support risk-on. S&P 500 futures test 7,230 level. Nasdaq under pressure from rate sensitivity but AI momentum persists.",
+      "zh": "美股期货震荡：油价冲击带来压力，但 AMZN 和科技龙头强劲财报支撑风险偏好。标普期货测试 7,230 点。纳指受利率敏感性压力但 AI 动量持续。"
+    },
+    "treasury10Y": {
+      "en": "10Y at 4.37%, stabilized after initial oil-driven selloff. Watch 4.2-4.6% range for inflation premium. Buyer support at current levels but upside risk remains if oil re-tests $115.",
+      "zh": "10 年期 4.37%，油价抛售初现后企稳。关注 4.2-4.6% 区间通胀溢价。当前水平有买盘支撑，但若油重返$115 仍存在上行风险。"
+    },
+    "dxy": {
+      "en": "DXY elevated on Fed policy uncertainty and global risk-off flows. JPY/USD near 156 adds currency volatility. Dollar strength from US safety trade and rate differential concerns.",
+      "zh": "DXY 因 Fed 政策不确定性和全球避险资金处于高位。日元/美元接近 156 增加汇率波动。美元从美国避险交易和利率差异担忧中受益。"
+    },
+    "oil": {
+      "en": "Brent $108-109 on Iran war premium, backwardation signals supply shortage. Oil market remains in backwardation as OPEC dynamics and Middle East risks compress supply expectations. Watch for $115+ re-test.",
+      "zh": "布油$108-109 因伊朗战争溢价，贴水反映供应短缺。OPEC 动态和中东风险压缩供应预期，石油市场仍处贴水状态。关注$115+ 重新测试。"
+    },
+    "keyRisk": {
+      "en": "Oil surge → inflation spike → Fed rate-cut compression. Iran war escalation risk remains elevated. Tech sector rotation from capex concerns. Currency volatility adds global capital allocation complexity.",
+      "zh": "油价飙升→通胀 spike→Fed 降息空间压缩。伊朗战争升级风险仍高。科技板块从资本开支担忧轮动。汇率波动增加全球资本配置复杂性。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Energy cyclicals benefit from oil supply dynamics while rate-sensitive tech faces headwinds from capex and inflation concerns. Market shows resilience near record highs but sector rotation intensifies. Mixed tape with event-driven oil shock dominates. Fed policy uncertainty adds to complexity.",
+      "zh": "能源周期股受益于石油供应动态，而对利率敏感的科技股受资本开支和通胀担忧压制。市场接近历史高位显示韧性，但板块轮动加剧。事件驱动油价冲击主导混合走势。Fed 政策不确定性增加复杂性。"
+    }
+  }
+}
