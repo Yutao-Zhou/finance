@@ -1,0 +1,156 @@
+{
+  "date": "2026-05-04",
+  "summary": {
+    "en": "US stocks hover near record highs as markets digest GameStop's surprise $56B eBay takeover bid and assess US-Iran peace progress. Oil jumps 5% on Strait of Hormuz tensions, creating stagflation concerns even as futures show muted gains.",
+    "zh": "美股在纪录高位附近徘徊，市场消化 GameStop 对 eBay 的 560 亿美元突袭收购要约，并评估美伊和平进展。因霍尔木兹海峡紧张局势油价上涨 5%，引发滞胀担忧，尽管期货涨幅有限。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "GameStop Makes Surprise $56B Takeover Bid for eBay",
+        "zh": "GameStop 突袭提出 560 亿美元收购 eBay"
+      },
+      "impact": {
+        "en": "Ryan Cohen's bold move reverses meme stock narrative; $125/share premium (20% over Friday close) backed by $20B TD Bank financing. Deal seeks $2B annual synergies. If approved, would mark largest retail-to-e-commerce merger. Regulatory approval uncertain given size disparity.",
+        "zh": "Ryan Cohen 的大胆举动逆转了迷因股叙事；每股 125 美元溢价（高于周五收盘价 20%），获得 TD 银行 200 亿美元融资支持。交易寻求 12 个月内实现 20 亿美元协同效应。若通过，将是零售业最大电商合并案。鉴于规模悬殊，监管批准存疑。"
+      },
+      "bullish": ["EBAY", "GME", "TD", "XLK"],
+      "bearish": ["AMZN", "WMT", "COST", "HD"],
+      "macroRisk": {
+        "en": "No direct macro impact; sector-specific M&A signal",
+        "zh": "无直接宏观影响；属行业特定并购信号"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil Surges 5% to $114 on Hormuz Tensions, US Launches 'Project Freedom'",
+        "zh": "因霍尔木兹海峡紧张局势油价飙涨 5% 至 114 美元，美国启动'自由行动'"
+      },
+      "impact": {
+        "en": "Trump announces US naval initiative to escort cargo ships from non-conflicted nations. Brent jumps to $113.85 as Strait remains at risk. Supply concerns intensify despite peace talk rumors. Oil majors (XOM, CVX) benefit from margin expansion; EV/cyclicals pressured by input cost inflation.",
+        "zh": "特朗普宣布美国海军举措护送非冲突国货船。尽管有和平谈判传闻，霍尔木兹海峡仍处风险，布伦特原油飙至 113.85 美元。供应担忧加剧。石油巨头 (XOM, CVX) 受益于利润扩张；电动车/周期性股票受投入成本通胀压力。"
+      },
+      "bullish": ["XOM", "CVX", "BP", "SLB", "OXY", "GOLD", "SLV"],
+      "bearish": ["TSLA", "F", "GM", "RIVN", "XLE", "TTL"],
+      "macroRisk": {
+        "en": "Yes - Stagflation risk persists; $115-125 oil target would compress Fed rate-cut timeline and pressure rate-sensitive sectors",
+        "zh": "是——滞胀风险持续；油价触及 115-125 美元将压缩美联储降息时间表，打击利率敏感型板块"
+      }
+    },
+    {
+      "title": {
+        "en": "US-Iran Peace Talks Show Progress; Futures Point to Muted Gains",
+        "zh": "美伊和平谈判取得进展；期货指向温和上涨"
+      },
+      "impact": {
+        "en": "Iran confirms receipt of revised US peace proposal via Pakistani intermediaries. Markets react cautiously: S&P 500 futures +0.2%, Nasdaq +0.1%. Geopolitical de-escalation offsets oil supply risk; Dow and cyclicals positioned to benefit if talks succeed. Key week ahead with employment data due Friday.",
+        "zh": "伊朗确认通过巴基斯坦中间人收到美方修订后的和平提案。市场谨慎反应：标普 500 期货 +0.2%，纳指 +0.1%。地缘政治缓和抵消石油供应风险；若谈判成功，道琼斯和周期性股票有望受益。本周五将有就业数据，本周关键。"
+      },
+      "bullish": ["DIA", "XLE", "XLI", "JPM", "GS"],
+      "bearish": ["TLT", "ARKK", "GLD"],
+      "macroRisk": {
+        "en": "Yes - Deal terms uncertain; failure could trigger renewed oil shock; success opens risk-on trade",
+        "zh": "是——协议条款不确定；失败可能引发新一轮油价冲击；成功则开启风险偏好交易"
+      }
+    },
+    {
+      "title": {
+        "en": "Semiconductor Week: AMD, ARM, Lattice, Palantir Earnings Preview",
+        "zh": "半导体周：AMD、ARM、Lattice、Palantir 财报前瞻"
+      },
+      "impact": {
+        "en": "Key chip makers report this week: AMD and ARM focus on AI datacenter momentum; Lattice on industrial IoT; Palantir software growth. Investors seeking confirmation of sustained AI capex despite rate uncertainty. Mixed guidance could trigger sector rotation.",
+        "zh": "主要芯片制造商本周发布财报：AMD 和 ARM 聚焦 AI 数据中心动能；Lattice 关注工业物联网；Palantir 软件增长。投资者寻求确认尽管利率不确定，AI 资本支出仍持续。混合指引可能引发板块轮动。"
+      },
+      "bullish": ["AMD", "ARM", "LSCC", "PLTR", "NVDA", "XLK"],
+      "bearish": ["SMCI", "AVGO", "TSM"],
+      "macroRisk": {
+        "en": "No direct macro impact; sector-specific catalyst",
+        "zh": "无直接宏观影响；属行业特定催化剂"
+      }
+    },
+    {
+      "title": {
+        "en": "April Jobs Report Looms: Economists Expect Slowed Growth at 60K",
+        "zh": "四月就业报告临近：经济学家预计增长放缓至 6 万人"
+      },
+      "impact": {
+        "en": "Friday's non-farm payrolls forecast at 60K vs. March's 178K; unemployment steady at 4.3%. Weak print supports rate-cut case; strong print risks reigniting inflation fears. Key pivot data for Fed policy trajectory.",
+        "zh": "本周五非农就业人数预计为 6 万人，低于三月的 17.8 万人；失业率维持在 4.3%。疲软数据支持降息预期；强劲数据可能重燃通胀担忧。这是美联储政策走向的关键转折点数据。"
+      },
+      "bullish": ["JPM", "BAC", "GS", "XLF", "TLT"],
+      "bearish": ["ARKK", "TSLA", "XLK"],
+      "macroRisk": {
+        "en": "Yes - Employment data critical for rate-cut confidence; divergence could trigger volatility",
+        "zh": "是——就业数据对降息信心至关重要；分歧可能引发波动"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Mixed signals ahead of AMD/ARM earnings. AI datacenter capex narrative intact, but rate sensitivity adding pressure. Watch for guidance on sustained momentum.",
+      "zh": "AMD/ARM 财报前信号混杂。AI 数据中心资本支出叙事仍稳固，但利率敏感度增加压力。关注持续动能指引。"
+    },
+    "semiconductor": {
+      "en": "Key earnings week. AI momentum drives valuations; however, input cost inflation from oil and rate uncertainty create headwinds. Sector divergence expected.",
+      "zh": "关键财报周。AI 动能支撑估值；但油价引发的投入成本通胀和利率不确定构成逆风。板块分化预期。"
+    },
+    "bigTech": {
+      "en": "Cautiously optimistic. Apple's prior strength persists; new M&A story (eBay/GameStop) could reshape sector dynamics. Cloud/AI revenue acceleration key catalyst.",
+      "zh": "谨慎乐观。苹果此前的强势持续；新的并购故事（eBay/GameStop）可能重塑板块动态。云/AI 收入加速是关键催化剂。"
+    },
+    "energy": {
+      "en": "Bullish. Oil supply shock at $114+ benefits supermajors (XOM, CVX, BP) via margin expansion. Backwardation signals near-term shortage; dividend yields attractive.",
+      "zh": "看涨。114 美元以上的石油供应冲击通过利润扩张利好石油巨头 (XOM, CVX, BP)。反向市场信号短期短缺；股息收益率具吸引力。"
+    },
+    "ev": {
+      "en": "Pressured. Oil input cost inflation compresses margin expectations; CATL dilution concerns persist from prior week. Valuation reset ongoing.",
+      "zh": "承压。石油投入成本通胀压缩利润预期；CATL 稀释担忧从前一周延续。估值重置持续中。"
+    },
+    "market": {
+      "en": "Mixed. Record highs offset by geopolitical risk; futures show muted gains. Dow lags cyclicals; Nasdaq resilient near peaks. Sector rotation intensifies.",
+      "zh": "混合。纪录高位被地缘政治风险抵消；期货显示温和上涨。道琼斯滞后于周期性板块；纳指在高峰附近韧性强劲。板块轮动加剧。"
+    },
+    "preciousMetals": {
+      "en": "Bullish hedge. Gold at $4,520 acts as stagflation hedge amid oil shock; geopolitical risk premium supports levels. Silver follows.",
+      "zh": "看涨对冲。金 4520 美元在油价冲击下作为滞胀对冲；地缘政治风险溢价支撑水平。银价跟随。"
+    },
+    "oil": {
+      "en": "Supply shock phase. Strait of Hormuz closure risk keeps Brent at $113-114; backwardation signals tightness. Watch for $115-125 retest if negotiations stall.",
+      "zh": "供应冲击阶段。霍尔木兹海峡关闭风险维持布伦特原油 113-114 美元；反向市场信号显示紧张。若谈判停滞，关注 115-125 美元回测。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 +0.2%, Nasdaq +0.1%, Dow +0.2% — Muted optimism; geopolitics and oil risks offset gains",
+      "zh": "标普 500 +0.2%，纳指 +0.1%，道指 +0.2% —— 温和乐观；地缘政治和油价风险抵消涨幅"
+    },
+    "treasury10Y": {
+      "en": "4.446% (+6.8bps) — Rising on supply concerns and inflation re-pricing",
+      "zh": "4.446% (+6.8 基点) —— 因供应担忧和通胀重定价而上升"
+    },
+    "dxy": {
+      "en": "Dollar stable near multi-week levels; safe-haven demand from oil shock counterweights Fed pivot expectations",
+      "zh": "美元指数稳定在数周水平；油价冲击的安全资产需求与美联储转向预期相抵消"
+    },
+    "oil": {
+      "en": "Brent $113.85 (+5%) — Hormuz tension drive; watch $115 resistance",
+      "zh": "布伦特原油 113.85 美元 (+5%) —— 霍尔木兹紧张局势推动；关注 115 美元阻力位"
+    },
+    "keyRisk": {
+      "en": "Oil price spike to $115+ reigniting stagflation fears; April jobs report Friday critical for rate-cut confidence",
+      "zh": "油价飙升突破 115 美元重燃滞胀担忧；本周五四月就业数据对降息信心至关重要"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Geopolitical de-escalation vs. oil supply shock creates divergent sector dynamics. M&A activity in tech adds complexity. Employment data Friday will be key pivot point for rate-cut confidence. Sector rotation intensifies: energy/bullish, EV/tech pressured, precious metals hedging stagflation.",
+      "zh": "地缘政治缓和与石油供应冲击形成不同板块动态。科技行业并购活动增加复杂性。本周五就业数据将成为降息信心关键转折点。板块轮动加剧：能源板块看涨，电动车/科技承压，贵金属对冲滞胀。"
+    }
+  }
+}
