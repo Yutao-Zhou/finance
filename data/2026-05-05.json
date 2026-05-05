@@ -1,0 +1,156 @@
+{
+  "date": "2026-05-05",
+  "summary": {
+    "en": "U.S. stock futures mixed as Middle East tensions dominate. U.S.-Iran flare-up in Strait of Hormuz is driving oil prices higher and inflating inflation risks. Investors are weighing geopolitical escalation against resilient earnings, with sector rotation toward energy and away from rate-sensitive growth.",
+    "zh": "美股期指走势分化，中东紧张局势主导盘前焦点。美国与伊朗在霍尔木兹海峡的冲突升级推动油价飙升，引发通胀担忧。投资者在稳健财报与地缘风险之间权衡，资金向能源板块轮动，避开对利率敏感的成长股。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Middle East Tensions Escalate: U.S.-Iran Clash in Strait of Hormuz",
+        "zh": "中东局势升级：美伊在霍尔木兹海峡冲突"
+      },
+      "impact": {
+        "en": "Geopolitical risk is driving oil up to ~$112/bbl, raising inflation expectations and Treasury yields. The uncertainty creates cross-asset rotation: energy benefits while rate-sensitive tech faces pressure. Key transmission: oil -> inflation -> Fed rate path -> growth valuations.",
+        "zh": "地缘政治风险推动油价涨至约 112 美元/桶，推升通胀预期和美债收益率。不确定性引发跨资产轮动：能源板块受益，而对利率敏感的科技股承压。传导路径：油价→通胀→美联储利率路径→成长股估值。"
+      },
+      "bullish": ["XOM", "CVX", "COP", "SLB"],
+      "bearish": ["TSLA", "AMD", "PLTR"],
+      "macroRisk": {
+        "en": "Yes. Escalation risk in Hormuz could disrupt oil flows and spike energy prices, reigniting inflation fears and forcing a repricing of growth assets. Watch for any naval incidents or broader regional involvement.",
+        "zh": "是。霍尔木兹海峡的升级风险可能扰乱石油运输，推高能源价格，重新点燃通胀担忧并迫使成长资产重估。关注是否有海上事故或更广泛的区域卷入。"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil Surges on Supply Fears Amid Strait of Hormuz Incidents",
+        "zh": "霍尔木兹海峡事件引发供应担忧，油价飙升"
+      },
+      "impact": {
+        "en": "WTI and Brent climbed sharply, with Brent touching ~$112/bbl. A prolonged blockade or attacks on shipping would force a major energy shock, potentially pushing oil toward $120+. This directly pressures CPI and discretionary spending.",
+        "zh": "WTI 和布伦特油价大幅上涨，布伦特触及约 112 美元/桶。若封锁持续或航运遭袭，可能引发重大能源冲击，油价或飙向 120 美元以上。这将直接施压 CPI 和可支配支出。"
+      },
+      "bullish": ["XOM", "CVX", "OXY", "MPC", "VLO"],
+      "bearish": ["AAPL", "GOOGL", "AMZN", "TSLA"],
+      "macroRisk": {
+        "en": "Yes. Oil shock -> higher energy costs -> CPI stickiness -> Fed holds rates higher for longer -> equity multiple compression, especially in tech.",
+        "zh": "是。油价冲击→能源成本上升→CPI 粘性→美联储维持高利率更久→估值压缩，尤其科技股。"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury Yields Edge Higher: 10Y at ~4.44% on Inflation Fears",
+        "zh": "美债收益率走高：10Y 因通胀担忧站上约 4.44%"
+      },
+      "impact": {
+        "en": "The 10Y yield rose over 5 bps, pressuring duration-sensitive names. Higher yields support the dollar (DXY ~98) and hurt growth valuations. Bond vigilantes may return if oil-driven inflation resurges.",
+        "zh": "10Y 收益率上涨超 5 个基点，施压久期敏感型个股。收益率走高支撑美元（DXY 约 98），压制成长估值。若油价驱动的通胀重现，债券市场参与者可能回归。"
+      },
+      "bullish": ["JPM", "BAC", "WFC"],
+      "bearish": ["TSLA", "AMD", "NVDA"],
+      "macroRisk": {
+        "en": "Yes. Rising yields reflect inflation worries; any further upside could trigger broader equity selloffs and risk-off flows.",
+        "zh": "是。收益率上升反映通胀担忧；任何进一步上涨可能引发更广泛的股市抛售和避险资金流动。"
+      }
+    },
+    {
+      "title": {
+        "en": "Gold Rebounds from Trough, But Inflation Fears Limit Gains",
+        "zh": "黄金从低谷反弹，但通胀担忧限制涨幅"
+      },
+      "impact": {
+        "en": "Gold recovered from a five-week low but stayed capped by high oil-driven inflation fears. If risk sentiment worsens, gold may outperform. Otherwise, it trades as a hedge rather than a rally leader.",
+        "zh": "黄金从五周低位反弹，但受高油价驱动的通胀担忧压制。若风险情绪恶化，黄金可能跑赢。否则，它更多作为对冲工具而非领涨品种。"
+      },
+      "bullish": ["GOLD", "NEM", "AA"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Partial. Gold acts as a safe haven during geopolitical stress, but high inflation also weighs on real rates and limits upside.",
+        "zh": "部分。地缘政治紧张时黄金作为避险资产，但高通胀也打压实际利率，限制涨幅。"
+      }
+    },
+    {
+      "title": {
+        "en": "S&P 500, Nasdaq Futures Mixed After Recent Record Highs",
+        "zh": "标普 500 与纳斯达克期货在创纪录高位后走势分化"
+      },
+      "impact": {
+        "en": "Futures showed mixed signals despite earlier pullback from records. Some traders see dips as buying opportunities in AI/semis, while others wait on oil/geopolitics to resolve. Earnings season remains a supportive backdrop.",
+        "zh": "尽管此前从高位回落，期货仍显示分化信号。部分交易员视 AI/半导体回调为买入机会，另一些则等待油价/地缘局势明朗。财报季仍是支撑背景。"
+      },
+      "bullish": ["NVDA", "MSFT", "META"],
+      "bearish": ["NVDA", "AMD"],
+      "macroRisk": {
+        "en": "No. Technical pullback after record highs; sentiment is mixed but not systemic.",
+        "zh": "否。历史新高后的技术性回调；情绪分化但非系统性风险。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI remains core growth driver (NVDA earnings due May 20), but rate sensitivity increased. Look for dips in NVDA, AMD, PLTR as buying opportunities if yields stabilize. Earnings season support vs. geopolitical headwinds.",
+      "zh": "AI 仍是核心增长引擎（NVDA 财报定于 5 月 20 日发布），但利率敏感性上升。若收益率企稳，NVDA、AMD、PLTR 回调可视为买入机会。财报季支撑 vs. 地缘逆风。"
+    },
+    "semiconductor": {
+      "en": "Semis mixed: demand for AI chips strong, but valuation pressure from higher yields. NVDA, AMD face headwinds from rate-sensitive beta.",
+      "zh": "半导体分化：AI 芯片需求强劲，但高估值受收益率压制。NVDA、AMD 面临利率敏感型 Beta 逆风。"
+    },
+    "bigTech": {
+      "en": "Big Tech showing resilience (MSFT, META), but AAPL, GOOGL vulnerable to oil-driven inflation fears impacting consumer demand and ad spend.",
+      "zh": "大科技表现稳健（MSFT、META），但 AAPL、GOOGL 易受油价驱动的通胀担忧影响，拖累消费需求和广告支出。"
+    },
+    "energy": {
+      "en": "Energy is clear winner today: oil surge benefits integrated majors and refiners. XOM, CVX, COP, SLB see direct tailwinds from supply disruption risks.",
+      "zh": "能源板块今日明确受益者：油价飙升利好综合巨头和炼油商。XOM、CVX、COP、SLB 直接受益于供应中断风险。"
+    },
+    "ev": {
+      "en": "EVs under pressure: TSLA sensitive to both higher rates (demand financing) and oil price spikes (input costs). Short-term headwinds.",
+      "zh": "电动车承压：TSLA 对利率升高（需求融资）和油价飙升（成本）均敏感。短期逆风。"
+    },
+    "market": {
+      "en": "Market in split mode: energy leads, tech lags. FOMC minutes today add timing risk. Volatility likely to persist until geopolitical clarity improves.",
+      "zh": "市场分化：能源领涨，科技滞后。今日 FOMC 纪要增加 timing 风险。波动料将持续，直至地缘局势明朗。"
+    },
+    "preciousMetals": {
+      "en": "Gold stabilizing but capped by inflation fears; a safe-haven bid if geopolitics worsens. Silver and miners may follow but lag gold.",
+      "zh": "黄金企稳但受通胀担忧压制；若地缘恶化，避险买盘或推动上涨。白银和矿业股可能跟随但落后于黄金。"
+    },
+    "oil": {
+      "en": "Oil is the story: WTI/Brent ~$112/bbl, supply risk premium rising. A prolonged Hormuz disruption could push oil toward $120+. Bullish for producers, bearish for consumers.",
+      "zh": "油价是今日主线：WTI/布伦特约 112 美元/桶，供应风险溢价上升。若霍尔木兹中断持续，油价或飙至 120 美元以上。对生产商利多，对消费者利空。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "Mixed: S&P 500 futures flat to slightly higher; Nasdaq futures resilient despite geopolitics; Dow mixed on energy vs. tech weightings. Watch for intraday rotation.",
+      "zh": "分化：标普 500 期指平盘略升；纳斯达克期货在地缘压力下仍显韧性；道琼斯因能源 vs. 科技权重混合。关注日内轮动。"
+    },
+    "treasury10Y": {
+      "en": "~4.44%, up ~5 bps on inflation fears from oil shock.",
+      "zh": "约 4.44%，因油价冲击引发通胀担忧上涨约 5 个基点。"
+    },
+    "dxy": {
+      "en": "~98.00, dollar strength supported by geopolitical risk premium and higher yields.",
+      "zh": "约 98.00，美元因地缘风险溢价和收益率走高获得支撑。"
+    },
+    "oil": {
+      "en": "WTI ~$105-108, Brent ~$112/bbl; supply risk from Strait of Hormuz incidents drives premium.",
+      "zh": "WTI 约 105-108 美元，布伦特约 112 美元/桶；霍尔木兹海峡事件引发供应风险溢价。"
+    },
+    "keyRisk": {
+      "en": "Escalation in U.S.-Iran tensions and potential Strait of Hormuz blockade. Monitor for naval incidents or expanded regional involvement that could disrupt global energy flows.",
+      "zh": "美伊冲突升级及霍尔木兹海峡潜在封锁。关注海上事故或区域卷入扩大，可能扰乱全球能源运输。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Market split between energy beneficiaries and rate-sensitive growth names. Oil-driven inflation risk and FOMC minutes timing create uncertainty. Geopolitics dictates cross-asset rotation more than company-specific catalysts.",
+      "zh": "市场在能源受益者与利率敏感型成长股之间分化。油价驱动的通胀风险与 FOMC 纪要 timing 带来不确定性。地缘政治主导跨资产轮动，而非公司级催化剂。"
+    }
+  }
+}
