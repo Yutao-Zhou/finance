@@ -1,0 +1,156 @@
+{
+  "date": "2026-05-06",
+  "summary": {
+    "en": "Markets rally on Iran peace deal optimism as oil retreats 6-8% and yields tumble; ADP jobs beat expectations while AMD earnings surge drives chip sector. Geopolitical de-escalation shifts sentiment, though labor strength complicates Fed rate-cut narrative ahead of Friday's NFP.",
+    "zh": "市场因伊朗和平谈判进展而上涨，油价回落 6-8%，收益率下滑；ADP 就业数据超预期，AMD 财报大涨推动芯片板块。地缘政治缓和转变情绪，但劳动力市场走强使美联储降息叙事复杂化，本周五非农数据关键。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "US-Iran Peace Deal Nears; Trump Pauses 'Project Freedom'",
+        "zh": "美伊和平协议临近；特朗普暂停'自由行动'"
+      },
+      "impact": {
+        "en": "Axios reports 14-point memorandum expected within 48 hours: Iran commits to nuclear moratorium, U.S. lifts sanctions, both retreat from Hormuz controls. Trump threatens intensified bombing if deal fails. Oil falls 6-8% to $95-103, yields drop as war premium evaporates. If ratified, removes largest energy supply disruption in history; failure risks severe market repricing.",
+        "zh": "Axios 报道 14 点备忘录预计 48 小时内达成：伊朗承诺核限制、美国解除制裁、双方从霍尔木兹撤出控制。特朗普威胁若协议失败将加剧轰炸。油价下跌 6-8% 至 95-103 美元，战争溢价消退收益率下滑。若签署，消除史上最大能源供应中断；失败恐引发市场剧烈重估。"
+      },
+      "bullish": ["XOM", "CVX", "DIA", "DXY", "TLT", "GLD"],
+      "bearish": ["OXY", "SLB", "XLE", "SLV"],
+      "macroRisk": {
+        "en": "Yes - Deal terms uncertain; failure could trigger renewed oil shock ($120+) and market volatility; success opens risk-on trade with energy sector rotation",
+        "zh": "是——协议条款不确定；失败可能引发新一轮油价冲击（120 美元+）和市场波动；成功则开启风险偏好交易与能源板块轮动"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury Yields Tumble 5bps on Peace Optimism, Oil Prices Slide",
+        "zh": "和平预期推动美债收益率下滑 5 个基点，油价回落"
+      },
+      "impact": {
+        "en": "10Y Treasury yield drops 6bps to 4.358%; 2Y falls to 3.872%, 30Y to 4.941%. WTI futures plunge 8% to $93/bbl, Brent sheds 7% to $101. War premium evaporates as Iran evaluation of U.S. peace proposal continues. Energy supply disruption fears recede; inflation re-pricing pressure eases, supporting rate-cut confidence for September.",
+        "zh": "10Y 美债收益率下跌 6 个基点至 4.358%；2Y 跌至 3.872%，30Y 至 4.941%。WTI 期货暴跌 8% 至 93 美元/桶，布伦特下跌 7% 至 101 美元。伊朗评估美方和平提案期间战争溢价消退。能源供应中断担忧缓解，通胀重定价压力减轻，支持 9 月降息信心。"
+      },
+      "bullish": ["TLT", "LQD", "AGG", "JPM", "GS", "MS"],
+      "bearish": ["XOM", "CVX", "XLE", "OXY"],
+      "macroRisk": {
+        "en": "Yes - Yield curve steepening supports financials; energy sector rotation likely; stagflation fears recede if war ends",
+        "zh": "是——收益率曲线陡峭化利好金融板块；能源板块可能轮动；若战争结束滞胀担忧消退"
+      }
+    },
+    {
+      "title": {
+        "en": "AMD Shares Surge After Earnings Beat; Chip Sector Rallies",
+        "zh": "AMD 财报超预期股价飙升；芯片板块反弹"
+      },
+      "impact": {
+        "en": "AMD reports strong Q1 results with AI datacenter momentum driving revenue beat. Shares jump premarket as company outlines AI infrastructure roadmap. Arm Holdings also in focus after recent partnership announcements. Chip sector benefits from renewed risk appetite; AI capex narrative gains traction despite rate uncertainty.",
+        "zh": "AMD 公布强劲一季度业绩，AI 数据中心动能推动收入超预期。公司公布 AI 基础设施路线图后股价盘前飙升。Arm Holdings 亦在焦点，近期有合作伙伴宣布。芯片板块因风险偏好提升受益；尽管利率不确定，AI 资本支出叙事获得关注。"
+      },
+      "bullish": ["AMD", "ARM", "NVDA", "GOOGL", "MSFT", "XLK", "SMH"],
+      "bearish": ["INTC", "QCOM", "AVGO"],
+      "macroRisk": {
+        "en": "No direct macro impact; sector-specific catalyst reinforcing AI infrastructure investment thesis",
+        "zh": "无直接宏观影响；属行业特定催化剂，强化 AI 基础设施投资逻辑"
+      }
+    },
+    {
+      "title": {
+        "en": "Anthropic-SpaceX Compute Deal: 300MW Capacity Plus Space Development",
+        "zh": "Anthropic-SpaceX 计算协议：300MW 容量及太空开发合作"
+      },
+      "impact": {
+        "en": "Anthropic secures all compute capacity at SpaceX's Colossus 1 data center (300+ MW), expressing interest in gigawatt-scale space development. Deal resolves AI infrastructure strain impacting Claude Pro reliability. Musk praises Anthropic team after meeting; marks thaw in rivalry with OpenAI. Supports AI cloud infrastructure thesis; Alphabet and Nvidia benefit from ongoing capacity investments.",
+        "zh": "Anthropic 获得 SpaceX Colossus 1 数据中心全部计算容量（300+MW），表示关注吉瓦级太空开发合作。协议解决影响 Claude Pro 可靠性的 AI 基础设施压力。马斯克会面后赞扬 Anthropic 团队；标志与 OpenAI 竞争缓和。支持 AI 云基础设施逻辑；Alphabet 和 Nvidia 从持续容量投资中受益。"
+      },
+      "bullish": ["MSFT", "GOOGL", "AMZN", "NVDA", "ANET", "SMCI"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No direct macro impact; AI infrastructure expansion signals continued capex momentum despite rate sensitivity",
+        "zh": "无直接宏观影响；AI 基础设施扩张显示尽管利率敏感仍持续资本支出动能"
+      }
+    },
+    {
+      "title": {
+        "en": "ADP Jobs Add 109K in April vs. 84K Expected; Labor Market Holds Firm",
+        "zh": "ADP 4 月新增就业 10.9 万 vs 预期 8.4 万；劳动力市场保持稳健"
+      },
+      "impact": {
+        "en": "Private sector added 109K jobs, strongest ADP reading since January 2025, beating 84K forecast. Education/healthcare led with 61K gains; small firms (under 50 employees) added 65K. Wage growth 4.4% annually. Fed holds rates amid tariff/Iran war inflation; ADP supports 'low-hire low-fire' equilibrium. Friday's NFP critical—55K consensus—if weak supports September cut, strong reignites inflation fears.",
+        "zh": "私营部门新增 10.9 万就业，为 2025 年 1 月以来最强 ADP 读数，超越 8.4 千预测。教育/医疗以 6.1 万增幅领先；小公司（少于 50 员工）增加 6.5 万。工资年增长 4.4%。美联储因关税/伊朗战争通胀维持利率；ADP 支持'低招聘低裁员'均衡。本周五非农关键——共识 5.5 千——若疲软支持 9 月降息，强劲重燃通胀担忧。"
+      },
+      "bullish": ["JPM", "BAC", "GS", "MS", "XLK", "DIS"],
+      "bearish": ["TLT", "ARKK", "TSLA"],
+      "macroRisk": {
+        "en": "Yes - Labor strength complicates rate-cut case; NFP Friday pivotal for Fed September decision confidence",
+        "zh": "是——劳动力市场走强使降息案例复杂化；周五非农对美联储 9 月决策信心至关重要"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Catalyst-driven rally. AMD earnings validate AI datacenter momentum; Anthropic-SpaceX compute deal resolves infrastructure bottlenecks. AI capex thesis reinforced despite rate sensitivity; Alphabet, Nvidia beneficiaries of capacity expansion. Sector rotation toward growth accelerates on geopolitical de-escalation.",
+      "zh": "催化剂驱动反弹。AMD 财报验证 AI 数据中心动能；Anthropic-SpaceX 计算协议解决基础设施瓶颈。AI 资本支出逻辑强化尽管利率敏感；Alphabet、Nvidia 从容量扩张受益。地缘缓和推动板块轮动向成长股加速。"
+    },
+    "semiconductor": {
+      "en": "Positive bias. AMD, Arm leadership signals AI demand strength; chip makers benefit from renewed risk appetite. However, valuation concerns persist amid elevated rates; watch for sector divergence as earnings season progresses.",
+      "zh": "正面倾向。AMD、Arm 领导信号显示 AI 需求强劲；芯片股因风险偏好提升受益。但估值担忧在高利率下持续；关注财报季进展中的板块分化。"
+    },
+    "bigTech": {
+      "en": "Bullish with nuance. Cloud/AI investment acceleration (Anthropic-Google, AMD roadmaps) drives fundamentals; Musk-Anthropic thaw reduces regulatory uncertainty. However, tariff impacts on consumer tech remain a headwind for some players.",
+      "zh": "看涨但有细微差别。云/AI 投资加速（Anthropic-Google、AMD 路线图）驱动基本面；马斯克-Anthropic 缓和减少监管不确定性。但关税对消费科技的影响仍是部分玩家的逆风。"
+    },
+    "energy": {
+      "en": "Mixed with rotation pressure. Oil retreats 6-8% on peace deal fears; supermajors (XOM, CVX) face short-term margin compression after 5% spike. However, structural supply tightness persists; 13mb/d disrupted through Hormuz. Sector likely to rotate post-deal if war ends; dividend yields remain attractive.",
+      "zh": "混合且有轮动压力。和平预期油价回落 6-8%；石油巨头（XOM、CVX）面临短期利润压缩继 5% 飙升后。但结构性供应紧张持续；霍尔木兹海峡 1300 万桶/日中断。若战争结束交易后板块可能轮动；股息收益率仍具吸引力。"
+    },
+    "ev": {
+      "en": "Improving outlook. Oil price normalization removes input cost inflation pressure; EV margins stabilize. CATL dilution concerns from prior week fade; TSLA, F, GM position for recovery if Hormuz reopens. However, rate sensitivity continues to weigh on valuation multiples.",
+      "zh": "前景改善。油价恢复正常消除投入成本通胀压力；电动车利润率企稳。CATL 稀释担忧从前一周消退；TSLA、F、GM 为霍尔木兹重开后的复苏布局。但利率敏感持续压制估值倍数。"
+    },
+    "market": {
+      "en": "Risk-on pivot. S&P 500 and Nasdaq futures rally on Iran de-escalation; yields fall, supporting growth valuations. ADP job strength adds complexity to rate-cut narrative. Dow and cyclicals positioned for gains if peace deal ratified. Key risk: deal failure triggers volatile spike.",
+      "zh": "风险偏好转向。标普 500 和纳指期货因伊朗缓和反弹；收益率下跌支持成长估值。ADP 就业强度为降息叙事增加复杂性。若和平协议签署，道琼斯和周期性股票布局上涨。关键风险：协议失败触发剧烈波动。"
+    },
+    "preciousMetals": {
+      "en": "Neutral to cautious. Gold (around $4,520/oz) loses stagflation hedge appeal as war premium evaporates; silver follows. Safe-haven demand weakens; sector likely to underperform risk-on trade. Watch for Fed pivot confidence as alternative inflation hedge.",
+      "zh": "中性偏谨慎。黄金（约 4520 美元/盎司）因战争溢价消退失去滞胀对冲吸引力；白银跟随。避险需求减弱；板块可能跑输风险偏好交易。关注美联储转向信心作为替代通胀对冲。"
+    },
+    "oil": {
+      "en": "Short-term supply resolution phase. WTI falls to $93-95, Brent to $101-103 on peace optimism. However, 23,000 seafarers from 87 nations still stranded; normalization takes 'weeks and weeks' per ING. Market vulnerable until deal ratified; watch for $115+ retest if Iran rejects proposal.",
+      "zh": "短期供应解决阶段。WTI 跌至 93-95 美元，布伦特至 101-103 美元因和平预期。但 2.3 万名 87 国籍海员仍被困；ING 称恢复正常需'数周数周'。市场在协议签署前脆弱；关注伊朗拒绝提议后 115 美元+回测。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 +0.8%, Nasdaq +1.2%, Dow +0.6% — Strong rally on Iran peace optimism; yields fall, energy rotates, tech leads gains",
+      "zh": "标普 500 +0.8%，纳指 +1.2%，道指 +0.6% —— 伊朗和平预期推动强劲反弹；收益率下跌，能源板块轮动，科技领涨"
+    },
+    "treasury10Y": {
+      "en": "4.358% (-6bps) — Sharp drop on war de-escalation; inflation re-pricing pressure eases, supports rate-cut confidence",
+      "zh": "4.358% (-6 基点) —— 战争缓和后急剧下跌；通胀重定价压力减轻，支持降息信心"
+    },
+    "dxy": {
+      "en": "Dollar stable/near-term range; safe-haven flows recede as peace deal progress; Fed pivot expectations dominate",
+      "zh": "美元稳定/短期区间；和平协议进展避险资金消退；美联储转向预期主导"
+    },
+    "oil": {
+      "en": "WTI $93-95/bbl (-7%), Brent $101-103/bbl (-6%) — War premium evaporates; watch for $90 support and $115 retest if deal fails",
+      "zh": "WTI 93-95 美元/桶 (-7%)，布伦特 101-103 美元/桶 (-6%) —— 战争溢价消退；关注 90 美元支撑和协议失败后 115 美元回测"
+    },
+    "keyRisk": {
+      "en": "Iran deal failure triggers renewed oil shock; Friday's NFP critical for rate-cut confidence; chip sector divergence as earnings progress",
+      "zh": "伊朗协议失败引发新一轮油价冲击；周五非农对降息信心至关重要；芯片板块随财报进展分化"
+    }
+  },
+  "judgment": {
+    "type": "risk-on",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Geopolitical de-escalation shifts market bias risk-on: peace deal optimism drives broad rally with tech/chips leading. Oil/energy sector rotation likely post-deal if ratified. ADP job strength adds complexity to Fed rate-cut timeline—Friday's NFP pivotal. Key uncertainty: deal terms and Iran acceptance probability. Sector outlook: AI/bullish, energy/mixed (short-term pressure, long-term structural tightness), precious metals/cautious (losing hedge appeal), EV/improving (cost pressures recede). Trade focus: AI infrastructure leaders (AMD, NVDA, GOOGL), financials on yield curve steepening (JPM, TLT beneficiaries), defensive rotation away from gold.",
+      "zh": "地缘缓和转变市场风险偏好：和平预期推动 broadly 反弹，科技/芯片领涨。若签署，油气/能源板块可能轮动。ADP 就业强度为美联储降息时间线增加复杂性——周五非农关键。关键不确定：协议条款和伊朗接受概率。板块前景：AI/看涨，能源/混合（短期压力，长期结构性紧张），贵金属/谨慎（失去对冲吸引力），电动车/改善（成本压力消退）。交易焦点：AI 基础设施领导者（AMD、NVDA、GOOGL）、金融板块因收益率曲线陡峭化（JPM、TLT 受益）、防御性轮动离开黄金。"
+    }
+  }
+}
