@@ -1,0 +1,156 @@
+{
+  "date": "2026-05-08",
+  "summary": {
+    "en": "US stocks extend gains on optimism over US-Iran peace prospects as crude oil drops, with S&P 500 and Nasdaq futures near record highs while Dow lags. Oil plunges toward $100/barrel on Strait of Hormuz reopening hopes, easing inflation fears and supporting risk-on sentiment. Treasury yields compress as de-escalation narrative strengthens; sector rotation shifts from energy to tech as stagflation concerns abate. Fed policy uncertainty persists with rate-cut expectations intact.",
+    "zh": "美股在美中伊朗和平前景乐观推动下延续涨势，原油下跌，标普 500 和纳指期货接近纪录高位，道指落后。石油因霍尔木兹海峡 reopening 希望暴跌至$100/桶附近，缓解通胀担忧支撑风险偏好。收益率压缩因去升级叙事加强；板块轮动从能源转向科技，滞胀担忧缓解。Fed 政策不确定性犹存，降息预期维持。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Markets Rally on US-Iran Peace Deal Optimism; Oil Plunges",
+        "zh": "市场因美中伊朗和平协议乐观情绪上涨；原油暴跌"
+      },
+      "impact": {
+        "en": "Stock futures extend gains as credible reports indicate US and Iran approaching peace deal. S&P 500 futures near 7,400 (+0.4%), Nasdaq 100 futures up 0.6% to record territory, Dow futures lag at ~50,200 (+0.3%). Oil collapses from $102 to near $100/barrel on Strait of Hormuz reopening expectations. Energy sector rotation reverses; tech resumes leadership. Geopolitical de-escalation reduces stagflation premium. Key driver: Middle East tension easing supports risk-on, oil-driven inflation fears abate. Watch for formal announcement validation.",
+        "zh": "可信报告显示美中伊朗接近和平协议，期货延续涨势。标普 500 期货接近 7,400 (+0.4%)，纳指 100 期货涨 0.6% 至纪录区间，道指期货落后于约 50,200 (+0.3%)。石油因霍尔木兹海峡 reopening 预期从$102 暴跌至近$100/桶。能源板块轮动逆转；科技股重获主导。地缘去升级降低滞胀溢价。关键驱动：中东紧张缓解支撑风险偏好，油价驱动通胀担忧消退。关注正式公告验证。"
+      },
+      "bullish": ["QQQ", "XLK", "TSLA", "NVDA", "MSFT", "GOOGL", "AMZN", "META"],
+      "bearish": ["XLE", "XOM", "CVX", "OXY", "SLB"],
+      "macroRisk": {
+        "en": "Yes - Geopolitical risk transmission: peace deal → oil price collapse → energy sector margin compression. De-escalation benefits growth/tech at expense of energy cyclicals. Watch for deal finalization or breakdown which could trigger violent reversal. Middle East uncertainty persists despite optimism.",
+        "zh": "是 - 地缘政治风险传导：和平协议→油价暴跌→能源板块利润率压缩。去升级受益成长/科技于能源周期股代价。关注协议最终确定或破裂可能触发剧烈逆转。尽管乐观中东不确定性犹存。"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil Retreats from $102 Peak as Hormuz Disruption Fears Ease",
+        "zh": "石油从$102 峰值回落，霍尔木兹中断担忧缓解"
+      },
+      "impact": {
+        "en": "Brent crude fell sharply on reports of Strait of Hormuz potential reopening and US-Iran negotiations progress. Oil backwardation signals normalizing; price target $95-100 range. OPEC+ supply dynamics unchanged but war premium compressed. Energy sector face near-term headwinds despite margin expansion through Q2. Industrial and consumer cyclicals benefit from lower input costs. Key risk: any escalation sends oil back toward $110-115. Sector rotation accelerates away from energy.",
+        "zh": "布油因霍尔木兹海峡潜在 reopening 和美中伊朗谈判进展报告大幅下跌。油市贴水反映正常化；价格目标$95-100 区间。OPEC+ 供应动态不变但战争溢价压缩。能源板块面临短期压力尽管通过 Q2 利润率扩张。工业和消费者周期股受益于更低投入成本。关键风险：任何升级使油价重返$110-115。板块轮动加速远离能源。"
+      },
+      "bullish": ["XLI", "XLB", "DIS", "XLY", "AMZN", "WMT", "TSLA"],
+      "bearish": ["XLE", "XOM", "CVX", "COP", "OXY", "MPC", "VLO"],
+      "macroRisk": {
+        "en": "Yes - Oil price volatility creates stagflation/deflation toggle. $100+ sustained drives inflation; collapse toward $95 supports disinflation. Energy sector rotation depends on peace deal durability. Supply shock risk persists if deal collapses. Commodity complex shows divergence: energy weak, precious metals benefit from uncertainty.",
+        "zh": "是 - 油价波动造成滞胀/通膨转换。$100+ 持续推动通胀；暴跌至$95支持去通胀。能源板块轮动依赖和平协议持久性。供给冲击风险犹存若协议破裂。大宗商品显示分化：能源弱，贵金属因不确定性受益。"
+      }
+    },
+    {
+      "title": {
+        "en": "Tech Sector Resumes Leadership as Rate Sensitivity Eases",
+        "zh": "科技股重获主导因利率敏感性缓解"
+      },
+      "impact": {
+        "en": "Technology names lead market advance as oil-driven inflation fears subside and yield compression supports duration assets. S&P 500 at 7,365-7,400, Nasdaq Composite at 25,850-25,900 near record highs. NVDA earnings on May 20 remains key catalyst; cloud/AI narratives continue supporting valuations. TSLA Optimus expansion, MSFT cloud growth, GOOGL search dominance, AMZN retail strength, META ad recovery all positive. Sector rotation from energy back to tech creates broad risk-on. Rate-sensitive small caps (IWM) outperform.",
+        "zh": "科技名目领涨市场因油价驱动通胀担忧消退且收益率压缩支持久期资产。标普 500 在 7,365-7,400，纳指在 25,850-25,900 接近纪录高位。NVDA 5 月 20 日财报仍为关键催化剂；云/AI 叙事继续支撑估值。TSLA Optimus 扩张，MSFT 云增长，GOOGL 搜索主导地位，AMZN 零售强势，META 广告复苏皆正面。板块轮动从能源回归科技创造广泛风险偏好。利率敏感小型股(IWM)跑赢。"
+      },
+      "bullish": ["NVDA", "MSFT", "GOOGL", "META", "AMZN", "AAPL", "TSLA", "QQQ", "XLK", "IWM"],
+      "bearish": ["TLT", "XLE", "XOM"],
+      "macroRisk": {
+        "en": "No - Company-specific earnings and sector rotation dynamics. AI and cloud narratives remain intact despite capex scrutiny. Earnings momentum supports near-record valuations. Rate sensitivity diminished as oil-driven inflation fears abate. Growth stocks resume leadership.",
+        "zh": "否 - 公司特定财报和板块轮动动态。AI 和云叙事完好尽管资本开支审查。财报动量支撑近纪录估值。利率敏感性因油价驱动通胀担忧消退而减弱。成长股重获主导。"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury Yields Compress on De-escalation; 10Y Falls from 4.45%",
+        "zh": "收益率因去升级压缩；10Y 从 4.45% 下跌"
+      },
+      "impact": {
+        "en": "US 10Y Treasury yield declined from 4.45% Thursday toward 4.35% as peace hopes grow and oil slides. Yield curve steepens slightly; 2s10s spread remains inverted but narrowing. Bond market prices in rate-cut compression if Middle East tensions ease permanently. Fed Chair Powell's June meeting critical for guidance. 7 dissenting votes from FOMC record signal policy divergence. Rate-sensitive assets benefit: growth stocks, small caps, TLT bonds rally. Watch for USD strength and currency flows.",
+        "zh": "美债 10Y 收益率从周四 4.45% 下降至约 4.35% 因和平希望增长和油价下滑。收益率曲线轻微陡峭；2s10s 价差仍 inverted 但收窄。债市定价若中东紧张永久缓解则降息压缩。Fed 主席鲍威尔 6 月会议对指引关键。FOMC 纪要中 7 票反对信号政策分歧。利率敏感资产受益：成长股、小型股、TLT 债券 rallies。关注美元强度和货币资金流向。"
+      },
+      "bullish": ["TLT", "TLH", "IWM", "ARKK", "QQQ", "XLK", "rate-sensitive names"],
+      "bearish": ["GLD", "SLV", "XLF", "JPM", "banking sector"],
+      "macroRisk": {
+        "en": "Yes - Treasury market dynamics reflect inflation expectation shift. Yield compression supports growth valuations but signals lower growth expectations. Fed policy path unclear; rate-cut timing uncertain. USD strength from global uncertainty creates currency headwinds. Inflation trajectory critical for policy direction.",
+        "zh": "是 - 债市动态反映通胀预期转变。收益率压缩支持成长估值但信号增长预期降低。Fed 政策路径不清；降息时机不确定。美元因全球不确定性造成货币压力。通胀轨迹对政策方向关键。"
+      }
+    },
+    {
+      "title": {
+        "en": "Fed Policy Uncertainty Continues; Rate-Cut Expectations Intact",
+        "zh": "Fed 政策不确定性持续；降息预期维持"
+      },
+      "impact": {
+        "en": "FOMC record shows 7 dissenting votes on rate-cut timing, indicating policy divergence among officials. Fed Chair Jerome Powell's June 11 meeting critical for guidance on balance sheet normalization and rate trajectory. Oil-driven inflation complicates easing timeline. Current market pricing in 2026 rate cuts if Middle East de-escalation continues. USD strength from safety trade and rate differential supports DXY near 105. Dollar index volatility creates FX headwinds for multinationals. Watch for Powell testimony and commentary.",
+        "zh": "FOMC 纪要显示 7 票对降息时机异议，显示官员间政策分歧。Fed 主席鲍威尔 6 月 11 日会议对资产负债表正常化和利率轨迹指引关键。油价驱动通胀使宽松时间表复杂化。当前市场若中东去升级持续则定价 2026 年降息。美元从避险交易和利率差异支持 DXY 于 105 附近。美元指数波动造成跨国企业货币压力。关注鲍威尔证词和评论。"
+      },
+      "bullish": ["TLT", "GLD", "SLV", "XLF (defensive positioning)"],
+      "bearish": ["rate-sensitive growth", "small caps if yields rise"],
+      "macroRisk": {
+        "en": "Yes - Fed policy uncertainty creates volatility. 7 dissenting votes signal lack of consensus on rate-cut timing. Oil-driven inflation complicates easing path. Market pricing depends on geopolitical resolution. USD strength from safe-haven demand creates FX headwinds. Inflation trajectory critical for policy direction.",
+        "zh": "是 - Fed 政策不确定性造成波动。7 票反对信号对降息时机缺乏共识。油价驱动通胀使宽松路径复杂化。市场定价依赖地缘政治解决。美元从避险需求造成货币压力。通胀轨迹对政策方向关键。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector momentum remains robust with cloud infrastructure buildout supporting valuations. NVDA earnings on May 20 expected to show continued data center strength. Tesla Optimus robot expansion provides additional catalyst for autonomous driving narrative. Mega-cap tech benefiting from rate sensitivity easing. Sector rotation from energy to tech favors AI names. Watch for AI capex normalization concerns if growth slows. Cloud/AI narratives intact despite investor scrutiny.",
+      "zh": "AI 板块动量稳健，云基础设施建设支撑估值。NVDA 5 月 20 日财报预计显示数据中心持续强劲。Tesla Optimus 机器人扩张为自动驾驶叙事提供额外催化剂。科技巨头受益于利率敏感性缓解。板块轮动从能源至科技 favor AI 名目。关注增长放缓时 AI 资本开支正常化担忧。云/AI 叙事完好尽管投资者审查。"
+    },
+    "semiconductor": {
+      "en": "Semiconductor sector benefits from AI-driven demand surge and data center expansion. NVDA leadership supports valuations near record highs. Supply chain stable with no major disruptions. Rate sensitivity headwind easing as oil-driven inflation concerns abate. Earnings momentum supports growth thesis. Sector rotation toward tech provides tailwinds. Watch for capex guidance and China exposure risks.",
+      "zh": "半导体板块受益于 AI 驱动需求激增和数据中心扩张。NVDA 领导地位支撑近纪录高位估值。供应链稳定无明显中断。利率敏感性压力因油价驱动通胀担忧消退而缓解。财报动量支持增长逻辑。板块轮动向科技提供顺风。关注资本开支指引和 China 风险暴露。"
+    },
+    "bigTech": {
+      "en": "Big tech resuming market leadership as rate sensitivity diminishes. MSFT cloud growth, GOOGL search dominance, AMZN retail strength, META ad recovery, AAPL services growth, TSLA AI expansion all positive catalysts. S&P 500 at 7,365-7,400, Nasdaq near 25,900. Valuations tested near records but earnings momentum and yield compression support. Sector rotation from energy creates broad risk-on environment. Watch for NVDA earnings May 20.",
+      "zh": "科技巨头重获市场主导因利率敏感性减弱。MSFT 云增长，GOOGL 搜索主导，AMZN 零售强势，META 广告复苏，AAPL 服务增长，TSLA AI 扩张皆为正面催化剂。标普 500 于 7,365-7,400，纳指近 25,900。估值在纪录高位测试但财报动量和收益率压缩支撑。板块轮动从能源创造广泛风险偏好环境。关注 NVDA 5 月 20 日财报。"
+    },
+    "energy": {
+      "en": "Energy sector facing headwinds from oil price retreat amid peace deal optimism. Brent crude fell from $102 toward $100 on Strait of Hormuz reopening hopes. XOM, CVX, BP margin expansion through Q2 supported but near-term pressure from de-escalation. Sector rotation away from energy as rate-sensitive growth resumes. Watch for OPEC+ supply dynamics and Iran deal finalization. $110+ price requires escalated tensions.",
+      "zh": "能源板块面临油价回落压力因和平协议乐观。布油从$102 跌至$100 因霍尔木兹海峡 reopening 希望。XOM、CVX、BP 利润率扩张通过 Q2 支持但去升级导致短期压力。板块轮动远离能源因利率敏感成长复苏。关注 OPEC+ 供应动态和伊朗协议最终确定。$110+ 价格需要升级紧张。"
+    },
+    "ev": {
+      "en": "EV sector dynamics improving as oil price normalization reduces energy cost headwinds. CATL dilution concerns from early May report remain relevant. TSLA Optimus progress supports autonomous driving thesis. Higher oil environment (pre-peace) supported alternative fuel narrative but margin pressures dominated. Sector rotation favors tech over EV but EV names benefit from broader risk-on. Watch for TSLA delivery data and China exposure.",
+      "zh": "EV 板块动态改善因油价正常化减少能源成本压力。CATL 稀释担忧从 5 月初报告仍然相关。TSLA Optimus 进展支持自动驾驶逻辑。高油价环境 (和平前) 支持替代燃料叙事但利润率压力主导。板块轮动 favor 科技而非 EV 但 EV 名目受益于广泛风险偏好。关注 TSLA 交付数据和 China 暴露。"
+    },
+    "market": {
+      "en": "Broad market rally with S&P 500 at 7,365-7,400 (+0.4%), Nasdaq Composite at 25,850-25,900 (+0.6%), Dow Jones lagging at ~50,200 (+0.3%). Near-record highs supported by de-escalation narrative and yield compression. Tech resumes leadership; energy rotation reverses. Oil-driven inflation fears abate creating risk-on environment. Market resilience near records despite geopolitical uncertainty. Sector rotation between energy and tech creates volatility. Dow lag reflects defensive positioning.",
+      "zh": "广泛市场上涨标普 500 在 7,365-7,400 (+0.4%)，纳指在 25,850-25,900 (+0.6%)，道指落后于约 50,200 (+0.3%)。接近纪录高位由去升级叙事和收益率压缩支撑。科技重获主导；能源轮动逆转。油价驱动通胀担忧消退创造风险偏好环境。市场近纪录韧性尽管地缘不确定性。能源和科技之间板块轮动造成波动。道指落后反映防御性仓位。"
+    },
+    "preciousMetals": {
+      "en": "Precious metals benefit from geopolitical uncertainty and Fed policy ambiguity. Gold (GLD) and silver (SLV) favored as safe-haven assets amid Middle East tensions. Oil-driven inflation supports commodity complex. USD strength from US safety trade creates headwinds. Physical metal demand remains strong. Watch for inflation expectations and real yield dynamics. De-escalation could pressure metals as risk sentiment improves.",
+      "zh": "贵金属因地缘不确定性和 Fed 政策模糊受益。黄金(GLD) 和白银(SLV) 作为避险资产受青睐于中东紧张。油价驱动通胀支撑大宗商品。美元从美国避险交易造成压力。实物金属需求保持强劲。关注通胀预期和实际收益率动态。去升级可能压制金属因风险情绪改善。"
+    },
+    "oil": {
+      "en": "Crude oil retreats from $102 peak toward $95-100 range on US-Iran peace prospects. Strait of Hormuz reopening hopes eliminate war premium. Backwardation signals normalizing supply expectations. OPEC+ dynamics unchanged but de-escalation key. Energy sector rotation reverses as growth names resume leadership. Watch for deal formalization or breakdown which could trigger violent oil price reversal. $115+ requires escalated tensions. Near-term oil demand supports price floor.",
+      "zh": "原油从$102 峰值回落至$95-100 区间因美中伊朗和平前景。霍尔木兹海峡 reopening 希望消除战争溢价。贴水反映供应预期正常化。OPEC+ 动态不变但去升级关键。能源板块轮动逆转因成长名目重获主导。关注协议正式化或破裂可能触发油价剧烈逆转。$115+ 需要升级紧张。短期石油需求支撑价格底部。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "US equity futures extend gains: S&P 500 up 0.4% to ~7,400, Nasdaq 100 up 0.6% to near records, Dow up 0.3% to ~50,200. De-escalation optimism supports broad risk-on. Tech leading energy rotation reversal. Oil-driven inflation fears abate. Watch for Iran peace deal formalization. Payrolls data pending creates additional catalyst.",
+      "zh": "美股期货延续涨势：标普 500 涨 0.4% 至约 7,400，纳指 100 涨 0.6% 至近纪录，道指涨 0.3% 至约 50,200。去升级乐观支撑广泛风险偏好。科技领涨能源轮动逆转。油价驱动通胀担忧消退。关注伊朗和平协议正式化。非农数据pending 创造额外催化剂。"
+    },
+    "treasury10Y": {
+      "en": "10Y Treasury Yield declined from 4.45% Thursday toward 4.35% on de-escalation. Yield compression supports duration assets. Curve steepening from 2s10s spread narrowing. Fed policy uncertainty persists; Powell June meeting critical. Rate-sensitive assets rally. Watch for USD flows and inflation expectation shifts.",
+      "zh": "10Y 美债收益率从周四 4.45% 下降至约 4.35% 因去升级。收益率压缩支持久期资产。曲线从 2s10s 收窄陡峭化。Fed 政策不确定性犹存；鲍威尔 6 月会议关键。利率敏感资产 rallies。关注美元资金流向和通胀预期转变。"
+    },
+    "dxy": {
+      "en": "DXY elevated near 105 on USD safety trade and Fed policy uncertainty. Dollar strength from global risk flows and rate differential with other currencies. JPY/USD volatility adds FX complexity. USD benefits from Middle East uncertainty but rate-sensitive assets face headwinds if yields compress. Watch for dollar rotation if de-escalation persists.",
+      "zh": "DXY 在 105 附近高位因美元避险交易和 Fed 政策不确定性。美元从全球风险资金流动和其他货币利率差异增强。日元/美元波动增加货币复杂性。美元因中东不确定性受益但若收益率压缩利率敏感资产面临压力。关注若去升级持续美元轮动。"
+    },
+    "oil": {
+      "en": "Brent crude retreated from $102 toward $95-100 on Iran-US peace deal optimism. Strait of Hormuz reopening eliminates war premium. Backwardation normalizing. Watch for deal finalization or breakdown triggering oil price reversal. Energy sector rotation reversing as growth resumes. $115+ requires escalated tensions. Near-term demand supports floor.",
+      "zh": "布油从$102 回落至$95-100 因伊美和平协议乐观。霍尔木兹海峡 reopening 消除战争溢价。贴水正常化。关注协议最终确定或破裂触发油价逆转。能源板块轮动逆转因成长复苏。$115+ 需要升级紧张。短期需求支撑底部。"
+    },
+    "keyRisk": {
+      "en": "Iran peace deal breakdown risk remains primary concern. De-escalation optimism creates fragility; any setback sends oil back to $110+ and triggers selloff. Fed policy uncertainty with rate-cut timing unclear. Geopolitical escalation creates stagflation toggle. Treasury yield volatility affects duration assets. Dollar strength creates FX headwinds. Middle East developments critical for market direction.",
+      "zh": "伊朗和平协议破裂风险仍是主要担忧。去升级乐观造成脆弱性；任何挫折使油价重返$110+ 并触发抛售。Fed 政策不确定性伴随降息时机不明。地缘升级造成滞胀切换。收益率波动影响久期资产。美元强势造成货币压力。中东发展对市场方向关键。"
+    }
+  },
+  "judgment": {
+    "type": "risk-on",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "De-escalation narrative drives risk-on as Iran peace prospects improve, supporting broad equity rally and sector rotation from energy to tech. Oil price collapse from $102 alleviates stagflation concerns while yield compression benefits duration assets. Fed policy uncertainty and geopolitical fragility limit confidence. Market resilience near records despite uncertainty. Key risk: deal breakdown triggers violent reversal. Payrolls data adds near-term catalyst. Mixed event-driven environment with event-dependent outcomes.",
+      "zh": "去升级叙事推动风险偏好因伊朗和平前景改善，支撑广泛股市上涨和板块轮动从能源至科技。油价从$102 暴跌缓解滞胀担忧同时收益率压缩受益久期资产。Fed 政策不确定性和地缘脆弱性限制信心。市场近纪录韧性尽管不确定性。关键风险：协议破裂触发剧烈逆转。非农数据提供短期催化剂。混合事件驱动环境伴随事件依赖结果。"
+    }
+  }
+}
