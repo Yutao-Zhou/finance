@@ -1,0 +1,63 @@
+{
+  "date": "2026-05-12",
+  "summary": "US stock futures edge lower as April CPI accelerated to 3.8% year-over-year, the highest since May 2023, reinforcing 'higher-for-longer' rate expectations. Brent crude nears $105/barrel as Trump labels Iran ceasefire \"on life support,\" keeping energy risk premiums elevated. Tech and AI sectors face pressure from elevated yields, while geopolitical tensions in the Middle East continue to drive cross-asset volatility.",
+  "topNews": [
+    {
+      "title": "April CPI Accelerates to 3.8% - Highest in Nearly Three Years",
+      "impact": "Consumer prices rose faster than the 3.7% consensus, with core inflation at 2.8% versus 2.7% expected. Treasury 10Y yield climbed to 4.433%, reinforcing the 'higher-for-longer' narrative and reducing near-term rate cut expectations. Fed Chair Kevin Warsh faces a divided FOMC amid war-driven inflation surge.",
+      "bullish": ["TLT", "BND"],
+      "bearish": ["GLD", "XAU", "XLB"],
+      "macroRisk": "Yes - Inflation surge from Iran war impact limits Fed easing, pressures rate-sensitive growth sectors"
+    },
+    {
+      "title": "Trump Calls Iran Ceasefire 'On Life Support' - Oil Spikes Near $105/Bbl",
+      "impact": "President Trump's remarks on Iranian ceasefire fragility and military preparedness concerns drove oil prices higher. Brent crude approaching $105/barrel with upward bias from Middle East geopolitical risk. Strait of Hormuz remains a critical chokepoint for global energy supplies.",
+      "bullish": ["XLE", "OIL", "CVX", "XOM"],
+      "bearish": ["SLB", "XLI"],
+      "macroRisk": "Yes - Escalating US-Iran tensions threaten energy supply routes, risk of broader regional conflict"
+    },
+    {
+      "title": "Treasury Yields Push Higher on Hot Inflation Print",
+      "impact": "The 10-year Treasury yield rose 2 basis points to 4.433%, while the 2-year note climbed to 3.975% and the 30-year bond reached 4.999%. Hot CPI data further erodes rate-cut hopes, with yields testing key resistance levels post-April inflation surge.",
+      "bullish": ["TLT", "BND"],
+      "bearish": ["LQD", "HYG"],
+      "macroRisk": "No - Bond market pressure from elevated inflation and hawkish Fed expectations"
+    },
+    {
+      "title": "S&P 500 Holds Above 7,400 Despite Yield Spikes",
+      "impact": "Wall Street closed at record highs on Monday with S&P 500 and Nasdaq 100 advancing to new peaks. The chip rally fueled by AI optimism continues, but futures dip 0.3-0.77% Tuesday as traders assess inflation implications for tech valuations and capital expenditure cycles.",
+      "bullish": ["QQQ", "SMH", "NVDA", "AMD"],
+      "bearish": ["XLK", "VGT"],
+      "macroRisk": "No - Strong equity momentum despite yield headwinds"
+    },
+    {
+      "title": "Trump-Xi Summit Preview: Trade and AI to Dominate Beijing Agenda",
+      "impact": "US President Trump's high-stakes meeting with Chinese President Xi Jinping this week focuses on trade negotiations, artificial intelligence cooperation, and global energy security. Currency markets remain active as yuan strength positions for diplomatic developments.",
+      "bullish": ["FXI", "KWEB", "BABA"],
+      "bearish": ["FXC"],
+      "macroRisk": "No - Diplomatic channel remains open despite Middle East tensions"
+    }
+  ],
+  "sectorRadar": {
+    "ai": "AI sector faces mixed signals as chip-led rally meets yield pressure. Hyperscaler capex projections of $1.1T support long-term AI infrastructure demand, but elevated 10Y yields at 4.433% test valuation multiples. Expect continued selectivity in AI hardware names.",
+    "semiconductor": "Semiconductor stocks cool after record closes. AMD, Micron, and KOSPI strength from memory chip demand remain intact, but 0.77% Nasdaq 100 futures decline suggests near-term consolidation. AI supercycle narrative intact but rate sensitivity increases.",
+    "bigTech": "Broad tech volatility emerging as inflation data weighs on growth valuations. S&P 500 at 7,410 level holds despite CPI-driven yield spikes. Large cap names face capital expenditure scrutiny amid higher-for-longer rate regime.",
+    "energy": "Energy sector on risk bid as Brent crude climbs toward $105/barrel. Middle East ceasefire fragile per Trump's \"on life support\" designation. OPEC+ production discipline plus supply risk premium supports bullish bias. Defense sector also benefits from regional tensions.",
+    "ev": "EV sector mixed on divergent dynamics: Asian EV makers face elevated oil-driven import cost pressures, while Korean chip supply strength supports auto electronics. China EV exports depend on USD/CNY dynamics ahead of Trump-Xi summit.",
+    "market": "S&P 500 records weekly gains despite Tuesday dip. Key levels: 7,400 psychological support, 7,410-615 Nasdaq resistance. CPI-driven volatility expected through week as rate cut timeline extends further into 2026.",
+    "preciousMetals": "Gold under pressure from inflation-driven rate expectations, though China PBOC continues 18th-month accumulation. GLD slips below $4,775/oz 50-day MA as real yields rise. Precious metals compete poorly against higher Treasury real yields.",
+    "oil": "Brent crude surging toward $105/barrel on US-Iran stalemate. Strait of Hormuz risk premium elevated as Iran military prepares contingency response. Citi maintains upward price bias through H2 2026. Energy sector earnings expected to benefit from sustained high price regime."
+  },
+  "premarketFocus": {
+    "futures": "S&P 500 futures down 0.35% to ~7,410; Nasdaq 100 futures lower 0.77% toward 29,200; Dow Jones steady at ~49,800. Market digests April CPI at 3.8% and Iran ceasefire uncertainty.",
+    "treasury10Y": "10-year Treasury yield climbed to 4.433% (+2bp), 2-year at 3.975% (+3bp), 30-year reached 4.999% (+1bp). Hot April CPI reinforces higher-for-longer rates, limiting Fed easing expectations.",
+    "dxy": "Dollar stable to moderately stronger as inflation data supports real yields. Yuan strength ahead of Trump-Xi summit provides counterbalance. FX markets awaiting geopolitical and trade policy signals.",
+    "oil": "Brent crude surging near $105/barrel on Trump's \"ceasefire on life support\" remarks. Oil up 4% on geopolitical escalation risk. Strategic Petroleum Reserve and supply route concerns support bullish bias.",
+    "keyRisk": "Middle East geopolitical escalation risk - Trump's rejection of Iran's ceasefire proposal and Tehran's military preparedness statements raise probability of expanded regional conflict. Cross-asset impact: energy spike, safe-haven flows, inflation expectations."
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": "medium",
+    "note": "AI momentum and energy sector strength offset rate-sensitive headwinds from 3.8% CPI print. Elevated yields at 4.43% for 10Y treasury pressure growth valuations but support energy and defense. Oil's $105/bbl trajectory and Middle East risks remain the dominant uncertainty - watch for any diplomatic de-escalation signals ahead of Trump-Xi summit. Position defensively: favor energy/defense over rate-sensitive growth, maintain selective AI exposure."
+  }
+}
