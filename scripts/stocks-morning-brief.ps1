@@ -1,9 +1,10 @@
 # US Stock Morning Brief Script
-# Purpose: Generate daily US stock market morning brief
+# Purpose: Generate daily US stock market morning brief (with Chinese version)
 
 function Get-USStockMorningBrief {
     $date = Get-Date -Format "yyyy-MM-dd"
     $outputFile = "C:/Users/Yutao Zhou/.openclaw/workspace/memory/$date.md"
+    $outputFileZH = "C:/Users/Yutao Zhou/.openclaw/workspace/logs/$date-morning-brief-zh.md"
     
     Write-Host "Generating US Stock Morning Brief for $date"
     
@@ -17,7 +18,7 @@ function Get-USStockMorningBrief {
         NotableStocks = @("NVIDIA: +2.57%", "Google: -0.21%", "Microsoft: -0.59%")
     }
     
-    # Create brief report
+    # Create English brief report
     $brief = @"
 # US Stock Morning Brief - $date
 
@@ -41,11 +42,39 @@ $(($marketData.NotableStocks | ForEach-Object {"- $_"}) -join "`n")
 *Generated: $date*
 "@
     
-    # Write to file
-    $brief | Out-File -FilePath $outputFile -Encoding UTF8
+    # Create Chinese brief report
+    $briefZh = @"
+# 美股晨报 - $date
+
+## 市场概览
+- **道琼斯指数**: $($marketData.DowIndex)
+- **标普 500**: $($marketData.SP500)
+- **纳斯达克**: $($marketData.Nasdaq)
+
+## 主要驱动因素
+$(($marketData.KeyDrivers | ForEach-Object {"- $_"}) -join "`n")
+
+## 表现 notable 股票
+$(($marketData.NotableStocks | ForEach-Object {"- $_"}) -join "`n")
+
+## 市场关注点
+- 中东紧张局势持续
+- 能源通胀风险
+- 全球贸易路线潜在影响
+
+---
+*生成时间：$date*
+"@
     
-    Write-Host "Morning brief saved to: $outputFile"
-    return $brief
+    # Write English brief to file
+    $brief | Out-File -FilePath $outputFile -Encoding UTF8
+    Write-Host "English morning brief saved to: $outputFile"
+    
+    # Write Chinese brief to file
+    $briefZh | Out-File -FilePath $outputFileZH -Encoding UTF8
+    Write-Host "Chinese morning brief saved to: $outputFileZH"
+    
+    return @($brief, $briefZh)
 }
 
 # Main execution
