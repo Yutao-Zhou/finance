@@ -118,14 +118,38 @@
       }
     }
   },
-  "sectorAnalysis": {
-    "technology": {
-      "en": "Broad tech strength despite market wobble. AI capex expansion supports large tech names as Apple-Intel pact signals industrial AI adoption.",
-      "zh": "尽管市场波动，科技板块依然强劲。AI 资本开支扩张支撑大型科技股，苹果 - 英特尔协议表明工业 AI 正在采用。"
+  "sectorRadar": {
+    "ai": {
+      "en": "AI-driven equity rally remains intact. Apple-Intel chip pact and Jeff Bezos's industrial AI initiative signal broadening beyond traditional tech. Hyperscaler AI capex projected to top $1.1T.",
+      "zh": "AI 驱动的股票上涨依然强劲。苹果 - 英特尔芯片协议和贝佐斯的工业 AI 倡议表明正扩展到传统科技之外。超大规模 AI 资本开支预计突破 1.1 万亿美元。"
+    },
+    "semiconductor": {
+      "en": "Semiconductor giants AMD and Micron lead market gains as AI hardware supercycle dominates. KOSPI crosses 7,000 driven by memory chip demand.",
+      "zh": "半导体巨头 AMD 和美光引领市场上涨，AI 硬件超级周期主导。KOSPI 在内存芯片需求驱动下突破 7,000 点。"
+    },
+    "bigTech": {
+      "en": "Broad tech strength despite market wobble. Nasdaq 100 futures up 0.02% while S&P 500 futures dip 0.2%. AI capex expansion supports large tech names.",
+      "zh": "尽管市场波动，科技板块依然强劲。纳指 100 期货上涨 0.02%，标普 500 期货下跌 0.2%。AI 资本开支扩张支撑大型科技股。"
     },
     "energy": {
-      "en": "Energy sector retains risk bid despite ceasefire holding. Citi warns upward bias persists from geopolitical risk premiums.",
-      "zh": "尽管停火维持，能源板块仍保持风险买入。花旗银行警告地缘政治风险溢价使向上倾向持续。"
+      "en": "Oil fluctuates near $100/bbl with upside risk from Middle East tensions. Energy sector retains risk bid despite ceasefire holding. Citi warns upward bias remains.",
+      "zh": "油价徘徊在每桶 100 美元附近，因中东紧张局势存在上涨风险。尽管停火维持，能源板块仍保持风险买入。花旗银行警告向上倾向持续。"
+    },
+    "ev": {
+      "en": "EV sector mixed amid high energy import costs for Asian markets. Korean automakers benefit from chip demand surge.",
+      "zh": "电动车板块混杂，因亚洲市场能源进口成本高企。韩国汽车制造商受益于芯片需求激增。"
+    },
+    "market": {
+      "en": "US futures edge lower 0.2% in Asian session. S&P 500 recorded weekly gains with semiconductor strength. Nasdaq 100 faces resistance at 29,505/615 after steep rally.",
+      "zh": "美股在亚洲交易时段下跌 0.2%。标普 500 在半导体强势下录得周收益。纳指 100 在大幅上涨后面临 29,505/615 阻力。"
+    },
+    "preciousMetals": {
+      "en": "Gold slips on inflation fears as oil-driven higher rates reduce safe-haven appeal. Gold holds below $4,775/oz 50-day moving average with China PBOC loading for 18th month.",
+      "zh": "黄金因通胀担忧下滑，油价推动的更高利率降低避险吸引力。黄金维持在 4,775 美元/盎司 50 日均线下方，中国央行连续 18 个月增持。"
+    },
+    "oil": {
+      "en": "Crude fluctuating near $100/bbl. Israel warns conflict with Iran not over. Trump's rejection of Iran terms keeps energy/defense sectors on risk bid despite ceasefire.",
+      "zh": "原油徘徊在每桶 100 美元附近。以色列警告与伊朗的冲突尚未结束。特朗普拒绝伊朗条款使能源/国防板块保持风险买入，尽管停火。"
     }
   },
   "premarketFocus": {
@@ -136,6 +160,14 @@
     "treasury10Y": {
       "en": "30-year Treasury yield supported at 4.90% (50-day MA) due to strong jobs data. Bond market under pressure from 'higher-for-longer' rate narrative.",
       "zh": "强劲就业数据支撑 30 年期美债收益率在 4.90%（50 日均线）。债市受更高更持久利率叙事压力。"
+    },
+    "dxy": {
+      "en": "Dollar stable as yuan strengthens and yen remains volatile. Japan's suspected $67B intervention keeps FX investors on edge.",
+      "zh": "美元稳定，因人民币走强、日元波动。日本疑似 670 亿美元干预使外汇投资者警惕。"
+    },
+    "oil": {
+      "en": "Crude oil near $100/bbl with upside risk from Middle East tensions. Citi warns upward bias persists despite ceasefire.",
+      "zh": "原油接近每桶 100 美元，因中东紧张局势存在上涨风险。花旗银行警告尽管停火，向上倾向持续。"
     },
     "keyRisk": {
       "en": "US-Iran diplomatic developments - Trump's 'unacceptable' designation keeps geopolitical risk premium elevated even as military engagements pause.",
