@@ -1,63 +1,156 @@
 {
   "date": "2026-05-11",
-  "summary": "US futures dipped 0.2% as Trump rejected Iran's peace proposal, keeping geopolitical risk elevated. Strong April jobs report (115K vs 62K consensus) reinforced higher-for-longer rates. AI momentum remains intact with semiconductor giants leading, while oil fluctuates near $100/bbl and gold slips on inflation fears.",
+  "summary": {
+    "en": "US futures dipped 0.2% as Trump rejected Iran's peace proposal, keeping geopolitical risk elevated. Strong April jobs report (115K vs 62K consensus) reinforced higher-for-longer rates. AI momentum remains intact with semiconductor giants leading, while oil fluctuates near $100/bbl and gold slips on inflation fears.",
+    "zh": "美股期货下跌 0.2%，因特朗普拒绝伊朗和平提议，地缘政治风险高企。强劲的 4 月就业报告（11.5 万 vs 6.2 万共识）强化了更高更持久的利率预期。AI 势头依然强劲，半导体巨头领先，油价徘徊在每桶 100 美元附近，黄金因通胀担忧下滑。"
+  },
   "topNews": [
     {
-      "title": "Trump Rejects Iran Peace Proposal - Geopolitical Risk Premiums Elevated",
-      "impact": "Market uncertainty rises as hopes for US-Iran diplomatic breakthrough dimmed. Energy and defense sectors retain risk bid while ceasefire holds prevent major oil spike.",
+      "title": {
+        "en": "Trump Rejects Iran Peace Proposal - Geopolitical Risk Premiums Elevated",
+        "zh": "特朗普拒绝伊朗和平提议 - 地缘政治风险溢价高企"
+      },
+      "impact": {
+        "en": "Market uncertainty rises as hopes for US-Iran diplomatic breakthrough dimmed. Energy and defense sectors retain risk bid while ceasefire holds prevent major oil spike.",
+        "zh": "美伊外交突破希望渺茫，市场不确定性上升。能源和国防板块保持风险买入，停火维持阻止油价大幅飙升。"
+      },
       "bullish": [],
       "bearish": ["USOIL", "XLE"],
-      "macroRisk": "Yes - Geopolitical risk in Middle East affecting energy prices"
+      "macroRisk": {
+        "en": "Yes - Geopolitical risk in Middle East affecting energy prices",
+        "zh": "是 - 中东地缘政治风险影响能源价格"
+      }
     },
     {
-      "title": "Strong Jobs Report Reinforces Higher-for-Longer Rates",
-      "impact": "April jobs data (115K actual vs 62K consensus) reduces Fed rate cut expectations for 2026, supporting elevated Treasury yields.",
+      "title": {
+        "en": "Strong Jobs Report Reinforces Higher-for-Longer Rates",
+        "zh": "强劲就业报告强化更高更持久利率预期"
+      },
+      "impact": {
+        "en": "April jobs data (115K actual vs 62K consensus) reduces Fed rate cut expectations for 2026, supporting elevated Treasury yields.",
+        "zh": "4 月就业数据（实际 11.5 万 vs 共识 6.2 万）降低 2026 年美联储降息预期，支撑高企的美债收益率。"
+      },
       "bullish": ["TLT", "BND"],
       "bearish": ["GLD", "XAU"],
-      "macroRisk": "No - Bond market pressure from stronger employment data"
+      "macroRisk": {
+        "en": "No - Bond market pressure from stronger employment data",
+        "zh": "否 - 强劲就业数据给债市带来压力"
+      }
     },
     {
-      "title": "AI Rally Expands Beyond Tech with Industrial AI Initiative",
-      "impact": "Apple-Intel chip pact and Jeff Bezos's $10B industrial AI fund signal broadening AI capex beyond traditional tech giants.",
+      "title": {
+        "en": "AI Rally Expands Beyond Tech with Industrial AI Initiative",
+        "zh": "AI 上涨扩展到科技之外：工业 AI 倡议"
+      },
+      "impact": {
+        "en": "Apple-Intel chip pact and Jeff Bezos's $10B industrial AI fund signal broadening AI capex beyond traditional tech giants.",
+        "zh": "苹果 - 英特尔芯片协议和贝佐斯 100 亿美元工业 AI 基金表明 AI 资本开支正扩展到传统科技巨头之外。"
+      },
       "bullish": ["AMD", "MU", "AAPL", "INTC", "AMZN"],
       "bearish": [],
-      "macroRisk": "No - Positive industrial AI developments"
+      "macroRisk": {
+        "en": "No - Positive industrial AI developments",
+        "zh": "否 - 积极的工业 AI 发展"
+      }
     },
     {
-      "title": "Gold Falls 1% on Oil-Driven Inflation Fears",
-      "impact": "Elevated oil prices near $100/bbl fuel inflation concerns, reducing gold appeal as investors favor real yields over safe-haven metals.",
+      "title": {
+        "en": "Gold Falls 1% on Oil-Driven Inflation Fears",
+        "zh": "黄金因油价推动的通胀担忧下跌 1%"
+      },
+      "impact": {
+        "en": "Elevated oil prices near $100/bbl fuel inflation concerns, reducing gold appeal as investors favor real yields over safe-haven metals.",
+        "zh": "接近每桶 100 美元的高油价加剧通胀担忧，投资者偏好实际收益率而非避险金属，降低黄金吸引力。"
+      },
       "bullish": [],
       "bearish": ["GLD", "XAU"],
-      "macroRisk": "No - Inflation dynamics driving precious metals"
+      "macroRisk": {
+        "en": "No - Inflation dynamics driving precious metals",
+        "zh": "否 - 通胀动态推动贵金属走势"
+      }
     },
     {
-      "title": "China Yuan Strengthens Ahead of Trump-Xi Summit",
-      "impact": "PBOC's currency management keeps yuan at 3-year highs, setting stage for May 14-15 Beijing summit between US and Chinese leaders.",
+      "title": {
+        "en": "China Yuan Strengthens Ahead of Trump-Xi Summit",
+        "zh": "特朗普 - 习近平峰会前人民币走强"
+      },
+      "impact": {
+        "en": "PBOC's currency management keeps yuan at 3-year highs, setting stage for May 14-15 Beijing summit between US and Chinese leaders.",
+        "zh": "中国人民银行的外汇管理使人民币维持在 3 年高点，为 5 月 14-15 日美中领导人北京峰会创造条件。"
+      },
       "bullish": ["FXI", "KWEB"],
       "bearish": ["FXC"],
-      "macroRisk": "No - Diplomatic developments"
+      "macroRisk": {
+        "en": "No - Diplomatic developments",
+        "zh": "否 - 外交进展"
+      }
     }
   ],
-  "sectorRadar": {
-    "ai": "AI-driven equity rally remains intact. Apple-Intel chip pact and Jeff Bezos's industrial AI initiative signal broadening beyond traditional tech. Hyperscaler AI capex projected to top $1.1T.",
-    "semiconductor": "Semiconductor giants AMD and Micron lead market gains as AI hardware supercycle dominates. KOSPI crosses 7,000 driven by memory chip demand.",
-    "bigTech": "Broad tech strength despite market wobble. Nasdaq 100 futures up 0.02% while S&P 500 futures dip 0.2%. AI capex expansion supports large tech names.",
-    "energy": "Oil fluctuates near $100/bbl with upside risk from Middle East tensions. Energy sector retains risk bid despite ceasefire holding. Citi warns upward bias remains.",
-    "ev": "EV sector mixed amid high energy import costs for Asian markets. Korean automakers benefit from chip demand surge.",
-    "market": "US futures edge lower 0.2% in Asian session. S&P 500 recorded weekly gains with semiconductor strength. Nasdaq 100 faces resistance at 29,505/615 after steep rally.",
-    "preciousMetals": "Gold slips on inflation fears as oil-driven higher rates reduce safe-haven appeal. Gold holds below $4,775/oz 50-day moving average with China PBOC loading for 18th month.",
-    "oil": "Crude fluctuating near $100/bbl. Israel warns conflict with Iran not over. Trump's rejection of Iran terms keeps energy/defense sectors on risk bid despite ceasefire."
+  "marketOverview": {
+    "indexes": {
+      "SPX": {
+        "en": "S&P 500 recorded weekly gains despite Asian session dip amid geopolitical concerns.",
+        "zh": "尽管地缘政治担忧下亚洲交易时段下跌，标普 500 仍录得周收益。"
+      },
+      "IXIC": {
+        "en": "Nasdaq 100 futures slightly higher despite resistance at 29,505/615 levels.",
+        "zh": "纳指 100 期货小幅走高，尽管面临 29,505/615 水平阻力。"
+      },
+      "DJI": {
+        "en": "Dow Jones futures little changed, maintaining stability post-weekly gains.",
+        "zh": "道琼斯期货基本持平，在周收益后保持稳定。"
+      }
+    },
+    "rates": {
+      "10Y": {
+        "en": "10-year Treasury yield supported near 4.45% amid 'higher-for-longer' rate expectations.",
+        "zh": "10 年期美债收益率在更高更持久利率预期支撑下维持在 4.45% 附近。"
+      }
+    },
+    "commodities": {
+      "oil": {
+        "en": "Crude oil fluctuating near $100/bbl with upside risk from Middle East tensions.",
+        "zh": "原油徘徊在每桶 100 美元附近，因中东紧张局势存在上涨风险。"
+      },
+      "gold": {
+        "en": "Gold slipped on inflation fears, holding below $4,775/oz 50-day moving average.",
+        "zh": "黄金因通胀担忧下滑，保持在 4,775 美元/盎司 50 日均线下方。"
+      }
+    }
+  },
+  "sectorAnalysis": {
+    "technology": {
+      "en": "Broad tech strength despite market wobble. AI capex expansion supports large tech names as Apple-Intel pact signals industrial AI adoption.",
+      "zh": "尽管市场波动，科技板块依然强劲。AI 资本开支扩张支撑大型科技股，苹果 - 英特尔协议表明工业 AI 正在采用。"
+    },
+    "energy": {
+      "en": "Energy sector retains risk bid despite ceasefire holding. Citi warns upward bias persists from geopolitical risk premiums.",
+      "zh": "尽管停火维持，能源板块仍保持风险买入。花旗银行警告地缘政治风险溢价使向上倾向持续。"
+    }
   },
   "premarketFocus": {
-    "futures": "S&P 500 and Nasdaq 100 futures dipped 0.2% as Trump rejected Iran peace deal. Dow Jones futures little changed. Mixed sentiment post-weekly gains.",
-    "treasury10Y": "30-year Treasury yield supported at 4.90% (50-day MA) due to strong jobs data. Bond market under pressure from 'higher-for-longer' rate narrative.",
-    "dxy": "Dollar stable as yuan strengthens and yen remains volatile. Japan's suspected $67B intervention keeps FX investors on edge.",
-    "oil": "Crude oil near $100/bbl with upside risk from Middle East tensions. Citi warns upward bias persists despite ceasefire.",
-    "keyRisk": "US-Iran diplomatic developments - Trump's 'unacceptable' designation keeps geopolitical risk premium elevated even as military engagements pause."
+    "futures": {
+      "en": "S&P 500 and Nasdaq 100 futures dipped 0.2% as Trump rejected Iran peace deal. Dow Jones futures little changed. Mixed sentiment post-weekly gains.",
+      "zh": "特朗普拒绝伊朗和平协议，标普 500 和纳指 100 期货下跌 0.2%。道琼斯期货基本持平。周收益后情绪混杂。"
+    },
+    "treasury10Y": {
+      "en": "30-year Treasury yield supported at 4.90% (50-day MA) due to strong jobs data. Bond market under pressure from 'higher-for-longer' rate narrative.",
+      "zh": "强劲就业数据支撑 30 年期美债收益率在 4.90%（50 日均线）。债市受更高更持久利率叙事压力。"
+    },
+    "keyRisk": {
+      "en": "US-Iran diplomatic developments - Trump's 'unacceptable' designation keeps geopolitical risk premium elevated even as military engagements pause.",
+      "zh": "美伊外交进展 - 特朗普的'不可接受' designation 使地缘政治风险溢价高企，即使军事行动暂停。"
+    }
   },
   "judgment": {
     "type": "mixed",
-    "confidence": "medium",
-    "note": "AI momentum and tech strength offset geopolitical headwinds from US-Iran tensions. Bond yields remain elevated post-strong jobs data. Oil's upward bias limits gold appeal. Favor selective positioning in AI leaders and energy, cautious on financials amid rate uncertainty."
+    "confidence": {
+      "en": "medium",
+      "zh": "中等"
+    },
+    "note": {
+      "en": "AI momentum and tech strength offset geopolitical headwinds from US-Iran tensions. Bond yields remain elevated post-strong jobs data. Oil's upward bias limits gold appeal. Favor selective positioning in AI leaders and energy, cautious on financials amid rate uncertainty.",
+      "zh": "AI 势头和科技实力抵消美伊紧张局势带来的地缘政治逆风。强劲就业数据后债券收益率维持高企。油价向上倾向限制黄金吸引力。 favor 在 AI 领军股和能源板块选择性建仓，对金融板块保持谨慎，因利率不确定性。"
+    }
   }
 }
