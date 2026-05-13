@@ -1,0 +1,156 @@
+{
+  "date": "2026-05-13",
+  "summary": {
+    "en": "U.S. markets approach a pivotal Trump-Xi summit in Beijing amid persistent inflation concerns, with April PPI jumping 6% annually and wholesale prices rising 0.5% month-on-month. Oil prices remain elevated above $107/barrel on Middle East tensions while Treasury yields hit new yearly highs near 4.46%, creating a complex risk-off backdrop for equities.",
+    "zh": "美国市场在特朗普访华之际迎来关键节点，通胀担忧持续，4 月 PPI 年增 6%、批发物价月增 0.5%。油价因中东紧张维持在每桶 107 美元以上，美债收益率触及年内新高 4.46%，为股市营造复杂防御性背景。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Trump Lands in Beijing for High-Stakes Xi Summit",
+        "zh": "特朗普抵达北京举行关键会晤"
+      },
+      "impact": {
+        "en": "President Trump arrived in Beijing accompanied by CEOs from Tesla (NVDA) and Nvidia (MSFT), marking a critical diplomatic mission. The Trump-Xi summit will cover tariffs, rare earths, AI, Iran war, and Taiwan. Expected outcomes include large Chinese orders for Boeing aircraft and U.S. agricultural products like soybeans, potentially easing trade tensions and providing relief to agriculture and aerospace sectors.",
+        "zh": "特朗普总统携特斯拉 (NVDA) 和英伟达 (MSFT) 首席执行官抵达北京，这是关键外交使命。会晤将涵盖关税、稀土、AI、伊朗战争和台湾问题。预期结果包括中国订购波音飞机和美国农产品如大豆，可能缓解贸易紧张，利好农业和航空板块。"
+      },
+      "bullish": ["BA", "GE", "DE", "ADM", "BG"],
+      "bearish": ["XLB", "FXI", "EWJ"],
+      "macroRisk": {
+        "en": "Yes - If summit fails or escalates on Taiwan/rare earths, could trigger broader trade war fears and supply chain disruption",
+        "zh": "是 - 若会晤失败或台湾/稀土升级，可能引发更广泛的贸易战担忧和供应链中断"
+      }
+    },
+    {
+      "title": {
+        "en": "April Wholesale Prices Surge 6% Annually - Highest Since 2022",
+        "zh": "4 月批发物价年增 6% - 2022 年以来最高"
+      },
+      "impact": {
+        "en": "The Producer Price Index (PPI) jumped 1.4% month-on-month in April, following the CPI acceleration to 3.8%. This wholesale inflation surge confirms pipeline pressures are building across consumer and industrial goods, limiting Fed easing options and reinforcing higher-for-longer rate expectations. Energy and food components drove the surge.",
+        "zh": "生产者价格指数 (PPI)4 月环比飙升 1.4%，紧随 CPI 加速至 3.8%。批发物价激增确认消费和工业商品管道压力累积，限制美联储宽松选项，强化长期高利率预期。能源和食品是主要驱动因素。"
+      },
+      "bullish": ["TLT", "BND", "GLD", "XLE"],
+      "bearish": ["XLK", "QQQ", "VGT", "TLT", "BND"],
+      "macroRisk": {
+        "en": "Yes - PPI/CPI tandem signals inflation persistence; rate hike probability elevated; bond valuations under pressure",
+        "zh": "是 - PPI/CPI 连续表明通胀持续性；加息概率上升；债券估值承压"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil Above $107 as Iran Tensions Persist",
+        "zh": "油价高于 107 美元，伊朗紧张持续"
+      },
+      "impact": {
+        "en": "Brent crude trading at $107.89/barrel while WTI remains above $95 as Gulf of Oman tensions maintain supply disruption risk. President Trump called Iran ceasefire 'on life support' while Strait of Hormuz remains a potential flashpoint. Oil inventories at record lows supporting prices despite demand concerns from slower economic growth.",
+        "zh": "布伦特原油交易在 107.89 美元/桶，WTI 维持在 95 美元以上，阿曼湾紧张局势维持供应中断风险。特朗普总统称伊朗停火'维持生命'，霍尔木兹海峡仍是潜在引爆点。库存处于历史低位支撑油价，尽管经济增长放缓带来需求担忧。"
+      },
+      "bullish": ["XLE", "CVX", "XOM", "COP", "OXY", "SLB", "HAL"],
+      "bearish": ["XLI", "XLB", "XLY", "TSLA"],
+      "macroRisk": {
+        "en": "Yes - Strait of Hormuz disruption risks escalating; energy price spike adds to inflation; stagflation fears mount",
+        "zh": "是 - 霍尔木兹海峡中断风险升级；能源价格上涨加剧通胀；滞胀担忧加剧"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury Yields Hit 4.46% - New Yearly High on Inflation Fears",
+        "zh": "美债收益率触及 4.46% - 通胀担忧创年内新高"
+      },
+      "impact": {
+        "en": "The 10-year Treasury yield climbed to 4.46% from recent lows around 4.43%, marking a fresh 2026 high as inflation data dominates sentiment. The 2-year yield at 3.975% continues to compress the yield curve. Bond markets repricing to a higher-for-longer rate environment with minimal rate cut expectations in 2026.",
+        "zh": "10 年期美债收益率攀升至 4.46%，从近期 4.43% 低位，创下 2026 年新高，通胀数据主导情绪。2 年期收益率 3.975% 继续压缩收益率曲线。债券市场重新定价更高长期利率环境，2026 年降息预期极低。"
+      },
+      "bullish": ["TLT", "TIP"],
+      "bearish": ["TLT", "LQD", "HYG", "BND", "TIP"],
+      "macroRisk": {
+        "en": "Yes - Rising yields pressure equity valuations and growth stocks; bond duration risk elevated",
+        "zh": "是 - 收益率上升压制股权估值和成长股；债券久期风险上升"
+      }
+    },
+    {
+      "title": {
+        "en": "AI Sector Remains Resilient Despite Macro Headwinds",
+        "zh": "AI 板块在宏观逆风中依然坚韧"
+      },
+      "impact": {
+        "en": "Nvidia (NVDA) continues to benefit from AI infrastructure demand, though sector faces valuation pressure from rising rates. The Trump-Xi summit's focus on AI cooperation and potential de-escalation in tech tensions provides a supportive backdrop for semiconductor and AI plays, but rate sensitivity remains a headwind.",
+        "zh": "英伟达 (NVDA) 持续受益于 AI 基础设施需求，但板块面临上升利率的估值压力。特朗普 - 习会晤关注 AI 合作和潜在科技紧张缓和，为芯片和 AI 提供支撑背景，但利率敏感性仍是逆风。"
+      },
+      "bullish": ["NVDA", "AMD", "AVGO", "MU", "ASML"],
+      "bearish": ["XLK", "SMH", "SOXX", "XLK"],
+      "macroRisk": {
+        "en": "Yes - AI growth stocks vulnerable to rate-driven multiple compression despite momentum",
+        "zh": "是 - AI 成长股尽管势头强劲仍易受利率驱动估值压缩影响"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI momentum persists with strong AI infrastructure demand, but sector faces cross-currents from elevated rates. Trump-Xi AI cooperation talks provide diplomatic support, yet valuation compression from rising yields weighs on high-multiple names. NVDA, AMD leading on fundamentals; broader sector rotation possible.",
+      "zh": "AI 势头强劲，基础设施需求旺盛，但板块面临利率上升逆风。特朗普 - 习 AI 合作会谈提供外交支持，但收益率上升压制高估值个股估值。NVDA、AMD 基本面领先，板块轮动可能发生。"
+    },
+    "semiconductor": {
+      "en": "Chip sector mixed on AI optimism vs. rate sensitivity. Trump-Xi rare earths and tech cooperation discussions could ease supply chain tensions, benefiting equipment makers like AMAT and AVGO. However, higher-for-longer rates compress valuations for growth-oriented names.",
+      "zh": "芯片板块在 AI 乐观与利率敏感性间分歧。特朗普 - 习稀土和科技合作讨论或缓解供应链紧张，利好 AMAT、AVGO 等设备制造商。但长期高利率压制成长股估值。"
+    },
+    "bigTech": {
+      "en": "Large-cap tech shows divergence - NVDA and MSFT resilient on AI/cloud fundamentals while others feel rate pressure. Trump's China trip with tech CEOs signals potential de-escalation on trade/Tech tensions. Mixed signals create selective buying opportunities in cloud/AI leaders.",
+      "zh": "大盘科技分化 - NVDA 和 MSFT 因 AI/云基本面坚韧，其他个股承受利率压力。特朗普携科技 CEO 访华信号贸易/科技紧张缓和。混合信号在云/AI 龙头中创造选择性买入机会。"
+    },
+    "energy": {
+      "en": "Energy sector on strong risk bid with Brent at $107.89 and WTI above $95. Iran tensions and Hormuz Strait risks provide geopolitical premium. Major producers CVX, XOM, COP leading on fundamentals; SLB, HAL benefiting from higher activity expectations. Demand concerns moderate upside.",
+      "zh": "能源板块风险买入强劲，布伦特 107.89 美元，WTI 高于 95 美元。伊朗紧张和霍尔木兹海峡风险提供地缘政治溢价。主要生产商 CVX、XOM、COP 基本面领先；SLB、HAL 受益活动预期升温。需求担忧制约涨幅。"
+    },
+    "ev": {
+      "en": "EV sector faces headwinds from elevated oil prices reducing urgency of fuel switching, combined with rate sensitivity on valuation multiples. TSLA faces double pressure from macro headwinds and competitive dynamics. Energy transition themes remain intact but near-term sentiment subdued.",
+      "zh": "电动车板块面临高油价降低换电紧迫性、结合利率敏感性压制估值。TSLA 面临宏观逆风和竞争格局双重压力。能源转型主题依然完整，但短期情绪低迷。"
+    },
+    "market": {
+      "en": "U.S. markets mixed as S&P 500 approaches 7,400 with Dow at 49,760 and Nasdaq at 26,088. PPI surge and oil spike create risk-off posturing, while Trump-Xi summit provides potential positive catalyst. Rotation toward defensives and away from rate-sensitive growth likely.",
+      "zh": "美国市场混合，标普 500 接近 7400 点，道指 49760 点，纳指 26088 点。PPI 激增和油价上涨引发防御姿态，特朗普 - 习会晤提供潜在积极催化剂。轮动向防御性板块，远离利率敏感成长股。"
+    },
+    "preciousMetals": {
+      "en": "Gold and precious metals find support from geopolitical risks and inflation hedge demand, though DXY strength and rising yields create headwinds. Safe-haven flows persist amid Iran tensions, supporting prices around current levels. Palladium benefits from auto sector stability.",
+      "zh": "黄金和贵金属因地缘政治风险和通胀对冲需求获得支撑，但 DXY 强势和收益率上升构成逆风。避险资金在伊朗紧张中持续，支撑当前价格。钯金因汽车板块稳定受益。"
+    },
+    "oil": {
+      "en": "WTI crude above $95.50, Brent at $107.89/barrel. Gulf of Oman tensions and Iran ceasefire fragility support prices despite demand concerns from slower growth. Hormuz Strait disruption risk provides premium; record low inventories add support. OPEC+ supply discipline maintaining price floor.",
+      "zh": "WTI 原油高于 95.50 美元，布伦特 107.89 美元/桶。阿曼湾紧张和伊朗停火脆弱性支撑油价，尽管增长放缓带来需求担忧。霍尔木兹海峡中断风险提供溢价；库存历史低位提供支撑。OPEC+ 供应纪律维持价格底部。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 futures around 7,400 (+/- 0.2%); Nasdaq 100 near 26,088; Dow Jones at 49,760. Mixed signals from Trump-Xi summit hopes vs. inflation/pipeline pressure creating cautious positioning.",
+      "zh": "标普 500 期货约 7400 点（±0.2%）；纳指 100 约 26088 点；道指 49760 点。特朗普 - 习会晤希望与通胀/管道压力信号混合，营造谨慎定位。"
+    },
+    "treasury10Y": {
+      "en": "10-year Treasury yield at 4.46%, hitting new 2026 high after hot PPI data. Curve compression continues as 2Y at 3.975%, reinforcing higher-for-longer rate expectations.",
+      "zh": "10 年期美债收益率 4.46%，PPI 数据强劲创 2026 新高。2 年期 3.975%，曲线压缩持续，强化长期高利率预期。"
+    },
+    "dxy": {
+      "en": "DXY trading near 98.0-98.3 on inflation data and elevated yields. Dollar strength persists as rate differentials favor USD versus EUR and JPY, though Trump's China trip could provide relief to EUR/USD.",
+      "zh": "DXY 交易在 98.0-98.3 附近，通胀数据和收益率推升。美元走强因利率差异利好欧元/日元，但特朗普访华或缓解欧元/美元压力。"
+    },
+    "oil": {
+      "en": "WTI above $95.50; Brent at $107.89/barrel. Hormuz Strait and Iran ceasefire fragility supporting prices despite demand concerns.",
+      "zh": "WTI 高于 95.50 美元；布伦特 107.89 美元/桶。霍尔木兹海峡和伊朗停火脆弱性支撑油价，尽管存在需求担忧。"
+    },
+    "keyRisk": {
+      "en": "Geopolitical escalation risk - Trump-Xi summit outcomes on Taiwan/rare earths; Iran ceasefire breakdown; PPI-driven rate hike pricing vs. AI optimism creating cross-asset transmission complexity.",
+      "zh": "地缘政治升级风险 - 特朗普 - 习会晤台湾/稀土结果；伊朗停火破裂；PPI 驱动加息定价与 AI 乐观主义交叉资产传导复杂化。"
+    }
+  },
+  "judgment": {
+    "type": "event-driven",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Cross-asset transmission complex: Geopolitical tensions → oil spike → inflation pressure (PPI + CPI) → rate hike pricing → equity compression. Trump-Xi summit provides potential positive catalyst (trade de-escalation, rare earths stability) but outcomes uncertain. Energy bullish, tech mixed, bonds under pressure. Event-driven with medium confidence until summit outcomes materialize.",
+      "zh": "跨资产传导复杂：地缘紧张 → 油价飙升 → 通胀压力 (PPI + CPI) → 加息定价 → 股权压缩。特朗普 - 习会晤提供潜在积极催化剂（贸易缓和、稀土稳定）但不确定性。能源牛市、科技混合、债券承压。事件驱动，中期信心直至会晤结果明朗。"
+    }
+  }
+}
