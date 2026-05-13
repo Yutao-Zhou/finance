@@ -1,138 +1,156 @@
 {
   "date": "2026-05-12",
   "summary": {
-    "en": "US stock futures edge lower as April CPI accelerated to 3.8% year-over-year, the highest since May 2023, reinforcing 'higher-for-longer' rate expectations.",
-    "zh": "美股市期货小幅下跌，4 月 CPI 加速至 3.8%，为近三年最高，强化了'higher-for-longer'的利率预期。"
+    "en": "US stock futures decline as April CPI accelerated to 3.8% - highest in nearly three years - while oil prices surge above $104/barrel amid escalating Iran tensions, forcing markets to price in potential Fed rate hikes.",
+    "zh": "美股市期货下跌，4 月 CPI 加速至 3.8% - 近三年来最高，同时伊朗紧张局势升级推动油价突破每桶 104 美元，市场开始定价美联储可能加息。"
   },
   "topNews": [
     {
-      "en": {
-        "title": "April CPI Accelerates to 3.8% - Highest in Nearly Three Years",
-        "impact": "Consumer prices rose faster than the 3.7% consensus, with core inflation at 2.8% versus 2.7% expected."
+      "title": {
+        "en": "April CPI Accelerates to 3.8% - Hottest in Three Years",
+        "zh": "4 月 CPI 飙升至 3.8% - 三年最热点"
       },
-      "zh": {
-        "title": "4 月 CPI 加速至 3.8% - 近三年最高",
-        "impact": "消费者物价增速快于 3.7% 的共识，核心通胀为 2.8% 对立于 2.7% 预期。"
+      "impact": {
+        "en": "Consumer prices rose 0.6% month-over-month, exceeding the 3.7% consensus. Core inflation at 2.8% vs 2.7% expected, dashing hopes for near-term rate cuts and forcing traders to price in potential Fed hikes.",
+        "zh": "消费者物价月增 0.6%，超出 3.7% 的共识。核心通胀 2.8% 高于预期的 2.7%，破灭短期内降息希望，迫使交易员定价潜在美联储加息。"
       },
-      "bullish": ["TLT", "BND"],
-      "bearish": ["GLD", "XAU", "XLB"],
-      "macroRisk": "Yes - Inflation surge from Iran war impact limits Fed easing"
+      "bullish": ["TLT", "BND", "LQD"],
+      "bearish": ["GLD", "XAU", "QQQ", "XLK"],
+      "macroRisk": {
+        "en": "Yes - 3.8% inflation limits Fed easing options; rate hike probability jumped from ~10% to ~35%",
+        "zh": "是 - 3.8% 通胀限制美联储宽松选项；加息概率从约 10% 跃升至约 35%"
+      }
     },
     {
-      "en": {
-        "title": "Trump Calls Iran Ceasefire 'On Life Support' - Oil Spikes Near $105/Bbl",
-        "impact": "President Trump's remarks on Iranian ceasefire fragility drove oil prices higher."
+      "title": {
+        "en": "Oil Prices Surge to $105/Bbl as Iran Ceasefire Crumbles",
+        "zh": "伊朗停火破裂，油价飙升至每桶 105 美元"
       },
-      "zh": {
-        "title": "特朗普称伊朗停火'维持生命' - 油价飙升至近每桶 105 美元",
-        "impact": "特朗普总统关于伊朗停火脆弱性的言论推动了油价上涨。"
+      "impact": {
+        "en": "President Trump called the Iran ceasefire 'on life support' as peace talks faltered. Brent crude climbed above $104/barrel while WTI drifted above $95, reigniting supply disruption fears over the Strait of Hormuz.",
+        "zh": "特朗普总统称伊朗停火'维持生命'，和平谈判破裂。布伦特原油攀升至每桶 104 美元以上，WTI 维持在 95 美元以上，霍尔木兹海峡供应中断担忧重燃。"
       },
-      "bullish": ["XLE", "OIL", "CVX", "XOM"],
-      "bearish": ["SLB", "XLI"],
-      "macroRisk": "Yes - Escalating US-Iran tensions threaten energy supply routes"
+      "bullish": ["XLE", "CVX", "XOM", "OXY", "COP"],
+      "bearish": ["SLB", "XLI", "XLB", "EEM"],
+      "macroRisk": {
+        "en": "Yes - Strait of Hormuz disruption could spike energy costs, amplify inflation, and trigger stagflation risks",
+        "zh": "是 - 霍尔木兹海峡中断可能推高能源成本，加剧通胀并引发滞胀风险"
+      }
     },
     {
-      "en": {
-        "title": "Treasury Yields Push Higher on Hot Inflation Print",
-        "impact": "The 10-year Treasury yield rose 2 basis points to 4.433%."
+      "title": {
+        "en": "Treasury Yields Surge to 4.48% on Inflation Fears",
+        "zh": "通胀担忧引发美债收益率飙升至 4.48%"
       },
-      "zh": {
-        "title": "美债收益率因通胀数据飙升走高",
-        "impact": "10 年期美债收益率上升 2 个基点至 4.433%。"
+      "impact": {
+        "en": "The 10-year Treasury yield climbed to 4.48% from 4.43%, reaching a one-week high as inflation concerns mount. The 2-year yield rose to 3.975%, compressing the yield curve and adding pressure on growth stocks.",
+        "zh": "10 年期美债收益率从 4.43% 攀升至 4.48%，达到一周高点，通胀担忧加剧。2 年期收益率升至 3.975%，压缩收益率曲线，给成长股带来压力。"
       },
-      "bullish": ["TLT", "BND"],
-      "bearish": ["LQD", "HYG"],
-      "macroRisk": "No - Bond market pressure from elevated inflation"
+      "bullish": ["TLT", "BND", "TIP"],
+      "bearish": ["LQD", "HYG", "TLT", "TIP"],
+      "macroRisk": {
+        "en": "Yes - Higher-for-longer rates pressure bond valuations and equity risk premiums",
+        "zh": "是 - 长期高利率压制债券估值和股权风险溢价"
+      }
     },
     {
-      "en": {
-        "title": "S&P 500 Holds Above 7,400 Despite Yield Spikes",
-        "impact": "Wall Street closed at record highs on Monday with S&P 500 and Nasdaq 100 advancing."
+      "title": {
+        "en": "Tech Stocks Under Pressure Despite Nvidia Record",
+        "zh": "科技股承压，尽管英伟达创历史新高"
       },
-      "zh": {
-        "title": "标普 500 尽管收益率飙升仍坚守 7400 上方",
-        "impact": "华尔街周一以标普 500 和纳指 100 创下新高收盘。"
+      "impact": {
+        "en": "Nvidia (NVDA) closed at a record high of $220.78 as AI momentum continues, but chip stocks faced broad pullback. Qualcomm and Intel dropped as investors rotated to risk-off following the hot CPI print.",
+        "zh": "英伟达 (NVDA) 收于 220.78 美元的历史高点，AI 势头持续，但芯片股面临普遍回调。高通和英特尔下跌，投资者在强劲 CPI 数据后转向防御。"
       },
-      "bullish": ["QQQ", "SMH", "NVDA", "AMD"],
-      "bearish": ["XLK", "VGT"],
-      "macroRisk": "No - Strong equity momentum despite yield headwinds"
+      "bullish": ["NVDA", "AMD", "MU"],
+      "bearish": ["QCOM", "INTC", "XLK", "VGT"],
+      "macroRisk": {
+        "en": "Yes - Rate sensitivity of high-multiple tech stocks exacerbates pullback from AI-driven rally highs",
+        "zh": "是 - 高估值科技股对利率敏感，加剧 AI 驱动上涨高点的回调"
+      }
     },
     {
-      "en": {
-        "title": "Trump-Xi Summit Preview: Trade and AI to Dominate Beijing Agenda",
-        "impact": "US President Trump's high-stakes meeting with Chinese President Xi Jinping this week focuses on trade negotiations."
+      "title": {
+        "en": "Dow Futures Steady as Investors Digest Inflation Data",
+        "zh": "道指期货持稳，投资者消化通胀数据"
       },
-      "zh": {
-        "title": "特朗普 - 习近平峰会预览：贸易和 AI 将主导北京议程",
-        "impact": "美国总统特朗普本周与中国国家主席习近平的会晤聚焦贸易谈判。"
+      "impact": {
+        "en": "Dow Jones futures held steady around 49,800 during European hours as Wall Street braced for the April CPI report. The index closed near record highs on Monday at 49,950, participating in the multi-month rally.",
+        "zh": "道指期货在欧洲时段维持在 49800 点附近，华尔街为 4 月 CPI 数据做准备。周一指数收于 49950 点，接近历史高点，参与数月上涨行情。"
       },
-      "bullish": ["FXI", "KWEB", "BABA"],
-      "bearish": ["FXC"],
-      "macroRisk": "No - Diplomatic channel remains open"
+      "bullish": ["DIA", "BA", "CAT", "GS"],
+      "bearish": ["DIA", "JPM", "VZ"],
+      "macroRisk": {
+        "en": "No - Dow components show more defensive posture amid uncertainty",
+        "zh": "否 - 道指成分股在不确定性中显示更防御性姿态"
+      }
     }
   ],
   "sectorRadar": {
     "ai": {
-      "en": "AI sector faces mixed signals as chip-led rally meets yield pressure.",
-      "zh": "AI 板块面临混合信号：芯片领头的 rally 遭遇收益率压力。"
+      "en": "AI momentum remains strong with Nvidia hitting record highs, but sector facing headwinds from rate sensitivity. AMD and Micron benefiting from CPU demand shift as AI moves from chatbots to agents.",
+      "zh": "AI 势头强劲，英伟达触及历史高点，但板块面临利率敏感性压力。AMD 和美光受益于 CPU 需求转向，AI 从聊天机器人向智能体发展。"
     },
     "semiconductor": {
-      "en": "Semiconductor stocks cool after record closes.",
-      "zh": "半导体股票在创纪录收盘后冷却。"
+      "en": "Chip stocks pulled back from record rally highs as inflation data triggered risk-off rotation. Qualcomm and Intel dropped while AMD maintained strength on earnings optimism.",
+      "zh": "芯片股从记录性上涨高点回调，通胀数据引发防御性轮动。高通和英特尔下跌，AMD 因财报乐观保持强势。"
     },
     "bigTech": {
-      "en": "Broad tech volatility emerging as inflation data weighs on growth valuations.",
-      "zh": "广泛的科技波动出现，因通胀数据给成长估值带来压力。"
+      "en": "Large-cap tech under pressure as higher-for-longer rate expectations compress valuation multiples. NVDA exception with continued AI infrastructure demand driving record closes.",
+      "zh": "大盘科技承压，长期高利率预期压缩估值倍数。NVDA 例外，持续 AI 基础设施需求推动创纪录收盘。"
     },
     "energy": {
-      "en": "Energy sector on risk bid as Brent crude climbs toward $105/barrel.",
-      "zh": "能源板块因布伦特原油向每桶 105 美元攀升面临风险。"
+      "en": "Energy sector on strong risk bid as geopolitical tensions drive oil prices above $104/barrel. Major producers CVX and XOM leading sector gains amid supply disruption concerns.",
+      "zh": "能源板块风险买入强劲，地缘政治推动油价突破每桶 104 美元。主要生产商 CVX 和 XOM 引领板块上涨，供应中断担忧持续。"
     },
     "ev": {
-      "en": "EV sector mixed on divergent dynamics.",
-      "zh": "电动车板块在分化动态中混合。"
+      "en": "EV sector faces headwinds from elevated oil prices and rate sensitivity. High fuel costs support EV demand fundamentals but valuation compression weighs on sentiment.",
+      "zh": "电动车板块面临高油价和利率敏感性逆风。高燃油成本支持 EV 需求基本面，但估值压缩压制情绪。"
     },
     "market": {
-      "en": "S&P 500 records weekly gains despite Tuesday dip.",
-      "zh": "标普 500 创周收益尽管周二下跌。"
+      "en": "Wall Street mixed as S&P 500 futures down 0.35% to ~7,410 and Nasdaq 100 futures lower 0.77% to ~29,200. Dow steady near 49,800. Inflation fears and oil spikes creating risk-off posture.",
+      "zh": "华尔街混合，标普 500 期货跌 0.35% 至约 7410 点，纳指 100 期货跌 0.77% 至约 29200 点。道指稳定在 49800 点附近。通胀担忧和油价上涨引发防御姿态。"
     },
     "preciousMetals": {
-      "en": "Gold under pressure from inflation-driven rate expectations.",
-      "zh": "黄金因通胀驱动的利率预期承压。"
+      "en": "Gold under pressure as hot CPI boosts dollar and Treasury yields. DXY rallied toward 98.30 on inflation data, creating headwinds for non-yielding precious metals.",
+      "zh": "黄金承压，强劲 CPI 推动美元和美债收益率上升。DXY 因通胀数据反弹至 98.30 附近，对无息贵金属造成逆风。"
     },
     "oil": {
-      "en": "Brent crude surging toward $105/barrel on US-Iran stalemate.",
-      "zh": "布伦特原油在特朗普'停火维持生命'言论附近每桶 105 美元飙升。"
+      "en": "WTI above $95.50, Brent above $104/barrel on US-Iran tensions. Strait of Hormuz disruption fears provide support despite demand concerns. Oil inventories reportedly at record lows.",
+      "zh": "WTI 高于 95.50 美元，布伦特高于每桶 104 美元，受美伊紧张局势推动。霍尔木兹海峡中断担忧提供支撑，尽管存在需求担忧。石油库存据报处于历史低位。"
     }
   },
   "premarketFocus": {
     "futures": {
-      "en": "S&P 500 futures down 0.35% to ~7,410; Nasdaq 100 futures lower 0.77% toward 29,200.",
-      "zh": "标普 500 期货下跌 0.35% 至约 7410 点；纳指 100 期货下跌 0.77% 向 29200 点。"
+      "en": "S&P 500 futures down 0.35% to ~7,410; Nasdaq 100 futures lower 0.77% to ~29,200; Dow Jones steady around 49,800.",
+      "zh": "标普 500 期货跌 0.35% 至约 7410 点；纳指 100 期货跌 0.77% 至约 29200 点；道指稳定在 49800 点附近。"
     },
     "treasury10Y": {
-      "en": "10-year Treasury yield climbed to 4.433% (+2bp), 2-year at 3.975% (+3bp).",
-      "zh": "10 年期美债收益率升至 4.433%（+2 基点），2 年期在 3.975%（+3 基点）。"
+      "en": "10-year Treasury yield climbed to 4.48% from 4.43% (+5bp), reaching 1-week high as inflation concerns mount.",
+      "zh": "10 年期美债收益率从 4.43% 升至 4.48%（+5 基点），达到一周高点，通胀担忧加剧。"
     },
     "dxy": {
-      "en": "Dollar stable to moderately stronger as inflation data supports real yields.",
-      "zh": "美元稳定到中等更强，因通胀数据支持真实收益率。"
+      "en": "US Dollar Index (DXY) rallied toward 98.30 on hot CPI data, with rates and inflation expectations driving USD strength.",
+      "zh": "美元指数 (DXY) 因强劲 CPI 数据反弹至 98.30 附近，利率和通胀预期推动美元走强。"
     },
     "oil": {
-      "en": "Brent crude surging near $105/barrel on Trump's 'ceasefire on life support' remarks.",
-      "zh": "布伦特原油在特朗普'停火维持生命'言论附近每桶 105 美元飙升。"
+      "en": "WTI crude trading above $95.50; Brent crude above $104/barrel on Middle East geopolitical tensions.",
+      "zh": "WTI 原油交易在 95.50 美元以上；布伦特原油高于每桶 104 美元，受中东地缘政治紧张推动。"
     },
     "keyRisk": {
-      "en": "Middle East geopolitical escalation risk - Trump's rejection of Iran's ceasefire proposal.",
-      "zh": "中东地缘政治升级风险 - 特朗普拒绝伊朗停火提议。"
+      "en": "Geopolitical escalation risk - Trump's rejection of Iran ceasefire; 3.8% CPI forcing Fed rate hike pricing; Oil supply disruption fears over Hormuz.",
+      "zh": "地缘政治升级风险 - 特朗普拒绝伊朗停火；3.8% CPI 迫使美联储加息定价；霍尔木兹海峡供应中断担忧。"
     }
   },
   "judgment": {
-    "type": "mixed",
-    "confidence": "medium",
+    "type": "event-driven",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
     "note": {
-      "en": "AI momentum and energy sector strength offset rate-sensitive headwinds from 3.8% CPI print.",
-      "zh": "AI 势头和能源部门强度抵消 3.8% CPI 数据带来的利率敏感逆风。"
+      "en": "Cross-asset transmission clear: Iran tensions → oil spike → inflation pressure → Fed rate hike pricing → equity compression. Mixed signals from AI momentum (bullish) vs macro headwinds (bearish).",
+      "zh": "跨资产传导清晰：伊朗紧张 → 油价飙升 → 通胀压力 → 美联储加息定价 → 股权压缩。AI 势头（牛市）与宏观逆风（熊市）给出混合信号。"
     }
   }
 }
