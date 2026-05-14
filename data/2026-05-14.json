@@ -1,0 +1,204 @@
+{
+  "date": "2026-05-14",
+  "summary": {
+    "en": "US stocks trade higher ahead of Trump-Xi summit as tech rally extends with S&P 500 and Nasdaq at fresh record highs driven by AI chip demand. Brent crude stabilizes above $104/barrel on Iran ceasefire uncertainty creating stagflation toggle risk. 10Y Treasury yield near 4.46% supports duration assets despite geopolitical premium. Market positioning favors growth names as mega-cap tech leads ahead of NVDA earnings on May 20.",
+    "zh": "美股在 Trump-Xi 峰会前上涨科技 rallies 延续标普 500 和纳指再创历史新高由 AI 芯片需求驱动。布油稳定于$104/桶上方伊朗停火不确定造成滞胀切换风险。10Y 美债收益率近 4.46% 支持久期资产尽管地缘溢价。市场仓位偏好成长股科技巨头领涨 NVDA 5 月 20 日财报前。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Trump-Xi Summit in Beijing: Trade War De-escalation and Market Access Promises",
+        "zh": "北京 Trump-Xi 峰会：贸易战降级和市场准入承诺"
+      },
+      "impact": {
+        "en": "US President Trump met Chinese President Xi Jinping in Beijing on Wednesday, dialing down trade war rhetoric and signaling broader market access for US firms. Xi warned Trump about potential conflicts on Taiwan if not handled properly. Market interpretation positive for tech sector export prospects. US tech leaders accompanied Trump on China trip. Summit outcomes support risk-on positioning but implementation details critical.",
+        "zh": "美国 Trump 总统周三在北京与中国 Xi 主席会面降级贸易战言论 signaling 扩大美国企业市场准入。Xi 警告 Trump 台湾问题若处理不当可能冲突。市场解读对科技板块出口前景积极。美国科技领袖陪同 Trump 访华。峰会结果支持风险偏好仓位但执行细节对持续乐观关键。"
+      },
+      "bullish": [
+        "XLK",
+        "QQQ",
+        "AAPL",
+        "TSLA",
+        "NVDA",
+        "AMD",
+        "INTC",
+        "SMH",
+        "FXI",
+        "MCHI"
+      ],
+      "bearish": [
+        "TLT",
+        "DJA",
+        "defensive names"
+      ],
+      "macroRisk": {
+        "en": "Partial - Summit de-escalation reduces trade war escalation risk but deal specifics vague. Taiwan warnings create geopolitical uncertainty overlay. Implementation credibility critical for sustained impact.",
+        "zh": "部分 - 峰会降级减少贸易战升级风险但协议细节模糊。台湾警告造成地缘不确定性叠加。执行可信度对持续影响关键。"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil Prices Surge on Iran Ceasefire Hanging on Life Support at $104-$105/Barrel",
+        "zh": "油价飙升因伊朗停火处于生命支持状态 $104-$105/桶"
+      },
+      "impact": {
+        "en": "Brent crude oil futures jumped nearly 3% to settle above $104 per barrel as President Trump stated the ceasefire with Iran is on life support. Middle East escalation risk revived oil price rally. Strait of Hormuz closure threat creates supply disruption concerns supporting price floor at $100+. Oil volatility creates stagflation toggle between inflation fears and growth concerns. Energy sector beneficiaries include XOM, CVX, COP, OXY, SLB.",
+        "zh": "布油期货周三涨近 3% 收于$104/桶上方 Trump 总统称与伊朗停火处于生命支持状态。中东升级风险重燃油价反弹。霍尔木兹海峡关闭威胁造成供给中断担忧支撑价格底部$100+。油价波动造成滞胀切换通胀担忧和增长担忧之间。能源板块受益者包括 XOM、CVX、COP、OXY、SLB。"
+      },
+      "bullish": [
+        "XLE",
+        "XOM",
+        "CVX",
+        "COP",
+        "OXY",
+        "SLB",
+        "HAL",
+        "DVN"
+      ],
+      "bearish": [
+        "XLI",
+        "XLY",
+        "XLP",
+        "XLU",
+        "JPM",
+        "BAC",
+        "consumer cyclical"
+      ],
+      "macroRisk": {
+        "en": "Yes - Oil price volatility creates primary stagflation toggle risk. $104+ sustained drives inflation expectations. Strait of Hormuz potential closure creates supply shock risk. Iran ceasefire fragility uncertain. Any breakdown sends oil back to $110-115 triggering energy sector rally and growth selloff.",
+        "zh": "是 - 油价波动造成主要滞胀切换风险。$104+ 持续推动通胀预期。霍尔木兹海峡潜在关闭造成供给冲击风险。伊朗停火脆弱性不确定。任何破裂使油价重返$110-115 触发能源板块上涨和成长抛售。"
+      }
+    },
+    {
+      "title": {
+        "en": "S&P 500, Nasdaq Extend Record High Rally Led by AI Chip Demand",
+        "zh": "标普 500 和纳指延续创新高 rallies AI 芯片需求领涨"
+      },
+      "impact": {
+        "en": "US equity markets extended rally with S&P 500 climbing above 7,444 and Nasdaq Composite surging past 26,400 to fresh record highs. Technology sector led gains with semiconductor names particularly strong on AI infrastructure investment optimism. Cisco Systems earnings beat expectations. NVDA anticipation building for May 20 earnings expected to show continued data center strength. Sector rotation from defensive to growth creates broad risk-on environment.",
+        "zh": "美股延续 rallies 标普 500 涨破 7,444 纳指涨超 26,400 至新高。科技板块领涨半导体名目尤其强劲 AI 基础设施投资乐观。思科财报超预期。Nvidia  anticipation 积累 5 月 20 日财报预计显示持续数据中心强度。板块轮动从防御性至成长创造广泛风险偏好环境。"
+      },
+      "bullish": [
+        "QQQ",
+        "XLK",
+        "SMH",
+        "NVDA",
+        "AMD",
+        "AVGO",
+        "MSFT",
+        "GOOGL",
+        "META",
+        "AMZN",
+        "AAPL",
+        "CSCO",
+        "TSM"
+      ],
+      "bearish": [
+        "TLT",
+        "XLE",
+        "XLP",
+        "defensive names"
+      ],
+      "macroRisk": {
+        "en": "Partial - Earnings-driven gains with sector rotation supporting growth leadership. AI and cloud narratives intact despite capex scrutiny. Rate sensitivity diminished as geopolitical premium fluctuates.",
+        "zh": "部分 - 财报驱动涨幅伴随板块轮动支持成长主导。AI 和云叙事完好尽管资本开支审查。利率敏感性减弱因地缘溢价波动。"
+      }
+    },
+    {
+      "title": {
+        "en": "10-Year Treasury Yield Stabilizes Near 4.46% Amid Geopolitical Premium",
+        "zh": "10 年期美债收益率稳定于 4.46% 附近因地缘溢价"
+      },
+      "impact": {
+        "en": "US 10-Year Treasury yield at 4.46% stabilizing near recent highs as Middle East oil tensions and Trump-Xi summit create mixed signals. Yield compression supports duration assets including growth stocks and bond ETFs but geopolitical risk premium limits gains. Curve still inverted with 2s10s spread narrowing. Fed policy uncertainty persists with rate-cut timing unclear.",
+        "zh": "美债 10Y 收益率 4.46% 稳定于近期高位因中东油价紧张和 Trump-Xi 峰会创造混合信号。收益率压缩支持久期资产包括成长股和债券 ETF 但地缘风险溢价限制涨幅。曲线仍 inverted 2s10s 收窄。Fed 政策不确定性犹存降息时机不明。"
+      },
+      "bullish": [
+        "TLT",
+        "TLH",
+        "SHY",
+        "IWM",
+        "ARKK",
+        "VNQ"
+      ],
+      "bearish": [
+        "XLF",
+        "JPM",
+        "BAC",
+        "banking names",
+        "utilities"
+      ],
+      "macroRisk": {
+        "en": "Yes - Treasury market reflects inflation expectation shift and growth concerns. Fed policy path unclear with rate-cut timing uncertain. USD strength creates currency headwinds for multinationals. Geopolitical premium fluctuates creating volatility.",
+        "zh": "是 - 债市反映通胀预期转变和增长担忧。Fed 政策路径不清降息时机不确定。美元因全球不确定性造成货币压力。地缘溢价波动造成波动。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector momentum remains robust with cloud infrastructure buildout supporting valuations near record highs. NVDA May 20 earnings anticipation building for data center demand strength. China summit outcomes provide positive backdrop for tech export prospects. Rate sensitivity diminishing as geopolitical premium fluctuates. Watch for NVDA earnings guidance and AI capex sustainability questions.",
+      "zh": "AI 板块动量稳健云基础设施建设支撑近纪录高位估值。Nvidia 5 月 20 日财报 anticipation 积累数据中心需求强度。China 峰会结果提供科技出口前景积极背景。利率敏感性减弱因地缘溢价波动。关注 NVDA 财报指引和 AI 资本开支可持续性质疑。"
+    },
+    "semiconductor": {
+      "en": "Semiconductor sector benefits from AI-driven demand surge and data center expansion. NVDA leadership supports valuations near all-time highs. China summit provides potential market access improvements. Rate sensitivity easing. Trump-Xi de-escalation reduces trade war escalation risk. Watch for capex guidance sustainability.",
+      "zh": "半导体板块受益于 AI 驱动需求激增和数据中心扩张。NVDA 领导地位支撑近历史高位估值。China 峰会提供芯片出口商潜在市场准入改善。利率敏感性压力缓解。Trump-Xi 降级减少 China 风险贸易战升级。关注资本开支指引可持续性。"
+    },
+    "bigTech": {
+      "en": "Big tech resuming market leadership as rate sensitivity diminishes. MSFT cloud growth, GOOGL AI integration, AMZN expansion, META ad recovery, AAPL services, TSLA AI initiatives all positive catalysts. Trump China trip with tech leaders improves export outlook. S&P 500 at 7,444+, Nasdaq at 26,400+ reaching record highs. Sector rotation from defensive to growth creates risk-on environment.",
+      "zh": "科技巨头重获市场主导因利率敏感性减弱。MSFT 云增长、GOOGL AI 整合、AMZN 扩张、META 广告复苏、AAPL 服务、TSLA AI 举措皆为正面催化剂。Trump China 之行科技领袖改善出口前景。标普 500 7,444+ 纳指 26,400+ 触及新高。板块轮动从防御性至成长创造风险偏好环境。"
+    },
+    "energy": {
+      "en": "Energy sector facing mixed signals with oil stabilizing above $104/barrel. XOM, CVX margin expansion supported by higher oil prices. OPEC+ dynamics complex. De-escalation rhetoric reduces conflict escalation but Strait of Hormuz threat persists. Sector rotation toward growth creates headwinds. Watch for Iran deal and OPEC+ decisions. $95 support critical; $110+ requires escalation.",
+      "zh": "能源板块面临混合信号石油稳定于$104/桶上方。XOM、CVX 利润率扩张由高油价支撑。OPEC+ 动态复杂。去升级言论减少冲突升级但霍尔木兹海峡威胁犹存。板块轮动向成长创造压力。关注伊朗协议和 OPEC+ 决定。$95 支撑关键；$110+ 需要升级。"
+    },
+    "ev": {
+      "en": "EV sector dynamics mixed with oil price stabilization reducing energy cost headwinds. CATL dilution concerns remain. TSLA benefits from improved China outlook. Higher oil environment supports alternative fuel narrative but margin pressures dominated sector rotation. EV names benefit from broader risk-on. Watch for TSLA delivery data and battery technology developments.",
+      "zh": "EV 板块动态混合油价稳定减少能源成本压力。CATL 稀释担忧犹存。TSLA 受益于 China 前景改善。高油价环境支持替代燃料叙事但利润率压力主导板块轮动。EV 名目受益于广泛风险偏好。关注 TSLA 交付数据和电池技术发展。"
+    },
+    "market": {
+      "en": "Broad market rally with S&P 500 at 7,444.25 record high, Nasdaq at 26,402.34 record high, Dow at 49,693. Technology sector leads as rate sensitivity diminishes. Trump-Xi summit positive signals. Oil above $104 creates stagflation toggle risk. 10Y yield at 4.46% supports duration assets. Sector rotation from defensive to growth. NVDA May 20 earnings key catalyst.",
+      "zh": "广泛市场上涨标普 500 7,444.25 新高纳指 26,402.34 新高道指 49,693。科技板块领涨因利率敏感性减弱。Trump-Xi 峰会积极信号。石油$104 上方造成滞胀切换风险。10Y 收益率 4.46% 支持久期资产。板块轮动从防御性至成长。NVDA 5 月 20 日财报关键催化剂。"
+    },
+    "preciousMetals": {
+      "en": "Precious metals face mixed dynamics. Gold and silver favored amid Middle East tensions but de-escalation reduces urgency. USD strength creates headwinds. Oil-driven inflation supports commodity complex. Real yield dynamics critical - 4.46% 10Y yield compression benefits metals. De-escalation could pressure metals as risk sentiment improves.",
+      "zh": "贵金属面临混合动态。黄金和白银受青睐于中东紧张但去升级减少紧迫感。美元造成压力。油价驱动通胀支撑大宗商品。实际收益率动态关键 -4.46% 10Y 收益率压缩受益金属。去升级可能压力金属因风险情绪改善。"
+    },
+    "oil": {
+      "en": "Brent crude stabilizes at $104-$105/barrel as Iran ceasefire hangs on life support. Supply security concerns support price floor. OPEC+ dynamics complex. Strait of Hormuz threat creates supply disruption risk. $100+ sustained supports energy fundamentals but creates stagflation toggle risk. $95 support tested; $110+ requires escalation. Watch for formal ceasefire details.",
+      "zh": "布油稳定于$104-$105/桶因伊朗停火处于生命支持。供给安全担忧支撑价格底部。OPEC+ 动态复杂。霍尔木兹海峡威胁造成供给中断风险。$100+ 持续支持能源基本面但造成滞胀切换风险。$95 支撑测试；$110+ 需要升级。关注正式停火细节。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "US equity futures trading higher following record closes: S&P 500 7,444, Nasdaq 100 26,402, Dow 49,693. Trump-Xi summit positive signals. Oil above $104 mixed signals. Tech leading. Key catalysts: NVDA May 20 earnings, CPI/PCE data, Powell June 11 meeting, Middle East developments.",
+      "zh": "美股期货周三收盘新高后上涨：标普 500 7,444 纳指 100 26,402 道指 49,693。Trump-Xi 峰会积极信号。石油$104 上方混合信号。科技领涨。关键催化剂：NVDA 5 月 20 日财报 CPI/PCE 数据鲍威尔 6 月 11 日会议中东发展。"
+    },
+    "treasury10Y": {
+      "en": "10-Year Treasury Yield at 4.46% stabilizing near recent highs. Middle East tensions and Trump-Xi summit create mixed signals. Yield compression supports duration assets: growth stocks, small caps, bond ETFs. Curve still inverted. Fed policy uncertainty persists. Powell June 11 meeting critical.",
+      "zh": "10Y 美债 4.46% 稳定于近期高位。中东紧张和 Trump-Xi 峰会创造混合信号。收益率压缩支持久期资产：成长股、小型股、债券 ETF。曲线仍 inverted。Fed 政策不确定性犹存。鲍威尔 6 月 11 日会议关键。"
+    },
+    "dxy": {
+      "en": "DXY elevated on USD safe-haven demand and Fed policy uncertainty. Dollar strength from global risk flows. JPY/USD volatility adds FX complexity. USD benefits from Middle East uncertainty. Watch for dollar rotation if de-escalation persists. FX headwinds for multinational earnings.",
+      "zh": "DXY 高位因美元避险需求和 Fed 政策不确定性。美元因全球风险资金流动。日元/美元波动增加货币复杂性。美元因中东不确定性受益。关注若去升级持续美元轮动。跨国企业盈利货币压力。"
+    },
+    "oil": {
+      "en": "Brent crude at $104-$105/barrel on Iran ceasefire uncertainty. Supply security supports $100+ floor. OPEC+ dynamics complex. $95-100 range supported by demand. $110+ requires escalation. Energy sector rotation continues. Watch for ceasefire details.",
+      "zh": "布油$104-$105/桶因伊朗停火不确定。供给安全支撑$100+ 底部。OPEC+ 动态复杂。$95-100 区间由需求支撑。$110+ 需要升级。能源板块轮动继续。关注停火细节。"
+    },
+    "keyRisk": {
+      "en": "Primary risks: 1) Iran ceasefire breakdown - oil back to $110-115, 2) Trump-Xi deal implementation vague, 3) NVDA May 20 earnings miss, 4) Fed policy uncertainty - 7 dissenting votes, 5) Middle East escalation Strait of Hormuz, 6) Geopolitical fragility Taiwan warnings. Oil volatility key toggle. Treasury yield direction critical. Market at highs creates fragility.",
+      "zh": "主要风险：1) 伊朗停火破裂油价重返$110-115 2) Trump-Xi 协议模糊 3) NVDA 5 月 20 日财报不及预期 4) Fed 政策不确定性 7 票异议 5) 中东升级霍尔木兹海峡 6) 地缘脆弱性台湾警告。油价波动关键切换器。美债收益率方向关键。市场高位创造脆弱性。"
+    }
+  },
+  "judgment": {
+    "type": "risk-on",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Market extended sixth consecutive rally with S&P 500 and Nasdaq at fresh record highs driven by AI-driven tech leadership and Trump-Xi summit de-escalation. Technology sector leads with semiconductor names strong on NVDA May 20 anticipation. China summit provides positive backdrop for tech exports. However, oil volatility at $104+ creates stagflation toggle risk as Iran ceasefire hangs on life support. Fed policy uncertainty with 7 dissenting FOMC votes limits confidence. Growth momentum at record valuations creates fragility to negative catalysts. NVDA earnings key catalyst. Market positioning favors growth names but caution warranted at record highs.",
+      "zh": "市场延续第六周 rallies 标普 500 和纳指创新高由 AI 驱动科技领导和 Trump-Xi 峰会降级。科技板块领涨半导体名目强劲 NVDA 5 月 20 日 anticipation。China 峰会提供科技出口积极背景。然而油价波动$104+ 造成滞胀切换风险因伊朗停火处于生命支持。Fed 政策不确定性伴随 7 票 FOMC 异议限制信心。历史高位成长动量强劲创造对负面催化剂脆弱性。NVDA 财报关键催化剂。市场仓位偏好成长股但历史高位 warranted 谨慎。"
+    }
+  }
+}
