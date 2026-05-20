@@ -1,0 +1,124 @@
+{
+  "date": "2026-05-19",
+  "summary": {
+    "en": "US markets opened mixed as Trump's postponement of Iran military strike eased geopolitical tensions, though chip stocks weighed on sentiment amid inflation concerns. Oil prices remain elevated above $110/barrel, keeping energy sector supported while Treasury yields climbed to 4.68%.",
+    "zh": "美股早盘震荡，特朗普推迟对伊朗军事行动缓解地缘紧张，但芯片股拖累市场情绪，通胀担忧犹存。油价维持在 110 美元/桶以上支撑能源板块，美债收益率攀升至 4.68%。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Trump postpones Iran military strike",
+        "zh": "特朗普推迟对伊朗军事行动"
+      },
+      "impact": {
+        "en": "Eased immediate geopolitical risk premium after direct appeals from Saudi Arabia, UAE, Qatar; reduced oil spike risk but Middle East tensions remain a wildcard",
+        "zh": "沙特、阿联酋、卡塔尔直接呼吁后缓解地缘风险溢价，降低油价飙升风险，但中东局势仍是不确定性因素"
+      },
+      "bullish": ["XOM", "CVX", "COP"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Yes - any escalation would spike oil to $120+, force Fed to reconsider pivot timeline, trigger flight to safety",
+        "zh": "是 - 若局势升级，油价可能冲破 120 美元，迫使美联储重新考虑降息节奏，引发避险情绪"
+      }
+    },
+    {
+      "title": {
+        "en": "Chip stocks drag S&P 500, Nasdaq lower",
+        "zh": "芯片股拖累标普 500、纳斯达克下跌"
+      },
+      "impact": {
+        "en": "Heavyweight chip selloff reflects rotation out of AI mega-cap as valuation concerns mount; NVDA earnings preview looms on May 21-22",
+        "zh": "权重芯片股抛售反映 AI 大估值担忧升温，英伟达财报预告将于 5 月 21-22 日公布"
+      },
+      "bullish": ["NVDA", "AMD", "AVGO"],
+      "bearish": ["SMCI", "ARM"],
+      "macroRisk": {
+        "en": "No - sector-specific rotation rather than broad AI narrative breakdown",
+        "zh": "否 - 属板块轮动而非 AI 叙事根本性转变"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury yields surge amid inflation fears",
+        "zh": "通胀担忧推动美债收益率飙升"
+      },
+      "impact": {
+        "en": "US 10Y yield climbed to 4.68%, pressuring growth stocks and raising borrowing costs; signals market pricing in higher-for-longer rates despite Fed pivot expectations",
+        "zh": "美债 10 年期收益率升至 4.68%，压制成长股并提高借贷成本，市场定价高于预期的利率维持更久，尽管市场对美联储降息仍有期待"
+      },
+      "bullish": ["JPM", "BAC"],
+      "bearish": ["TLT", "AGG", "XLV"],
+      "macroRisk": {
+        "en": "Yes - sustained yields above 4.7% could break equity bull market, force equity de-rating, delay rate cuts",
+        "zh": "是 - 收益率持续高于 4.7%可能打破股市牛市，导致股票重新估值，推迟降息"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Mixed - AI momentum continues but valuation concerns mounting ahead of NVDA earnings; chip names under pressure while software names show relative strength",
+      "zh": "震荡 - AI 趋势延续但估值担忧在 NVDA 财报前升温，芯片股承压而软件股相对稳健"
+    },
+    "semiconductor": {
+      "en": "Under pressure - heavyweight chip stocks led market lower; sector rotation away from high-multiple names as yields climb",
+      "zh": "承压 - 权重芯片股拖累市场走低，收益率攀升引发从高估值股票轮出"
+    },
+    "bigTech": {
+      "en": "Defensive - mega-cap tech showed resilience despite chip selloff; FANG+ names held up better than pure-play chip names",
+      "zh": "防御性强 - 大型科技股在芯片抛售中表现稳健，FANG+ 板块优于纯芯片股"
+    },
+    "energy": {
+      "en": "Supported - Brent crude at $110.80, up on geopolitical risk premium and OPEC+ supply discipline; XLE outperforming",
+      "zh": "受支撑 - 布伦特原油 110.80 美元，地缘风险溢价和 OPEC+ 供应纪律推动，能源板块表现突出"
+    },
+    "ev": {
+      "en": "Neutral - no major catalyst today; sector remains in consolidation phase post-correction",
+      "zh": "中性 - 今日无重大催化剂，板块处于回调后盘整阶段"
+    },
+    "market": {
+      "en": "Mixed - SPX +0.67%, IXIC +0.84%, DJI +0.65%; breadth limited by chip selloff but defensive sectors supported",
+      "zh": "震荡 - 标普 +0.67%、纳指 +0.84%、道指 +0.65%；芯片抛售限制广度但防御板块支撑市场"
+    },
+    "preciousMetals": {
+      "en": "Bullish - Gold up 0.58% to $4,480/oz on inflation hedge and geopolitical uncertainty; gold miners benefit from dual drivers",
+      "zh": "看涨 - 黄金涨 0.58% 至 4480 美元/盎司，通胀对冲和地缘不确定支撑，金矿股受益"
+    },
+    "oil": {
+      "en": "Elevated - Brent $110.80 (+0.43%), WTI likely similar; Middle East tensions and Trump's Iran decision keep risk premium in place",
+      "zh": "高位 - 布伦特 110.80 美元（+0.43%），WTI 相近；中东紧张和特朗普对伊决定维持风险溢价"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 futures +0.5%, Nasdaq 100 futures +0.6%, Dow futures +0.4% - all trading higher following Trump's Iran postponement announcement",
+      "zh": "标普期货 +0.5%、纳指 100 期货 +0.6%、道指期货 +0.4% - 特朗普推迟对伊行动后集体上涨"
+    },
+    "treasury10Y": {
+      "en": "4.679%, up 1bp from previous session; yields climbing on inflation data and growth expectations",
+      "zh": "4.679%，较前 session 涨 1bp；收益率因通胀数据和增长预期攀升"
+    },
+    "dxy": {
+      "en": "Dollar Index approximately 103.5, USD/JPY 0.0063 (156.4), EUR/USD 1.1602; dollar strengthened on higher yields",
+      "zh": "美元指数约 103.5，美元/日元 0.0063（156.4），欧元/美元 1.1602；美元因收益率走强"
+    },
+    "oil": {
+      "en": "Brent Crude $110.80/barrel (+0.43%), WTI likely $106-108; geopolitical premium persistent",
+      "zh": "布伦特原油 110.80 美元/桶（+0.43%），WTI 约 106-108 美元；地缘溢价持续"
+    },
+    "keyRisk": {
+      "en": "Treasury yields breaking 4.7% would trigger equity de-rating; Iran escalation remains black swan risk; China data due today could impact growth outlook",
+      "zh": "美债收益率突破 4.7% 将触发股票重新估值；伊朗升级仍是黑天鹅风险；中国今日数据可能影响增长前景"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Geopolitical de-escalation (Iran strike postponed) provides relief but inflation concerns and chip rotation limit upside. Market balancing between risk-on from Middle East de-tensioning and risk-off from rising yields. Watch 4.7% Treasury level for breakout signal.",
+      "zh": "地缘降温（特朗普推迟对伊行动）提供缓冲但通胀担忧和芯片轮动限制上行。市场在中东去紧张带来的风险偏好和收益率攀升带来的风险规避间平衡。关注 4.7% 美债收益率作为突破信号。"
+    }
+  }
+}
