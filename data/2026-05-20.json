@@ -1,0 +1,156 @@
+{
+  "date": "2026-05-20",
+  "summary": {
+    "en": "US futures flat as traders await NVDA earnings, while Treasury yields climb on inflation data. Middle East de-escalation from Trump's Iran strike postponement supports sentiment, but chip sector underperforms amid valuation concerns. Oil holds above $110 with geopolitical premium intact.",
+    "zh": "美股期货持平，交易员等待英伟达财报，美债收益率因通胀数据攀升。特朗普推迟对伊朗军事行动缓解中东紧张支撑市场情绪，但芯片板块因估值担忧跑输。油价维持 110 美元以上，地缘溢价完整。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Trump postpones Iran strike - Oil dip benefits energy sector",
+        "zh": "特朗普推迟对伊朗军事行动 - 油价回调利好能源板块"
+      },
+      "impact": {
+        "en": "Immediate geopolitical risk premium reduced after direct appeals from Saudi Arabia/UAE/Qatar; oil dip from $111 to $109-110 range. Energy sector benefits from supply concerns but faces price pressure",
+        "zh": "沙特、阿联酋、卡塔尔直接呼吁后地缘风险溢价降低；油价从 111 美元跌至 109-110 美元区间。能源板块受益于供应担忧但面临价格压力"
+      },
+      "bullish": ["XOM", "CVX", "COP", "OXY"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Moderate - de-escalation reduces oil spike risk but supply disruptions could spike prices; monitor Middle East situation closely",
+        "zh": "中等 - 降温降低油价飙升风险但供应中断可能推高价格；密切关注中东局势"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury yields surge to 4.61% on inflation stickiness",
+        "zh": "美债收益率因通胀粘性飙升至 4.61%"
+      },
+      "impact": {
+        "en": "US 10Y yield at 4.61% (May 18 close), up from 4.47% (May 14); sustained above 4.5% pressures growth stocks and raises mortgage rates to 9-month highs",
+        "zh": "美债 10 年期收益率 4.61%（5 月 18 收盘），较 5 月 14 日 4.47% 上升；持续高于 4.5% 压制成长股并将房贷利率推升至 9 个月高位"
+      },
+      "bullish": ["JPM", "BAC", "USB"],
+      "bearish": ["XLK", "XLV", "IWM"],
+      "macroRisk": {
+        "en": "High - yields above 4.7% would break bull market structure; inflation persistence delays Fed pivot; growth stocks under pressure",
+        "zh": "高 - 收益率高于 4.7% 将打破牛市结构；通胀粘性推迟美联储转向；成长股承压"
+      }
+    },
+    {
+      "title": {
+        "en": "NVDA Q1 earnings preview: After 13 blowout quarters, valuation concerns mount",
+        "zh": "英伟达 Q1 财报预告：13 个爆发性季度后，估值担忧升温"
+      },
+      "impact": {
+        "en": "Market awaiting May 21-22 earnings; after 13 quarters of triple-digit growth, concerns of mean reversion; chip sector rotation limits broad tech rally",
+        "zh": "市场等待 5 月 21-22 日财报；13 个三位数增长季度后，均值回归担忧升温；芯片板块轮动限制科技股整体反弹"
+      },
+      "bullish": ["NVDA", "AMD", "AVGO"],
+      "bearish": ["SMCI", "ARM", "INTC"],
+      "macroRisk": {
+        "en": "Moderate - earnings miss or blowoff top could trigger broader tech de-rating; AI spending slowdown concerns",
+        "zh": "中等 - 财报不及预期或见顶可能引发科技股整体重新估值；AI 支出放缓担忧"
+      }
+    },
+    {
+      "title": {
+        "en": "US futures flat ahead of market open",
+        "zh": "美股期货盘前持平"
+      },
+      "impact": {
+        "en": "SPX futures -0.1%, IXIC -0.2%, DJI -0.3% after mixed Friday close; market balancing between inflation concerns and geopolitical relief",
+        "zh": "标普期货 -0.1%、纳指 -0.2%、道指 -0.3%，周五盘后震荡；市场在通胀担忧和地缘政治缓解间平衡"
+      },
+      "bullish": ["DIA", "SPY", "QQQ"],
+      "bearish": ["XLF", "XLE"],
+      "macroRisk": {
+        "en": "Low to moderate - key watch is NVDA earnings and inflation data release timing",
+        "zh": "低到中等 - 关键关注英伟达财报和通胀数据发布时间"
+      }
+    },
+    {
+      "title": {
+        "en": "Dollar strengthens on higher Treasury yields",
+        "zh": "美元因美债收益率走强"
+      },
+      "impact": {
+        "en": "DXY around 103.8 after Fed adjustment; USD/JPY ~156.5, EUR/USD ~1.16; stronger dollar pressures multinationals and emerging market assets",
+        "zh": "美元指数 103.8（美联储调整后）；美元/日元~156.5，欧元/美元~1.16；美元走强压制跨国公司和新兴市场资产"
+      },
+      "bullish": ["UUP"],
+      "bearish": ["EEM", "VWO", "FXE"],
+      "macroRisk": {
+        "en": "Moderate - strong dollar boosts Treasury returns but pressures global growth; emerging market debt stress",
+        "zh": "中等 - 美元走强提振美债回报但压制全球增长；新兴市场债务压力"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Mixed - NVDA earnings preview limits enthusiasm; software names outperform chip stocks as yields climb; AI narrative intact but valuation scrutiny intensifies",
+      "zh": "震荡 - 英伟达财报预告抑制热情；软件股优于芯片股；AI 叙事完整但估值审查加强"
+    },
+    "semiconductor": {
+      "en": "Under pressure - sector ETF SOX down as chip stocks rotate out of high multiples; NVDA earnings catalyst ahead but near-term weakness persists",
+      "zh": "承压 - 芯片 ETF SOX 下跌，股票从高估值轮出；英伟达财报催化在即但短期弱势持续"
+    },
+    "bigTech": {
+      "en": "Resilient - mega-cap tech holds up better than chip names despite yield headwinds; FANG+ defensive positioning ahead of earnings season",
+      "zh": "韧性 - 大型科技股在收益率逆风中表现优于芯片股；FANG+ 财报季前防御配置"
+    },
+    "energy": {
+      "en": "Mixed - oil dip from $111 to $109-110 after Iran de-escalation; XLE still supported by supply concerns but faces price downside from geopolitical relief",
+      "zh": "震荡 - 伊朗降温后油价从 111 美元跌至 109-110；XLE 仍受供应担忧支撑但面临地缘降温带来的价格下行"
+    },
+    "ev": {
+      "en": "Neutral - no major catalyst; sector consolidation continues post-correction; awaiting policy clarity and demand signals from China",
+      "zh": "中性 - 无重大催化剂；板块延续回调后盘整；等待政策清晰度和中国需求信号"
+    },
+    "market": {
+      "en": "Mixed - futures flat as market digests Friday's gain; breadth limited by chip selloff and inflation concerns; defensive rotation emerging",
+      "zh": "震荡 - 期货持平消化周五收益；芯片抛售和通胀担忧限制广度；防御性轮动出现"
+    },
+    "preciousMetals": {
+      "en": "Bullish - Gold at $4,480/oz on inflation hedge and geopolitical premium; miners benefit from dual drivers despite equity market volatility",
+      "zh": "看涨 - 黄金 4480 美元/盎司受益于通胀对冲和地缘溢价；尽管股市波动金矿股受益双重驱动"
+    },
+    "oil": {
+      "en": "Moderate - Brent $109-110 after geopolitical de-escalation; demand concerns from global slowdown offset by supply discipline; WTI similar",
+      "zh": "中等 - 布伦特在 geopolitical 降温后 109-110 美元；全球放缓需求担忧被供应纪律抵消；WTI 类似"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "Flat to slightly negative - SPX futures -0.1%, IXIC -0.2%, DJI -0.3% following mixed Friday close; awaiting NVDA and inflation catalysts",
+      "zh": "平盘到略负 - 标普期货 -0.1%、纳指 -0.2%、道指 -0.3%，周五盘后震荡；等待英伟达和通胀催化剂"
+    },
+    "treasury10Y": {
+      "en": "4.61% (latest close), up from 4.47% early May; sustained above 4.5% pressures equities; watch for break above 4.7% resistance",
+      "zh": "4.61%（最新收盘），较 5 月初 4.47% 上升；持续高于 4.5% 压制股票；关注突破 4.7% 阻力"
+    },
+    "dxy": {
+      "en": "Approximately 103.8; USD strengthens on higher yields; EUR/USD ~1.16, USD/JPY ~156.5; dollar strength pressures multinationals",
+      "zh": "约 103.8；美元因收益率走强；欧元/美元~1.16，美元/日元~156.5；美元强度压制跨国企业"
+    },
+    "oil": {
+      "en": "Brent $109-110/barrel, down from $111 after Iran strike postponement; WTI ~$105-106; geopolitical premium intact but reduced from peak",
+      "zh": "布伦特 109-110 美元/桶，伊朗行动推迟后从 111 美元下跌；WTI~105-106 美元；地缘溢价完整但较峰值降低"
+    },
+    "keyRisk": {
+      "en": "Treasury yields breaking 4.7% would force equity de-rating; NVDA earnings miss could trigger broader tech selloff; inflation persistence delaying Fed pivot",
+      "zh": "美债收益率突破 4.7% 将迫使股票重新估值；英伟达财报不及预期可能引发科技股抛售；通胀粘性推迟美联储转向"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Market balances geopolitical relief from Iran de-escalation with inflation concerns and rising Treasury yields. Chip sector underperforms while big tech holds up. Key watch: NVDA earnings May 21-22 and Treasury yield breakout above 4.7%. Overall risk-on from Middle East calm offset by bond market deterioration.",
+      "zh": "市场在伊朗降温的地缘政治缓解与通胀担忧和收益率攀升间平衡。芯片板块跑输而大科技股稳健。关键关注：英伟达财报 5 月 21-22 日和美债收益率突破 4.7%。从中东缓和带来的风险偏好被债券市场恶化部分抵消，整体震荡。"
+    }
+  }
+}
