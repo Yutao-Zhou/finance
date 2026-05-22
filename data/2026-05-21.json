@@ -1,6 +1,9 @@
 {
   "date": "2026-05-21",
-  "summary": "Markets down modestly as Nvidia earnings disappointment overshadows Iran peace deal progress. Oil remains elevated on supply fears despite diplomatic breakthrough. 10Y yields stable near 4.64% as bond vigilance persists.",
+  "summary": {
+    "en": "Markets down modestly as Nvidia earnings disappointment overshadows Iran peace deal progress. Oil remains elevated on supply fears despite diplomatic breakthrough. 10Y yields stable near 4.64% as bond vigilance persists.",
+    "zh": "市场小幅下跌，英伟达财报不及预期掩盖了伊朗和平协议进展。尽管外交突破，供应担忧使油价维持高位。10 年期收益率稳定在 4.64% 附近，债市谨慎情绪持续。"
+  },
   "topNews": [
     {
       "title": {
