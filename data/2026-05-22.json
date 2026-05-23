@@ -1,0 +1,156 @@
+{
+  "date": "2026-05-22",
+  "summary": {
+    "en": "Markets mixed with sector rotation ongoing. Tech firms monitor AI spending sustainability post-NVDA miss. Oil stabilizes near $104 as geopolitical premium narrows. Treasury yields firm above 4.6% with inflation stickiness concerns. Energy sector leads session as supply constraints outweigh peace dividend.",
+    "zh": "市场分化，板块轮动持续。科技公司在 NVDA 不及预期后关注 AI 支出可持续性。油价在地缘溢价收窄后稳定在 104 美元附近。10 年期收益率稳定在 4.6% 以上，通胀顽固担忧犹存。能源板块领跑，供应约束超越和平红利。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Tech sector rotation continues as investors seek value alternatives",
+        "zh": "科技板块轮动持续，投资者寻求价值替代"
+      },
+      "impact": {
+        "en": "Post-NVDA earnings disappointment, capital flows from growth to value. Financials and energy attract interest. Big Tech names underperform as monetization concerns mount. Cloud spending remains but ROI timelines extend.",
+        "zh": "NVDA 财报失望后，资金从成长流向价值。金融和能源吸引兴趣。大科技表现落后，变现担忧升温。云支出依然强劲但 ROI 时间表延长。"
+      },
+      "bullish": ["XOM", "CVX", "JPM", "BAC"],
+      "bearish": ["NVDA", "AMD", "AVGO", "CRM"],
+      "macroRisk": {
+        "en": "Moderate - Growth valuations compressed but earnings quality debate continues. AI demand remains structurally intact despite pacing concerns.",
+        "zh": "中等 - 成长估值压缩但盈利质量辩论持续。尽管存在配速担忧，AI 需求仍然结构完整。"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil prices stabilize as Hormuz supply fears partially priced in",
+        "zh": "油价稳定，霍尔木兹供应担忧部分定价"
+      },
+      "impact": {
+        "en": "WTI holds ~$104, Brent ~$106 after peace deal digestion. Market recognizes supply constraints but worries about demand destruction. Tanker traffic exiting conflict zone limits near-term relief. Energy stocks benefit from stability.",
+        "zh": "WTI 维持在 104 美元左右，布伦特约 106 美元，和平协议消化后。市场认识供应约束但担忧需求破坏。油轮交通驶离冲突区限制近端缓解。能源股受益于稳定。"
+      },
+      "bullish": ["OXY", "SLB", "HAL", "COP"],
+      "bearish": ["USO", "BNO"],
+      "macroRisk": {
+        "en": "Partial - Oil volatility moderates but supply constraints persist. Inflation implications from higher prices remain relevant for Fed policy.",
+        "zh": "部分 - 油价波动缓和但供应约束持续。高价通胀影响对美联储政策仍然相关。"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury yields firm above 4.6% as inflation data keeps hawkish Fed narrative alive",
+        "zh": "美债收益率稳定在 4.6% 以上，通胀数据保持鹰派美联储叙事"
+      },
+      "impact": {
+        "en": "10Y yield holds above 4.6% with 2Y-10Y curve steepening. Sticky CPI prevents rate cut expectations from materializing. Bond vigilance continues despite growth concerns. Long-duration equities face headwinds from higher borrowing costs.",
+        "zh": "10 年期收益率稳定在 4.6% 以上，2 年期 -10 年期曲线陡峭化。顽固 CPI 阻止降息预期实现。尽管成长担忧，债市谨慎情绪持续。高久期股票面临更高借贷成本逆风。"
+      },
+      "bullish": ["TLT", "GLD"],
+      "bearish": ["USREIT", "MGIC", "MFA"],
+      "macroRisk": {
+        "en": "High - Fed pivot delayed by inflation persistence. Real yields remain elevated, anchoring longer-end rates higher.",
+        "zh": "高 - 通胀持续延迟美联储转向。实际收益率保持高位，锚定长期利率更高。"
+      }
+    },
+    {
+      "title": {
+        "en": "Gold pulls back to $4,450 support as safe-haven demand wanes",
+        "zh": "金价回落至 4450 美元支撑，避险需求减弱"
+      },
+      "impact": {
+        "en": "Gold declines from $4,480 peak to test $4,450 support. Peace deal reduces geopolitical risk premium but monetary uncertainty remains. Silver, platinum follow lower. Real yields and strong dollar weigh on precious metals.",
+        "zh": "金价从 4480 美元高点下跌至测试 4450 美元支撑。和平协议减少地缘风险溢价但货币不确定性犹存。白银、铂金跟随下跌。实际收益率和强美元压制贵金属。"
+      },
+      "bullish": [],
+      "bearish": ["GLD", "IAU", "PGLT"],
+      "macroRisk": {
+        "en": "Low - Peace deal reduces premium but gold remains inflation hedge and central bank purchase target. Long-term structural support intact.",
+        "zh": "低 - 和平协议减少溢价但黄金保持通胀对冲和央行购买目标。长期结构支撑完整。"
+      }
+    },
+    {
+      "title": {
+        "en": "Dollar Index consolidates near 98.5 as EUR recovers from earlier weakness",
+        "zh": "美元指数在 98.5 附近 Consolidation，欧元从前弱中恢复"
+      },
+      "impact": {
+        "en": "DXY stabilizes after volatility from peace deal news. EUR/USD rebounds to 1.095. Strong US data keeps dollar supported despite rate cut hopes. Emerging market currencies face continued pressure from USD strength.",
+        "zh": "DXY 在和平协议新闻波动后稳定。欧元/美元反弹至 1.095。强劲的美国数据在降息希望下支撑美元。新兴市场货币继续面临美元走强压力。"
+      },
+      "bullish": ["U.S. Treasurys", "Energy stocks"],
+      "bearish": ["EM currencies", "AUD", "CAD"],
+      "macroRisk": {
+        "en": "Moderate - USD strength self-reinforces but rate differentials eventually limit upside. EM debt servicing costs elevated.",
+        "zh": "中等 - 美元自我强化但利率差异最终限制上行。新兴市场债务偿付成本高昂。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector digests NVDA miss, questioning infrastructure spend efficiency. Growth concerns weigh but chip demand fundamentals remain robust. Investors rotating into proven cash flow names over speculative growth.",
+      "zh": "AI 板块消化 NVDA 不及预期，质疑基础设施支出效率。成长担忧加重但芯片需求基本面保持强劲。投资者转向有确定现金流名称而非 speculative 成长。"
+    },
+    "semiconductor": {
+      "en": "Semiconductor sector faces valuation reset post-NVDA. Memory chip recovery slows as inventory rebalancing takes longer. Server chip demand strong but priced in. Cyclical recovery timeline extends.",
+      "zh": "半导体板块在 NVDA 后面临估值重置。内存芯片复苏放缓，因库存重平衡时间更长。服务器芯片需求强劲但已定价。周期复苏时间表延长。"
+    },
+    "bigTech": {
+      "en": "Big Tech under pressure from growth concerns and AI monetization questions. Cloud revenue growth decelerates but remains above expectations. Margins resilient but investors seek clarity on capex ROI.",
+      "zh": "大科技受成长和 AI 变现问题压力。云收入增长减速但高于预期。利润率坚韧但投资者寻求资本支出 ROI 清晰度。"
+    },
+    "energy": {
+      "en": "Energy sector outperforms as supply constraints dominate headlines over peace dividend. OIL prices stable above $100. XOM, COP, and COG trade on production visibility. Services stocks (SLB, HAL) benefit from drill bit demand.",
+      "zh": "能源板块跑赢，因供应约束主导头条超越和平红利。油价稳定在 100 美元以上。XOM、COP、COG 在生产可见性下交易。服务股（SLB、HAL）受益于钻头需求。"
+    },
+    "ev": {
+      "en": "EV sector watches oil prices and energy costs for margin impact. Battery material supply stabilizes. Chinese EV partnerships offer growth catalyst. Tesla monitors WTI closely for charging infrastructure economics.",
+      "zh": "EV 板块关注油价和能源成本对利润率影响。电池材料供应稳定。中国 EV 合作伙伴关系提供增长催化剂。特斯拉密切监控 WTI 以计算充电基础设施经济。"
+    },
+    "market": {
+      "en": "Mixed open expected as sector rotation intensifies. Value and energy outpace growth and tech. S&P 500 range-bound while Nasdaq leads declines from AI pressure. Dow benefits from energy sector strength.",
+      "zh": "预期分化开盘，因板块轮动加剧。价值和能源跑赢成长和科技。标普 500 区间交易而纳斯达克因 AI 压力领先下跌。道指受益于能源板块强劲。"
+    },
+    "preciousMetals": {
+      "en": "Gold tests $4,450 support after pullback from peak. Silver and platinum weaker on industrial demand concerns and yield headwinds. Central bank purchases provide floor but sentiment cautious on geopolitics de-escalating.",
+      "zh": "金价在从高点回落测试 4450 美元支撑。白银和铂金在工业需求担忧和收益率逆风下更弱。央行购买提供底但地缘政治缓和情绪谨慎。"
+    },
+    "oil": {
+      "en": "WTI ~$103.50, Brent ~$105.50 post-peace digestion. Geopolitical risk premium narrowed but not eliminated. Tanker traffic through South China Sea remains constrained. Oil volatility elevated but trending down.",
+      "zh": "WTI 约 103.50 美元，布伦特约 105.50 美元后和平消化。地缘风险溢价收窄但未消除。油轮交通通过南海保持约束。油价波动率仍高但趋缓。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 futures slightly down 0.2%, Nasdaq down 0.4%, Dow flat. Energy futures mixed. Tech names under pressure from growth rotation. Expect selective open with energy outpacing growth.",
+      "zh": "标普 500 期货微跌 0.2%，纳斯达克下跌 0.4%，道指平盘。能源期货分化。科技名称在成长轮动下受压。预期选择性开盘，能源跑赢成长。"
+    },
+    "treasury10Y": {
+      "en": "10Y yield above 4.62%, 2Y-10Y curve steepens. Bond vigilance persists despite weak growth data. Fed pivot narrative delayed by inflation stickiness. Long-duration assets face pressure.",
+      "zh": "10 年期收益率在 4.62% 以上，2 年期 -10 年期曲线陡峭化。尽管成长数据疲软，债市谨慎情绪持续。通胀顽固延迟美联储转向叙事。长久期资产面临压力。"
+    },
+    "dxy": {
+      "en": "DXY near 98.50 after consolidation. EUR/USD rebounds. USD supported by strong data but capped by rate cut expectations. Safe-haven flows moderate post-peace deal.",
+      "zh": "DXY 在 98.50 附近 Consolidation 后。欧元/美元反弹。美元受强数据支持但降息预期封顶。和平协议后避险资金流缓和。"
+    },
+    "oil": {
+      "en": "WTI stabilizes ~$103.50-104. Range-bound until further demand data. Supply constraints limit downside but demand concerns cap upside. Energy sector leadership expected.",
+      "zh": "WTI 稳定在 103.50-104 美元区间。直至更多需求数据前区间交易。供应限制限制下行但需求担忧封顶上行。预期能源板块领导。"
+    },
+    "keyRisk": {
+      "en": "Inflation stickiness delays Fed pivot. AI growth slowdown concerns. Oil supply constraints persist despite peace. Watch for CPI print, Fed comments, or geopolitical flash escalation.",
+      "zh": "通胀顽固延迟美联储转向。AI 增长放缓担忧。尽管和平油供应约束持续。关注 CPI 发布、美联储评论或地缘政治快速升级。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Mixed sentiment with sector rotation defining session. Energy and value outperform growth and tech. Inflation concerns and AI slowdown worries balance the books. Geopolitical premium narrows but remains relevant. Expect continued volatility until inflation data clarifies Fed path.",
+      "zh": "情绪分化，板块轮动定义 session。能源和价值跑赢成长和科技。通胀担忧和 AI 放缓担忧平衡账本。地缘溢价收窄但仍相关。预期持续波动直到通胀数据阐明美联储路径。"
+    }
+  }
+}
