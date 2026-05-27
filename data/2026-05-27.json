@@ -1,0 +1,156 @@
+{
+  "date": "2026-05-27",
+  "summary": {
+    "en": "Market sentiment improves with major index futures rising on AI optimism and cautious Middle East peace hopes. Oil eases as geopolitical premium narrows. Treasury yields fall toward multi-week lows. AI chip sector shows resilience despite short-term profit-taking. Energy calms while big tech awaits earnings clarity.",
+    "zh": "市场情绪改善，三大指数期货上涨，受益于 AI 乐观和谨慎的中东和平希望。油价回落，地缘溢价收窄。美债收益率降至多周低点附近。AI 芯片板块展现韧性，尽管短期获利了结。能源趋缓，大科技等待财报清晰度。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Major index futures rally on AI optimism and Middle East peace hopes",
+        "zh": "三大指数期货在 AI 乐观和 Middle East 和平希望下上涨"
+      },
+      "impact": {
+        "en": "S&P 500, Nasdaq, and Dow futures all extend gains as investors digest holiday break and geopolitical risk reduction. Risk-on flow expected at open. Tech leaders benefit from AI capex narrative while energy calms.",
+        "zh": "标普 500、纳斯达克和道指期货均录得上涨，投资者消化假期和平和地缘风险降低。开盘预期风险偏好上升。科技领导者受益于 AI 资本支出叙事，而能源趋缓。"
+      },
+      "bullish": ["SPY", "QQQ", "NVDA", "AMD", "MSFT", "GOOGL", "AAPL"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Moderate - Peace hopes reduce risk premium but not eliminate uncertainty. Market pricing gradual de-escalation. Monitor for any flash escalation.",
+        "zh": "中等 - 和平希望减少风险溢价但未消除不确定性。市场定价逐步去升级。监测是否有任何突发升级。"
+      }
+    },
+    {
+      "title": {
+        "en": "WTI oil near $92, Brent at $98 as Iran ceasefire cuts war premium",
+        "zh": "WTI 油价近 92 美元，布伦特约 98 美元，伊朗停火削减战争溢价"
+      },
+      "impact": {
+        "en": "Oil prices decline as Iran ceasefire deals materialize. WTI stabilizes ~$92, Brent ~$98. Geopolitical premium narrows from May 26 peak. Energy sector faces headwinds while supply constraints moderate.",
+        "zh": "油价下跌，因伊朗停火协议落实。WTI 稳定在约 92 美元，布伦特约 98 美元。地缘溢价从 5 月 26 日高点收窄。能源板块面临逆风，供应约束缓和。"
+      },
+      "bullish": ["Energy service stocks", "Transportation"],
+      "bearish": ["XOM", "CVX", "COP", "OXY", "USO", "BNO"],
+      "macroRisk": {
+        "en": "Moderate - Lower oil benefits consumers but raises recession fears. Fed inflation targeting still relevant. Watch for supply shock from Strait of Hormuz disruptions.",
+        "zh": "中等 - 较低油价利好消费者但引发衰退担忧。美联储通胀目标仍相关。关注霍尔木兹海峡中断的供应冲击。"
+      }
+    },
+    {
+      "title": {
+        "en": "10Y Treasury yield falls toward multi-week low as risk sentiment improves",
+        "zh": "10 年期美债收益率下跌至多周低点，风险情绪改善"
+      },
+      "impact": {
+        "en": "Yields decline from earlier levels as peace hopes and risk-on flow prevail. Curve steepens with 2Y-10Y spread widening. Bond vigilance eases. Long-duration assets benefit from lower financing costs.",
+        "zh": "收益率因和平希望和 risk-on 资金流占主导而下降。曲线变陡，2 年期 -10 年期利差扩大。债市谨慎情绪缓和。长久期资产受益于较低融资成本。"
+      },
+      "bullish": ["TLT", "GLD", "USREIT", "VNQ"],
+      "bearish": ["JPM", "BAC", "USB", "US Banks"],
+      "macroRisk": {
+        "en": "Mixed - Lower yields boost equities but inflation stickiness limits relief. Fed pivot timing uncertain despite better sentiment.",
+        "zh": "混合 - 较低收益率提振股票但通胀顽固限制缓解。尽管情绪改善，美联储转向时间不确定。"
+      }
+    },
+    {
+      "title": {
+        "en": "NVIDIA trades flat at $214.86 despite strong Q1 growth",
+        "zh": "NVIDIA 尽管强劲 Q1 增长仍交易于 214.86 美元附近"
+      },
+      "impact": {
+        "en": "AI chip leader shows resilience post-earnings. Shares slip slightly but remain above key moving averages. Investors digest guidance and capacity constraints. Semiconductor sector mixed on capex sustainability concerns.",
+        "zh": "AI 芯片领导者 earnings 后展现韧性。股票小幅下滑但保持高于关键移动平均。投资者消化指引和产能约束。半导体板块在支出可持续性担忧下分化。"
+      },
+      "bullish": ["NVDA", "AMD", "AVGO", "MRVL", "LRCX", "AMAT"],
+      "bearish": ["SMCI", "ARM"],
+      "macroRisk": {
+        "en": "Low - AI demand fundamentals intact. Cloud capex remains strong despite pacing concerns. Watch for competitive pressure on margins.",
+        "zh": "低 - AI 需求基本面 intact。尽管配速担忧，云资本支出保持强劲。关注竞争压力对利润率。"
+      }
+    },
+    {
+      "title": {
+        "en": "Dollar Index eases as risk-on flow and yield decline weigh on USD",
+        "zh": "美元指数因风险偏好和收益率下降而对美元施压而回落"
+      },
+      "impact": {
+        "en": "DXY declines from earlier peaks as yields fall and EM currencies stabilize. EUR/USD and USD/JPY benefit from improved sentiment. Safe-haven demand moderates with peace hopes. Emerging market currencies face reduced pressure.",
+        "zh": "随着收益率下降和新兴市场货币稳定，DXY 从早高峰回落。欧元/美元和美元/日圆受益于改善情绪。和平希望缓和避险需求。新兴市场货币面临压力减轻。"
+      },
+      "bullish": ["EM currencies", "AUD", "CAD", "JPY"],
+      "bearish": ["U.S. Treasurys"],
+      "macroRisk": {
+        "en": "Moderate - USD strength self-reinforcing but rate cuts eventually cap upside. EM debt servicing improves with lower dollar.",
+        "zh": "中等 - 美元自我强化但降息最终封顶上行。随着美元下降，EM 债务偿付改善。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector shows resilience with chip leaders trading well. NVDA holds above key support despite brief hesitation. Investors rotating into proven infrastructure plays over speculative applications. Capex discipline improves but demand fundamentals remain strong.",
+      "zh": "AI 板块展现韧性，芯片领导者交易良好。NVDA 尽管短暂犹豫仍保持高于关键支撑。投资者转向已验证基础设施而非 speculative 应用。支出纪律改善但需求基本面保持强劲。"
+    },
+    "semiconductor": {
+      "en": "Semiconductor sector mixed. Memory chip recovery continues but at slower pace. Server chip demand robust but pricing pressures build. Memory makers (MU, MXIM) outperform consumer chip names. Cyclical recovery uneven.",
+      "zh": "半导体板块分化。内存芯片复苏继续但节奏放缓。服务器芯片需求强劲但定价压力建立。内存制造商（MU、MXIM）跑赢消费芯片名称。周期复苏不均。"
+    },
+    "bigTech": {
+      "en": "Big Tech awaits earnings clarity on AI monetization. Cloud revenue growth decelerates but remains strong. Margins under pressure from chip costs and AI infrastructure spending. Investors seek proof of ROI before major capex commitments.",
+      "zh": "大科技等待 AI 变现的财报清晰度。云收入增长减速但仍强劲。利润率受芯片成本和 AI 基础设施支出压力。投资者在重大资本支出承诺前寻求 ROI 证明。"
+    },
+    "energy": {
+      "en": "Energy sector faces headwinds as oil prices ease below $100. WTI ~$92, Brent ~$98. Production visibility remains valuable despite lower prices. XOM, CVX trade on dividend yield but valuations compress. Services (SLB, HAL) more resilient.",
+      "zh": "能源板块在油价回落至 100 美元以下下面临逆风。WTI 约 92 美元，布伦特约 98 美元。较低价格下生产可见性仍有价值。XOM、CVX 交易股息收益率但估值压缩。服务股（SLB、HAL）更有韧性。"
+    },
+    "ev": {
+      "en": "EV sector benefits from falling oil prices reducing charging infrastructure costs. Battery supply stabilizes. Tesla and Chinese EV partnerships offer growth path. Margin pressure from lower WTI helps but competition remains fierce.",
+      "zh": "EV 板块受益于油价下降降低充电基础设施成本。电池供应稳定。特斯拉和中国 EV 合作伙伴关系提供增长路径。较低 WTI 帮助利润率但竞争依然激烈。"
+    },
+    "market": {
+      "en": "Broad market improves with risk-on flow from peace hopes. Nasdaq leads gains on tech strength. Dow benefits from energy calm and broad participation. S&P 500 ranges as investors await corporate earnings. Value lags growth.",
+      "zh": "广泛市场因和平希望的风险偏好而改善。纳斯达克在科技股强劲下领先上涨。道指受益于能源冷静和广泛参与。标普 500 区间交易，投资者等待企业财报。价值落后成长。"
+    },
+    "preciousMetals": {
+      "en": "Gold follows oil lower to test $4,400-4,420 support. Real yields decline aid precious metals but peace hopes reduce safe-haven demand. Silver weaker on industrial exposure. Central bank buying provides floor but sentiment cautious.",
+      "zh": "金价跟随油价下跌测试 4400-4420 美元支撑。实际收益率下降帮助贵金属但和平希望减少避险需求。白银在工业敞口下更弱。央行购买提供底部但情绪谨慎。"
+    },
+    "oil": {
+      "en": "WTI stabilizes ~$92-94 after volatility from US-Iran tensions. Brent ~$98. Geopolitical premium narrows significantly from $100+ range. Tanker traffic through conflict zone remains constrained. Supply concerns limit downside but demand worries cap upside.",
+      "zh": "WTI 在 US-Iran 紧张局势波动后稳定在 92-94 美元附近。布伦特约 98 美元。地缘溢价从 100 美元以上区间显著收窄。冲突区油轮交通保持约束。供应担忧限制下行但需求担忧封顶上行。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 futures up 0.3%, Nasdaq up 0.4%, Dow up 0.2%. All three indices extend pre-earnings rally. Energy futures calm. Tech names lead advances with AI chip names among winners.",
+      "zh": "标普 500 期货上涨 0.3%，纳斯达克上涨 0.4%，道指上涨 0.2%。三大指数延续 earnings 前 rally。能源期货平静。科技名称领涨，AI 芯片名称在赢家之中。"
+    },
+    "treasury10Y": {
+      "en": "10Y yield down from 4.65% toward 4.55-4.60 range. Yields fall as risk sentiment improves. Curve steepens with 2Y-10Y spread widening. Bond vigilance eases but inflation data watch remains.",
+      "zh": "10 年期收益率从 4.65% 下降至 4.55-4.60 区间。随着风险情绪改善收益率下降。曲线变陡，2 年期 -10 年期利差扩大。债市谨慎情绪缓和但通胀数据观察仍保持。"
+    },
+    "dxy": {
+      "en": "DXY declines from 98.50 to ~98.20. EUR/USD rebounds as risk-on flow prevails. USD/JPY softens with improved sentiment. Dollar eases on yield decline. Safe-haven flows moderate.",
+      "zh": "DXY 从 98.50 降至约 98.20。随着风险偏好占主导，欧元/美元反弹。美元/日圆因情绪改善而软化。收益率下降使美元回落。避险资金流缓和。"
+    },
+    "oil": {
+      "en": "WTI near $92-93, Brent ~$98. Oil prices decline as ceasefire deals materialize. Volatility elevated but directional risk reduced. Energy sector faces headwinds while supply constraints moderate. Watch for supply shock from Hormuz.",
+      "zh": "WTI 近 92-93 美元，布伦特约 98 美元。油价因停火协议落实而下跌。波动率高但方向性风险降低。能源板块面临逆风而供应约束缓和。关注 Hormuz 供应冲击。"
+    },
+    "keyRisk": {
+      "en": "Monitor for flash geopolitical escalation despite peace hopes. US-Iran conflict flash strikes could reignite oil volatility. Watch CPI print and Fed comments on rate path. AI growth sustainability debate continues.",
+      "zh": "尽管和平希望，监测突发地缘政治升级。美伊冲突突发袭击可能重新点燃油价波动。关注 CPI 发布和美联储关于利率路径的评论。AI 增长可持续性辩论继续。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Mixed sentiment with improving risk flow but oil decline creating sector divergence. Tech/AI leaders resilient while energy faces headwinds. Peace hopes boost equities but geopolitical risk remains. Inflation concerns limit relief on rates. Expect selective open with tech outpacing value and energy lagging.",
+      "zh": "情绪分化，风险流改善但油价下跌导致板块分化。科技/AI 领导者韧性而能源面临逆风。和平希望提振股票但地缘风险依然存在。通胀担忧限制利率缓解。预期选择性开盘，科技跑赢价值而能源落后。"
+    }
+  }
+}
