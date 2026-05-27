@@ -1,0 +1,172 @@
+{
+  "date": "2026-05-26",
+  "summary": {
+    "en": "U.S. stock index futures rose to record highs on Tuesday as AI-driven optimism in semiconductor stocks offset Middle East geopolitical risks, with S&P 500 E-minis up 0.78% and Nasdaq 100 E-minis gaining 1.16% in premarket trading ahead of the Fed chair's first week.",
+    "zh": "美国股市指数期货周二升至纪录高位，AI驱动的半导体股票乐观情绪抵消了中东地缘政治风险，标普500 E-mini 期货上涨 0.78%，纳斯达克 100 E-mini 期货上涨 1.16%，盘前交易中美联储主席首周前夕市场氛围积极。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "U.S. Stock Futures Rise to Records as AI Optimism Trumps Middle East Risks",
+        "zh": "美国股市期货升至纪录高位，AI 乐观情绪超越中东风险"
+      },
+      "impact": {
+        "en": "Semiconductor and AI stocks (Marvell +5.4%, Micron +6.3%) led premarket gains, showing investor confidence in AI trade despite ongoing Iran conflict. The Dow became the last index to hit a record high since the Iran war began.",
+        "zh": "半导体和 AI 股票（Marvell 涨 5.4%、Micron 涨 6.3%）带动盘前上涨，显示投资者对 AI 交易的信心尽管伊朗冲突仍在继续。道琼斯指数成为自伊朗战争开始以来最后触及新高的指数。"
+      },
+      "bullish": ["AI", "semiconductor", "bigTech"],
+      "bearish": ["energy"],
+      "macroRisk": {
+        "en": "Yes - Middle East conflict impacts oil prices (Brent +2%), inflation expectations, and global supply chains through Hormuz Strait shipping concerns.",
+        "zh": "是 - 中东冲突影响油价（布伦特涨 2%）、通胀预期和全球供应链，通过霍尔木兹海峡航运担忧。"
+      }
+    },
+    {
+      "title": {
+        "en": "Iran Peace Talks Progress with $24B Fund Release in Negotiations",
+        "zh": "伊朗和平谈判进展，240 亿美元资金解冻谈判中"
+      },
+      "impact": {
+        "en": "U.S. strikes on Iran followed by de-escalation hopes create uncertainty. If peace deal opens Hormuz Strait shipping flows, oil prices could stabilize. Market expects deal to take a few days per State Secretary Rubio.",
+        "zh": "对伊朗的打击后出现缓和希望，造成不确定性。如果和平协议开通霍尔木兹海峡航运，油价可能稳定。市场预期需几天时间达成和平协议。"
+      },
+      "bullish": [],
+      "bearish": ["oil", "energy"],
+      "macroRisk": {
+        "en": "Geopolitical de-escalation risk; oil prices could fall if peace deal materializes, but strike-related uncertainty keeps prices elevated short-term.",
+        "zh": "地缘政治降级风险；如果达成和平协议油价可能下跌，但与打击相关的不确定性短期内维持高油价。"
+      }
+    },
+    {
+      "title": {
+        "en": "Joyy Surges 12% on Beat Q1 Revenue; Pony AI Robotaxi Fleet Expands 11%",
+        "zh": "Joyy 营收超预期大涨 12%；Pony AI 机器人出租车车队扩张 11%"
+      },
+      "impact": {
+        "en": "Small-cap AI/tech stocks showing strong momentum. Joyy's revenue beat and Pony AI's robotaxi expansion demonstrate continued investor enthusiasm for AI applications and autonomous vehicle sector.",
+        "zh": "小盘 AI/科技股显示强劲势头。Joyy 营收超预期和 Pony AI 机器人出租车扩张显示投资者对 AI 应用和自动驾驶汽车板块的持续热情。"
+      },
+      "bullish": ["AI", "small-cap", "robotics"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No significant macro risk; company-level earnings driven by AI demand fundamentals.",
+        "zh": "无重大宏观风险；公司层面收益由 AI 需求基本面驱动。"
+      }
+    },
+    {
+      "title": {
+        "en": "Fed Chair Kevin Warsh First Week Amid Inflation Concerns from Oil Prices",
+        "zh": "美联储主席 Kevin Warsh 首周，油价引发通胀担忧"
+      },
+      "impact": {
+        "en": "Kevin Warsh sworn in Friday amid higher oil-driven inflation concerns. Markets expect Fed to hold rates for rest of year with 25bps hike possible in December. Consumer confidence data due later affects sentiment.",
+        "zh": "Kevin Warsh 周五就任，油价推高通胀担忧。市场预期美联储全年维持利率，12 月可能加息 25 个基点。稍后公布的消费者信心数据影响市场情绪。"
+      },
+      "bullish": [],
+      "bearish": ["rates", "inflation"],
+      "macroRisk": {
+        "en": "Inflation risk from elevated oil prices creates upward pressure on yields and could delay Fed rate cuts. Consumer confidence data later today could weigh on sentiment if gasoline prices drag on sentiment.",
+        "zh": "高油价引发的通胀风险对上行动益率和延迟美联储降息产生上行压力。今日稍后公布的消费者信心数据若受汽油价格拖累可能打击情绪。"
+      }
+    },
+    {
+      "title": {
+        "en": "Gold Prices Dip as Dollar Strengthens on Middle East Uncertainty",
+        "zh": "金价因美元在中东不确定性中走强而下跌"
+      },
+      "impact": {
+        "en": "Gold weakened alongside dollar surge on Iran strike news. Precious metals face headwinds if geopolitical tensions ease but dollar strength from risk-off sentiment continues. Oil prices up 2% on Strait of Hormuz concerns affect energy sector.",
+        "zh": "黄金随美元因伊朗打击消息而下跌。如果地缘政治紧张缓和但避险情绪导致美元走强，贵金属面临阻力。霍尔木兹海峡担忧使油价上涨 2%，影响能源板块。"
+      },
+      "bullish": ["dollar"],
+      "bearish": ["preciousMetals", "gold"],
+      "macroRisk": {
+        "en": "Yes - Middle East strikes drive dollar strength, gold weakness, and oil price volatility through supply disruption fears and risk-off flows.",
+        "zh": "是 - 中东打击推动美元走强、黄金走弱和油价波动，通过供应中断担忧和风险规避资金流动。"
+      }
+    },
+    {
+      "title": {
+        "en": "Q1 Earnings Growth Expected at 29% YoY vs 16.1% Previous Estimate",
+        "zh": "一季度收益增长预期达 29% 同比，优于此前 16.1% 估计"
+      },
+      "impact": {
+        "en": "LSEG data shows first-quarter earnings growth expected at 29% vs 16.1% estimate. Upbeat earnings with AI trade confidence driving equities higher despite ongoing Middle East conflict. Earnings season nearly over supports continued momentum.",
+        "zh": "LSEG 数据显示一季度收益增长预期为 29%，优于 16.1% 估计。积极收益和 AI 交易信心推动股票上涨，尽管中东冲突仍在继续。收益季即将结束支持持续势头。"
+      },
+      "bullish": ["earnings", "semiconductor", "AI"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No significant macro risk; earnings-driven rally supported by strong corporate fundamentals and AI demand.",
+        "zh": "无重大宏观风险；收益驱动的上涨得到强劲的 corporate 基本面和 AI 需求支持。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector leads premarket with semiconductor stocks surging on continued demand. Marvell (+5.4%), Micron (+6.3%), Intel (+2.9%), Qualcomm (+3%) show investor confidence in AI chip demand despite geopolitical uncertainty.",
+      "zh": "AI 板块盘前领涨，半导体股票在持续需求下大幅上涨。尽管存在地缘政治不确定性，Marvell (+5.4%)、Micron (+6.3%)、Intel (+2.9%)、Qualcomm (+3%) 显示投资者对 AI 芯片需求的信心。"
+    },
+    "semiconductor": {
+      "en": "Semiconductor stocks are the primary gainers led by Marvell, Micron, and memory chip makers. AI-driven demand continues to outpace supply constraints, though Middle East risks could create supply chain disruptions if oil prices spike further.",
+      "zh": "半导体股票为主要上涨板块，由 Marvell、Micron 和内存芯片制造商领导。AI 驱动的需求继续超出供应限制，尽管中东风险若油价进一步飙升可能导致供应链中断。"
+    },
+    "bigTech": {
+      "en": "Big Tech indirectly benefits from AI trade strength and earnings season nearing completion. Blue-chip Dow hit record high Friday as last index to do so since Iran war began, showing resilience to geopolitical headlines.",
+      "zh": "大科技股间接受益于 AI 交易的强势和收益季即将结束。道琼斯蓝筹股周五触及纪录高位，成为自伊朗战争开始以来最后触及该高位的指数，显示对地缘政治头条的韧性。"
+    },
+    "energy": {
+      "en": "Energy sector faces headwinds from oil price volatility on Middle East uncertainty. Brent crude up 2% on Strait of Hormuz shipping concerns. If peace deal opens shipping flows, energy could see profit-taking.",
+      "zh": "能源板块因中东不确定性面临油价波动阻力。布伦特原油因霍尔木兹海峡航运担忧上涨 2%。如果和平协议开通航运，能源板块可能看到获利了结。"
+    },
+    "ev": {
+      "en": "EV sector uncertain as higher oil prices and geopolitical tensions create inflation/interest rate concerns. Pony AI's robotaxi expansion (+11.1%) shows selective strength in autonomous driving segment.",
+      "zh": "EV 板块不确定，因高油价和地缘政治紧张引发通胀/利率担忧。Pony AI 机器人出租车扩张 (+11.1%) 显示自动驾驶细分领域选择性强势。"
+    },
+    "market": {
+      "en": "Broad market risk-on as S&P 500 E-minis up 0.78%, Nasdaq 100 E-minis up 1.16%, Dow E-minis up 0.54%. AI optimism outweighs Middle East risks despite ongoing conflict. Consumer confidence data due later could affect afternoon sentiment.",
+      "zh": "大盘风险偏好上升，标普 500 E-mini 期货涨 0.78%，纳斯达克 100 E-mini 期货涨 1.16%，道琼斯 E-mini 期货涨 0.54%。尽管冲突仍在继续，AI 乐观情绪压倒中东风险。稍后公布的消费者信心数据可能影响午后情绪。"
+    },
+    "preciousMetals": {
+      "en": "Precious metals weakened alongside dollar on Iran strike news. Gold prices dip as dollar strength from risk-off sentiment continues. Metal prices face headwinds if geopolitical tensions ease while dollar remains strong.",
+      "zh": "贵金属随美元因伊朗打击消息而走弱。金价因避险情绪导致美元走强而下跌。如果地缘政治紧张缓和而美元保持强劲，金属价格面临阻力。"
+    },
+    "oil": {
+      "en": "Oil prices up 2% on Middle East concerns. Brent crude gains as peace deal uncertainty lingers. If Iran strikes cease and shipping flows through Hormuz resume, oil prices could decline. Key monitor for inflation and Fed policy.",
+      "zh": "油价因中东担忧上涨 2%。布伦特原油因和平协议不确定性而获利。如果伊朗打击停止且霍尔木兹海峡航运恢复，油价可能下跌。关键监测通胀和美联储政策的指标。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 futures +0.78%, Nasdaq 100 futures +1.16%, Dow futures +0.54% as of 6:34 a.m. Record highs on AI optimism. Key movers: Marvell, Micron leading semiconductor rally.",
+      "zh": "标普 500 期货 +0.78%，纳斯达克 100 期货 +1.16%，道琼斯期货 +0.54%，美东时间上午 6:34 数据。AI 乐观情绪创下纪录新高。关键推动：Marvell、Micron 引领半导体行情。"
+    },
+    "treasury10Y": {
+      "en": "10Y Treasury yields under observation as oil prices affect inflation expectations. Higher yields could delay Fed rate cuts. Monitor for yield spike if geopolitical tensions ease but oil volatility persists.",
+      "zh": "10 年期美债收益率在观察中，因油价影响通胀预期。较高的收益率可能延迟美联储降息。若地缘政治紧张缓和但油价波动持续，需监测收益率飙升。"
+    },
+    "dxy": {
+      "en": "Dollar strengthens on Middle East risk-off flows and Iranian funds freeze news ($24B). Gold prices dip correlating with dollar surge. Watch for dollar pullback if peace deal accelerates.",
+      "zh": "美元因中东避险资金流动和伊朗资金冻结新闻（240 亿美元）走强。金价与美元飙升相关下跌。观察和平协议加速是否导致美元回落。"
+    },
+    "oil": {
+      "en": "Brent crude +2% on Hormuz Strait shipping concerns. Oil volatility key for inflation expectations and Fed policy. Risk-on if peace deal materializes, risk-off if tensions escalate.",
+      "zh": "布伦特原油因霍尔木兹海峡航运担忧上涨 2%。油价波动对通胀预期和美联储政策至关重要。如果和平协议达成则风险偏好上升，若紧张升级则风险偏好下降。"
+    },
+    "keyRisk": {
+      "en": "Middle East conflict escalation could disrupt oil supply and spike inflation, delaying Fed rate cuts. Monitor Iran peace talks progress, oil price stability, and whether AI rally can offset energy sector weakness.",
+      "zh": "中东冲突升级可能扰乱石油供应并推高通胀，延迟美联储降息。监测伊朗和平谈判进展、油价稳定性以及 AI 行情能否抵消能源板块疲弱。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Mixed sentiment: AI-driven rally provides risk-on backdrop, but Middle East conflict and oil prices create inflation/ geopolitical risks. Consumer confidence data due later could add volatility. Overall bias risk-on but watch for de-escalation or escalation scenarios.",
+      "zh": "情绪分化：AI 驱动的行情提供风险偏好背景，但中东冲突和油价创造通胀/地缘政治风险。稍后公布的消费者信心数据可能增加波动性。整体倾向风险偏好，但需关注降级或升级情景。"
+    }
+  }
+}
