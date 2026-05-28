@@ -1,0 +1,142 @@
+{
+  "date": "2026-05-28",
+  "summary": {
+    "en": "US futures remain flat to slightly up amid mixed Middle East developments, with Nasdaq extending AI momentum while Dow lags. S&P 500 futures at 7,539 (flat), Nasdaq 30,082 (steady), Dow 50,582 (+0.1%). Geopolitical tensions in the Middle East continue to dominate risk sentiment, while cooling PCE data offers some relief to inflation concerns.",
+    "zh": "美国期货在中东局势变化中保持平稳至微涨，纳斯达克延续 AI 动量而道指拖后腿。标普 500 期货 7,539 点（持平），纳斯达克 30,082 点（稳定），道指 50,582 点（+0.1%）。中东地缘政治紧张局势继续主导风险情绪，而放缓的 PCE 数据为通胀担忧提供了一些缓解。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Middle East tensions escalate: Renewed U.S. strikes on Iranian targets and Israeli air attacks in Lebanon raise geopolitical risks",
+        "zh": "中东紧张局势升级：美国对伊朗目标的新一轮打击和以色列在黎巴嫩的空袭提高了地缘政治风险"
+      },
+      "impact": {
+        "en": "Geopolitical uncertainty weighs on risk assets, with oil prices volatile and safe-haven flows emerging. Market breadth remains narrow with technology leading gains while other sectors lag.",
+        "zh": "地缘政治不确定性拖累风险资产，油价波动且避险资金涌现。市场广度仍然狭窄，科技板块领涨而其他板块落后。"
+      },
+      "bullish": [
+        "Potential oil supply constraints could boost energy prices",
+        "Strategic reserves and production increases may offset supply shocks"
+      ],
+      "bearish": [
+        "Escalation risks to global growth and trade",
+        "Supply chain disruptions in Middle East regions"
+      ],
+      "macroRisk": {
+        "en": "Military activity in the Strait of Hormuz threatens oil flows. Risk of escalation to global conflict could spike oil and trigger flight to safety across asset classes.",
+        "zh": "霍尔木兹海峡的军事活动威胁石油供应。冲突升级风险可能推高油价并导致资产类别避险。"
+      }
+    },
+    {
+      "title": {
+        "en": "AI rally continues with Micron hitting $1T market cap; semiconductor sector leads broader market advance",
+        "zh": "AI 热潮持续，美光市值突破 1 万亿美元；半导体板块引领更广泛市场上涨"
+      },
+      "impact": {
+        "en": "Semiconductor strength, highlighted by Micron's milestone, powered equities higher even as geopolitical risks loom. Memory chip gains lift broader chip sector and tech index.",
+        "zh": "半导体强劲表现以美光里程碑为标志，推动股市更高尽管地缘政治风险笼罩。存储芯片收益提升更广泛的芯片板块和科技指数。"
+      },
+      "bullish": [
+        "Micron breakthrough validates AI infrastructure demand",
+        "Semiconductor cyclicality may benefit from supply constraints"
+      ],
+      "bearish": [
+        "AI spending capex concerns may limit upside",
+        "Valuation pressure in oversold tech names"
+      ],
+      "macroRisk": {
+        "en": "AI spending sustainability concerns mixed with geopolitical headwinds could limit broad market participation if tech leadership falters.",
+        "zh": "AI 支出可持续性担忧与地缘政治逆风混合，如果科技领涨乏力可能限制广泛市场参与。"
+      }
+    },
+    {
+      "title": {
+        "en": "PCE inflation data cools to 0.4% vs 0.5% expected; Nasdaq extends rally on inflation relief and ceasefire headlines",
+        "zh": "PCE 通胀数据放缓至 0.4% 低于预期的 0.5%；纳斯达克在通胀缓解和停火头条下延长涨势"
+      },
+      "impact": {
+        "en": "Core PCE at 3.8% YoY still above Fed's 2% target but monthly miss provides first crack in inflation data stream. Technology and growth stocks bid higher on easing fears.",
+        "zh": "核心 PCE 同比 3.8% 仍高于美联储 2% 目标但月度偏差为通胀数据流提供首个裂痕。技术和增长股票在缓解恐惧下买高。"
+      },
+      "bullish": [
+        "Cooler PCE opens door to eventual Fed rate cuts",
+        "Inflation easing supports equity valuations long-term"
+      ],
+      "bearish": [
+        "Still above target; not enough to change policy immediately",
+        "One print not enough to justify major shift yet"
+      ],
+      "macroRisk": {
+        "en": "Single reading insufficient; geopolitical risks could re-heat inflation quickly if ceasefire fails. Market needs sustained cooling to shift Fed policy expectations.",
+        "zh": "单一读数不足；地缘政治风险可能在停火失败时迅速重新加热通胀。市场需要持续降温才能转移美联储政策预期。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Strong rally with AI spending thesis intact. Micron's $1T milestone validates infrastructure buildout. Narrow breadth but tech concentration supports gains.",
+      "zh": "强劲涨势，AI 支出论点 intact。美光 1 万亿美元里程碑验证基础设施建设。狭窄广度但科技集中度支持收益。"
+    },
+    "semiconductor": {
+      "en": "Semiconductor index at all-time highs. Memory chip demand from AI drives Micron higher. Cyclical upcycle benefits from memory constraints.",
+      "zh": "半导体指数创历史新高。AI 驱动的存储芯片需求推高美光。周期性上涨受益于存储约束。"
+    },
+    "bigTech": {
+      "en": "Tech leaders mixed. Nasdaq extends but breadth narrow. Cloud names like Snowflake outperform but broader participation concerns persist.",
+      "zh": "科技巨头分化。纳斯达克延长但广度狭窄。云名称如 Snowflake 跑赢但更广泛参与担忧持续。"
+    },
+    "energy": {
+      "en": "Oil volatile around $89-95 amid Middle East escalation fears. Supply constraints from regional conflict keep prices elevated but geopolitical uncertainty limits sustained gains.",
+      "zh": "油价在 89-95 美元波动伴随中东升级恐惧。区域冲突供应约束保持价格高位但地缘政治不确定性限制持续收益。"
+    },
+    "ev": {
+      "en": "Electric vehicle sector faces headwinds from high rates and geopolitical risks. China EV export dynamics add uncertainty. Limited catalysts today.",
+      "zh": "电动车部门面临高利率和地缘政治风险逆风。中国电动车出口动态增加不确定性。今天有限催化剂。"
+    },
+    "market": {
+      "en": "Mixed sentiment with geopolitical uncertainty offsetting cooling inflation. Narrow breadth with tech leadership. Key support near 50-day MA at 24,190 for Nasdaq.",
+      "zh": "混合情绪地缘政治不确定性抵消放缓通胀。狭窄广度科技领涨。纳斯达克关键支撑 50 日均线 24,190。"
+    },
+    "preciousMetals": {
+      "en": "Gold benefits from geopolitical safe-haven flows and yield decline. Treasury yields easing supports non-yielding assets. Oil prices volatility creates hedging interest.",
+      "zh": "黄金受益于地缘政治避险资金和收益率下降。美债收益率缓解支持非生息资产。油价波动创造对冲兴趣。"
+    },
+    "oil": {
+      "en": "WTI near $89, Brent near $95. Middle East strikes threaten supply but ceasefire talks offer some relief. Volatility remains high as geopolitical developments unfold.",
+      "zh": "WTI 近 89 美元，布伦特近 95 美元。中东打击威胁供应但停火谈话提供一些缓解。随着地缘政治发展波动率保持高位。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 futures 7,539 (flat 0.0%), Nasdaq 30,082 (steady 0.0%), Dow 50,582 (+0.1%). Flat to slightly up despite geopolitical headwinds. Tech extends earlier gains.",
+      "zh": "标普 500 期货 7,539（持平 0.0%），纳斯达克 30,082（稳定 0.0%），道指 50,582（+0.1%）。尽管地缘政治逆风平稳至微涨。科技延续先前收益。"
+    },
+    "treasury10Y": {
+      "en": "10Y Treasury yield at 4.48% (-0.24%, -8bps). Yield easing supports rate-cut expectations and equity valuations. Further decline possible if geopolitical risks subside.",
+      "zh": "10 年期美债收益率 4.48%（-0.24%，-8 基点）。收益率缓解支持降息预期和股票估值。如果地缘政治风险消退可能进一步下降。"
+    },
+    "dxy": {
+      "en": "Dollar index near 99.00 flat. Mixed Middle East news keeps DXY range-bound. Ceasefire headlines and oil pullback weigh on yield-carry but limited directional move.",
+      "zh": "美元指数 99.00 附近平坦。混合中东消息保持 DXY 区间波动。停火头条和油价回落拖累收益率持有但有限方向移动。"
+    },
+    "oil": {
+      "en": "WTI crude $89/barrel, Brent $95. Middle East escalation fears lifted by ceasefire reports. Volatility persists as geopolitical situation evolves. Supply concerns remain priced in.",
+      "zh": "WTI 原油 89 美元/桶，布伦特 95 美元。停火报告提升中东升级恐惧。随着地缘政治局势演变波动持续。供应担忧保持定价。"
+    },
+    "keyRisk": {
+      "en": "US-Iran deal still needs final approval. Single geopolitical failure (strikes, ceasefire breach, escalation) could rapidly reverse market gains and spike oil.",
+      "zh": "美伊协议仍需最终批准。单一地缘政治失败（打击、停火破坏、升级）可能快速逆转市场收益并推高油价。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Mixed as inflation data relief offsets geopolitical uncertainty. Tech concentration supports gains but narrow breadth and geopolitical risks limit conviction. Key watch: ceasefire durability and oil price volatility.",
+      "zh": "混合因为通胀数据缓解抵消地缘政治不确定性。科技集中度支持收益但狭窄广度和地缘政治风险限制信念。关键观察：停火持久性和油价波动。"
+    }
+  }
+}
