@@ -1,0 +1,153 @@
+{
+  "date": "2026-05-29",
+  "summary": {
+    "en": "US futures rise on peace deal hopes amid Middle East tensions easing; AI rally continues but oil slips below $86.50 on Iran truce extension; 10Y treasuries stabilize near 4.48%.",
+    "zh": "美股期货上涨，中东和平协议希望升温；AI 板块持续反弹，但油价因伊朗停火协议延长而跌破 86.50 美元；10 年期美债收益率稳定在 4.48% 附近。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Potential US-Iran Peace Deal Lifts Market Sentiment and Pressures Oil Prices",
+        "zh": "美伊和平协议预期提振市场情绪并给油价带来压力"
+      },
+      "impact": {
+        "en": "Risk-on sentiment drives equities higher, while oil demand concerns and geopolitical de-escalation push WTI below $86.50. Lower oil supports inflation expectations and could boost consumer spending.",
+        "zh": "风险偏好情绪推升股市，而对石油需求担忧和地缘政治去升级使 WTI 跌破 86.50 美元。油价下跌有利于通胀预期，可能刺激消费者支出。"
+      },
+      "bullish": ["SPX", "QQQ", "XLE"],
+      "bearish": ["USO", "BNO"],
+      "macroRisk": {
+        "en": "Yes - Oil transmission: Lower energy costs reduce inflation risks; Peace deal could ease supply disruption fears in MENA region.",
+        "zh": "是 - 石油传导：能源成本降低减轻通胀风险；和平协议可能缓解 MENA 地区的供应中断担忧。"
+      }
+    },
+    {
+      "title": {
+        "en": "AI Rally Persists: Nvidia Leads Chip Stocks Higher, Memory Chips Hit New Records",
+        "zh": "AI 反弹持续：英伟达领涨芯片股，内存芯片创历史新高"
+      },
+      "impact": {
+        "en": "Semiconductor demand remains robust despite geopolitical noise. Nvidia reported record Q1 FY2027 revenue, with AI chip shipments to China showing resilience. Memory makers like Micron, SK Hynix rally.",
+        "zh": "尽管有地缘政治噪音，半导体需求依然强劲。英伟达报告了创纪录的 FY2027 第一季度营收，向中国的 AI 芯片出货量显示出韧性。内存制造商如美光、SK 海力士反弹。"
+      },
+      "bullish": ["NVDA", "AMD", "MU", "AMAT"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - AI innovation cycle continues independently of short-term geopolitical headlines.",
+        "zh": "否 - AI 创新周期独立于短期地缘政治头条继续推进。"
+      }
+    },
+    {
+      "title": {
+        "en": "10-Year Treasury Yields Stabilize Near 4.48% Amid Bond Market Calm",
+        "zh": "10 年期美债收益率在债券市场平静中稳定在 4.48% 附近"
+      },
+      "impact": {
+        "en": "Treasury market shows limited volatility as yield curve signals steady inflation expectations. Fed policy uncertainty remains but bond prices hold steady.",
+        "zh": "债券市场波动有限，收益率曲线显示出稳定的通胀预期。美联储政策不确定性仍然存在，但债券价格保持稳定。"
+      },
+      "bullish": ["TLT", "HYG"],
+      "bearish": ["TIP", "IEF"],
+      "macroRisk": {
+        "en": "No - Yields within normal range; no major inflation or growth shock.",
+        "zh": "否 - 收益率在正常范围内；没有重大通胀或增长冲击。"
+      }
+    },
+    {
+      "title": {
+        "en": "US Dollar Index Strengthens on Middle East Peace Hopes but Softens Slightly",
+        "zh": "美元指数因中东和平希望走强但略有回落"
+      },
+      "impact": {
+        "en": "Dollar rebounds from 99.00 lows to near 99.30 as peace talks progress, but risks of US-Iran deal limit upside. Commodity currencies remain pressured.",
+        "zh": "随着和平谈判进展，美元指数从 99.00 的低点反弹至近 99.30，但美伊协议的限制限制了上行风险。大宗商品货币仍然承压。"
+      },
+      "bullish": ["USD/JPY", "EUR/USD"],
+      "bearish": ["USDX"],
+      "macroRisk": {
+        "en": "Mixed - Dollar weakness helps emerging markets but peace deal limits broader USD upside.",
+        "zh": "混合 - 美元走弱有利于新兴市场，但和平协议限制了更广泛的美元上行。"
+      }
+    },
+    {
+      "title": {
+        "en": "Tech Earnings Preview: AI-Driven Growth Expected to Offset Broader Market Headwinds",
+        "zh": "科技 earnings 预览：预计 AI 驱动增长将抵消更广泛市场逆风"
+      },
+      "impact": {
+        "en": "Major retail and tech earnings ahead. AI infrastructure spending and cloud demand support expectations. Big Tech names like Microsoft trade higher at $426.99.",
+        "zh": "主要零售和科技 earnings 即将到来。AI 基础设施支出和云计算需求支持预期。微软等大公司科技股以 426.99 美元交易。"
+      },
+      "bullish": ["MSFT", "AAPL", "GOOGL"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - Earnings season provides fundamental support independent of macro headlines.",
+        "zh": "否 - earnings 季节为基本面提供独立于宏观头条的支持。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI stocks continue their strong rally with Nvidia leading gains. Memory chip rally extends to Micron and SK Hynix as AI training demand remains robust. GPU and HBM supply constraints still priced in but innovation cycle intact.",
+      "zh": "AI 股票继续保持强劲反弹，英伟达领涨。内存芯片反弹延续到美光和 SK 海力士，因为 AI 培训需求保持强劲。GPU 和 HBM 供应约束仍然已计入价格，但创新周期完好。"
+    },
+    "semiconductor": {
+      "en": "Chip stocks rally broadly across design, fabrication, and equipment. Advanced packaging demand supports AMAT and LRCX. Trade war tensions ease slightly on broader peace hopes but China demand remains key growth driver.",
+      "zh": "芯片股在设计、制造和设备方面普遍反弹。先进封装需求支持应用材料和应用材料。贸易战紧张因更广泛的和平希望而略有缓解，但中国需求仍然是关键增长驱动力。"
+    },
+    "bigTech": {
+      "en": "Big Tech names trade higher with Microsoft at $426.99 (+3.47%). Cloud spending and AI services revenue support valuations. Cloud infrastructure expansion benefits hyperscalers.",
+      "zh": "大公司科技股交易更高，微软在 426.99 美元（+3.47%）。云计算支出和 AI 服务收入支持估值。云基础设施扩张有利于超大规模提供商。"
+    },
+    "energy": {
+      "en": "Energy sector under pressure as WTI oil falls below $86.50 on peace deal hopes. Oil demand growth concerns and lower geopolitical risk weigh on prices. XLE ETF and energy producers face headwinds.",
+      "zh": "能源板块受到压力，因为 WTI 原油因和平协议希望而跌至 86.50 美元以下。石油需求增长担忧和较低的地缘政治风险给价格带来压力。XLE ETF 和能源生产商面临逆风。"
+    },
+    "ev": {
+      "en": "EV stocks remain mixed with Tesla trading near recent support levels. Lower oil prices boost charging infrastructure economics but geopolitical tensions in Europe limit broader rally. Supply chain concerns persist.",
+      "zh": "电动车股票保持混合，特斯拉在近期支撑位附近交易。油价较低提升了充电基础设施经济，但欧洲的地缘政治紧张限制了更广泛的反弹。供应链担忧仍然存在。"
+    },
+    "market": {
+      "en": "Broad market futures rise as S&P 500 and Nasdaq gain ground. Peace deal hopes drive risk-on sentiment. Big Tech and AI rally supports indices but oil weakness creates some profit-taking pressure.",
+      "zh": "广泛市场期货上涨，标普 500 和纳斯达克取得进展。和平协议希望推动风险偏好情绪。大科技和 AI 反弹支持指数，但油价疲软造成一些获利了结压力。"
+    },
+    "preciousMetals": {
+      "en": "Gold and silver remain supported by lower real yields and geopolitical uncertainty. Peace deal hopes create some profit-taking but safe-haven flows persist. XAU/USD trades near historic levels.",
+      "zh": "黄金和白银因实际收益率降低和地缘政治不确定性而获得支持。和平协议希望造成一些获利了结，但避险资金仍然存在。XAU/USD 在历史性水平附近交易。"
+    },
+    "oil": {
+      "en": "WTI crude falls to fresh one-month lows below $86.50 as US-Iran truce extension eases supply fears but reduces risk premium. OPEC+ production discipline remains intact but demand outlook weakens.",
+      "zh": "WTI 原油跌至近一个月的低点，低于 86.50 美元，因为美伊停火协议延长缓解了供应担忧，但降低了风险溢价。OPEC+ 生产纪律仍然完好，但需求前景减弱。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 futures +0.4%, Nasdaq 100 futures +0.6%, Dow Jones futures +0.3% as traders digest peace deal optimism and AI earnings strength.",
+      "zh": "标普 500 期货上涨 0.4%，纳斯达克 100 期货上涨 0.6%，道琼斯期货上涨 0.3%，因为交易者消化和平协议的乐观情绪和 AI earnings 的强势。"
+    },
+    "treasury10Y": {
+      "en": "10-year Treasury yield near 4.48%, down 2 bps from previous session. Yields stabilize as inflation expectations anchor. No major Fed policy change expected today.",
+      "zh": "10 年期美债收益率接近 4.48%，较前一个交易日下降 2 个基点。收益率稳定，因为通胀预期得到锚定。预计今天没有重大的美联储政策变化。"
+    },
+    "dxy": {
+      "en": "Dollar Index at 99.30, up from 99.00 lows but down from earlier highs. Peace deal hopes limit upside while risk-on sentiment supports non-dollar assets.",
+      "zh": "美元指数在 99.30，从 99.00 的低点上涨，但从早些时候的高点回落。和平协议希望限制了上行空间，而风险偏好情绪支持非美元资产。"
+    },
+    "oil": {
+      "en": "WTI crude at $86.30, below $86.50. Peace deal reduces geopolitical risk premium but demand concerns persist. Brent crude near $91. Oil prices under downward pressure.",
+      "zh": "WTI 原油在 86.30 美元，低于 86.50 美元。和平协议降低了地缘政治风险溢价，但需求担忧仍然存在。布伦特原油近 91 美元。油价承受下行压力。"
+    },
+    "keyRisk": {
+      "en": "US approval timeline for Iran deal creates uncertainty. Peace deal could be delayed or terms modified, impacting oil prices and risk sentiment. Watch for Trump administration approval process.",
+      "zh": "美国批准伊朗协议的时限造成不确定性。和平协议可能延迟或条款修改，影响油价和风险情绪。关注特朗普政府批准流程。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": "medium",
+    "note": {
+      "en": "Market shows mixed signals with AI rally supporting equities while oil weakness and dollar fluctuations create some pressure. Peace deal hopes drive sentiment but US approval uncertainty limits confidence. Recommend cautious risk-on with hedges on energy and macro positioning.",
+      "zh": "市场显示出混合信号，AI 反弹支持股票，而油价疲软和美元波动造成一些压力。和平协议希望推动情绪，但美国批准不确定性限制了信心。建议在能源和宏观配置上对冲的风险偏好谨慎建议。"
+    }
+  }
+}
