@@ -1,0 +1,138 @@
+{
+  "date": "2026-06-01",
+  "summary": {
+    "en": "US stocks open June with mixed signals as Nvidia's new PC chip announcement and AI momentum lift tech stocks, even as Middle East tensions surge oil prices by 6% and pressure broader equities. Investors focus on Friday's jobs report and Fed chairman Kevin Warsh's debut as inflation concerns from the Iran conflict linger. Pre-market: Dow E-minis +0.28%, S&P 500 E-minis +0.23%, Nasdaq 100 E-minis +0.29%.",
+    "zh": "美股周一开盘呈现分歧信号：Nvidia 发布新 PC 芯片提振科技股，但中东紧张局势令油价飙升 6% 压制大盘。投资者关注周五就业数据与美联储主席 Kevin Warsh 亮相，伊朗冲突引发的通胀担忧持续存在。盘前：道指 E 迷你期指 +0.28%，标普 500 E 迷你期指 +0.23%，纳指 100 期指 +0.29%。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Nvidia Unveils New AI PC Chip to Reinvent Computing, Shares Rise 1.6%",
+        "zh": "Nvidia 推出新 AI PC 芯片重塑计算，股价上涨 1.6%"
+      },
+      "impact": "Nvidia's new chip targets laptops/desktops with AI capabilities for fall release, built on 3-year Microsoft partnership. Bullish for PC ecosystem renaissance and AI adoption in consumer markets.",
+      "bullish": ["NVDA", "MSFT", "SMCI"],
+      "bearish": ["AMD", "INTC"],
+      "macroRisk": {
+        "en": "No direct macro risk; geopolitical tensions unrelated to this product launch.",
+        "zh": "无直接宏观风险；地缘政治与此产品发布无关。"
+      }
+    },
+    {
+      "title": {
+        "en": "Anthropic Files Confidentially for IPO as AI Demand Surges",
+        "zh": "Anthropic 秘密提交 IPO 申请，AI 需求激增"
+      },
+      "impact": "Major AI company IPO filing signals sector strength and capital formation boom. Could boost AI sentiment but also raises valuation concerns if priced too high.",
+      "bullish": ["AI sector", "MLA", "AI"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Minimal; potential IPO market heating could increase volatility if broader market turns.",
+        "zh": "影响有限；IPO 市场过热可能在大盘转弱时增加波动。"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil Prices Jump 6% on Iran Ceasefire Talks Halting Amid Middle East Escalation",
+        "zh": "油价因中东紧张局势升级、伊朗停火谈判中断而飙升 6%"
+      },
+      "impact": "Geopolitical risk drives oil higher, pressuring inflation expectations and equity valuations. Energy sector rallies but creates cost-push inflation risks.",
+      "bullish": ["XLE", "OXY", "CVX"],
+      "bearish": ["SPY", "QQQ", "XLF"],
+      "macroRisk": {
+        "en": "High: Rising oil prices fuel inflation expectations, could prompt Fed hawkishness and USD strength, pressuring equities.",
+        "zh": "高：油价上升推升通胀预期，可能促使美联储激进和美元走强，压制权益。"
+      }
+    },
+    {
+      "title": {
+        "en": "Micron Tops $1,000 as Memory Market Rally Continues, Shares +5.3%",
+        "zh": "美光突破 1000 美元，内存市场持续反弹，股价 +5.3%"
+      },
+      "impact": "Memory cycle recovery and AI demand drive semiconductor supercycle. Bullish for memory stocks and broader semis.",
+      "bullish": ["MU", "WDC", "STX"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Low; semiconductor demand resilient despite geopolitical headwinds.",
+        "zh": "低；半导体需求在地缘政治压力下保持韧性。"
+      }
+    },
+    {
+      "title": {
+        "en": "Broadcom Earnings Preview: Key Focus as Chipmaker Eyes AI Infrastructure Growth",
+        "zh": "Broadcom 财报前瞻：关键关注点，芯片制造商瞄准 AI 基础设施增长"
+      },
+      "impact": "Broadcom earnings on Wednesday critical for AI infrastructure sentiment. Network gear demand and AI networking chips key catalysts.",
+      "bullish": ["AVGO", "CSCO", "MSFT"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Moderate: AI capex spending depends on economic stability amid geopolitical tensions.",
+        "zh": "中等：AI 资本开支依赖地缘政治紧张下的经济稳定。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector bullish on Anthropic IPO filing, Nvidia's AI PC chip, and Microsoft partnership momentum. Memory stocks rally on AI demand. CADENCE up 8.2% after launching AI-powered chip design tool.",
+      "zh": "AI 板块在 Anthropic IPO 申请、Nvidia AI PC 芯片和 Microsoft 合作动力下走强。内存股在 AI 需求下反弹。Cadence 推出 AI 赋能芯片设计工具后上涨 8.2%。"
+    },
+    "semiconductor": {
+      "en": "Mixed: Nvidia/Micron/Cadence rally on AI demand; AMD/Intel decline as focus shifts to AI PCs. Memory cycle recovery continues with MU topping $1,000.",
+      "zh": "分化：Nvidia/美光/Cadence 因 AI 需求反弹；AMD/Intel 因焦点转向 AI PC 而下跌。内存周期复苏，美光突破 1000 美元。"
+    },
+    "bigTech": {
+      "en": "Microsoft gains 2.8% on Nvidia AI chip collaboration; sentiment supported by AI infrastructure demand. Cloud and AI services remain key growth drivers.",
+      "zh": "Microsoft 因 Nvidia AI 芯片合作上涨 2.8%；AI 基础设施需求支持情绪。云和 AI 服务仍是关键增长动力。"
+    },
+    "energy": {
+      "en": "Energy sector rallies 6% as oil jumps on Middle East tensions. Oil price rise raises inflation and recession concerns. Energy stocks bullish but macro backdrop cautious.",
+      "zh": "能源板块随油价因中东紧张局势上涨 6% 而反弹。油价上升引发通胀和衰退担忧。能源股强劲但宏观背景谨慎。"
+    },
+    "ev": {
+      "en": "EV sector muted; no major catalysts today. Tesla and EV peers face demand concerns as energy costs rise. Watch for rate-sensitive auto sales trends.",
+      "zh": "电动车板块平淡；今日无重大催化剂。Tesla 和电动车同行面临能源成本上升的需求担忧。关注利率敏感型汽车销售趋势。"
+    },
+    "market": {
+      "en": "Mixed pre-market: Dow +0.28%, S&P 500 +0.23%, Nasdaq +0.29%. Oil price spike and geopolitical risk create headwinds. AI and tech provide support.",
+      "zh": "盘前分化：道指 +0.28%，标普 500 +0.23%，纳指 +0.29%。油价飙升和地缘政治风险构成阻力。AI 和科技提供支持。"
+    },
+    "preciousMetals": {
+      "en": "Gold and silver may benefit from geopolitical uncertainty, but oil/dollar surge complicates picture. Monitor DXY and risk sentiment for direction.",
+      "zh": "黄金白银可能因地缘政治不确定性受益，但油价/美元飙升使局势复杂化。监控 DXY 和风险情绪以确定方向。"
+    },
+    "oil": {
+      "en": "Crude oil surges 6% as Iran halts ceasefire talks. Brent ~$90, WTI ~$80. Energy sector rally but inflation fears persist. Geopolitical premium dominates pricing.",
+      "zh": "原油因伊朗中断停火谈判而飙升 6%。布伦特约 90 美元，WTI 约 80 美元。能源板块反弹但通胀担忧持续。地缘政治溢价主导定价。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 E-minis +17.5 pts (+0.23%), Dow E-minis +143 pts (+0.28%), Nasdaq 100 E-minis +86.75 pts (+0.29%). AI and tech rally offsets oil/geopolitical drag.",
+      "zh": "标普 500 期指 +17.5 点 (+0.23%)，道指期指 +143 点 (+0.28%)，纳指 100 期指 +86.75 点 (+0.29%)。AI 和科技反弹抵消石油/地缘政治拖累。"
+    },
+    "treasury10Y": {
+      "en": "10Y Treasury yield up 6bp to ~4.08%. Oil price inflation concerns and Fed rate hike probability (~70%) limit rally. Watch for PCE data this week.",
+      "zh": "10 年期美债收益率上升 6 个基点至约 4.08%。油价通胀担忧和约 70% 的加息概率限制反弹。关注本周 PCE 数据。"
+    },
+    "dxy": {
+      "en": "Dollar up ~0.5% amid Middle East tensions and oil price surge. Risk-off flows into USD and commodities. Monitor for escalation or de-escalation.",
+      "zh": "美元在~0.5% 中因中东紧张局势和油价飙升而上涨。避险资金流入美元和商品。关注局势升级或缓和。"
+    },
+    "oil": {
+      "en": "WTI crude +6% to ~$80/bbl. Brent ~$90/bbl. Geopolitical risk premium from Iran-US tensions dominates pricing. Energy stocks rally but inflation concerns persist.",
+      "zh": "WTI 原油 +6% 至约 80 美元/桶。布伦特约 90 美元/桶。伊朗-美国紧张局势的地缘政治风险溢价主导定价。能源股反弹但通胀担忧持续。"
+    },
+    "keyRisk": {
+      "en": "US-Iran conflict escalation driving oil/inflation fears. Friday jobs report critical for Fed policy. PCE data and earnings season progress will determine market direction.",
+      "zh": "美国-伊朗冲突升级推动油价/通胀担忧。周五就业报告对美联储政策至关重要。PCE 数据和 earnings 季进展将决定市场方向。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": "medium",
+    "note": {
+      "en": "Mixed signals: AI/tech rally led by Nvidia, Microsoft, Micron vs. oil/geopolitical headwinds. Friday's jobs report will be pivotal for risk sentiment. AI momentum provides support despite oil spike.",
+      "zh": "信号分歧：AI/科技由 Nvidia、Microsoft、美光引领反弹，但受石油/地缘政治阻力。周五就业报告对风险情绪至关重要。尽管油价飙升，AI 动量提供支持。"
+    }
+  }
+}
