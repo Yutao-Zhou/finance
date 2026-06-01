@@ -10,7 +10,10 @@
         "en": "Nvidia Unveils New AI PC Chip to Reinvent Computing, Shares Rise 1.6%",
         "zh": "Nvidia 推出新 AI PC 芯片重塑计算，股价上涨 1.6%"
       },
-      "impact": "Nvidia's new chip targets laptops/desktops with AI capabilities for fall release, built on 3-year Microsoft partnership. Bullish for PC ecosystem renaissance and AI adoption in consumer markets.",
+      "impact": {
+        "en": "Nvidia's new chip targets laptops/desktops with AI capabilities for fall release, built on 3-year Microsoft partnership. Bullish for PC ecosystem renaissance and AI adoption in consumer markets.",
+        "zh": "Nvidia 新芯片针对具备 AI 能力的笔记本电脑/桌面电脑，秋季发布，基于 3 年 Microsoft 合作。利好 PC 生态复兴和消费者市场 AI 采用。"
+      },
       "bullish": ["NVDA", "MSFT", "SMCI"],
       "bearish": ["AMD", "INTC"],
       "macroRisk": {
@@ -23,7 +26,10 @@
         "en": "Anthropic Files Confidentially for IPO as AI Demand Surges",
         "zh": "Anthropic 秘密提交 IPO 申请，AI 需求激增"
       },
-      "impact": "Major AI company IPO filing signals sector strength and capital formation boom. Could boost AI sentiment but also raises valuation concerns if priced too high.",
+      "impact": {
+        "en": "Major AI company IPO filing signals sector strength and capital formation boom. Could boost AI sentiment but also raises valuation concerns if priced too high.",
+        "zh": "Major AI 公司 IPO 申请表明行业强劲和资本形成热潮。可能提振 AI 情绪，但若定价过高也会引发估值担忧。"
+      },
       "bullish": ["AI sector", "MLA", "AI"],
       "bearish": [],
       "macroRisk": {
@@ -36,7 +42,10 @@
         "en": "Oil Prices Jump 6% on Iran Ceasefire Talks Halting Amid Middle East Escalation",
         "zh": "油价因中东紧张局势升级、伊朗停火谈判中断而飙升 6%"
       },
-      "impact": "Geopolitical risk drives oil higher, pressuring inflation expectations and equity valuations. Energy sector rallies but creates cost-push inflation risks.",
+      "impact": {
+        "en": "Geopolitical risk drives oil higher, pressuring inflation expectations and equity valuations. Energy sector rallies but creates cost-push inflation risks.",
+        "zh": "地缘政治风险推升油价，压制通胀预期和权益估值。能源板块反弹但带来成本推动型通胀风险。"
+      },
       "bullish": ["XLE", "OXY", "CVX"],
       "bearish": ["SPY", "QQQ", "XLF"],
       "macroRisk": {
@@ -49,7 +58,10 @@
         "en": "Micron Tops $1,000 as Memory Market Rally Continues, Shares +5.3%",
         "zh": "美光突破 1000 美元，内存市场持续反弹，股价 +5.3%"
       },
-      "impact": "Memory cycle recovery and AI demand drive semiconductor supercycle. Bullish for memory stocks and broader semis.",
+      "impact": {
+        "en": "Memory cycle recovery and AI demand drive semiconductor supercycle. Bullish for memory stocks and broader semis.",
+        "zh": "内存周期复苏和 AI 需求驱动半导体超级周期。利好内存股和更广泛的半导体。"
+      },
       "bullish": ["MU", "WDC", "STX"],
       "bearish": [],
       "macroRisk": {
@@ -62,7 +74,10 @@
         "en": "Broadcom Earnings Preview: Key Focus as Chipmaker Eyes AI Infrastructure Growth",
         "zh": "Broadcom 财报前瞻：关键关注点，芯片制造商瞄准 AI 基础设施增长"
       },
-      "impact": "Broadcom earnings on Wednesday critical for AI infrastructure sentiment. Network gear demand and AI networking chips key catalysts.",
+      "impact": {
+        "en": "Broadcom earnings on Wednesday critical for AI infrastructure sentiment. Network gear demand and AI networking chips key catalysts.",
+        "zh": "Broadcom 周三财报对 AI 基础设施情绪至关重要。网络设备需求和 AI 网络芯片是关键催化剂。"
+      },
       "bullish": ["AVGO", "CSCO", "MSFT"],
       "bearish": [],
       "macroRisk": {
