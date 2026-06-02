@@ -1,0 +1,225 @@
+{
+  "date": "2026-06-02",
+  "summary": {
+    "en": "US futures trade negative amid Middle East peace talks uncertainty, with Marvell Technology surging on Nvidia CEO Jensen Huang's trillion-dollar endorsement. Markets await US-Iran deal outcomes as oil prices stabilize and AI chip sector remains bullish on production ramp-up and new partnerships.",
+    "zh": "美股期指在中东和平谈判不确定性影响下表现偏弱，Marvell Technology 因英伟达 CEO 黄仁勋的万亿估值背书而大涨。市场关注美伊协议进展，油价趋稳，AI 芯片板块在产能扩张和新合作中保持强势。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Marvell Technology Soars on Nvidia CEO's Trillion-Dollar Endorsement",
+        "zh": "Marvell 因英伟达 CEO 背书股价飙升"
+      },
+      "impact": {
+        "en": "Positive catalyst for AI chip sector; Nvidia's $2B investment and Jensen Huang's endorsement lift Marvell and semiconductor peers. Signals strong AI demand and supply chain confidence.",
+        "zh": "AI 芯片板块利好；英伟达 20 亿美元投资及黄仁勋背书提振 Marvell 及半导体同行，显示 AI 需求强劲和供应链信心。"
+      },
+      "bullish": [
+        "AI semiconductor",
+        "big tech",
+        "Marvell (MRVL)"
+      ],
+      "bearish": [],
+      "macroRisk": {
+        "en": "None directly; geopolitical tension elsewhere may spill over but this is pure corporate strength.",
+        "zh": "无直接风险；地缘政治紧张可能在其他地方外溢，但这是纯粹的企业基本面利好。"
+      }
+    },
+    {
+      "title": {
+        "en": "US Futures Pull Back as Mideast Peace Talks Spark Uncertainty",
+        "zh": "中东和平谈判引发不确定性拖累美股期指"
+      },
+      "impact": {
+        "en": "Risk-off sentiment driven by US-Iran deal uncertainty; traders await outcomes that could lower oil prices and reduce geopolitical risk premium. Treasury yields fall on peace hopes.",
+        "zh": "避险情绪因美伊协议不确定性主导；交易员等待可能降低油价和地缘风险溢出的结果。和平预期带动美债收益率下行。"
+      },
+      "bullish": [
+        "precious metals (uncertainty support)",
+        "US Treasuries"
+      ],
+      "bearish": [
+        "equity risk premium"
+      ],
+      "macroRisk": {
+        "en": "Geopolitical uncertainty around Middle East peace talks; watch oil supply disruption risks and potential escalation if negotiations stall.",
+        "zh": "中东和平谈判地缘不确定性；关注石油供应中断风险和谈判僵局可能引发的升级。"
+      }
+    },
+    {
+      "title": {
+        "en": "Nvidia Vera Rubin AI Chip Enters Full Production with Samsung, SK Hynix, Micron",
+        "zh": "英伟达 Vera Rubin AI 芯片进入量产，三星、SK 海力士、美光加入 HBM4 供应链"
+      },
+      "impact": {
+        "en": "AI infrastructure capex acceleration; HBM4 memory ramp supports data center buildout. Positive for semiconductor equipment and materials, TSMC, and memory suppliers.",
+        "zh": "AI 资本开支加速；HBM4 内存扩产支持数据中心建设。利好半导体设备和材料、台积电及内存供应商。"
+      },
+      "bullish": [
+        "semiconductor",
+        "big tech",
+        "memory stocks"
+      ],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Supply chain complexity may increase but demand outlook remains strong.",
+        "zh": "供应链复杂度可能上升但需求前景依然强劲。"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil Prices Stabilize as Iran Reviews US Peace Deal Offer",
+        "zh": "油价趋稳，伊朗审查美国停战协议提议"
+      },
+      "impact": {
+        "en": "WTI and Brent steady with slight dip on Trump's ongoing talks comments. Peace scenario reduces tail risk premium but incomplete agreement keeps some uncertainty. Commodity markets watch Strait of Hormuz dynamics.",
+        "zh": "WTI 和布伦特油价趋稳，特朗普持续谈判言论带来小幅回落。和平情景降低尾部风险溢价但协议不完整仍存不确定性。商品市场关注霍尔木兹海峡动态。"
+      },
+      "bullish": [
+        "precious metals",
+        "energy transition plays"
+      ],
+      "bearish": [
+        "oil & gas",
+        "airlines",
+        "shipping"
+      ],
+      "macroRisk": {
+        "en": "Incomplete US-Iran peace deal leaves supply risk premium priced in; monitor negotiation progress for direction.",
+        "zh": "美伊协议不完整仍保留供应风险溢价；监控谈判进展以判断方向。"
+      }
+    },
+    {
+      "title": {
+        "en": "Dollar Index Steady Around 99 Amid Mixed Fed Expectations",
+        "zh": "美元指数在 99 附近盘整，市场对 Fed 预期分化"
+      },
+      "impact": {
+        "en": "DXY holds near 99.20 as traders balance labor data and Fed rate path. Dollar strength benefits US exporters less; emerging markets watch risk premium. Gold/silver edge lower on DXY stability.",
+        "zh": "DXY 在 99.20 附近盘整，交易员平衡就业数据和 Fed 利率路径。美元走强减弱对美国出口商利好；新兴市场关注风险溢价。金银在美元稳定下小幅走弱。"
+      },
+      "bullish": [
+        "international travelers",
+        "non-USD assets"
+      ],
+      "bearish": [
+        "USD-denominated debt"
+      ],
+      "macroRisk": {
+        "en": "Dollar volatility tied to Fed policy expectations and Middle East geopolitical risk.",
+        "zh": "美元波动与 Fed 政策预期和中东地缘风险相关。"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury Yields Fall to 4.43% on Geopolitical Easing Hopes",
+        "zh": "美债收益率跌至 4.43%，地缘缓和预期升温"
+      },
+      "impact": {
+        "en": "10Y yield retreat as peace hopes drive flight-to-quality. Lower rates support growth stocks but compression signals macro caution. Watch for yield curve dynamics and duration risk in portfolios.",
+        "zh": "10Y 收益率回落因和平希望推动避险。低利率利好成长股但压缩显示宏观谨慎。关注收益率曲线动态和组合期限风险。"
+      },
+      "bullish": [
+        "growth stocks",
+        "REITs",
+        "duration hedges"
+      ],
+      "bearish": [
+        "banks",
+        "insurers"
+      ],
+      "macroRisk": {
+        "en": "Yield compression may signal overreaction to geopolitical news; monitor inflation data for re-rating.",
+        "zh": "收益率压缩可能反映对地缘新闻的过度反应；监控通胀数据以重新估值。"
+      }
+    },
+    {
+      "title": {
+        "en": "ARM CEO Warns US May Struggle to Ban AI Chip Exports to China",
+        "zh": "ARM CEO 警告美国难以禁止对中国的 AI 芯片出口"
+      },
+      "impact": {
+        "en": "Geopolitical chip export policy uncertainty persists. US export restrictions impact big tech and semiconductor sector globally. Watch for policy announcements and supply chain rerouting.",
+        "zh": "芯片出口管制政策不确定性持续。美国出口限制影响全球大科技和半导体板块。关注政策公告和供应链重定向。"
+      },
+      "bullish": [
+        "domestic US chipmakers"
+      ],
+      "bearish": [
+        "big tech (global revenue exposure)",
+        "semiconductor equipment"
+      ],
+      "macroRisk": {
+        "en": "Export policy uncertainty adds sector-specific headwinds to US tech growth narrative.",
+        "zh": "出口政策不确定性给美国科技增长叙事添加板块特定阻力。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector bullish on Marvell surge and Nvidia's production ramp. Vera Rubin chip entry signals infrastructure maturation. Big AI capex spending continues with semiconductor partnerships deepening.",
+      "zh": "AI 板块受 Marvell 飙升和英伟达产能扩张提振。Vera Rubin 芯片进入标志基础设施成熟。大型 AI 资本开支继续深化半导体合作。"
+    },
+    "semiconductor": {
+      "en": "Semiconductor sector strong on Marvell endorsement, Nvidia production news, and HBM4 ramp. TSMC-Nvidia partnership expansion and Intel's EMIB-T packaging news support equipment suppliers.",
+      "zh": "半导体板块受 Marvell 背书、英伟达产能消息和 HBM4 扩产支撑。台积电-英伟达合作扩大和英特尔 EMIB-T 封装利好设备商。"
+    },
+    "bigTech": {
+      "en": "Mixed sentiment. Marvell and memory suppliers rally on AI demand but ARM export policy uncertainty and AI chip supply constraints weigh. Alphabet, Marvell mentioned in earnings previews with strong AI infrastructure themes.",
+      "zh": "情绪分化。Marvell 和内存供应商受 AI 需求提振，但 ARM 出口政策不确定性和 AI 芯片供应限制压制。Alphabet、Marvell 在财报前瞻中显示强劲 AI 基础设施主题。"
+    },
+    "energy": {
+      "en": "Oil prices steady with slight decline on peace hopes. Energy sector faces headwinds from lower oil demand expectations if talks advance. Watch for supply risk premium if negotiations stall.",
+      "zh": "油价趋稳小幅回落，和平希望影响需求预期。若谈判进展能源板块面临压力；谈判僵局则保留供应风险溢价。"
+    },
+    "ev": {
+      "en": "EV sector neutral. Tesla at $427 with flat trading; EV demand dynamics and charging infrastructure remain key themes. No major EV-specific catalysts today.",
+      "zh": "EV 板块中性。Tesla 在 427 美元附近盘整；EV 需求和充电基础设施仍是关键主题。今日无重大 EV 特定催化剂。"
+    },
+    "market": {
+      "en": "Mixed premarket with futures slightly off. S&P -0.43%, Dow -0.21%, Nasdaq -0.09%. Geopolitical uncertainty offsets AI enthusiasm. Risk-reward balanced; watch opening for direction.",
+      "zh": "盘前分化，期指小幅走弱。标普-0.43%，道指-0.21%，纳指-0.09%。地缘不确定性对冲 AI 热情。风险收益平衡；观察开盘方向。"
+    },
+    "preciousMetals": {
+      "en": "Gold and silver edge lower but supported by Middle East geopolitical uncertainty. DXY stability limits upside; watch for peace deal breakdown or escalation that could lift prices.",
+      "zh": "金银小幅走弱但受中东地缘不确定性支撑。美元稳定限制上行空间；关注协议破裂或升级可能推高价格。"
+    },
+    "oil": {
+      "en": "Oil prices stable with slight dip on peace talks. WTI and Brent trade near recent lows but supply fundamentals remain intact. Watch for escalation in West Asia that could spike prices.",
+      "zh": "油价稳定，和平谈判带来小幅回落。WTI 和布伦特在近期低点附近但供应基本面 intact。关注西阿升级可能推高油价。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 -0.43%, Dow -0.21%, Nasdaq -0.09%. Futures negative on Mideast uncertainty; AI/Marvell rally may provide intraday support.",
+      "zh": "标普-0.43%，道指-0.21%，纳指-0.09%。期指受中东不确定性走弱；AI/Marvell  rallies 可能提供日内支撑。"
+    },
+    "treasury10Y": {
+      "en": "10-year yield at 4.43%, down from prior session. Peace hopes drive flight-to-quality. Watch for yield re-rating on inflation or geopolitical deterioration.",
+      "zh": "10 年期收益率 4.43%，自上一交易日回落。和平希望推动避险。关注通胀或地缘恶化导致的重新估值。"
+    },
+    "dxy": {
+      "en": "DXY at 99.16-99.20, steady. Dollar balances Fed expectations and geopolitical risk. Range-bound between 99.05 and 99.23.",
+      "zh": "DXY 在 99.16-99.20 区间，持平。美元平衡 Fed 预期和地缘风险。在 99.05-99.23 之间震荡。"
+    },
+    "oil": {
+      "en": "Oil steady/slight decline on peace hopes. WTI and Brent stable but watch for escalation risk in West Asia that could lift prices.",
+      "zh": "油价稳定/小幅回落，和平希望影响。WTI 和布伦特稳定但关注西阿升级风险可能推高价格。"
+    },
+    "keyRisk": {
+      "en": "Mideast peace deal uncertainty is the dominant risk factor. Escalation could spike oil and drive risk-off; breakthrough would be risk-on. Watch negotiation outcomes.",
+      "zh": "中东和平协议不确定性是主要风险因素。升级可能推高油价并驱动避险；突破则利好风险资产。关注谈判结果。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Mixed sentiment with AI/semiconductor strength offsetting geopolitical headwinds. Marvell catalyst provides sector support but macro uncertainty limits breadth. Direction depends on overnight negotiations and opening volatility.",
+      "zh": "情绪分化，AI/半导体强势对冲地缘逆风。Marvell 催化剂提供板块支撑但宏观不确定性限制广度。方向取决于夜间谈判和开盘波动。"
+    }
+  }
+}
