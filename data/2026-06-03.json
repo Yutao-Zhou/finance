@@ -1,0 +1,151 @@
+{
+  "date": "2026-06-03",
+  "summary": {
+    "en": "US futures remain flat after a record-setting session, with SP500 and Dow futures unchanged while Nasdaq 100 futures gain 0.1%. Investors are eyeing jobs data releases and continued AI sector strength as key catalysts. Oil prices rise on supply concerns, while geopolitical tensions over US-Iran negotiations add uncertainty.",
+    "zh": "美股期货在创纪录交易后保持平稳，标普 500 期货和道指期货持平，纳斯达克 100 期货上涨 0.1%。投资者关注就业数据发布和持续的 AI 板块强势作为主要催化剂。油价因供应担忧上涨，而美伊谈判的地缘政治紧张局势增加了不确定性。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "US Stocks Hold Flat as Investors Await Jobs Data and AI Sector Continues Rally",
+        "zh": "美股持平，投资者等待就业数据，AI 板块持续上涨"
+      },
+      "impact": {
+        "en": "Futures flat after Tuesday's record highs shows profit-taking and cautious sentiment ahead of employment data. AI sector momentum persists with tech earnings strength.",
+        "zh": "周二创新高后期货持平显示获利了结和对就业数据前的谨慎情绪。AI 板块势头延续，科技 earnings 强劲。"
+      },
+      "bullish": ["QQQ", "VGT", "NVDA", "MSFT"],
+      "bearish": ["DIA", "UUT"],
+      "macroRisk": {
+        "en": "Low - Market digesting post-record highs. No immediate geopolitical escalation impacting equities directly."
+      }
+    },
+    {
+      "title": {
+        "en": "Oil Prices Surge 2% on Middle East Supply Concerns",
+        "zh": "油价因中东供应担忧飙升 2%"
+      },
+      "impact": {
+        "en": "Brent crude up 1.8% to $97.70/bbl, WTI up 2% to $95.64. Rising oil costs may boost energy sector but risk inflation concerns andFed rate policy implications.",
+        "zh": "布伦特原油上涨 1.8% 至 97.70 美元/桶，WTI 上涨 2% 至 95.64 美元。油价上升可能提振能源板块，但可能导致通胀担忧和美联储利率政策影响。"
+      },
+      "bullish": ["XLE", "XOM", "COP", "CVX"],
+      "bearish": ["Consumer Discretionary", "Transportation"],
+      "macroRisk": {
+        "en": "Oil price rise could weigh on inflation expectations and Fed rate path, creating selective sector rotation opportunities."
+      }
+    },
+    {
+      "title": {
+        "en": "US Treasury Yields Rise 4bps to 4.481% as Dollar Index Gains",
+        "zh": "美债收益率上涨 4 个基点至 4.481%，美元指数上涨"
+      },
+      "impact": {
+        "en": "10Y Treasury yield up 4bps to 4.481%, DXY up 0.1% to 95.95. Rising yields benefit value stocks (energy, materials) but pressure growth stocks and mortgage-sensitive sectors.",
+        "zh": "10 年期美债收益率上涨 4 个基点至 4.481%，DXY 上涨 0.1% 至 95.95。收益率上升有利于价值股（能源、材料），但压制成长股和抵押贷款敏感板块。"
+      },
+      "bullish": ["XLE", "XLB", "OKE"],
+      "bearish": ["XLK", "XLF", "XLP"],
+      "macroRisk": {
+        "en": "Yield curve dynamics and dollar strength create sector rotation pressure. Growth stocks face headwinds from rising borrowing costs."
+      }
+    },
+    {
+      "title": {
+        "en": "Geopolitical Uncertainty: US-Iran Peace Talks Mixed Signals",
+        "zh": "地缘政治不确定性：美伊和平谈判信号不一"
+      },
+      "impact": {
+        "en": "Mixed signals from US-Iran peace negotiations keep geopolitical risk elevated. Middle East tensions could spike oil prices further, impacting energy sector and inflation expectations.",
+        "zh": "美伊和平谈判的混合信号使地缘政治风险保持高位。中东紧张局势可能进一步推高油价，影响能源板块和通胀预期。"
+      },
+      "bullish": ["HES", "MPC", "PSX"],
+      "bearish": ["Broad Market Equities"],
+      "macroRisk": {
+        "en": "US-Iran tensions present geopolitical risk that could escalate, spiking oil and creating risk-off sentiment if conflict erupts."
+      }
+    },
+    {
+      "title": {
+        "en": "Asian Markets Mixed: Japan Nikkei Up 2.5%, China Shanghai Composite Gains",
+        "zh": "亚洲市场分化：日经 225 上涨 2.5%，中国上证综指上涨"
+      },
+      "impact": {
+        "en": "Japan's Nikkei up 2.5%, Hong Kong Hang Seng down 1.6%, China Shanghai Composite up 0.2%. Asian divergence may indicate regional trade flow implications and cross-border investment sentiment.",
+        "zh": "日经 225 上涨 2.5%，恒生指数下跌 1.6%，上证综指上涨 0.2%。亚洲分化可能表明区域贸易流向影响和跨境投资情绪。"
+      },
+      "bullish": ["EWJ", "FXI"],
+      "bearish": ["HSI"],
+      "macroRisk": {
+        "en": "Asian divergence signals selective regional opportunities and risks. Cross-border capital flows may be sensitive to currency and trade policy."
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector remains strong with tech earnings strength. Semiconductors and AI infrastructure firms continue to attract investor attention. Hewlett Packard Enterprise up 19.5% on AI demand, Marvell Technology surged 32.5% per Nvidia CEO comments.",
+      "zh": "AI 板块保持强劲，科技 earnings 强劲。半导体和 AI 基础设施公司继续吸引投资者关注。惠誉企业因 AI 需求上涨 19.5%，美满电子随英伟达 CEO 评论飙升 32.5%。"
+    },
+    "semiconductor": {
+      "en": "Semiconductor sector outperforms with AI chip demand driving growth. Key stocks: NVDA, AVGO, MRVL, AMD all benefiting from data center and AI workload expansion.",
+      "zh": "半导体板块优于大盘，AI 芯片需求驱动增长。关键股票：NVDA、AVGO、MRVL、AMD 均受益于数据中心和 AI 工作负载扩展。"
+    },
+    "bigTech": {
+      "en": "Big Tech stocks steady with mixed sentiment. Nasdaq 100 futures up 0.1%. Tech giants benefit from AI monetization but face growth rate concerns and regulatory scrutiny.",
+      "zh": "大科技股情绪分化，走势平稳。纳斯达克 100 期货上涨 0.1%。科技巨头受益于 AI 货币化，但面临增长率担忧和监管审查。"
+    },
+    "energy": {
+      "en": "Energy sector rallies on rising oil prices. XLE ETF and major oil producers (XOM, CVX, COP) gain as Brent crude reaches $97.70/bbl. Supply concerns in Middle East support higher prices.",
+      "zh": "能源板块随油价上涨而上涨。XLE ETF 和主要石油生产商（XOM、CVX、COP）获支持，布伦特原油达到 97.70 美元/桶。中东供应担忧支持更高油价。"
+    },
+    "ev": {
+      "en": "EV sector faces headwinds from higher oil prices and interest rates. Rising borrowing costs and potential inflation impacts weigh on electric vehicle adoption timeline.",
+      "zh": "电动车板块面临油价和利率上涨的逆风。借贷成本上升和潜在的通胀影响打击电动汽车采用时间表。"
+    },
+    "market": {
+      "en": "Broad market mixed after record session. Futures flat with slight divergence: SP500/Dow futures flat, Nasdaq futures slightly positive. Profit-taking after gains creates cautious sentiment.",
+      "zh": "创纪录交易后大盘分化。期货持平，略有分化：标普 500/道指期货持平，纳斯达克期货略正面。获利了结后造成谨慎情绪。"
+    },
+    "preciousMetals": {
+      "en": "Gold and silver prices stable as investors weigh geopolitical risk against dollar strength. XAU/USD maintains near-term support but faces pressure from rising yields and strong USD.",
+      "zh": "金银价格稳定，投资者权衡地缘政治风险和美元强势。XAU/USD 维持近期支撑，但面临收益率上升和美元走强压力。"
+    },
+    "oil": {
+      "en": "Oil prices rise 1.8-2% on Middle East tensions. Brent $97.70, WTI $95.64. Supply disruption fears in Middle East region support higher prices and benefit energy producers.",
+      "zh": "油价因中东紧张局势上涨 1.8-2%。布伦特 97.70 美元，WTI 95.64 美元。中东地区供应中断担忧支持更高油价，利好能源生产商。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "SP500 futures flat (-0.0%), Dow futures down -0.2%, Nasdaq futures up +0.1%. Market digesting post-record highs with cautious sentiment ahead of employment data.",
+      "zh": "标普 500 期货持平（-0.0%），道指期货下跌-0.2%，纳斯达克期货上涨+0.1%。市场消化创新高后的高涨，并对就业数据前的谨慎情绪。"
+    },
+    "treasury10Y": {
+      "en": "10-Year Treasury yield up 4bps to 4.481% from 4.446%. Rising yields benefit rate-sensitive value stocks but pressure growth sectors and mortgage-sensitive names.",
+      "zh": "10 年期美债收益率上涨 4 个基点至 4.481%，从 4.446%。收益率上升有利于利率敏感的价值股，但压力成长板块和抵押贷款敏感名称。"
+    },
+    "dxy": {
+      "en": "Dollar Index up 0.1% to 95.95. Stronger dollar reflects Fed policy expectations and global risk sentiment. Multinationals with USD earnings benefit, but exporters face headwinds.",
+      "zh": "美元指数上涨 0.1% 至 95.95。美元走强反映美联储政策预期和全球风险情绪。以美元计价的跨国公司受益，但出口商面临逆风。"
+    },
+    "oil": {
+      "en": "Brent crude up 1.8% to $97.70/bbl, WTI up 2% to $95.64. Middle East geopolitical tensions and supply concerns drive prices higher, creating selective opportunities in energy sector.",
+      "zh": "布伦特原油上涨 1.8% 至 97.70 美元/桶，WTI 上涨 2% 至 95.64 美元。中东地缘政治紧张和供应担忧推动价格上涨，为能源板块创造选择性机会。"
+    },
+    "keyRisk": {
+      "en": "Primary risks: (1) US-Iran geopolitical escalation could spike oil and create risk-off sentiment. (2) Rising Treasury yields may pressure growth stocks. (3) Employment data could alter Fed policy expectations.",
+      "zh": "主要风险：(1) 美伊地缘政治升级可能推高油价并造成避险情绪。(2) 美债收益率上升可能压力成长股。(3) 就业数据可能改变美联储政策预期。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Market shows mixed sentiment post-record highs. AI sector strength offsets broader equity caution. Geopolitical risks (oil prices, US-Iran tensions) create selective opportunities. Energy and materials benefit from higher oil/yields, while growth stocks face pressure from rising yields.",
+      "zh": "创纪录高开后市场情绪分化。AI 板块强势抵消广泛的股票谨慎情绪。地缘政治风险（油价、美伊紧张局势）创造选择性机会。能源和材料受益于高油价/收益率，而成长股面临收益率上升压力。"
+    }
+  }
+}
