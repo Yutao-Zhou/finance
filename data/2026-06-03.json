@@ -17,7 +17,8 @@
       "bullish": ["QQQ", "VGT", "NVDA", "MSFT"],
       "bearish": ["DIA", "UUT"],
       "macroRisk": {
-        "en": "Low - Market digesting post-record highs. No immediate geopolitical escalation impacting equities directly."
+        "en": "Low - Market digesting post-record highs. No immediate geopolitical escalation impacting equities directly.",
+        "zh": "低 - 市场消化创新高后的高涨。没有立即的地缘政治升级直接影响股票。"
       }
     },
     {
@@ -32,7 +33,8 @@
       "bullish": ["XLE", "XOM", "COP", "CVX"],
       "bearish": ["Consumer Discretionary", "Transportation"],
       "macroRisk": {
-        "en": "Oil price rise could weigh on inflation expectations and Fed rate path, creating selective sector rotation opportunities."
+        "en": "Oil price rise could weigh on inflation expectations and Fed rate path, creating selective sector rotation opportunities.",
+        "zh": "油价上升可能抑制通胀预期和美联储利率路径，创造选择性板块轮动机会。"
       }
     },
     {
@@ -47,7 +49,8 @@
       "bullish": ["XLE", "XLB", "OKE"],
       "bearish": ["XLK", "XLF", "XLP"],
       "macroRisk": {
-        "en": "Yield curve dynamics and dollar strength create sector rotation pressure. Growth stocks face headwinds from rising borrowing costs."
+        "en": "Yield curve dynamics and dollar strength create sector rotation pressure. Growth stocks face headwinds from rising borrowing costs.",
+        "zh": "收益率曲线动态和美元强势创造板块轮动压力。成长股面临借贷成本上升的逆风。"
       }
     },
     {
@@ -62,7 +65,8 @@
       "bullish": ["HES", "MPC", "PSX"],
       "bearish": ["Broad Market Equities"],
       "macroRisk": {
-        "en": "US-Iran tensions present geopolitical risk that could escalate, spiking oil and creating risk-off sentiment if conflict erupts."
+        "en": "US-Iran tensions present geopolitical risk that could escalate, spiking oil and creating risk-off sentiment if conflict erupts.",
+        "zh": "美伊紧张局势呈现地缘政治风险，可能升级，推高油价，并在冲突爆发时创造避险情绪。"
       }
     },
     {
@@ -77,7 +81,8 @@
       "bullish": ["EWJ", "FXI"],
       "bearish": ["HSI"],
       "macroRisk": {
-        "en": "Asian divergence signals selective regional opportunities and risks. Cross-border capital flows may be sensitive to currency and trade policy."
+        "en": "Asian divergence signals selective regional opportunities and risks. Cross-border capital flows may be sensitive to currency and trade policy.",
+        "zh": "亚洲分化表明选择性区域机会和风险。跨境资本流动可能敏感于货币和贸易政策。"
       }
     }
   ],
