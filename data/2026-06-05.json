@@ -1,0 +1,300 @@
+{
+  "date": "2026-06-05",
+  "summary": {
+    "en": "US stocks face premarket pressure ahead of critical May Non-Farm Payrolls release tonight. Broadcom (AVGO) disappointed AI guidance despite beating estimates, triggering semiconductor sector weakness. Middle East geopolitics continue to drive oil prices and DXY volatility.",
+    "zh": "美股在非农数据前承压，博通（AVGO）AI指引不及预期引发半导体板块回调。中东地缘政治持续影响油价和美元波动性。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Broadcom Beats Earnings But AI Guidance Flat Triggers Semiconductor Weakness",
+        "zh": "博通营收达标但 AI 指引不变引发半导体疲软"
+      },
+      "impact": {
+        "en": "Despite Q2 revenue of $22.19B beating expectations, Broadcom failed to raise its fiscal 2027 AI semiconductor forecast above $100B. This disappoints growth-oriented investors and drags tech sector sentiment lower.",
+        "zh": "尽管第二季度营收$221.9亿超预期，博通未上调 2026 财年 AI 半导体收入预测至超过千亿美元水平。增长型投资者失望并拖累科技股情绪。"
+      },
+      "bullish": ["ASML", "AMAT"],
+      "bearish": ["NVDA", "AVGO", "AMD", "INTC", "MU"],
+      "macroRisk": {
+        "en": "No - company-specific guidance miss, not macro-driven. Transmission: semiconductor earnings rotation risk to broader tech index.",
+        "zh": "否——公司级指引不及预期而非宏观驱动。传导：半导体个股轮动风险扩散至科技指数"
+      }
+    },
+    {
+      "title": {
+        "en": "Lululemon (LULU) Plunges 12% on Weak Full-Year Guidance",
+        "zh": "露露乐蒙（LULU）因弱势全年指引暴跌 12%"
+      },
+      "impact": {
+        "en": "Q4 revenue guidance lowered, retail consumer discretionary faces headwinds as consumers may tighten spending amid geopolitical uncertainty and macro inflation concerns.",
+        "zh": "第四季报营收指引下调，零售可选消费面临疲软；地缘政治不确定性和通胀担忧可能导致消费者缩减开支。"
+      },
+      "bullish": [],
+      "bearish": ["LULU", "URBY"],
+      "macroRisk": {
+        "en": "Yes - consumer sentiment proxy. If retail discretionary weakens, broader consumer sector risk increases.",
+        "zh": "是——消费者情绪代理变量。若可选零售走弱，将放大整个消费板块风险"
+      }
+    },
+    {
+      "title": {
+        "en": "Non-Farm Payrolls Data Tonight: 5th Week of April/May Employment",
+        "zh": "非农数据今晚发布：四月底/五月初就业报告（注：此处为预披露语境）"
+      },
+      "impact": {
+        "en": "Markets expect ~80-85K jobs added in May vs. 122K ADP prior week; unemployment steady at 4.3%, HHE +0.3% YoY expected. Strong job data could drive Treasury yields higher and weigh on tech growth stocks.",
+        "zh": "预计五月增加约$80-85k，上周 ADP 为$12.2万；失业率稳于 4.3%，平均时薪预期 +0.3%。强劲就业数据可能推升美债收益率并压制科技成长股"
+      },
+      "bullish": ["JPM", "XOM"],
+      "bearish": ["MSFT", "NVDA", "GOOGL"],
+      "macroRisk": {
+        "en": "Yes - NFP directly impacts Fed policy expectations, Treasury yields (10Y 4.46%), and growth stock valuations.",
+        "zh": "是——非农数据直接影响美联储政策预期、美债收益率和成长股估值"
+      }
+    },
+    {
+      "title": {
+        "en": "US-Iran Diplomatic Signals: Trump Considers Meeting Supreme Leader",
+        "zh": "美国 - 伊朗外交缓和：特朗普考虑与最高领袖会面"
+      },
+      "impact": {
+        "en": "Reports suggest potential deal progress could ease Strait of Hormuz shipping tensions, but flare-ups keep WTI around $92.80 and DXY at ~99.24. Uncertainty limits oil price direction.",
+        "zh": "谈判进展可能缓解霍尔木兹海峡航运风险，但突发事端让油价在$92.8 附近震荡、美元在 99.24。不确定性限制油价方向"
+      },
+      "bullish": ["USO", "XOM"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Yes - geopolitical uncertainty is the dominant macro driver today, affecting energy prices and risk sentiment across asset classes.",
+        "zh": "是——地缘政治不确定性是目前主导宏观变量，影响能源价格和各类资产风险情绪"
+      }
+    },
+    {
+      "title": {
+        "en": "Tech Futures Under Pressure as Investors Await Jobs Data",
+        "zh": "科技期货承压投资者等待就业数据发布"
+      },
+      "impact": {
+        "en": "Dow futures +0.19%, S&P -0.38%, Nasdaq -0.96%. Tech growth stocks sensitive to NFP-driven yield changes and rate expectations.",
+        "zh": "标普期货下跌 0.4%，纳指跌近 1%。科技成长股对就业数据驱动收益率变化敏感"
+      },
+      "bullish": [],
+      "bearish": ["QQQ", "SMH"],
+      "macroRisk": {
+        "en": "Yes - earnings rotation from beaten-down tech to value/financials could shift market breadth.",
+        "zh": "是——从被低估科技股向价值/金融板块轮动可能改变市场广度"
+      }
+    },
+    {
+      "title": {
+        "en": "SpaceX IPO Rules Unchanged: Index Inclusion Blocked",
+        "zh": " SpaceX 上市规则未变：无法入选指数"
+      },
+      "impact": {
+        "en": "S&P Dow Jones declined to change fast-track inclusion rules, so SpaceX stock won't enter S&P 500 immediately. Market impact limited.",
+        "zh": "标普道琼斯拒绝修改快速纳入规则，SpaceX 股票无法立即进入指数。影响有限"
+      },
+      "bullish": [],
+      "bearish": ["SPCX"],
+      "macroRisk": {
+        "en": "No - structural index mechanics decision, limited macro impact.",
+        "zh": "否——结构性指数规则决定，宏观影响微弱"
+      }
+    },
+    {
+      "title": {
+        "en": "Consumer Credit Report Due 3:00 PM ET on Saturday",
+        "zh": "周六下午三点对应信贷数据发布（注：此处为预告语境）"
+      },
+      "impact": {
+        "en": "April consumer credit release provides early indicator of household financial health ahead of NFP. Credit card delinquencies and revolving balances matter for Fed policy outlook.",
+        "zh": "四月底信贷数据是就业报告前家庭财务健康早期指标。信用卡拖欠和循环余额对美联储政策展望重要"
+      },
+      "bullish": ["V", "MA"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Yes - credit conditions inform inflation outlook and central bank policy trajectory.",
+        "zh": "是——信贷条件影响通胀预期和央行政策轨迹"
+      }
+    },
+    {
+      "title": {
+        "en": "Asian Markets Lower, European Trade Mixed: Global Risk Off",
+        "zh": "亚股走低，欧市分化：全球避险情绪上升"
+      },
+      "impact": {
+        "en": "Hang Seng, Nikkei 225 and China CSI 300 fell; Eurozone mixed early trade. Overseas weakness reinforces US tech sector caution before earnings season continues.",
+        "zh": "恒生指数、日经下跌；欧元区早盘分化。海外走弱强化美股科技板块谨慎"
+      },
+      "bullish": [],
+      "bearish": ["XLK", "QQQ"],
+      "macroRisk": {
+        "en": "Yes - global risk-off sentiment amplifies US equity volatility in premarket hours.",
+        "zh": "是——全球避险情绪放大盘前美股波动"
+      }
+    },
+    {
+      "title": {
+        "en": "Federal Reserve Governor Michael Barr Speaks Saturday Noon ET",
+        "zh": "美联储理事迈克尔·巴尔周六中午发言"
+      },
+      "impact": {
+        "en": "FedWatch shows 96.4% chance of rate hold in June meeting. Fed Chair or governor comments can shift yield curve expectations and risk appetite.",
+        "zh": "期货暗示六月加息概率仅约 3%，主席或理事讲话可能影响收益率曲线和风险情绪"
+      },
+      "bullish": [],
+      "bearish": ["TLT", "BND"],
+      "macroRisk": {
+        "en": "Yes - Fed commentary directly impacts Treasury yield expectations and equity risk sentiment.",
+        "zh": "是——美联储讲话直接影响美债收益率和股票风险情绪"
+      }
+    },
+    {
+      "title": {
+        "en": "Tesla (TSLA) Edges Higher on AI Autonomy Optimism",
+        "zh": "特斯拉（TSLA）小幅上涨因自动驾驶优化预期"
+      },
+      "impact": {
+        "en": "Despite sector weakness, TSLA rose slightly. Autonomous driving progress and FSD subscription growth support EV rally narrative despite broader EV concerns.",
+        "zh": "尽管板块走弱，特斯拉微涨。自动驾驶进展和 FSD 订阅增长支撑电动车叙事"
+      },
+      "bullish": ["TSLA"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - stock-specific AI narrative, not macro-driven.",
+        "zh": "否——个股 AI 叙事而非宏观驱动"
+      }
+    },
+    {
+      "title": {
+        "en": "Gold Slips to ~$4,464; Bitcoin Below $62K on Risk Off",
+        "zh": "黄金跌至约$44.6万；比特币低于$62k避险情绪下"
+      },
+      "impact": {
+        "en": "XAUUSD fell 0.28% to ~$4,463; BTC down 1-2%. Safe-haven demand muted by Middle East diplomacy hopes and equity market mixed signals.",
+        "zh": "黄金跌近；比特币下跌。地缘政治缓和希望和股市混合信号压制避险需求"
+      },
+      "bullish": [],
+      "bearish": ["GLD", "IAU"],
+      "macroRisk": {
+        "en": "Yes - safe-haven demand reflects geopolitical risk premium; DXY and oil inverse correlations remain key watch items.",
+        "zh": "是——避险需求反映地缘政治风险溢价；美元和油价的相关性仍为关键关注项"
+      }
+    },
+    {
+      "title": {
+        "en": "CFTC Positioning Data After Market Close Today",
+        "zh": "今日盘后 CFTC 持仓数据发布（注：此处预告语境）"
+      },
+      "impact": {
+        "en": "Futures positioning data after close reveals hedge fund and institutional exposure to energy, metals. Helps predict next day volatility.",
+        "zh": "盘后期货头寸揭示对冲基金和机构在能源、金属的暴露。有助于预测次日波动"
+      },
+      "bullish": [],
+      "bearish": ["DJP", "VIX"],
+      "macroRisk": {
+        "en": "Yes - positioning data signals risk-on/off flow and potential reversals.",
+        "zh": "是——持仓数据表明风险情绪流向和潜在逆转"
+      }
+    },
+    {
+      "title": {
+        "en": "Fed Watch Tool: 96.4% Chance of June Rate Hold",
+        "zh": "CME 期货工具显示六月维持利率概率达$96.4%"
+      },
+      "impact": {
+        "en": "Market prices in near-term rate stability; any deviation from expected hold triggers volatility across bonds and equities.",
+        "zh": "市场定价短期内利率稳定；任何偏离预期均触发债股波动"
+      },
+      "bullish": [],
+      "bearish": ["TLT"],
+      "macroRisk": {
+        "en": "Yes - policy expectations anchor bond market and equity multiples.",
+        "zh": "是——政策预期锚定债券市场和股票估值倍数"
+      }
+    },
+    {
+      "title": {
+        "en": "Keel Infrastructure Falls 8.94% on Convertible Offering",
+        "zh": "基尔基础设施因可转债发行下跌$8.9%"
+      },
+      "impact": {
+        "en": "$350M convertible senior notes dilution concerns trigger downside for infrastructure REIT-like entity.",
+        "zh":"$3.5 亿可转换高级票据稀释担忧触发类似基础设施房地产投资信托实体股价下行"
+      },
+      "bullish": [],
+      "bearish": ["KEEL"],
+      "macroRisk": {
+        "en": "No - company-specific capital structure decision.",
+        "zh": "否——公司级资本结构决定"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Weak due to Broadcom AI guidance miss and Nvidia visiting Korea; tech growth sentiment cautious ahead of non-farm payrolls.",
+      "zh": "疲软：博通 AI 指引不及预期，英伟达访问韩国；科技成长情绪在非农数据前谨慎"
+    },
+    "semiconductor": {
+      "en": "Under pressure after AVGO earnings; chip stocks down. HBM supply chain and Vera Rubin platform progress watched in Korea visit.",
+      "zh": "受博通财报压制股价下跌。关注韩国之行中HBM 供应链和 VeraRubin平台进展"
+    },
+    "bigTech": {
+      "en": "Mixed: Tesla up slightly, Microsoft slight gain; Alphabet and Palantir weak. Sector sensitive to NFP-driven yield changes.",
+      "zh": "分化：特斯拉微涨、微软小幅获利；谷歌和帕兰提尔疲软。板块对非农驱动的收益率变化敏感"
+    },
+    "energy": {
+      "en": "WTI ~$92.80; mixed sentiment from Middle East diplomacy hopes vs. Hormuz navigation risks.",
+      "zh": "油价在$92.8 附近；中东外交缓和与霍尔木兹航道风险的混合情绪"
+    },
+    "ev": {
+      "en": "Tesla slight gain on AI optimism, despite sector headwinds from broader tech weakness and consumer discretionary concerns.",
+      "zh": "特斯拉因AI乐观微涨，尽管板块受制于科技弱点和可选消费担忧"
+    },
+    "market": {
+      "en": "Premarket mixed: Dow futures +0.19%, S&P -0.38%, Nasdaq -0.96%. Tech outperforms historically but today tech leads declines.",
+      "zh": "盘前分化：道指期货微涨，标普跌近 0.4%，纳指接近下跌 1%。科技股历来表现好但今日拖累大盘"
+    },
+    "preciousMetals": {
+      "en": "Gold down to ~$4,463; safe-haven demand muted by Middle East diplomacy hopes and risk-on trade in equities.",
+      "zh": "黄金跌至约$44.6万；避险需求因中东缓和预期和股市风险偏好而减弱"
+    },
+    "oil": {
+      "en": "WTI ~$92.80; Brent ~$93-95 (varies slightly by source). Direction uncertain as US-Iran flare-ups vs. peace progress unresolved.",
+      "zh": "油价在$92.8 附近震荡；方向不明，因美国 - 伊朗事端与和平进展尚未明朗"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "Dow Futures +0.19% on Middle East relief, S&P 500 futures down ~-0.4%, Nasdaq -1.0%. Tech stocks drag broader index lower today.",
+      "zh": "道指期货微涨近 0.2%，标普期货跌约$0.4%，纳指接近下跌 1%。科技股拖累大盘"
+    },
+    "treasury10Y": {
+      "en": "10-Year Treasury yield at ~4.46%; up slightly on tech earnings weakness and inflation persistence concerns from Middle East.",
+      "zh": "十年期美债收益率在 4.46% 附近；因科技股疲软和中东通胀持续性担忧而小幅上升"
+    },
+    "dxy": {
+      "en": "Dollar Index ~99.24; stable to modestly down as Middle East diplomacy hopes and oil price stability limit downside.",
+      "zh": "美元指数在 99.24；地缘政治缓和和油价稳定限制下行空间"
+    },
+    "oil": {
+      "en": "WTI crude spot ~$92.80; Brent $93-95 (varies slightly). Oil direction hinges on Strait of Hormuz geopolitics resolution.",
+      "zh": "西德克萨斯原油现货约$92.8，布伦特在 93-95。油价取决于霍尔木兹海峡地缘政治"
+    },
+    "keyRisk": {
+      "en": "Evening Non-Farm Payrolls release at 8:30 ET tonight; could drive Treasury yield spike and equity volatility across all sectors.",
+      "zh": "今晚美东时间$8：30 非农数据发布；可能驱动收益率飙升和板块波动"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Mixed sentiment: tech under pressure from earnings and NFP, but energy/oil stable on Middle East diplomacy. Risk-on limited by job data uncertainty.",
+      "zh": "情绪分化：科技股受财报和非农压制，但能源在外交缓和下稳定。就业不确定性限制风险偏好"
+    }
+  }
+}
