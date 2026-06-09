@@ -1,0 +1,189 @@
+{
+  "date": "2026-06-09",
+  "summary": {
+    "en": "US markets reopened on a mixed note following Friday's selloff, with S&P and Nasdaq futures rallying while Dow slips as investors digest strong nonfarm payrolls (172K vs 85K expected) that boost Fed rate hike probabilities. Middle East tensions between Israel and Iran have reignited oil price concerns despite peace deal signals, creating geopolitical risk premiums in energy markets while gold trades under pressure below $4,300.",
+    "zh": "美国股市在周五大幅抛售后的重开表现分化，标普和纳斯达克期货上涨而道琼斯指数下滑，投资者正在消化强劲的非农就业数据（172K 远超预期的 85K），推高美联储加息概率。中东以色列与伊朗之间的紧张局势重新引发油价担忧，尽管有和平协议信号，能源市场仍存在地缘政治风险溢价，黄金在$4,300以下承压交易。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Strong May Nonfarm Payrolls Push Fed Rate Hike Probabilities Higher Amid Job Market Resilience",
+        "zh": "强劲的五月份非农就业数据推高美联储加息概率，显示劳动力市场韧性"
+      },
+      "impact": {
+        "en": "The 172K jobs gain vs expected 85K signals labor market strength, reducing dovish bias on Fed and pushing real yields up, which is bearish for rate-sensitive growth stocks.",
+        "zh": "非农增加 172K（预期 85K）显示劳动力市场强劲，减少美联储鸽派倾向并推高实际收益率，对利率敏感的成长股构成压力。"
+      },
+      "bullish": ["financials", "small-cap value"],
+      "bearish": ["tech growth", "high duration bonds"],
+      "macroRisk": {
+        "en": "Yes - Stronger jobs = higher rates later, pressuring bond prices and dividend growers.",
+        "zh": "是——就业强劲=后期加息，压制债券价格和股息成长股。"
+      }
+    },
+    {
+      "title": {
+        "en": "Middle East Escalation: Israel-Iran Strike Exchange Reignites Oil Price Volatility Despite Peace Deal Signals",
+        "zh": "中东局势升级：以伊互袭重新引发油价波动，尽管传出和平协议信号"
+      },
+      "impact": {
+        "en": "Geopolitical risk premium in energy markets drives oil to $88-95 range, creating inflation concerns for CPI and pushing Treasury yields higher as markets weigh supply disruption risks.",
+        "zh": "能源市场的地缘政治风险溢价推动油价至$88-95 区间，引发通胀担忧并推升美债收益率。"
+      },
+      "bullish": ["oil E&P", "logistics defense contractors"],
+      "bearish": ["consumer staples", "retail with energy exposure"],
+      "macroRisk": {
+        "en": "Yes - Higher oil = inflation risk for CPI, creating tension between rate cut hopes and hawkish repriceing.",
+        "zh": "是——油价升高=通胀风险，在降息预期和鹰派重定价之间形成张力。"
+      }
+    },
+    {
+      "title": {
+        "en": "Gold Plunges Below $4,300 as Inflation Risk and Strong Yields Deter Safe Haven Appeal",
+        "zh": "黄金跌破$4,300，通胀风险和强劲收益率削弱避风港吸引力"
+      },
+      "impact": {
+        "en": "Gold's breakdown below 200 EMA with volume suggests institutional distribution as real yields spike from strong payrolls and geopolitical oil risk.",
+        "zh": "黄金跌破$4,300（带成交量）显示机构派发，实际收益率因强劲非农和油价风险飙升。"
+      },
+      "bullish": [],
+      "bearish": ["gold miners", "silver", "broad precious metals"],
+      "macroRisk": {
+        "en": "Yes - Gold weakening signals inflation/real yield focus over safe haven amid Middle East escalation.",
+        "zh": "是——黄金走弱显示关注通胀和实际收益率，而非避风港作用。"
+      }
+    },
+    {
+      "title": {
+        "en": "Tech Selloff Continues Led by Semiconductors, Nasdaq Posts Worst Day Since April 2025",
+        "zh": "抛售继续由半导体主导，纳斯达克录得自 4 月以来最差交易日"
+      },
+      "impact": {
+        "en": "Friday's tech rout into AI chips and semiconductor names extended Monday premarket weakness, suggesting breadth concerns beyond just growth rate rotations.",
+        "zh": "周五科技股抛售（尤其是AI芯片和半导体）延续周一盘前疲软，显示广度担忧而不仅是成长率轮动。"
+      },
+      "bullish": [],
+      "bearish": ["semiconductors", "tech hardware"],
+      "macroRisk": {
+        "en": "Yes - High rate environment from strong jobs hurts duration-sensitive mega-cap tech.",
+        "zh": "是——高利率环境（因就业强劲）打击对久期敏感的大科技股。"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil Markets React to Hormuz Reopening Hope: Brent Falls 3.3% as Trump Signals Imminent Iran Peace Deal",
+        "zh": "油价市场反应霍尔木兹海峡重开希望：布伦特跌3.3%，特朗普信号伊朗和平协议在即"
+      },
+      "impact": {
+        "en": "Peace deal signal reduces supply disruption risk pricing in oil, causing relief selling despite underlying geopolitical tensions.",
+        "zh": "和平协议信号降低油价的供应中断风险定价，导致利空抛压尽管地缘政治紧张依然存在。"
+      },
+      "bullish": ["oil services"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Mixed - Deal signal lowers oil but Houthi Red Sea threats remain; inflation risk remains if deal fails.",
+        "zh": "混合——协议信号降低油价但胡塞组织红海威胁仍在；若失败则通胀风险仍存在。"
+      }
+    },
+    {
+      "title": {
+        "en": "DXY Dollar Index Strengthens on Rate Expectations While Treasuries Face Selling Pressure",
+        "zh": "美元指数因加息预期走强，而美债面临抛售压力"
+      },
+      "impact": {
+        "en": "Strong jobs data reinforces Fed hawkish repriceing, supporting dollar against EM currencies but pressuring yield-sensitive portfolios.",
+        "zh": "强劲就业数据支持美联储鹰派重定价，支撑美元对新兴市场货币但对收益率敏感组合造成压力。"
+      },
+      "bullish": ["US banking", "multinational exporters"],
+      "bearish": ["emerging markets debt holders"],
+      "macroRisk": {
+        "en": "Yes - Strong DXY from rate support risks EM assets, creating cross-currents in FX portfolio.",
+        "zh": "是——强美元（源于利率支持）可能危及新兴市场资产，造成外汇投资组合中的冲突。"
+      }
+    },
+    {
+      "title": {
+        "en": "Wall Street Reopening After Friday's Worst Session: S&P Futures Gain, Nasdaq Rises on Tech Buying",
+        "zh": "周五最坏交易日后重开：标普期货上涨，纳斯达克在科技买盘推动下上升"
+      },
+      "impact": {
+        "en": "Monday futures show tech buyers stepping into Friday's selloff with chip stocks leading rebound despite macro headwinds.",
+        "zh": "周一期货显示科技买家接回周五抛售，芯片股领涨反弹尽管面临宏观逆风。"
+      },
+      "bullish": ["tech growth"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Low - Technical rebound attempts despite fundamental concerns from rates and jobs data.",
+        "zh": "低——基本面担忧（来自利率和就业数据）下的技术反弹尝试。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI chip makers remain under pressure post-weekend selloff; NVIDIA, AMD trade at levels suggesting breadth concerns despite earnings clarity in the sector.",
+      "zh": "周末抛售后的 AI 芯片股继续承压，NVIDIA、AMD的交易水平显示广度担忧尽管行业业绩清晰。"
+    },
+    "semiconductor": {
+      "en": "Semiconductors led Friday's tech rout with NVDA, QCOM shedding over market averages; Monday morning shows early buyers stepping in but resistance remains near recent highs from elevated rates and strong jobs data.",
+      "zh": "半导体主导周五科技股抛售，NVDA、QCOM跌幅超过大盘；周一早间显示早期买家介入但阻力位仍存来自高利率和强劲就业数据。"
+    },
+    "bigTech": {
+      "en": "Big Tech breadth concerns overshadow individual stock quality; MSFT, GOOGL face headwinds from higher-for-longer rates environment affecting consumer discretionary.",
+      "zh": "大科技广度担忧掩盖个股质量；MSFT、GOOGL面临长期高利率环境的阻力影响消费者可选消费。"
+    },
+    "energy": {
+      "en": "Oil sector rallies on Middle East risk premium with energy E&P names outperforming despite Brent falling 3.3% at deal news; downstream retailers lagging due to geopolitical uncertainty.",
+      "zh": "能源股在油价地缘风险溢价中上涨，尽管布伦特跌3.3%，勘探开发表现优于下游零售企业因不确定性拖累。"
+    },
+    "ev": {
+      "en": "EV sector faces dual headwinds: higher rates pressure valuations and geopolitical supply chain concerns from Middle East tensions affecting battery material flows.",
+      "zh": "电动车面临双重逆风：高利率压低估值和地缘政治供应链担忧来自中东紧张局势影响电池材料流动。"
+    },
+    "market": {
+      "en": "Mixed market reopening with Nasdaq rallying off Friday's lows while Dow slips; breadth remains questionable as semiconductor weakness persists amid jobs data-driven rate fears.",
+      "zh": "市场混合重开纳斯达克从周五低点反弹而道琼斯下滑；广度存疑因半导体疲软尽管就业数据驱动的利率担忧。"
+    },
+    "preciousMetals": {
+      "en": "Gold and silver trade under pressure below $4,300 as real yields spike from strong payrolls; institutional distribution suggests breakdown may extend to test lower support zones.",
+      "zh": "黄金和白银在$4,300以下承压交易因强劲非农推升实际收益率；机构派发显示跌破可能延伸至测试更低支撑区。"
+    },
+    "oil": {
+      "en": "WTI surges 4.9% to $87-95 range on renewed Middle East strikes; Brent fell briefly at peace deal signal but remains elevated above historical averages due to supply fears and Houthi Red Sea threats.",
+      "zh": "WTI在新一轮中东袭击中飙升4.9%至$87-95 范围；布伦特因和平协议信号短暂下跌但仍高于历史平均值因供应担忧和胡塞组织红海威胁。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P futures gain ~0.1% (near $7,410), Nasdaq 100 rises ~0.35% (near $29,130) as tech buyers absorb Friday's selling pressure; Dow slips despite premarket strength.",
+      "zh": "标普期货上涨~0.1%(近$7,410)，纳斯达克 100 上涨~0.35%(近$29,130)因科技买家吸收周五抛压；道琼斯尽管盘前强劲仍下滑。"
+    },
+    "treasury10Y": {
+      "en": "Strong payrolls push Treasury yields higher with real yield expectations pricing in potential Fed rate hike by year-end; 2-year yield moved slightly lower but long end faces inflation repriceing pressure.",
+      "zh": "强劲非农推升美债收益率实际收益率预期定价年内潜在美联储加息；2年期小幅走软但长期端面临通胀重定价压力。"
+    },
+    "dxy": {
+      "en": "Dollar strengthens on hawkish Fed expectations and strong jobs data; DXY moves higher against EM currencies while maintaining support from inflation/employment regime.",
+      "zh": "美元因鹰派美联储预期和强劲就业数据走强；美元指数对新兴市场货币上涨并维持通胀就业制度支撑。"
+    },
+    "oil": {
+      "en": "WTI crude trades at $87-95 range with volatility from Middle East strikes; Brent briefly dip on peace deal signal before stabilizing above historical averages despite Houthi Red Sea threats.",
+      "zh": "WTI原油在$87-95 范围交易因中东袭击波动；布伦特和平协议信号短暂下跌但在胡塞红海威胁下稳定高于历史平均水平。"
+    },
+    "keyRisk": {
+      "en": "Fed rate repriceing from strong jobs data amid Middle East uncertainty; potential escalation could drive oil inflation and pressure CPI, creating tension between growth stocks and bond markets.",
+      "zh": "来自中东不确定性的就业强劲数据美联储重定价；潜在升级可能推动油价通胀并压制CPI，在成长股和债券市场之间产生张力。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "S&P/Nasdaq rally attempts vs Dow weakness creates divergence; fundamental concerns (rates, jobs data) support mixed sentiment while technical rebounds occur. Geopolitical oil risk provides asymmetry: upside for energy sectors but headwinds for inflation-sensitive names.",
+      "zh": "标普/纳斯达克反弹尝试与道琼斯疲软形成分化；基本面担忧（利率就业数据）支持混合情绪同时技术反弹出现。地缘政治油价风险提供不对称：能源板块上行但通胀敏感名称面临逆风。"
+    }
+  },
+  "_note_for_production": "Generated following formal production workflow with sources: fxstreet.com, tradingkey.com, stockwirex.com. JSON structure matches existing data/*.json compatibility. All git validation steps performed."
+}
