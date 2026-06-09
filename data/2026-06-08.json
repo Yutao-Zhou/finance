@@ -1,0 +1,156 @@
+{
+  "date": "2026-06-08",
+  "summary": {
+    "en": "Monday premarket is anchored by two conflicting themes: a $1T semiconductor sell-off rebound following Friday's massive AI-complex decline, and escalating Middle East tensions lifting oil prices above $95 while spiking Treasury yields near session highs ahead of Wednesday's CPI test.",
+    "zh": "周一盘前由两个相互矛盾的主题主导：半导体板块在周五经历巨额抛售后的反弹，以及中东局势紧张推高油价至$95 以上并令美债收益率接近日内高点——周三将公布的关键CPI数据成为市场焦点。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Chip Stocks Rebound Leads Nasdaq Futures, Marvell Surges to Be Added to S&P 500",
+        "zh": "芯片股反弹带动纳斯达克期货，美满电子股价大涨将被纳入标普500"
+      },
+      "impact": {
+        "en": "Semiconductor stocks rallied after Friday's $1T selloff as investors test whether AI momentum can stabilize. Marvell Technology jumped nearly 9% ahead of S&P 500 inclusion on June 22, creating passive fund inflow expectations.",
+        "zh": "半导体股在周五遭遇$1万亿抛售后反弹，投资者正在测试人工智能动能能否企稳。美满电子股价近9%，将在6月22日纳入标普500，引发被动资金流入预期。"
+      },
+      "bullish": ["NVDA", "AVGO", "MU", "MRVL"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - sector-specific AI trade recovery; valuation concerns after Friday's correction remain relevant.",
+        "zh": "否——板块特定的AI交易复苏；周五回调后的估值问题仍然相关。"
+      }
+    },
+    {
+      "title": {
+        "en": "Middle East Tensions Surge: WTI Crude Hits $95.47, Brent Near $98 on Iran-Israel Escalation",
+        "zh": "中东局势急剧升级：WTI原油触及$95.47，布油接近$98，因伊朗与以色列冲突加剧"
+      },
+      "impact": {
+        "en": "Geopolitical risk premium re-priced as Iran threatens to block Hormuz again and escalate at Bab el-Mandeb. Energy stocks benefit while fuel-sensitive sectors (airlines, cruise lines) under pressure.",
+        "zh": "地缘政治风险溢价重定价，伊朗威胁再次封锁霍尔木兹并升级阿拉伯海第二战线。能源股受益而燃料敏感型板块（航空、邮轮）承压。"
+      },
+      "bullish": ["XOM", "CVX"],
+      "bearish": ["UAL", "CCL", "AAL"],
+      "macroRisk": {
+        "en": "YES - inflation re-acceleration risk and potential Fed policy path constraints if oil stays above $100; supply disruption fears for 2nd front at Bab el-Mandeb.",
+        "zh": "是——通胀再加速风险，若油价维持$100以上可能限制美联储政策路径；阿拉伯海第二战线的供应中断担忧。"
+      }
+    },
+    {
+      "title": {
+        "en": "Friday's NFP Shock Cuts September-Cut Probability, Treasury Yields Rise Ahead of CPI Week",
+        "zh": "周五非农数据震惊市场，降低9月降息概率，美债收益率在通胀周前上升"
+      },
+      "impact": {
+        "en": "May payrolls at 172k vs 80k consensus triggered rate hike pricing. CPI Wednesday (consensus 4.2% headline) becomes critical; Treasury 10Y hit session highs near 4.5-4.6%, gold fell below $4,300.",
+        "zh": "5月非农就业达$17.2k（预期8k）引发加息定价。周三CPI（预期核心4.2%）成关键；美债十年期触及日内高点接近 4.5-4.6%，黄金跌破$4,300。"
+      },
+      "bullish": ["TLT"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "YES - rate-hike expectations rising from ~70% to 57% for September cuts; inflation data could force higher-for-longer narrative if above consensus.",
+        "zh": "是——市场对降息的定价从~70%降至$9月降息概率；若通胀数据高于预期可能迫使高利率叙事重燃。"
+      }
+    },
+    {
+      "title": {
+        "en": "Eli Lilly's Retatrutide Trial Data Shows Weight Loss Plus Metabolic Benefits, Stock Rises",
+        "zh": "礼来的雷他鲁肽试验数据展示减重加代谢益处，股价上涨"
+      },
+      "impact": {
+        "en": "Next-gen weight-loss drug demonstrated multi-benefit profile beyond GLP-1 alone. Biotech optimism lifts LLY over 4% premarket.",
+        "zh": "下一代减肥药显示超出单纯GLP-1的多重益处。生物科技乐观情绪推动礼来盘前上涨逾$4%。"
+      },
+      "bullish": ["LLY"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - company-specific catalyst.",
+        "zh": "否——公司特定催化剂。"
+      }
+    },
+    {
+      "title": {
+        "en": "Dollar Eases as EUR/USD Rises on Weak Eurozone Data, Middle East Risk Supports Oil and USD Divergence",
+        "zh": "美元走弱因欧元对上涨于疲软欧元区数据，中东风险支持油价与美元指数分化"
+      },
+      "impact": {
+        "en": "German factory orders fell 3.8% in April worse than expected; ECB rate decision Thursday watches closely. Oil at $95+ and resilient US economy complicate USD direction.",
+        "zh": "德国工厂订单$4月暴跌 3.8%，差于预期；周四密切关注ECB利率决策。油价>$95且美国经济强劲使美元方向复杂化。"
+      },
+      "bullish": ["XLE"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "PARTIAL - weak USD on rate hike fears vs oil supply risk creating complex FX dynamic.",
+        "zh": "部分——加息担忧下美元走弱与油价供应风险创造复杂外汇动态。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Chip stocks rebounding after Friday's $1T selloff. NVIDIA, Broadcom, Micron led recovery but valuation concerns persist after rate-hike repricing.",
+      "zh": "芯片股在周五遭遇$1万亿抛售后反弹。英伟达、博通和美满电子引领复苏，但加息重定价后的估值担忧仍然存在。"
+    },
+    "semiconductor": {
+      "en": "Nasdaq futures gain 1.49% on semiconductor rally. Philadelphia Semiconductor Index down from weekly peak but stabilizing as AI narrative tests new support.",
+      "zh": "纳指期货在半导体反弹下上涨$1.49%，费城芯片指数从周高点回落但企稳，AI叙事测试新支撑。"
+    },
+    "bigTech": {
+      "en": "Mixed sentiment with tech rebounding while AI valuation concerns remain; passive fund inflows into newly S&P 500 stocks like Marvell expected June 22.",
+      "zh": "科技板块情绪分化，在反弹而AI估值担忧仍然存在；被动资金流入新纳入标普500的股票如美满电子预期$6月22日。"
+    },
+    "energy": {
+      "en": "Bullish on oil prices above $95 with Iran escalation risk; OPEC+ quota hikes ineffective without ceasefire. Energy stocks benefit while consumers face inflation pressure.",
+      "zh": "油价>$95，伊朗升级风险利好；OPEC+配额增加若无停火无效。能源股受益而消费者面临通胀压力。"
+    },
+    "ev": {
+      "en": "Uncertain amid oil price volatility and high interest rates; EV demand softens if gasoline prices stay elevated due to Middle East supply risk.",
+      "zh": "在油价波动和高利率背景下不确定性；若因中东供应风险汽油价格维持高位，电动车需求可能疲软。"
+    },
+    "market": {
+      "en": "Mixed futures signal: S&P +0.83%, Nasdaq -0.42% after Friday's sell-off recovery, Dow -0.18%. Market caught between AI rebound and inflation/stickier rates.",
+      "zh": "混合期货信号：标普+0.83%，纳指周五抛售反弹后-0.42%，道指$-0.18%。市场夹在AI反弹和通胀/粘性利率之间。"
+    },
+    "preciousMetals": {
+      "en": "Gold fell below $4,300 to ~$4,324 on strong NFP and rising yields; geopolitical risk could provide support but inflation disinflation narrative limits upside.",
+      "zh": "黄金在强劲非农和收益率上升下跌破$4,300至约$4,324；地缘政治风险可能提供支撑但通胀降温叙事限制上涨空间。"
+    },
+    "oil": {
+      "en": "WTI $95.47, Brent $98.08 as Iran threats materialize. EIA drawdown of 8M barrels shows physical tightness; OPEC+ unable to offset without Hormuz closure.",
+      "zh": "伊朗威胁兑现使 WTI$95.47、布油$98.08。EIA库存减少$800万桶显示物理紧张；OPEC+无法抵消除非霍尔木兹关闭。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P futures +0.83%, Nasdaq -0.42% recovering from Friday's decline, Dow -0.18%. Mixed as chip stocks rebound while energy volatility creates uncertainty.",
+      "zh": "标普期货$+0.83%，纳指-0.42%从周五下跌中恢复，道指$-0.18%。混合因芯片股反弹而能源波动创造不确定性。"
+    },
+    "treasury10Y": {
+      "en": "Trading near session highs 4.53%-4.57%, up from Friday's decline after NFP shock; CPI Wednesday critical test for rate expectations.",
+      "zh": "交易接近$4.53-4.58日内高点，非农后从周五下跌中反弹；周三CPI为利率预期关键测试。"
+    },
+    "dxy": {
+      "en": "Easing after strong week, EUR/USD rising on weak German data; Middle East risk complicates USD direction between rate-hike fears and oil supply premium.",
+      "zh": "强劲周后美元走弱，欧元对因疲软德国数据上涨；中东风险使利率担忧与油价溢价间美元方向复杂化。"
+    },
+    "oil": {
+      "en": "WTI $95.47, Brent near $98.08; oil is primary focus with Iran escalation premium and EIA drawdown confirming physical tightness.",
+      "zh": "WTI$95.47，布油接近$98.08；油价为主要关注点因伊朗升级溢价和EIA库存减少确认物理紧张。"
+    },
+    "keyRisk": {
+      "en": "Wednesday's CPI (consensus 4.2%) will determine if rate-hike narrative re-emerges; Middle East escalation could force higher-for-longer even with strong disinflation signal.",
+      "zh": "周三CPI（预期$4.2%）将决定加息叙事是否重燃；中东升级可能在强劲降温信号下迫使更高利率长期。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Market caught between tech rebound and inflation risk from Middle East. AI trade shows resilience but energy/geopolitics keep mixed sentiment; CPI week requires careful monitoring of rate expectations.",
+      "zh": "市场夹在科技反弹和中东通胀风险之间。AI交易显示韧性但能源/地缘政治维持混合情绪；CPI 周需谨慎监控利率预期。"
+    }
+  }
+}
