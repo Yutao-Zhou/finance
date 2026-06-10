@@ -1,0 +1,189 @@
+{
+  "date": "2026-06-10",
+  "summary": {
+    "en": "US stock futures decline as markets digest elevated May CPI data while Middle East tensions between US and Iran escalate, sending oil prices higher despite peace deal signals. Tech sector under pressure amid inflation concerns that reignite Fed rate repriceing expectations; gold trades mixed as real yields fluctuate and geopolitical risk premium weighs on safe haven appeal.",
+    "zh": "美国股指期货下跌，市场消化高企的 5 月 CPI 数据同时美中-伊朗紧张局势升级推升油价。科技板块在通胀担忧中承压引发美联储重定价预期；黄金交易分化实际收益率波动和地缘政治风险溢价削弱避风港吸引力。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "CPI Day Reckoning: May Inflation Data Exceeds Expectations as Markets Sell Off Ahead of Fed Policy Discussion",
+        "zh": "通胀数据日考验：5 月通胀数据超预期市场在美联储政策会议前抛售"
+      },
+      "impact": {
+        "en": "Elevated CPI reading reinforces hawkish Fed repriceing narrative, pushing Treasury yields higher and pressuring rate-sensitive growth stocks while creating inflation/employment regime support for dollar.",
+        "zh": "高通胀读数支持鹰派美联储重定价叙事推升美债收益率并压制利率敏感成长股同时支撑美元在通胀就业制度下。"
+      },
+      "bullish": ["financials", "oil E&P"],
+      "bearish": ["tech growth", "high duration bonds", "consumer discretionary"],
+      "macroRisk": {
+        "en": "High - Inflation surprises drive yield curve repricing and threaten near-term recession fears via persistent price pressures.",
+        "zh": "高——通胀意外驱动收益率曲线重定价并通过持续价格压力威胁近期衰退担忧。"
+      }
+    },
+    {
+      "title": {
+        "en": "Middle East Escalation: US-Iran Missile Exchange Triggers Oil Price Volatility Despite Trump Peace Deal Signals",
+        "zh": "中东局势升级：以伊导弹互袭尽管特朗普和平协议信号引发油价波动"
+      },
+      "impact": {
+        "en": "Geopolitical risk premium in energy markets pushes WTI toward $85-92 range while Houthi Red Sea threats add supply uncertainty; peace deal hopes provide temporary relief but underlying tensions remain structural.",
+        "zh": "能源市场地缘风险溢价将 WTI 推至$85-92范围而胡塞红海威胁增加供应不确定性；和平协议希望提供暂时缓解但基本紧张保持结构性。"
+      },
+      "bullish": ["oil E&P", "logistics defense contractors"],
+      "bearish": ["consumer staples", "airlines with fuel exposure"],
+      "macroRisk": {
+        "en": "High - Escalating oil prices feed inflation concerns that challenge Fed rate cut hopes and pressure CPI-sensitive portfolios.",
+        "zh": "高——升级油价加剧通胀担忧挑战美联储降息希望并压制通胀敏感投资组合。"
+      }
+    },
+    {
+      "title": {
+        "en": "Tech Sector Under Pressure as Inflation Concerns Resurface amid Mixed Earnings and Geopolitical Headwinds",
+        "zh": "科技板块在压力中因通胀担忧回归混合业绩和地缘政治逆风"
+      },
+      "impact": {
+        "en": "AI chip makers, semiconductor names extend premarket weakness as rate-sensitive growth valuations face headwind from higher-for-longer yields; breadth concerns persist despite individual stock quality.",
+        "zh": "AI 芯片股、半导体名称延续盘前疲软因利率敏感成长估值面临更高收益率的逆风；广度担忧持续尽管个股质量。"
+      },
+      "bullish": [],
+      "bearish": ["semiconductors", "tech hardware", "software growth"],
+      "macroRisk": {
+        "en": "Medium - Growth stocks face valuation compression from real yield environment while geopolitical uncertainty creates sector rotation volatility.",
+        "zh": "中等——成长股在真实收益率环境中面临估值压缩而地缘政治不确定性造成板块轮动波动。"
+      }
+    },
+    {
+      "title": {
+        "en": "Gold Trades Mixed Below $4,300 as Inflation Risk and Real Yield Fluctuations Deter Safe Haven Demand",
+        "zh": "黄金在$4,300 以下交易分化通胀风险和实际收益率波动抑制避风港需求"
+      },
+      "impact": {
+        "en": "Gold struggles to maintain support as strong CPI data from May pushes real yields up while Middle East tensions provide only partial safe haven appeal amid inflation/risk premium dynamics.",
+        "zh": "黄金难以维持支撑因 5 月强通胀数据推升实际收益率同时中东紧张仅提供部分避风港吸引力在通胀风险溢价动态中。"
+      },
+      "bullish": [],
+      "bearish": ["gold miners", "broad precious metals"],
+      "macroRisk": {
+        "en": "Mixed - Inflation risk supports safe haven but real yield pressure weakens gold; outcome depends on CPI evolution vs escalation resolution.",
+        "zh": "混合——通胀风险支持避风港但实际收益率压力削弱黄金；结果取决于 CPI 演变对升级解决。"
+      }
+    },
+    {
+      "title": {
+        "en": "US Dollar Strengthens Amid Hawkish Fed Expectations While EM Assets Face Cross-Currents from Rate Support and Geopolitics",
+        "zh": "美元在鹰派美联储预期中走强同时新兴市场资产面临利率支持和地缘政治的冲突"
+      },
+      "impact": {
+        "en": "Strong jobs-inflation data supports dollar against emerging market currencies while DXY benefits from rate regime but faces headwinds from geopolitical risk to EM economies.",
+        "zh": "强劲就业通胀数据支撑美元对新兴市场货币同时美元指数从利率制度受益但面临地缘政治风险到新兴市场经济体的阻力。"
+      },
+      "bullish": ["US banking", "multinational exporters"],
+      "bearish": ["emerging markets debt holders"],
+      "macroRisk": {
+        "en": "Medium - Strong dollar from rate support risks EM assets while geopolitical tensions create FX portfolio volatility.",
+        "zh": "中等——从利率支持的强美元危及新兴市场资产同时地缘政治紧张造成外汇投资组合波动。"
+      }
+    },
+    {
+      "title": {
+        "en": "Fed Rate Repriceing Expectations Rise as Strong Inflation Data Challenges Near-Term Cut Narratives",
+        "zh": "美联储重定价预期上升因强通胀数据挑战近期降息叙事"
+      },
+      "impact": {
+        "en": "Elevated CPI pushes market pricing for first rate cut later than expected with Treasury 2s10s spread tightening as real yields climb; growth stocks face valuation headwinds while banks benefit from duration compression.",
+        "zh": "高通胀推升首次降息定价晚于预期美债 2s10s 利差因实际收益率上升而收紧；成长股面临估值阻力同时银行从久期压缩受益。"
+      },
+      "bullish": ["financial banks", "small-cap value"],
+      "bearish": ["tech growth", "high duration bonds"],
+      "macroRisk": {
+        "en": "High - Delayed rate cut path threatens recession fears and creates divergence between near-term cuts vs inflation persistence.",
+        "zh": "高——延迟降息路径威胁衰退担忧并造成近期降息对通胀持续的偏差。"
+      }
+    },
+    {
+      "title": {
+        "en": "Market Futures Diverge as Tech Leads Decline While Energy Provides Asymmetric Upside from Oil Risk Premium",
+        "zh": "市场期货分化科技引领下跌而能源从油价风险溢价提供不对称上行"
+      },
+      "impact": {
+        "en": "S&P and Nasdaq futures slip on tech weakness despite individual quality while Dow underperforms; energy sector rallies on Middle East risk premium creating style rotation from growth to value.",
+        "zh": "标普和纳斯达克期货在科技疲软下滑尽管个别质量同时道琼斯表现不佳；能源板块在中东风险溢价中上涨造成从成长到价值的风格轮动。"
+      },
+      "bullish": ["energy", "value stocks"],
+      "bearish": ["growth tech", "large-cap growth"],
+      "macroRisk": {
+        "en": "Mixed - Growth/Value divergence from rate environment and sector rotation dynamics while geopolitical events create style volatility.",
+        "zh": "混合——成长价值分歧从利率环境和板块轮动动态同时地缘政治事件造成风格波动。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI chip makers face pressure as rate-sensitive growth valuations compress from higher-for-longer yields; sector breadth concerns persist despite individual earnings clarity.",
+      "zh": "AI 芯片股面临压力因利率敏感成长估值从高长期收益率压缩；板块广度担忧持续尽管个别业绩清晰。"
+    },
+    "semiconductor": {
+      "en": "Semiconductors extend premarket weakness with NVDA, QCOM trading below resistance as inflation concerns and tech sector rotation drive mixed performance amid rate environment.",
+      "zh": "半导体延续盘前疲软NVDA、QCOM 交易低于阻力因通胀担忧和科技板块轮动驱动混合业绩在利率环境中。"
+    },
+    "bigTech": {
+      "en": "Big Tech names face headwinds from higher-for-longer rates affecting consumer discretionary spending; MSFT, GOOGL trade mixed as growth valuation concerns offset AI revenue strength.",
+      "zh": "大科技名称面临更高长期利率的阻力影响消费者可选消费；MSFT、GOOGL 交易混合成长估值担忧抵消 AI 收入强度。"
+    },
+    "energy": {
+      "en": "Energy sector rallies on Middle East geopolitical risk premium with oil E&P names outperforming despite brief dips at peace deal signals; downstream retailers lag from supply uncertainty.",
+      "zh": "能源板块在中东地缘政治风险溢价中上涨油价勘探开发名称表现优于和平协议信号时短暂下跌；下游零售商从供应不确定性落后。"
+    },
+    "ev": {
+      "en": "EV sector faces dual pressures: higher rates compress valuations and geopolitical supply chain concerns from Middle East tensions affecting battery material flows; name weakness persists.",
+      "zh": "电动车面临双重压力：高利率压缩估值和地缘政治供应链担忧从中东紧张影响电池材料流动；名称疲软持续。"
+    },
+    "market": {
+      "en": "Mixed market performance with S&P/Nasdaq futures declining while Dow underperforms; tech sector weakness persists creating breadth concerns despite individual stock quality amid inflation/geopolitics.",
+      "zh": "混合市场表现标普/纳斯达克期货下跌而道琼斯不及预期；科技板块疲软持续创造广度担忧尽管个别股票质量在通胀地缘政治中。"
+    },
+    "preciousMetals": {
+      "en": "Gold and silver trade below $4,300 support with mixed sentiment as real yields fluctuate from CPI data while geopolitical risk provides only partial safe haven appeal amid inflation dynamics.",
+      "zh": "黄金和白银在$4,300 支撑以下交易混合情绪因实际收益率从 CPI 数据波动而地缘政治风险仅提供部分避风港吸引力在通胀动态中。"
+    },
+    "oil": {
+      "en": "WTI crude trades volatile at $85-92 range with Middle East strikes driving upside while peace deal signals cause temporary relief selling; Brent remains elevated from Houthi Red Sea threats.",
+      "zh": "WTI 原油在$85-92范围波动中东袭击推升而和平协议信号造成暂时缓解抛售；布伦特因胡塞红海威胁保持高位。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P futures decline ~0.4% near $7,395 as tech weakness dominates while Nasdaq slips; Dow underperforms creating mixed market signal despite individual stock strength in some sectors.",
+      "zh": "标普期货下跌~0.4%(近$7,395)因科技疲软主导而纳斯达克下滑；道琼斯不及预期创造混合市场信号尽管个别股票强度在一些板块中。"
+    },
+    "treasury10Y": {
+      "en": "Treasury 10Y yields climb to 4.2-4.3% as elevated CPI data pushes real yield expectations higher with Fed rate cut path delayed; inflation/employment regime supports duration pressure on bonds.",
+      "zh": "美债 10Y收益率升至 4.2-4.3%因高通胀数据推升实际收益率预期延迟美联储降息路径；通胀就业制度支持债券的久期压力。"
+    },
+    "dxy": {
+      "en": "Dollar strengthens with DXY trading near 106 as strong inflation and jobs data support Fed hawkish repriceing while geopolitical risk to EM creates cross-Currents in FX portfolios.",
+      "zh": "美元走强美元指数在 106附近交易因强通胀就业数据支持美联储鹰派重定价同时地缘政治风险到新兴市场在外汇投资组合中创造冲突。"
+    },
+    "oil": {
+      "en": "WTI crude volatile at $85-92 range from Middle East strikes; Brent remains elevated above historical averages due to supply disruption fears and Houthi Red Sea threats despite peace deal signals.",
+      "zh": "WTI 原油因中东袭击在$85-92范围波动；布伦特保持高于历史平均值因供应中断担忧和胡塞红海威胁尽管和平协议信号。"
+    },
+    "keyRisk": {
+      "en": "Elevated May CPI reignites inflation/recession fears while Middle East escalation drives oil price volatility; Fed rate repriceing path delayed creates divergence between growth stocks and bond markets amid geopolitical uncertainty.",
+      "zh": "高 5 月通胀重燃通胀衰退担忧同时中东升级驱动油价波动；美联储利率路径延迟在中东地缘政治不确定性中造成成长股和债券市场之间的分歧。"
+    }
+  },
+  "judgment": {
+    "type": "risk-off",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Mixed market with tech weakness and energy strength creates divergence; inflation data from CPI Day challenges Fed cut narratives while geopolitical oil risk provides asymmetric sector impact. Risk-off bias dominates as elevated yields pressure growth valuations despite individual quality in mega-cap tech.",
+      "zh": "混合市场科技疲软和能源强度创造分歧；CPI 日通胀数据挑战美联储降息叙事而地缘政治油价风险提供不对称板块影响。避险主导因高收益率压制成长估值尽管大科技公司个别质量。"
+    }
+  },
+  "_note_for_production": "Generated following formal production workflow with sources: web_search from yahoo.com, newsquawk.com, tradingview.com, substack.com. JSON structure matches existing data/*.json compatibility for finance repo."
+}
