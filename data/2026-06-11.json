@@ -1,0 +1,160 @@
+{
+  "date": "2026-06-11",
+  "summary": {
+    "en": "Markets face headwinds from mixed inflation data (CPI at 4.2%, highest since April 2023) and escalating Iran-US strikes driving oil prices up to $89.64 WTI/Brent, with AI chips under pressure amid sector selloff.",
+    "zh": "市场受混合通胀数据（CPI升至4.2%，为今年最高）和美伊冲突升级推动油价攀升的拖累，AI芯片股在板块抛压下承压。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Iran-US Escalation Drives Oil Surge and Market Volatility",
+        "zh": "美伊冲突升级推动油价飙升和市场波动"
+      },
+      "impact": {
+        "en": "US crude jumped 1.63% to $89.64/barrel after President Trump's social media post on Iran paying the price; Tehran reassessed diplomatic engagement following reciprocal strikes across Strait of Hormuz corridor.",
+        "zh": "特朗普总统社交媒体上关于伊朗需付代价的言论后，美国原油跳涨1.63%至$89.64/桶。"
+      },
+      "bullish": ["XLE", "CVX"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Yes - energy inflation transmission through CPI; oil price spike threatens Fed hiking stance.",
+        "zh": "是——能源通胀通过CPI传导；油价飙升威胁美联储加息立场。"
+      }
+    },
+    {
+      "title": {
+        "en": "Hot CPI Data Raises Fed Rate Hike Probability to 43%",
+        "zh": "通胀数据过热使Fed利率上调概率升至43%"
+      },
+      "impact": {
+        "en": "BLS reported 4.2% annualized CPI rise through May, fastest pace since April 2023 driven by energy surge (+23.5%). Markets now price nearly 43% probability of quarter-point hike at June 17 meeting.",
+        "zh": "劳工部报告显示截至5月年化CPI升幅为4.2%，自今年9月以来最快。"
+      },
+      "bullish": [],
+      "bearish": ["XLK"],
+      "macroRisk": {
+        "en": "Yes - hot inflation forces Fed hawk stance despite rate-sensitive growth stocks.",
+        "zh": "是——通胀迫使美联储鹰派立场压制利率敏感型成长股。"
+      }
+    },
+    {
+      "title": {
+        "en": "Chip Selloff Deepens: NVIDIA Down 3%, Broadcom/AMD Sink",
+        "zh": "芯片抛压加剧：英伟达跌-3%，博通和超威承压"
+      },
+      "impact": {
+        "en": "Semiconductor stocks fell amid inflation worries and rate hike fears affecting growth valuations. AMD down ~5% on data center guidance concerns; Broadcom -4% as AI infrastructure investment timeline extends.",
+        "zh": "芯片股在通胀担忧和加息恐惧中下跌影响成长估值。AMD跌约-5%，博通因AI基础设施投资期限延长而跌-4%。"
+      },
+      "bullish": ["MSFT"],
+      "bearish": ["NVDA", "AMD", "AVGO"],
+      "macroRisk": {
+        "en": "Yes - rate-sensitive tech growth model; energy costs compress design/manufacturing margins.",
+        "zh": "是——利率敏感的科技成长模型；能源成本压缩设计/制造利润率。"
+      }
+    },
+    {
+      "title": {
+        "en": "Gold Tests $4,130 Support as Iran Conflict Inflation Risk Peaks",
+        "zh": "金价测试$4,130支撑位时美伊冲突通胀风险达峰值"
+      },
+      "impact": {
+        "en": "Precious metals fell 2.26% after CPI release with gold sliding to $4,130/oz on inflation-driven real yields. Safe haven demand from ongoing Middle East tension counterbalanced but not sufficient.",
+        "zh": "贵金属在CPI发布后跌-2.26%，金价滑落至$4,130/盎司。"
+      },
+      "bullish": ["GLD"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Mixed - inflation vs safe haven tug-of-war; dollar strength pressures USD-denominated metals.",
+        "zh": "混合——通胀与避风港之间的拉锯战；美元走强施压以美元计价金属。"
+      }
+    },
+    {
+      "title": {
+        "en": "US Futures Flat on Asia Retreat: S&P +0.03%, Nasdaq +0.04%",
+        "zh": "美国期货亚洲回撤平盘：标普+0.03%，纳斯达克+0.04%"
+      },
+      "impact": {
+        "en": "US indices opened choppy as European Stoxx recovered 0.1% from earlier losses after Asian markets fell -2.3%. Tech-heavy Nasdaq modestly supported but broader market cautious given inflation data.",
+        "zh": "美国指数在亚洲市场跌-2.3%后欧洲Stoxx微涨+0.1%时呈现纠结开盘。"
+      },
+      "bullish": [],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Neutral - regional divergence with global growth concerns and energy transmission.",
+        "zh": "中性——区域分化继续时全球增长担忧和能源传导影响跨资产相关性。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector under pressure from inflation-driven rate concerns and energy cost headwinds. Semiconductor infrastructure led earlier gains now reversing -3% to -4%. Cloud providers offer relative stability.",
+      "zh": "AI板块在通胀驱动的利率担忧和能源成本阻力下承压。半导体基础设施此前领涨现反转-3%至-4%。"
+    },
+    "semiconductor": {
+      "en": "Chip makers face dual headwinds: inflation/rate sensitivity (AMD -5%, NVDA -3%) and energy cost impacts on margins. Automotive memory chip prices surge.",
+      "zh": "芯片制造商面临双重阻力：通胀/利率敏感性（AMD跌-5%，英伟达跌-3%）和能源成本对利润率的影响。"
+    },
+    "bigTech": {
+      "en": "Big Tech shows defensive tilt as AI capex uncertainty grows. Cloud revenue remains strong but rate sensitivity dominates valuation dynamics.",
+      "zh": "大科技呈现防御性倾斜时AI资本支出不确定性增长。云收入保持强劲但利率敏感性主导估值动态。"
+    },
+    "energy": {
+      "en": "Energy sector benefits from geopolitical risk premium with WTI $89.64 and Brent $92.65 per barrel after Iran conflict escalation.",
+      "zh": "能源板块从地缘政治风险溢价中受益，WTI为$89.64和布伦特为$92.65/桶。"
+    },
+    "ev": {
+      "en": "EV sector weakens amid tariff effects and inflation-driven consumer price pressure. China NEV retail sales fall -14% as 25% auto tariffs take effect.",
+      "zh": "电动车在关税效应和通胀驱动的消费者价格压力下疲软。中国新能源车零售销售随6月生效的25%汽车关税而跌-14%。"
+    },
+    "market": {
+      "en": "Broad market exhibits mixed sentiment with Nasdaq +0.04%, S&P +0.03%. Risk-on/risk-off balance depends on inflation data vs geopolitical flash points.",
+      "zh": "市场呈现混合情绪纳斯达克+0.04%，标普+0.03%。风险偏好平衡取决于通胀数据与地缘政治热点之间的权衡。"
+    },
+    "preciousMetals": {
+      "en": "Precious metals test inflation vs safe haven dynamics after CPI with gold at $4,130/oz (lowest since Nov 2025). Middle East conflict provides structural support.",
+      "zh": "贵金属在CPI发布后测试通胀与避风港动态时金价为$4,130/盎司（自今年9月以来最低）。中东冲突提供结构性支撑。"
+    },
+    "oil": {
+      "en": "Crude prices surge post-escalation with WTI $89.64 (+1.63%) and Brent $92.65 as Strait of Hormuz closure risk priced in again.",
+      "zh": "原油价格随升级后飙升时WTI为$89.64(+1.63%)和布伦特为$92.65。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P futures flat (+0.03%), Nasdaq +0.04%, Dow -187 pts (-0.37%). MSCI global equities index down slightly at $-0.35%.",
+      "zh": "标普期货平盘(+0.03%)，纳斯达克+0.04%，道指跌187点(-0.37%)。MSCI全球股票指数微幅下跌$-0.35%。"
+    },
+    "treasury10Y": {
+      "en": "US 10-year yield down slightly at 4.52% (-0.7 bps) after CPI print despite inflation concerns.",
+      "zh": "美十年收益率微幅下跌至4.52%(-0.7个基点)尽管通胀担忧。"
+    },
+    "dxy": {
+      "en": "Dollar index fell 0.18% to 99.83 as yen strengthened from BOJ rate hike expectations and euro steadied near $1.16.",
+      "zh": "美元指数跌-0.18%至99.83时日元随日本央行加息预期走强。"
+    },
+    "oil": {
+      "en": "WTI crude at $89.64 (+1.63%) and Brent $92.65 after fresh strikes with Hormuz closure risk premium.",
+      "zh": "美国原油在$89.64(+1.63%)和布伦特为$92.65后霍尔木兹海峡关闭风险溢价计入。"
+    },
+    "keyRisk": {
+      "en": "Treasury Yields (rate-sensitive growth stocks) and geopolitical escalation at Strait of Hormuz affecting oil transmission to inflation.",
+      "zh": "美债收益率（利率敏感型成长股）和霍尔木兹海峡地缘政治升级影响石油传导至通胀。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Market exhibits defensive rotation with AI/tech under pressure from rate sensitivity and energy cost headwinds while oil/beneficiary sectors gain.",
+      "zh": "市场呈现防御性轮动当AI科技受利率敏感性和能源成本阻力压力时石油受益板块上涨。"
+    }
+  },
+  "disclaimer": {
+    "en": "YUCLAW signals are research classifications, NOT investment recommendations. All briefs carry appropriate disclaimers before distribution.",
+    "zh": "YUCLAW信号是研究分类，非投资建议。所有简报在分发前均载有适当免责声明。"
+  }
+}
