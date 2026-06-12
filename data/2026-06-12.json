@@ -1,0 +1,141 @@
+{
+  "date": "2026-06-12",
+  "summary": {
+    "en": "U.S. futures rise as investors digest President Trump's peace deal signal with Iran and await SpaceX IPO debut; oil prices fall while gold surges on geopolitical risk-off, creating mixed sentiment ahead of open.",
+    "zh": "美国期指上扬的背景下，投资者关注特朗普总统关于与伊朗签署和平协议的信号以及等待 SpaceX 的首次公开募股（IPO）表现；油价下跌而黄金在避险情绪推动下上涨，盘前呈现多空交织格局。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "U.S.-Iran Peace Deal Nears: Trump Signals 'Soon' on Agreement",
+        "zh": "美伊和平协议临近：特朗普表示\"即将签署\""
+      },
+      "impact": "Potential de-escalation in Middle East reduces oil supply disruption fears and geopolitical risk premium; positive for equities, negative energy complex.",
+      "bullish": ["SPY", "QQQ", "XLK"],
+      "bearish": ["USO", "XLE"],
+      "macroRisk": {
+        "en": "Oil prices fall → lower inflation expectations → 10Y yields stabilize; reduces tail risk for rate-sensitive growth stocks.",
+        "zh": "油价下跌→通胀预期降温→10Y美债收益率企稳；降低对利率敏感的成长股尾部风险。"
+      }
+    },
+    {
+      "title": {
+        "en": "SpaceX IPO Valuation Surpasses $2 Trillion Milestone",
+        "zh": "SpaceX 估值超越 2 万亿美元里程碑"
+      },
+      "impact": "Historic valuation milestone highlights tech innovation leadership; could catalyze broader EV/automation rally.",
+      "bullish": ["TSLA", "RIVN", "F"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Gold Surges 3% as Risk-Off Flows Accelerate",
+        "zh": "黄金上涨 3%，避险资金加速涌入"
+      },
+      "impact": "Geopolitical risk premium compression eases immediate tension; flight to safety supports precious metals while pressuring energy.",
+      "bullish": ["GLD", "IAU"],
+      "bearish": ["USO", "XLE"],
+      "macroRisk": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "title": {
+        "en": "NVIDIA Post-Earnings Pressure: $91B Market Cap Slide",
+        "zh": "英伟达财报后承压：市值蒸发 910 亿美元"
+      },
+      "impact": "Despite record Q1 fiscal revenue of $81.6B, stock faces profit-taking; AI chip demand remains strong but short-term volatility elevated.",
+      "bullish": ["AMD", "AVGO"],
+      "bearish": ["NVDA", "SMCI"],
+      "macroRisk": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury Yields Edge Higher on Fed Rate Timing Uncertainty",
+        "zh": "美债收益率小幅攀升，美联储降息时点存疑"
+      },
+      "impact": "Yield curve dynamics reflect mixed macro signals; watch for yield breakouts that could trigger rotation out of duration.",
+      "bullish": ["TLT"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "",
+        "zh": ""
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector showing mixed signals post-NVDA volatility; chip demand remains robust per TrendForce, but short-term profit-taking on leader weakness.",
+      "zh": "英伟达波动后 AI 板块呈现多空交织信号；芯片需求仍强劲（根据 TrendForce），但龙头走弱引发短期获利了结。"
+    },
+    "semiconductor": {
+      "en": "TSMC and major foundries report strong Q1 revenue growth driven by AI demand; AVGO benefits from diversified portfolio as NVDA corrects.",
+      "zh": "台积电及主要代工厂凭借强劲需求报告一季度收入增长；AVGO 受益于多元化组合，NVDA 回调时显现韧性。"
+    },
+    "bigTech": {
+      "en": "Mixed sentiment: MSFT/GOOGL hold steady, META faces AI ad-revenue scrutiny; NVDA correction creates rotation opportunities into peers.",
+      "zh": "多空交织：MSFT/GOOGL 维持稳定，META 面临 AI 广告收入审查；NVDA 回调为轮动至同业的良机。"
+    },
+    "energy": {
+      "en": "Oil price decline on de-escalation hopes weighs on XLE; production cuts and OPEC+ dynamics may provide support if geopolitical risk premium compresses further.",
+      "zh": "油价下跌拖累能源板块；减产和欧佩克+动态可能在地缘风险溢价进一步压缩时提供支持。"
+    },
+    "ev": {
+      "en": "Tesla gains alongside SpaceX milestone; broader auto sector benefits from robotics/automation narrative despite macro headwinds.",
+      "zh": "特斯拉随 SpaceX 里程碑上涨；更广泛的汽车板块受益于机器人/自动化叙事，尽管存在宏观经济逆风。"
+    },
+    "market": {
+      "en": "S&P/Nasdaq futures rise on geopolitical de-escalation hopes; breadth mixed as energy weakness offsets AI strength.",
+      "zh": "期指随地缘缓和希望而上扬；广度分化，能源疲软抵消了科技股强势。"
+    },
+    "preciousMetals": {
+      "en": "Gold +3% on Middle East tension easing and flight-to-safety flows; silver follows suit as industrial demand remains subdued.",
+      "zh": "黄金上涨 3%，源于中东紧张局势缓和及避险资金流入；白银跟随，工业需求仍疲软。"
+    },
+    "oil": {
+      "en": "WTI/Brent decline reflects de-escalation hopes; watch for OPEC+ statements and Middle East supply disruptions.",
+      "zh": "油价下跌反映缓和希望；关注欧佩克+声明及中东供应中断风险。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P/E-mini futures +0.2%, Nasdaq gains; broad market lifted by geopolitical easing.",
+      "zh": "标普/小型盘期指上涨，纳斯达克走高；市场在地缘缓和提振下上行。"
+    },
+    "treasury10Y": {
+      "en": "Watch for yields responding to peace deal signals and Fed speaker commentary today.",
+      "zh": "关注收益率对和平协议信号及美联储发言人评论的响应。"
+    },
+    "dxy": {
+      "en": "",
+      "zh": ""
+    },
+    "oil": {
+      "en": "WTI trading lower on geopolitical de-escalation.",
+      "zh": "WTI 油价随地缘缓和下跌交易。"
+    },
+    "keyRisk": {
+      "en": "Fed speakers monitoring policy stance; ensure inflation control remains anchored despite oil downside.",
+      "zh": "美联储发言人监控政策立场；确保通胀控制锚定在油价下行之际依然稳固。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Mixed sentiment with risk-off in energy/precious metals offsetting equity gains from geopolitical easing; AI chips show underlying strength despite short-term volatility.",
+      "zh": "多空交织：能源和贵金属的避险情绪抵消了地缘缓和带来的权益收益；AI 芯片尽管短期波动仍展现底层韧性。"
+    }
+  }
+}
