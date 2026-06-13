@@ -27,8 +27,8 @@
       "bullish": ["TSLA", "RIVN", "F"],
       "bearish": [],
       "macroRisk": {
-        "en": "",
-        "zh": ""
+        "en": "$2 trillion market cap milestone underscores autonomous mobility and aerospace innovation confidence.",
+        "zh": "$2 万亿美元市值里程碑突显自动驾驶和航空航天创新信心。"
       }
     },
     {
@@ -40,8 +40,8 @@
       "bullish": ["GLD", "IAU"],
       "bearish": ["USO", "XLE"],
       "macroRisk": {
-        "en": "",
-        "zh": ""
+        "en": "Higher real yields + inflation expectations moderate gold price; Fed hawkishness on energy transition keeps pressure but safe-haven demand remains structural.",
+        "zh": "实际收益率上升叠加通胀预期削弱金价；美联储对能源转型的鹰派言论压制黄金，但避险需求仍是结构性因素。"
       }
     },
     {
@@ -53,8 +53,8 @@
       "bullish": ["AMD", "AVGO"],
       "bearish": ["NVDA", "SMCI"],
       "macroRisk": {
-        "en": "",
-        "zh": ""
+        "en": "$91B market cap slide reflects short-term profit-taking on record earnings; valuation compression amid AI sector rotation and potential regulatory scrutiny.",
+        "zh": "市值蒸发 9,100亿美元反映记录性收益后的短期获利了结；AI板块轮动及龙头可能面临监管审查压制估值。"
       }
     },
     {
@@ -66,8 +66,8 @@
       "bullish": ["TLT"],
       "bearish": [],
       "macroRisk": {
-        "en": "",
-        "zh": ""
+        "en": "Yield curve dynamics reflect mixed macro signals; Fed timing uncertainty creates volatility in duration assets and bond portfolio allocations.",
+        "zh": "收益率曲线反映混杂的宏观信号；美联储时点不确定性导致久期资产波动，影响债券配置。"
       }
     }
   ],
@@ -82,15 +82,15 @@
     },
     "bigTech": {
       "en": "Mixed sentiment: MSFT/GOOGL hold steady, META faces AI ad-revenue scrutiny; NVDA correction creates rotation opportunities into peers.",
-      "zh": "多空交织：MSFT/GOOGL 维持稳定，META 面临 AI 广告收入审查；NVDA 回调为轮动至同业的良机。"
+      "zh": "多空交织：MSFT/GOOGL 维持稳定，META 面临 AI 广告收入审查；NVDA回调为轮动至同业的良机。"
     },
     "energy": {
       "en": "Oil price decline on de-escalation hopes weighs on XLE; production cuts and OPEC+ dynamics may provide support if geopolitical risk premium compresses further.",
-      "zh": "油价下跌拖累能源板块；减产和欧佩克+动态可能在地缘风险溢价进一步压缩时提供支持。"
+      "zh": "油价下跌拖累能源板块；减产和欧佩克 + 动态可能在地缘风险溢价进一步压缩时提供支持。"
     },
     "ev": {
       "en": "Tesla gains alongside SpaceX milestone; broader auto sector benefits from robotics/automation narrative despite macro headwinds.",
-      "zh": "特斯拉随 SpaceX 里程碑上涨；更广泛的汽车板块受益于机器人/自动化叙事，尽管存在宏观经济逆风。"
+      "zh": "特斯拉随 SpaceX里程碑上涨；更广泛的汽车板块受益于机器人/自动化叙事，尽管存在宏观经济逆风。"
     },
     "market": {
       "en": "S&P/Nasdaq futures rise on geopolitical de-escalation hopes; breadth mixed as energy weakness offsets AI strength.",
@@ -102,7 +102,7 @@
     },
     "oil": {
       "en": "WTI/Brent decline reflects de-escalation hopes; watch for OPEC+ statements and Middle East supply disruptions.",
-      "zh": "油价下跌反映缓和希望；关注欧佩克+声明及中东供应中断风险。"
+      "zh": "油价下跌反映缓和希望；关注欧佩克 + 声明及中东供应中断风险。"
     }
   },
   "premarketFocus": {
@@ -113,10 +113,6 @@
     "treasury10Y": {
       "en": "Watch for yields responding to peace deal signals and Fed speaker commentary today.",
       "zh": "关注收益率对和平协议信号及美联储发言人评论的响应。"
-    },
-    "dxy": {
-      "en": "",
-      "zh": ""
     },
     "oil": {
       "en": "WTI trading lower on geopolitical de-escalation.",
