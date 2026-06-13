@@ -10,7 +10,10 @@
         "en": "U.S.-Iran Peace Deal Nears: Trump Signals 'Soon' on Agreement",
         "zh": "美伊和平协议临近：特朗普表示\"即将签署\""
       },
-      "impact": "Potential de-escalation in Middle East reduces oil supply disruption fears and geopolitical risk premium; positive for equities, negative energy complex.",
+      "impact": {
+        "en": "Potential de-escalation in Middle East reduces oil supply disruption fears and geopolitical risk premium; positive for equities, negative energy complex.",
+        "zh": "中东局势缓和降低了对供应中断和地缘政治风险溢价的担忧；利好股市，利空能源。"
+      },
       "bullish": ["SPY", "QQQ", "XLK"],
       "bearish": ["USO", "XLE"],
       "macroRisk": {
@@ -23,7 +26,10 @@
         "en": "SpaceX IPO Valuation Surpasses $2 Trillion Milestone",
         "zh": "SpaceX 估值超越 2 万亿美元里程碑"
       },
-      "impact": "Historic valuation milestone highlights tech innovation leadership; could catalyze broader EV/automation rally.",
+      "impact": {
+        "en": "Historic valuation milestone highlights tech innovation leadership; could catalyze broader EV/automation rally.",
+        "zh": "历史性估值里程碑突显科技创新领导地位，可能催化更广泛的电动汽车和自动化板块上涨。"
+      },
       "bullish": ["TSLA", "RIVN", "F"],
       "bearish": [],
       "macroRisk": {
@@ -36,7 +42,10 @@
         "en": "Gold Surges 3% as Risk-Off Flows Accelerate",
         "zh": "黄金上涨 3%，避险资金加速涌入"
       },
-      "impact": "Geopolitical risk premium compression eases immediate tension; flight to safety supports precious metals while pressuring energy.",
+      "impact": {
+        "en": "Geopolitical risk premium compression eases immediate tension; flight to safety supports precious metals while pressuring energy.",
+        "zh": "地缘政治风险溢价压缩缓解了直接紧张局势；避险资金流入支持贵金属，同时压制能源板块。"
+      },
       "bullish": ["GLD", "IAU"],
       "bearish": ["USO", "XLE"],
       "macroRisk": {
@@ -47,9 +56,12 @@
     {
       "title": {
         "en": "NVIDIA Post-Earnings Pressure: $91B Market Cap Slide",
-        "zh": "英伟达财报后承压：市值蒸发 910 亿美元"
+        "zh": "英伟达财报后承压：市值蒸发 9,100 亿美元"
       },
-      "impact": "Despite record Q1 fiscal revenue of $81.6B, stock faces profit-taking; AI chip demand remains strong but short-term volatility elevated.",
+      "impact": {
+        "en": "Despite record Q1 fiscal revenue of $81.6B, stock faces profit-taking; AI chip demand remains strong but short-term volatility elevated.",
+        "zh": "尽管财全年第一季度营收创纪录的 816 亿美元，但股票面临获利了结；AI芯片需求强劲，但短期波动加剧。"
+      },
       "bullish": ["AMD", "AVGO"],
       "bearish": ["NVDA", "SMCI"],
       "macroRisk": {
@@ -62,7 +74,10 @@
         "en": "Treasury Yields Edge Higher on Fed Rate Timing Uncertainty",
         "zh": "美债收益率小幅攀升，美联储降息时点存疑"
       },
-      "impact": "Yield curve dynamics reflect mixed macro signals; watch for yield breakouts that could trigger rotation out of duration.",
+      "impact": {
+        "en": "Yield curve dynamics reflect mixed macro signals; watch for yield breakouts that could trigger rotation out of duration.",
+        "zh": "收益率曲线动态反映混杂的宏观信号；关注收益突破可能触发久期轮动的情况。"
+      },
       "bullish": ["TLT"],
       "bearish": [],
       "macroRisk": {
