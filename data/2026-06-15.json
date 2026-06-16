@@ -1,0 +1,172 @@
+{
+  "date": "2026-06-15",
+  "summary": {
+    "en": "U.S. futures surged on a preliminary U.S.-Iran agreement easing geopolitical oil worries ahead of the Fed's June 16-17 meeting; energy-sensitive stocks rallied while AI chip leaders posted solid gains with SpaceX IPO at $2T valuation extending premarket strength.",
+    "zh": "美股期货受初步美伊协议提振在地缘政治油价担忧缓解前大涨，临近美联储 6 月 16-17 日会议；能源敏感型股票反弹，AI 芯片龙头表现稳健，SpaceX IPO 以 2T 估值延续盘前强势。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Preliminary U.S.-Iran Deal Reduces Oil Risk Premium, Fuels Broad Rally",
+        "zh": "初步美伊协议降低油价风险溢价，推动普涨行情"
+      },
+      "impact": {
+        "en": "The tentative agreement to reopen Strait of Hormuz shipping reduces oil supply disruption fears. This translates to lower inflation expectations, falling Treasury yields, and risk-on asset allocation.",
+        "zh": "重开霍尔木兹海峡航运的暂定协议降低了石油供应中断担忧，转化为通胀预期下降、美债收益率下行和风险资产再配置。"
+      },
+      "bullish": ["energy-sensitive stocks", "travel & leisure", "semiconductor"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Yes - Geopolitical de-escalation reduces inflation risk premium in oil, easing Fed rate hike concerns. Still a framework deal with unresolved nuclear program/Lebanon-Israel issues.",
+        "zh": "是——地缘政治去升级降低油价通胀风险溢价，缓解美联储加息担忧。但仍属框架协议，核计划、黎以问题未决。"
+      }
+    },
+    {
+      "title": {
+        "en": "SpaceX IPO Debut: Shares Rise Over 7% on $2T Valuation",
+        "zh": "SpaceX IPO 首发：股价因 2T 估值上涨逾 7%"
+      },
+      "impact": {
+        "en": "Historic valuation for aerospace & defense tech leader. Benefits EV, robotics, semiconductor supply chain (RF chips, propulsion). Potential M&A interest in deep-tech sector.",
+        "zh": "航天与国防科技领导者历史级估值。利好电动车、机器人、半导体供应链（射频芯片、推进系统）。深科技公司潜在并购兴趣提升。"
+      },
+      "bullish": ["SPACX", "aerospace ETFs", "deep tech venture capital"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - Company-specific catalyst, but reflects broader AI/robotics optimism.",
+        "zh": "否——公司级催化剂，但反映广泛的 AI/机器人乐观情绪。"
+      }
+    },
+    {
+      "title": {
+        "en": "Fed Watch: June 16-17 Meeting Approaches with Retail Sales Data Today",
+        "zh": "美联储关注：零售销售数据今日发布，临近 16-17 日会议"
+      },
+      "impact": {
+        "en": "Advance retail sales at 8:30 a.m. ET Wednesday gauge consumer strength before Fed vote on rates + inflation press conference impacts yield curve and dollar positioning.",
+        "zh": "周三上午 8:30 EST 发布的先行零售销售在美联储利率投票前衡量消费者强度，通胀新闻发布会影响收益率曲线和美元配置。"
+      },
+      "bullish": ["consumer discretionary", "retail stocks"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Medium - Strong retail + lower oil/inflation could keep easing door open, but geopolitical fragility remains if deal collapses.",
+        "zh": "中等——强劲零售 + 较低油价/通胀可能保持降息门开启，但若协议崩溃地缘脆弱性仍存。"
+      }
+    },
+    {
+      "title": {
+        "en": "AI Chip Stocks Rebound as Lower Oil Prices Help Inflation Control",
+        "zh": "低油价助控通胀，AI 芯片股票反弹"
+      },
+      "impact": {
+        "en": "Cheap fuel reduces energy bill for data center ops and consumer electronics. Tech sector benefits from rate stability + AI spending momentum despite earnings caution.",
+        "zh": "廉价燃料降低数据中心运营和消费电子的能源账单。科技板块受益于利率稳定加 AI 支出势头，尽管业绩审慎。"
+      },
+      "bullish": ["NVDA", "AMD", "MU", "AVGO"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Low - Macro regime shift favors tech but watch for any risk reversal if geopolitical talks falter.",
+        "zh": "低——宏观制度转变利好科技，但若地缘谈判失败则警惕任何风险逆转。"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury Yields Slide as Inflation Concerns Ease on Energy Peace Deal",
+        "zh": "美债收益率下滑，能源和平协议缓解通胀担忧"
+      },
+      "impact": {
+        "en": "Lower oil → lower CPI core expectations → 10Y yields decline supports equity duration sensitivity. Tech stocks particularly benefit from stable rates ahead of FOMC.",
+        "zh": "低油价→降低核心 CPI 预期→10 年期收益率下行支持股权期限敏感性。科技股尤其受益于美联储前利率稳定。"
+      },
+      "bullish": ["growth tech", "utilities"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Yes - Yield decline could signal Fed pivot expectations, but caution warranted until inflation print confirms sustained disinflation.",
+        "zh": "是——收益率下行可能预示美联储转向预期，但通胀数据证实持续去通胀前需谨慎。"
+      }
+    },
+    {
+      "title": {
+        "en": "DXY Weakens on Risk-On and Lower Treasury Yields",
+        "zh": "美元在风险偏好和较低美债收益率下走弱"
+      },
+      "impact": {
+        "en": "Dollar pressure from risk-on + declining yields. EM assets, multinationals with non-USD revenue benefit; commodity exporters priced in weaker currency backdrop.",
+        "zh": "风险偏好加收益下行施压美元。新兴市场资产、非美收入跨国公司受益；商品出口商在弱势货币背景下计价。"
+      },
+      "bullish": ["EM equities", "multinational retailers"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - Direct dollar weakening mechanism, not systemic risk.",
+        "zh": "否——美元直接走弱机制，非系统性风险。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Strong rally with NVDA +2.3%, AMD +7.54% (semiconductor super-cycle continues), MU up to ~$190+ as memory pricing normalizes post-inventory correction.",
+      "zh": "大涨 NVDA 涨 2.3%，AMD 升至约 190（半导体超级周期持续），MU 在库存修正后内存定价正常化上弹。"
+    },
+    "semiconductor": {
+      "en": "Broad strength with MU (+7.93%), AVGO (+5.4% memory chip demand), INTC recovering +3.1%. Oligopoly pricing power intact as AI compute demand outpaces capacity.",
+      "zh": "广泛走强，MU 涨 7.93%，AVGO（内存芯片需求）+5.4%，INTC 复苏。AI 算力需求跑赢产能寡头定价权完整。"
+    },
+    "bigTech": {
+      "en": "AAPL +1.74%, MSFT +2% on cloud/AI hybrid revenue models, META gaining as ad platform monetizes efficiency gains from AI infrastructure buildout.",
+      "zh": "苹果涨 1.74%，微软因云+AI混合收入模型升至约 580，META（广告平台利用 AI 基建效率增益）获青睐。"
+    },
+    "energy": {
+      "en": "Mixed - OREX, XOM pressure from Brent -$3-5/barrel drop but pipeline/transportation stocks gain as logistics de-risking. Long-term transition plays (CCS/EV infrastructure) supported.",
+      "zh": "分化——埃克森美孚、雪佛龙受布伦特油价每桶跌 3-5 美元压力，但管道运输股受益于物流去风险化。长期转型标的（碳捕集/电动车基础设施）获支持。"
+    },
+    "ev": {
+      "en": "Rally continues with cheaper energy bills easing TCO concerns. RIVN +6%, LCID +5% as EV demand rebounds on falling gasoline prices reducing range anxiety premium.",
+      "zh": "行情延续，廉价能源账单降低总拥有成本担忧。Rivian 涨约 20%，Lucid（电动车需求反弹汽油价跌减少里程焦虑溢价）+18."
+    },
+    "market": {
+      "en": "Broad-based rally driven by S&P futures +1.24%, Nasdaq +2.12% with low-cap tech leading breadth after earnings season consolidation.",
+      "zh": "普涨大盘，S&P 期货+1.24%，纳指涨幅达 850 点（收益季后整合领先广度）科技股带动。"
+    },
+    "preciousMetals": {
+      "en": "Gold volatile - down from $2,673 peak Jan high as real rates stabilize and geopolitical risk premium compressed post-Iran deal. Silver slightly more resilient in industrial demand context.",
+      "zh": "黄金波动——自 1 月高位回落，实际利率稳定、伊朗协议后地缘风险溢价压缩。白银在工业需求下稍具弹性。"
+    },
+    "oil": {
+      "en": "WTI at $80.11 (-5.62%), Brent near $83 (-4.25%). Risk premium compresses as Strait of Hormuz reopening confirmed but not full peace dividend yet.",
+      "zh": "WTI 约 79，布伦特跌至 82。霍尔木兹海峡重开确认风险溢价压缩但未兑现完全和平红利。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P futures +1.24% (up to 7,527), Nasdaq +2.12% (+630pts) lead; Dow Jones +0.89% (DJI up 457). All green ahead of Fed meeting.",
+      "zh": "S&P 期货上涨 90，纳指+2.12%（涨约 630）领先；道指微升 0.89%。美联储会议前全绿光。"
+    },
+    "treasury10Y": {
+      "en": "~4.5-4.7 range as inflation eases, yields decline on lower oil/CPI expectations ahead of Fed rate decision.",
+      "zh": "约 238，收益率在低油价 CPI 预期下降中下滑。"
+    },
+    "dxy": {
+      "en": "Weakening ~104-105 range, risk-on pressure from U.S.-Iran deal + lower yields support EM asset bid.",
+      "zh": "疲软，地缘协议加收益下行支持新兴市场资产买盘。"
+    },
+    "oil": {
+      "en": "WTI -$80.1 (-5%), Brent $-$83.1 (-4%). Cheaper energy eases inflation/transmission to consumer goods pricing.",
+      "zh": "油价跌，低能源缓解通胀传导至消费品定价。"
+    },
+    "keyRisk": {
+      "en": "Deal framework fragility: unresolved nuclear program/Lebanon-Israel tensions could reverse sentiment if talks collapse; watch for risk reversal signs overnight.",
+      "zh": "框架协议脆弱：核计划未决黎以紧张若谈判崩溃可逆转情绪；警惕隔夜风险逆转信号。"
+    }
+  },
+  "judgment": {
+    "type": "risk-on",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Risk appetite elevated on geopolitical de-escalation (oil/air travel, inflation control), SpaceX IPO momentum. Fed pivot expectations rise as oil disinflation supports dovish leanings; caution for framework deal fragility.",
+      "zh": "地缘政治去升级（油价航空、控通胀）SpaceX IPO 动量提振风险偏好。低油价支持鸽派转向预期；谨慎对待框架协议脆弱性。"
+    }
+  }
+}
