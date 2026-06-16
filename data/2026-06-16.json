@@ -1,192 +1,192 @@
 {
   "date": "2026-06-16",
   "summary": {
-    "en": "US stocks edge higher in premarket with futures mixed as focus shifts to Fed Chair Kevin Warsh's first policy decision next Wednesday, while the U.S.-Iran peace deal continues weighing on oil prices. SpaceX extends its post-IPO rally above 9%, memory chip makers surge ahead of AI data center demand, and Tesla climbs alongside lower crude.\n\n中文：美股盘前小幅走高，三大指数期货方向不一，市场焦点转向美联储新主席 Kevin Warsh 周三的首次政策决定。美伊和平协议持续压制油价，SpaceX 股价连续三天大涨超 9%，存储芯片厂商受益于 AI 数据中心需求上涨，特斯拉随原油下跌而反弹。\n",
-    "zh": "US stocks edge higher in premarket with futures mixed as focus shifts to Fed Chair Kevin Warsh's first policy decision next Wednesday, while the U.S.-Iran peace deal continues weighing on oil prices. SpaceX extends its post-IPO rally above 9%, memory chip makers surge ahead of AI data center demand, and Tesla climbs alongside lower crude.\n\n中文：美股盘前小幅走高，三大指数期货方向不一，市场焦点转向美联储新主席 Kevin Warsh 周三的首次政策决定。美伊和平协议持续压制油价，SpaceX 股价连续三天大涨超 9%，存储芯片厂商受益于 AI 数据中心需求上涨，特斯拉随原油下跌而反弹。\n"
+    "en": "US stocks edge higher in premarket with futures mixed as focus shifts to Fed Chair Kevin Warsh's first policy decision next Wednesday, while the U.S.-Iran peace deal continues weighing on oil prices. SpaceX extends its post-IPO rally above 9%, memory chip makers surge ahead of AI data center demand, and Tesla climbs alongside lower crude.",
+    "zh": "美股盘前小幅走高，三大指数期货方向不一，市场焦点转向美联储新主席 Kevin Warsh 周三的首次政策决定。美伊和平协议持续压制油价，SpaceX 股价连续三天大涨超 9%，存储芯片厂商受益于 AI 数据中心需求上涨，特斯拉随原油下跌而反弹。"
   },
   "topNews": [
     {
       "title": {
-        "en": "U.S.-Iran Peace Deal Weighs on Oil Prices, Eases Inflation Fears\n",
-        "zh": "美伊和平协议压制油价，缓解通胀担忧\n"
+        "en": "U.S.-Iran Peace Deal Weighs on Oil Prices, Eases Inflation Fears",
+        "zh": "美伊和平协议压制油价，缓解通胀担忧"
       },
       "impact": {
-        "en": "Preliminary agreement to end Middle East conflict signed in Switzerland expected June 19. Strait of Hormuz reopening lowers oil prices ~5-8% and eases energy inflation expectations.\n",
-        "zh": "瑞士签定的结束中东冲突的初步协议将于 6 月 19 日生效。霍尔木兹海峡重开使油价下跌约 5-8%，缓解能源通胀预期。\n"
+        "en": "Preliminary agreement to end Middle East conflict signed in Switzerland expected June 19. Strait of Hormuz reopening lowers oil prices ~5-8% and eases energy inflation expectations.",
+        "zh": "瑞士签定的结束中东冲突的初步协议将于 6 月 19 日生效。霍尔木兹海峡重开使油价下跌约 5-8%，缓解能源通胀预期。"
       },
       "bullish": ["Energy producers hedging exposure", "Growth stocks sensitive to lower rates"],
       "bearish": [],
       "macroRisk": {
-        "en": "No - Deal reduces geopolitical risk premium but implementation uncertainty remains. Oil at 3-month lows (WTI $78.42, Brent $80.94) provides inflation relief.\n",
-        "zh": "否—协议降低地缘政治风险溢价，但实施不确定性依然存在。油价处于三个月低位（WTI$78.42、布伦特$80.94）提供通胀缓解。\n"
+        "en": "No - Deal reduces geopolitical risk premium but implementation uncertainty remains. Oil at 3-month lows (WTI $78.42, Brent $80.94) provides inflation relief.",
+        "zh": "否—协议降低地缘政治风险溢价，但实施不确定性依然存在。油价处于三个月低位（WTI$78.42、布伦特$80.94）提供通胀缓解。"
       }
     },
     {
       "title": {
-        "en": "SpaceX Rises 9.7% on Course to Overtake Amazon as Enterprise AI Acquisition Announced\n",
-        "zh": "SpaceX 股价上涨 9.7%，有望超越亚马逊，宣布收购企业级 AI 软件公司 Anysphere\n"
+        "en": "SpaceX Rises 9.7% on Course to Overtake Amazon as Enterprise AI Acquisition Announced",
+        "zh": "SpaceX 股价上涨 9.7%，有望超越亚马逊，宣布收购企业级 AI 软件公司 Anysphere"
       },
       "impact": {
-        "en": "Elon Musk-led company acquiring enterprise AI software firm for $60B to expand in corporate market. If realized, SpaceX could become 5th-largest U.S. public company.\n",
-        "zh": "埃隆·马斯克领导的公司以 600 亿美元收购企业级 AI 软件公司，拓展企业市场。若成功实现，SpaceX 将成为美国第五大上市公司。\n"
+        "en": "Elon Musk-led company acquiring enterprise AI software firm for $60B to expand in corporate market. If realized, SpaceX could become 5th-largest U.S. public company.",
+        "zh": "埃隆·马斯克领导的公司以 600 亿美元收购企业级 AI 软件公司，拓展企业市场。若成功实现，SpaceX 将成为美国第五大上市公司。"
       },
       "bullish": ["SPCX (post-IPO momentum)", "AI infrastructure plays", "Musk ecosystem premium"],
       "bearish": [],
       "macroRisk": {
-        "en": "No - Company-specific catalyst. Large-scale M&A may face regulatory scrutiny but primarily benefits tech/AI sector sentiment.\n",
-        "zh": "否—公司级催化剂。大规模并购可能面临监管审查，但主要利好科技/人工智能板块情绪。\n"
+        "en": "No - Company-specific catalyst. Large-scale M&A may face regulatory scrutiny but primarily benefits tech/AI sector sentiment.",
+        "zh": "否—公司级催化剂。大规模并购可能面临监管审查，但主要利好科技/人工智能板块情绪。"
       }
     },
     {
       "title": {
-        "en": "Memory & Storage Chips Surge: WDC +9.1%, STX +7.7% on AI Server Demand\n",
-        "zh": "存储芯片大涨：西部数据涨 9.1%，希捷科技涨 7.7%，受益于人工智能服务器需求\n"
+        "en": "Memory & Storage Chips Surge: WDC +9.1%, STX +7.7% on AI Server Demand",
+        "zh": "存储芯片大涨：西部数据涨 9.1%，希捷科技涨 7.7%，受益于人工智能服务器需求"
       },
       "impact": {
-        "en": "AI data center expansion drives demand for high-bandwidth memory (HBM). Micron up 3.5%, storage makers rally as capital seeks elasticity in AI hardware chain.\n",
-        "zh": "数据中心扩展推动对高带宽内存(HBM)的需求。美光科技上涨 3.5%，存储厂商随资金寻求人工智能硬件链的弹性而大涨。\n"
+        "en": "AI data center expansion drives demand for high-bandwidth memory (HBM). Micron up 3.5%, storage makers rally as capital seeks elasticity in AI hardware chain.",
+        "zh": "数据中心扩展推动对高带宽内存 (HBM)的需求。美光科技上涨 3.5%，存储厂商随资金寻求人工智能硬件链的弹性而大涨。"
       },
       "bullish": ["MU (Micron)", "WDC (Western Digital)", "STX (Seagate Technology)", "QCOM", "AMCX"],
       "bearish": [],
       "macroRisk": {
-        "en": "No - Fundamental demand from AI data center buildout. Rate-sensitive indirectly but driven by corporate capex, not yield moves.\n",
-        "zh": "否—来自数据中心建设的基本面需求。对利率敏感但由企业资本支出驱动，而非收益率变动。\n"
+        "en": "No - Fundamental demand from AI data center buildout. Rate-sensitive indirectly but driven by corporate capex, not yield moves.",
+        "zh": "否—来自数据中心建设的基本面需求。对利率敏感但由企业资本支出驱动，而非收益率变动。"
       }
     },
     {
       "title": {
-        "en": "Qualcomm Talks to Acquire AI Startup Tenstorrent for $8-10B\n",
-        "zh": "高通洽谈以 80-100 亿美元收购人工智能初创公司 Tenstorrent\n"
+        "en": "Qualcomm Talks to Acquire AI Startup Tenstorrent for $8-10B",
+        "zh": "高通洽谈以 80-100 亿美元收购人工智能初创公司 Tenstorrent"
       },
       "impact": {
-        "en": "Potential deal would boost Qualcomm's edge computing, inference chip business and AI hardware cycle participation. Market sees strategic expansion in high-margin AI segment.\n",
-        "zh": "潜在交易将增强高通的边缘计算、推理芯片业务和人工智能硬件周期参与度。市场认为在高利润的人工智能领域进行战略扩张。\n"
+        "en": "Potential deal would boost Qualcomm's edge computing, inference chip business and AI hardware cycle participation. Market sees strategic expansion in high-margin AI segment.",
+        "zh": "潜在交易将增强高通的边缘计算、推理芯片业务和人工智能硬件周期参与度。市场认为在高利润的人工智能领域进行战略扩张。"
       },
       "bullish": ["QCOM (high beta)", "Semiconductor sector sentiment"],
       "bearish": [],
       "macroRisk": {
-        "en": "No - Company-specific M&A catalyst. Strategic fit strengthens position in edge/AI markets.\n",
-        "zh": "否—公司级并购催化剂。战略契合加强在边缘/人工智能市场中的地位。\n"
+        "en": "No - Company-specific M&A catalyst. Strategic fit strengthens position in edge/AI markets.",
+        "zh": "否—公司级并购催化剂。战略契合加强在边缘/人工智能市场中的地位。"
       }
     },
     {
       "title": {
-        "en": "Fed Chair Kevin Warsh Debut: Investors Await First Policy Decision Next Wednesday\n",
-        "zh": "美联储主席 Kevin Warsh 首次亮相：投资者期待周三的首次政策决定\n"
+        "en": "Fed Chair Kevin Warsh Debut: Investors Await First Policy Decision Next Wednesday",
+        "zh": "美联储主席 Kevin Warsh 首次亮相：投资者期待周三的首次政策决定"
       },
       "impact": {
-        "en": "First FOMC meeting under new Fed chair on June 17. Markets pricing 42% chance of rate hike in December, cuts only after mid-2027 per CME FedWatch.\n",
-        "zh": "6 月 17 日新美联储主席的首次联邦公开市场委员会会议。市场对 12 月加息定价为 42%，CME 期货看跌师仅在中期之后降息。\n"
+        "en": "First FOMC meeting under new Fed chair on June 17. Markets pricing 42% chance of rate hike in December, cuts only after mid-2027 per CME FedWatch.",
+        "zh": "6 月 17 日新美联储主席的首次联邦公开市场委员会会议。市场对 12 月加息定价为 42%，CME 期货看跌师仅在中期之后降息。"
       },
       "bullish": ["Warsh dovish tone if inflation falling", "Risk assets if Fed supportive"],
       "bearish": ["Higher rates prolong growth concerns"],
       "macroRisk": {
-        "en": "Yes - Warsh's characterization of inflation trajectory crucial for monetary policy direction. Inflation >1pp above 2% target complicates path.\n",
-        "zh": "是—Warsh 对通胀轨迹的阐述对于货币政策方向至关重要。通胀高于目标值 1 个百分点使路径复杂化。\n"
+        "en": "Yes - Warsh's characterization of inflation trajectory crucial for monetary policy direction. Inflation >1pp above 2% target complicates path.",
+        "zh": "是—Warsh 对通胀轨迹的阐述对于货币政策方向至关重要。通胀高于目标值 1 个百分点使路径复杂化。"
       }
     },
     {
       "title": {
-        "en": "Bank of Japan Hikes Rates to 31-Year High Amid Energy Shock\n",
-        "zh": "日本央行在能源冲击下加息至 31 年高位\n"
+        "en": "Bank of Japan Hikes Rates to 31-Year High Amid Energy Shock",
+        "zh": "日本央行在能源冲击下加息至 31 年高位"
       },
       "impact": {
-        "en": "BoJ raised rates as it focuses on taming price pressures from Middle East energy shock. Adds inflation backdrop to global macro picture.\n",
-        "zh": "日本央行关注中东能源冲击的价格压力而加息。为全球宏观图景添加了通胀背景。\n"
+        "en": "BoJ raised rates as it focuses on taming price pressures from Middle East energy shock. Adds inflation backdrop to global macro picture.",
+        "zh": "日本央行关注中东能源冲击的价格压力而加息。为全球宏观图景添加了通胀背景。"
       },
       "bullish": ["Emerging market currencies vs yen"],
       "bearish": [],
       "macroRisk": {
-        "en": "Yes - Adds complexity to global rate differentials. Energy shock from conflict transmits via oil prices.\n",
-        "zh": "是—增加了全球利率差异的复杂性。冲突通过油价传导的能源冲击。\n"
+        "en": "Yes - Adds complexity to global rate differentials. Energy shock from conflict transmits via oil prices.",
+        "zh": "是—增加了全球利率差异的复杂性。冲突通过油价传导的能源冲击。"
       }
     },
     {
       "title": {
-        "en": "Dave & Buster's Misses Q1 Earnings and Tumbles 16%\n",
-        "zh": "达芙斯特巴克错失了第一季度业绩并暴跌 16\n%"
+        "en": "Dave & Buster's Misses Q1 Earnings and Tumbles 16%",
+        "zh": "达芙斯特巴克错失了第一季度业绩并暴跌 16%"
       },
       "impact": {
-        "en": "Entertainment firm reported below-consensus earnings and revenue. Small-cap retail/leisure stocks underperform amid broader rally.\n",
-        "zh": "娱乐公司报告低于共识的盈利和收入。小型股零售休闲股票在广泛上涨中表现不佳。\n"
+        "en": "Entertainment firm reported below-consensus earnings and revenue. Small-cap retail/leisure stocks underperform amid broader rally.",
+        "zh": "娱乐公司报告低于共识的盈利和收入。小型股零售休闲股票在广泛上涨中表现不佳。"
       },
       "bullish": [],
       "bearish": ["DVRS (entertainment sector)"],
       "macroRisk": {
-        "en": "No - Single stock disappointment. Consumer spending concerns may have broader implications but not directly tied to macro.\n",
-        "zh": "否—个股失望。消费者支出担忧可能有更广泛的影响，但与宏观没有直接关系。\n"
+        "en": "No - Single stock disappointment. Consumer spending concerns may have broader implications but not directly tied to macro.",
+        "zh": "否—个股失望。消费者支出担忧可能有更广泛的影响，但与宏观没有直接关系。"
       }
     }
   ],
   "sectorRadar": {
     "ai": {
-      "en": "AI sector extends post-IPO momentum with SpaceX, memory makers (MU), and storage leaders rallying on data center demand. Qualcomm M&A speculation adds AI hardware catalyst.\n",
-      "zh": "人工智能板块延续 IPO 后势头，SpaceX、存储制造商和存储器在数据中心需求带领下上涨。高通并购猜想增加了人工智能硬件催化剂。\n"
+      "en": "AI sector extends post-IPO momentum with SpaceX, memory makers (MU), and storage leaders rallying on data center demand. Qualcomm M&A speculation adds AI hardware catalyst.",
+      "zh": "人工智能板块延续 IPO 后势头，SpaceX、存储制造商和存储器在数据中心需求带领下上涨。高通并购猜想增加了人工智能硬件催化剂。"
     },
     "semiconductor": {
-      "en": "Chip stocks strong with memory makers surging ahead of AI data center buildout. Qualcomm in talks for Tenstorrent acquisition boosts edge computing narrative.\n",
-      "zh": "芯片股票强劲，存储制造商在人工智能数据中心建设之前暴涨。高通洽谈收购增强边缘计算叙事。\n"
+      "en": "Chip stocks strong with memory makers surging ahead of AI data center buildout. Qualcomm in talks for Tenstorrent acquisition boosts edge computing narrative.",
+      "zh": "芯片股票强劲，存储制造商在人工智能数据中心建设之前暴涨。高通洽谈收购增强边缘计算叙事。"
     },
     "bigTech": {
-      "en": "SpaceX nearing Amazon market cap with 3-day rally. Tesla climbs on lower oil and AI robot optimism but broader big tech lags without earnings news.\n",
-      "zh": "太空星连续三天上涨，市值接近亚马逊。特斯拉随较低石油和人工智能机器人乐观情绪而攀升但更广泛的科技股在业绩新闻之前落后。\n"
+      "en": "SpaceX nearing Amazon market cap with 3-day rally. Tesla climbs on lower oil and AI robot optimism but broader big tech lags without earnings news.",
+      "zh": "太空星连续三天上涨，市值接近亚马逊。特斯拉随较低石油和人工智能机器人乐观情绪而攀升但更广泛的科技股在业绩新闻之前落后。"
     },
     "energy": {
-      "en": "Oil at 3-month lows (WTI $78.42, Brent $80.94) on U.S.-Iran deal reducing conflict risk premium. Energy stocks drag in broader premarket but benefit from inflation relief.\n",
-      "zh": "原油在三个月低位（威特$78.42、布伦特$80.94），因为美伊协议减少了冲突风险溢价。能源股票拖累广泛的盘前但受益于通胀缓解。\n"
+      "en": "Oil at 3-month lows (WTI $78.42, Brent $80.94) on U.S.-Iran deal reducing conflict risk premium. Energy stocks drag in broader premarket but benefit from inflation relief.",
+      "zh": "原油在三个月低位（威特$78.42、布伦特$80.94），因为美伊协议减少了冲突风险溢价。能源股票拖累广泛的盘前但受益于通胀缓解。"
     },
     "ev": {
-      "en": "Tesla benefits from lower crude prices but EV sector sentiment tied to broader auto manufacturing regime. No specific catalysts for traditional automakers.\n",
-      "zh": "特斯拉从较低的原油价格中受益，电动汽车情绪与更广泛的汽车制造体制有关。传统汽车制造商没有特定催化剂。\n"
+      "en": "Tesla benefits from lower crude prices but EV sector sentiment tied to broader auto manufacturing regime. No specific catalysts for traditional automakers.",
+      "zh": "特斯拉从较低的原油价格中受益，电动汽车情绪与更广泛的汽车制造体制有关。传统汽车制造商没有特定催化剂。"
     },
     "market": {
-      "en": "S&P 500 futures flat, Nasdaq and Dow edge higher on AI rally despite geopolitical risk relief. Investors awaiting Warsh's dovish/hawkish balance at FOMC meeting.\n",
-      "zh": "标普期货持平，纳斯达克和道琼斯在人工智能上涨中边缘更高尽管地缘政治风险缓解。投资者等待美联储会议上华尔斯的鸽派/鹰派平衡。\n"
+      "en": "S&P 500 futures flat, Nasdaq and Dow edge higher on AI rally despite geopolitical risk relief. Investors awaiting Warsh's dovish/hawkish balance at FOMC meeting.",
+      "zh": "标普期货持平，纳斯达克和道琼斯在人工智能上涨中边缘更高尽管地缘政治风险缓解。投资者等待美联储会议上华尔斯的鸽派/鹰派平衡。"
     },
     "preciousMetals": {
-      "en": "Gold rises 0.69% to ~$4,339 as market cautious on final U.S.-Iran deal implementation details despite peace framework.\n",
-      "zh": "黄金上涨 0.69％至约$4,339，因为市场对最终美伊协议实施细节谨慎尽管和平框架。\n"
+      "en": "Gold rises 0.69% to ~$4,339 as market cautious on final U.S.-Iran deal implementation details despite peace framework.",
+      "zh": "黄金上涨 0.69％至约$4,339，因为市场对最终美伊协议实施细节谨慎尽管和平框架。"
     },
     "oil": {
-      "en": "WTI falls to $78.42 (-5%), Brent to $80.94 on Strait of Hormuz reopening expectations from signed deal. Energy sector drags but aids growth via lower rates.\n",
-      "zh": "威特跌至$78.42（-5%），布伦特至$80.94，因为海峡重开的预期从签署的协议。能源部门拖累但通过较低利率帮助增长。\n"
+      "en": "WTI falls to $78.42 (-5%), Brent to $80.94 on Strait of Hormuz reopening expectations from signed deal. Energy sector drags but aids growth via lower rates.",
+      "zh": "威特跌至$78.42（-5%），布伦特至$80.94，因为海峡重开的预期从签署的协议。能源部门拖累但通过较低利率帮助增长。"
     }
   },
   "premarketFocus": {
     "futures": {
-      "en": "Dow +50 pts (+0.1%), S&P -2.5 points (-0.03%) flatish, Nasdaq +73 pts (+0.24%). Direction mixed after Monday's broad rally as profit-taking and Warsh anticipation balance.\n",
-      "zh": "道琼斯+50点（+0.1%），标普-2.5 点（-0.03％）持平，纳斯达克+73 点（+0.24％）。方向不一在周一广泛的上涨后因为获利了结和华尔斯预期平衡。\n",
+      "en": "Dow +50 pts (+0.1%), S&P -2.5 points (-0.03%) flatish, Nasdaq +73 pts (+0.24%). Direction mixed after Monday's broad rally as profit-taking and Warsh anticipation balance.",
+      "zh": "道琼斯+50 点（+0.1%），标普-2.5 点（-0.03％）持平，纳斯达克+73 点（+0.24％）。方向不一在周一广泛的上涨后因为获利了结和华尔斯预期平衡。",
       "en_zh": {
-        "futures_en": "Dow +50 pts (+0.1%), S&P -2.5 points (-0.03%) flatish, Nasdaq +73 pts (+0.24%). Direction mixed after Monday's broad rally as profit-taking and Warsh anticipation balance.\n",
+        "futures_en": "Dow +50 pts (+0.1%), S&P -2.5 points (-0.03%) flatish, Nasdaq +73 pts (+0.24%). Direction mixed after Monday's broad rally as profit-taking and Warsh anticipation balance.",
         "futures_zh": "道琼斯+50 点（+0.1%），标普-2.5 点（-0.03％）持平，纳斯达克+73 点（+0.24％）。方向不一在周一广泛的上涨后因为获利了结和华尔斯预期平衡。"
       }
     },
     "treasury10Y": {
-      "en": "TLT trading lower (bearish sentiment) but yields sensitive to oil-driven inflation relief and Warsh's policy stance unclear.\n",
-      "zh": "债券 ETF 交易较低（悲观情绪）但收益率对油驱动的通胀缓解敏感和华尔斯政策立场不明确。\n"
+      "en": "TLT trading lower (bearish sentiment) but yields sensitive to oil-driven inflation relief and Warsh's policy stance unclear.",
+      "zh": "债券 ETF 交易较低（悲观情绪）但收益率对油驱动的通胀缓解敏感和华尔斯政策立场不明确。"
     },
     "dxy": {
-      "en": "Dollar weakened on Middle East peace framework easing inflation fears. DXY softens amid global rate differential changes.\n",
-      "zh": "美元因中东和平框架减轻通货膨胀恐惧而减弱。DXY 在全球利率差异变化中变弱。\n"
+      "en": "Dollar weakened on Middle East peace framework easing inflation fears. DXY softens amid global rate differential changes.",
+      "zh": "美元因中东和平框架减轻通货膨胀恐惧而减弱。DXY 在全球利率差异变化中变弱。"
     },
     "oil": {
-      "en": "WTI at $78.42 (-3.4%), Brent at $80.94 (-2.9%) as deal implementation expectations lower conflict risk premium.\n",
-      "zh": "威特在$78.42（-3.4%），布伦特于$80.94（-2.9％）因为协议实施期望降低冲突风险溢价。\n"
+      "en": "WTI at $78.42 (-3.4%), Brent at $80.94 (-2.9%) as deal implementation expectations lower conflict risk premium.",
+      "zh": "威特在$78.42（-3.4%），布伦特于$80.94（-2.9％）因为协议实施期望降低冲突风险溢价。"
     },
     "keyRisk": {
-      "en": "Kevin Warsh's first FOMC statement Wednesday will define Fed policy direction under new leadership.\n",
-      "zh": "华尔斯首次联邦公开市场委员会声明周三将定义美联储新领导下的政策方向。\n"
+      "en": "Kevin Warsh's first FOMC statement Wednesday will define Fed policy direction under new leadership.",
+      "zh": "华尔斯首次联邦公开市场委员会声明周三将定义美联储新领导下的政策方向。"
     }
   },
   "judgment": {
     "type": "mixed",
     "confidence": {
-      "en": "medium\n",
-      "zh": "中\n"
+      "en": "medium",
+      "zh": "中"
     },
     "note": {
-      "en": "AI rally vs energy drag creates divergence. Geopolitical relief supports broad indices but oil weakness benefits inflation-sensitive assets at cost of sector rotation pressure.\n",
-      "zh": "人工智能上涨与能源拖累造成分歧。地缘政治支持广泛指数但油价弱有助于通胀敏感资产以行业轮动压力代价。\n"
+      "en": "AI rally vs energy drag creates divergence. Geopolitical relief supports broad indices but oil weakness benefits inflation-sensitive assets at cost of sector rotation pressure.",
+      "zh": "人工智能上涨与能源拖累造成分歧。地缘政治支持广泛指数但油价弱有助于通胀敏感资产以行业轮动压力代价。"
     }
   }
 }
