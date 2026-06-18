@@ -1,0 +1,193 @@
+{
+  "date": "2026-06-17",
+  "summary": {
+    "en": "Premarket focus centers on Fed Chair Warsh's first policy announcement amid easing geopolitical tensions from US-Iran peace accord progress. Oil prices decline below $80/barrel on supply normalization expectations, while tech-led Nasdaq futures rise +0.71% with AI/semiconductor stocks rebounding post-Friday losses.",
+    "zh": "盘前焦点集中在美联储主席 Warsh 的首次政策声明，同时美伊和平协议进展缓解地缘紧张局势。油价因供应正常化预期跌破$80/桶，科技股主导的纳斯达克期货上涨 0.71%，AI 和半导体股票在周五跌幅后出现反弹。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Fed Chair Warsh's First Meeting: Hawkish Pause or Dovish Pivot Looms",
+        "zh": "美联储主席 Warsh 首次会议：鹰派暂停还是鸽派转向即将揭晓"
+      },
+      "impact": {
+        "en": "Markets await Fed policy direction as first chairman under new admin. Yield stability suggests cautious optimism while geopolitical easing reduces inflation fears.",
+        "zh": "市场等待美联储政策方向，作为新政府下的首位主席。收益率稳定性表明谨慎乐观，同时地缘局势缓和减少通胀担忧。"
+      },
+      "bullish": ["Financials", "Growth Tech"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "None - Rate clarity benefits risk appetite",
+        "zh": "无风险—利率明朗化利好风险偏好"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil Drops Below $80 as Iran Deal Eases Supply Concerns at Strait of Hormuz",
+        "zh": "油价跌破$80，伊朗协议缓解霍尔木兹海峡供应担忧"
+      },
+      "impact": {
+        "en": "Lower oil prices reduce inflation expectations and energy sector costs, providing tailwind for growth stocks while easing recession fears.",
+        "zh": "较低油价降低通胀预期和能源成本，为成长股提供顺风并缓解衰退恐惧。"
+      },
+      "bullish": ["Energy Selects", "Tech Growth"],
+      "bearish": ["Oil Majors"],
+      "macroRisk": {
+        "en": "Deflationary pressure from commodity ease supports growth narrative; recession fears decline.",
+        "zh": "商品价格缓和带来的通缩压力支持增长叙事；衰退恐惧下降。"
+      }
+    },
+    {
+      "title": {
+        "en": "SpaceX Surges 5% Breaking $200: Satellite Revenue Accelerates",
+        "zh": "SpaceX 大涨 5% 突破$200：卫星收入加速增长"
+      },
+      "impact": {
+        "en": "Momentum trades lift rocket/Aerospace/Defense sector with Starlink expansion driving growth. Secondary beneficiaries: Advanced Materials, Microelectromechanical Systems stocks.",
+        "zh": "势头交易提振火箭/航空航天/国防板块，Starlink 扩张驱动增长。次级受益者：先进材料、微机电系统股票。"
+      },
+      "bullish": ["Aerospace", "Defense"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "None - Pure company momentum driver; no systemic risk.",
+        "zh": "无风险—纯公司势头驱动；无系统风险。"
+      }
+    },
+    {
+      "title": {
+        "en": "Gold Stabilizes Near $4,350 as Truce Eases Inflation Jitters",
+        "zh": "金价在$4,350 附近企稳，停火缓解通胀担忧"
+      },
+      "impact": {
+        "en": "Peace hopes reduce safe-haven premium but gold remains supported by real yield dynamics and central bank buying. Silver outperforms above $70/oz.",
+        "zh": "和平希望减少对避险溢价的支撑，但金价仍受实际收益率动态和央行购金支持。银价在$70 盎司上方表现更佳。"
+      },
+      "bullish": ["Gold Miners", "Silver Selects"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Low - Real yield declines offset geopolitical de-escalation.",
+        "zh": "低风险—实际收益率下降抵消地缘局势缓和。"
+      }
+    },
+    {
+      "title": {
+        "en": "China's 300B Yuan Banking Bond Program Signals Credit Moderation",
+        "zh": "中国 3,000 亿元银行债券计划释放信用温和信号"
+      },
+      "impact": {
+        "en": "Beijing curbs local government debt and real estate stimulus while moderating credit growth pace. Export-focused US firms see mixed impact; commodity demand remains resilient.",
+        "zh": "北京遏制地方政府债务和房地产刺激，同时缓和信贷增长节奏。面向出口的美国企业影响不一；商品需求仍然坚韧。"
+      },
+      "bullish": ["Exporters", "Industrial Selects"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Low - China policy normalizes after pandemic-era stimulus phase.",
+        "zh": "低风险—中国政策在疫情后刺激阶段归位。"
+      }
+    },
+    {
+      "title": {
+        "en": "OpenAI IPO Prospectus Filed: Potential $1T Valuation Ahead of September Debut",
+        "zh": "OpenAI 已提交 IPO  prospectus：9 月推出前估值有望达$1 万亿"
+      },
+      "impact": {
+        "en": "Cloud-compute demand, data licensing models, and AI infrastructure build anticipation. Chip designers see positive re-rating on inference compute needs.",
+        "zh": "云计算需求、数据授权模型和 AI 基础设施建设引发期待。芯片设计商因推理计算需求获得积极重估。"
+      },
+      "bullish": ["AI Infrastructure", "Semiconductor"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "None - New tech platform expands TAM and capex cycles.",
+        "zh": "无风险—新科技平台扩大总潜在市场并加速资本支出周期。"
+      }
+    },
+    {
+      "title": {
+        "en": "Citi Lifts PTs on AMAT, LRCX, KLAC: WFE Demand Boom Continues",
+        "zh": "花旗上调 AMAT、LRCX 和 KLAC 目标价：晶圆设备需求持续旺盛"
+      },
+      "impact": {
+        "en": "WAFE (wide-field extreme UV) equipment demand accelerates capex at design-led fabs. Chip leaders with exposure to advanced nodes see upside on fab spending ramp.",
+        "zh": "超大孔径极紫外（WAfer Extreme）设备需求加速设计领先晶圆厂的资本支出。接触先进制程的芯片龙头受益于扩产提速获得上行空间。"
+      },
+      "bullish": ["AMAT", "LRCX", "KLAC"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "None - Cyclical upcycle confirmed with inventory re-stocking.",
+        "zh": "无风险—库存补货确认周期上行。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector rebounds post-Friday losses. OpenAI IPO anticipation and cloud compute demand drive capex cycles at hyperscalers. GPU suppliers see sustained inquiry rates above $18,000/inference.",
+      "zh": "AI 板块周五回吐后反弹。OpenAI IPO 预期和云计算需求推动超大规模云服务提供商资本支出周期。GPU 供应商持续询价高于$18,000/次推理。"
+    },
+    "semiconductor": {
+      "en": "Semiconductors advance on WFE equipment demand and AI chip rebounds. Advanced-node fab spending ramp re-rates design-led leaders with exposure to inference compute needs.",
+      "zh": "半导体因晶圆厂设备需求和 AI 芯片反弹而上涨。先进制程扩产为接触推理计算需求的设计龙头带来重估空间。"
+    },
+    "bigTech": {
+      "en": "Big Tech mixed: cloud margins pressure from AI spend offset by data licensing upside. Mixed sentiment ahead of Fed day with growth stocks pricing in cautious hawkishness.",
+      "zh": "大科技股分化：AI 支出压低云利润率但数据授权带来上行空间。美联储会议日前对成长股的谨慎鹰派预期导致情绪不一。"
+    },
+    "energy": {
+      "en": "Energy sector faces headwinds as oil drops below $80 on Iran peace accord expectations. Supply normalization at Hormuz reduces recession premiums but pressures E&P profitability.",
+      "zh": "能源板块承压：油价跌破$80，伊朗和平协议预期。霍尔木兹供应正常化减少衰退溢价但压制勘探开采公司盈利能力。"
+    },
+    "ev": {
+      "en": "EV sector mixed on US policy: EV import caps from Canada support domestic demand while China credit moderation normalizes post-pandemic stimulus. Export-focused auto firms see neutral-to-bearish impact.",
+      "zh": "电动车板块受美国政策影响分化：来自加拿大的电动车进口限制支持国内需求，而中国信用缓和使疫情刺激归位。面向出口的自动公司受到中性至负面冲击。"
+    },
+    "market": {
+      "en": "Broad market sentiment mixed with Nasdaq futures +0.71%, S&P 52% and Dow flat ahead of Fed announcement. AI/tech rallies while oil-sensitive sectors face pressure from commodity decline.",
+      "zh": "大盘情绪分化：纳斯达克期货涨 0.71%，标普持平，道指基本不变。AI 科技反弹而石油敏感板块受商品价格下跌压力。"
+    },
+    "preciousMetals": {
+      "en": "Gold stabilizes near $4,350/oz as peace hopes reduce safe-haven premium but real yield dynamics continue supporting price floor. Silver outperforms above $70 with industrial demand intact.",
+      "zh": "金价在$4,350 盎司附近企稳，和平希望减少避险溢价但实际收益率动态继续支持价格底线。工业需求完整情况下银价表现更好并突破$70。"
+    },
+    "oil": {
+      "en": "Oil trades below $80/barrel (WTI ~$64.5, Brent under $80) as Iran deal progress suggests supply normalization at Hormuz within weeks. Geopolitical risk premium fades but logistical constraints keep upside intact.",
+      "zh": "油价交易低于$80/桶（西得克萨斯约$64.5，布伦特低于$80），伊朗协议进展暗示霍尔木兹供应正常化数周内发生。地缘风险溢价消退但物流约束保持上行空间完整。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "Nasdaq futures +0.71%, S&P 500 futures +0.28%, Dow futures flat/neutral before Fed announcement.",
+      "zh": "纳斯达克期货+0.71%，标普 500 期货微涨 0.28%，道指期货基本持平。"
+    },
+    "treasury10Y": {
+      "en": "US 10-Year yield steady-to-higher at ~4.43%, suggesting market prices cautious optimism amid Fed policy clarity and easing geopolitical risks.",
+      "zh": "美债 10 年期收益率稳定偏高于~4.43%，表明在市场对美联储政策明朗化和地缘风险缓和背景下定价谨慎乐观。"
+    },
+    "dxy": {
+      "en": "DXY mixed around equilibrium levels, supporting multinationals but not overly pressuring EM assets.",
+      "zh": "美元指数在均衡水平附近交易，支持跨国企业但不过度压制新兴资产。"
+    },
+    "oil": {
+      "en": "Oil prices decline below $80/barrel on peace accord hopes; WTI ~$64.5, Brent under $80.",
+      "zh": "油价因和平协议预期跌破$80/桶；西得克萨斯约$64.5，布伦特低于$80。"
+    },
+    "keyRisk": {
+      "en": "Fed Chair Warsh's first policy decision; geopolitical escalation could reverse oil supply logic and trigger inflation repricing.",
+      "zh": "美联储主席首次政策决定；地缘局势升级可能逆转油价供应逻辑并触发通胀重定价。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Mixed sentiment: AI/tech strength balanced by energy sector pressure and oil decline. Geopolitical easing reduces tail risk but Fed policy remains primary driver today.",
+      "zh": "情绪分化：AI 科技强势与能源板块压力和油价下跌相平衡。地缘缓和降低尾部风险但美联储政策仍是今日主要驱动因素。"
+    }
+  },
+  "__meta__source_notes": {
+    "en": ["Sources: TradingKey, XTB Morning Wrap, MarketScreener (Treasury/Yields), SeekingAlpha futures data. Geopolitical focus on US-Iran peace deal impacts oil/inflation transmission.", "Data incomplete but core narrative clear: Fed decision day + Iran truce reducing geopolitical risk premium."],
+    "zh": ["数据来源：TradingKey、XTB 晨间综述、MarketScreener（美债收益率）、SeekingAlpha期货数据。地缘政治焦点为美伊和平协议影响油价/通胀传导逻辑。”", "数据不完整但核心叙事清晰：美联储会议日 + 伊朗停火减少地缘风险溢价。"]
+  },
+  "__generated_by__": "YutaoClawBot"
+}
