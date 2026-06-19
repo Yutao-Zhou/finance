@@ -1,0 +1,189 @@
+{
+  "date": "2026-06-19",
+  "summary": {
+    "en": "US futures retreat as geopolitical optimism fades; U.S.-Iran MOU faces implementation skepticism with VP Vance's Switzerland trip cancelled. Tech stocks lead morning losses amid tech-led Friday rally reversal. Oil prices stabilize after Hormuz reopening, but USD strength pressures gold/silver to multi-week lows.",
+    "zh": "美股期货因地缘政治乐观情绪消退而回落；美伊备忘录实施引发质疑，副总统万斯取消瑞士访问。科技股领跌早盘市场，延续周五科技主导的反弹势头。油价在霍尔木兹重开后企稳，但美元走强打压金/银跌至数周低位。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "US Stock Futures Retreat After Iran Peace Optimism Fades",
+        "zh": "美伊和平乐观情绪消退后美股期货回落"
+      },
+      "impact": {
+        "en": "Markets reverse Friday's tech rally as diplomatic optimism wanes; VP Vance cancelled Switzerland trip on unverified Iranian demands for MoU implementation checks.",
+        "zh": "随着外交乐观情绪降温，市场逆转周五科技股涨势；副总统万斯取消瑞士之行，因伊朗未证实要求先检查协议执行情况。"
+      },
+      "bullish": [],
+      "bearish": ["SPY", "QQQ", "NDX"],
+      "macroRisk": {
+        "en": "Geopolitical risk premium returning; may compress tech valuations, benefit oil producers indirectly via inflation concerns but overall mixed sentiment.",
+        "zh": "地缘政治风险溢价回归；可能压缩科技股估值，油价生产商因通胀担忧间接受益但整体情绪分化。"
+      }
+    },
+    {
+      "title": {
+        "en": "KOSPI Reverses Record High on Samsung/Hynix Profit-Taking",
+        "zh": "韩综指在三星/海力士获利了结后从历史高位回落"
+      },
+      "impact": {
+        "en": "Asian tech leaders sold off after hitting records; SK Hynix fell from early peak, Hyundai Motor on Boston Dynamics stake news.",
+        "zh": "亚洲科技龙头触及新高后被抛售；SK 海力士早盘见顶，现代汽车因波士顿动力持股引发波动。"
+      },
+      "bullish": ["KRX"],
+      "bearish": ["005930.KS", "000660.KS"],
+      "macroRisk": {
+        "en": "Semiconductor sector rotation; Asian supply chain uncertainty dampens sentiment.",
+        "zh": "半导体板块轮动；亚洲供应链不确定性压制情绪。"
+      }
+    },
+    {
+      "title": {
+        "en": "Gold/Silver Drop Amid Hawkish Fed & Strong Dollar",
+        "zh": "金/银在鹰派美联储与强势美元下下跌"
+      },
+      "impact": {
+        "en": "DXY broke 100.55 resistance; gold falls as Fed maintains higher-for-longer rates stance, inflation risk premium still elevated.",
+        "zh": "美元指数突破 100.55；美联储维持高利率立场，通胀溢价仍高企打压贵金属。"
+      },
+      "bullish": [],
+      "bearish": ["GLD", "SLV"],
+      "macroRisk": {
+        "en": "Real yields up; rate-sensitive assets suffer while dollar strengthens on improved US growth data.",
+        "zh": "实际收益率上升；利率敏感资产受损，美元因美国增长数据改善走强。"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil Price Stabilizes After Hormuz Reopening",
+        "zh": "霍尔木兹重开后油价企稳"
+      },
+      "impact": {
+        "en": "6 oil tankers passed Strait; geopolitical risk premium unwinds but concerns about terms interpretation persist. WTI testing key support at $73.",
+        "zh": "6 艘油轮通过海峡；地缘政治风险溢价消退，但双方对协议条款解读分歧持续。WTI 测试关键支撑$73。"
+      },
+      "bullish": ["XOM", "CVX"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Lower oil helps inflation but creates sector divergence; energy plays benefit while rate-sensitive tech pressured.",
+        "zh": "油价下行助通胀回落但造成板块分化；能源股受益而利率敏感科技股承压。"
+      }
+    },
+    {
+      "title": {
+        "en": "AMD Rallies on Data Center Growth Narrative",
+        "zh": "AMD 因数据中心增长叙事大涨"
+      },
+      "impact": {
+        "en": "280% YTD gains; AI infrastructure demand remains strong despite broader market correction.",
+        "zh": "年内涨幅超 280%；尽管大盘回调，AI 基础设施需求仍强劲。"
+      },
+      "bullish": ["AMD", "NVDA"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Data center capex cycle continues; competition intensifies but demand structural.",
+        "zh": "数据中心资本支出周期持续；竞争加剧但需求结构性增长。"
+      }
+    },
+    {
+      "title": {
+        "en": "10Y Treasury at 4.45%, Dollar Firm",
+        "zh": "十年美债收益率至 4.45%，美元走强"
+      },
+      "impact": {
+        "en": "Rates stabilize above 50-day MA; curve inversion deepens as short-term yields hit multi-decade highs.",
+        "zh": "利率在 50 日均线上方企稳；收益率曲线倒挂加深，短端收益率创数十年新高。"
+      },
+      "bullish": ["TLT"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Fed hawkish dot plot; inversion signals recession fears but growth data supports rates.",
+        "zh": "美联储鹰派观点；倒挂反映衰退担忧但增长数据支撑高利率。"
+      }
+    },
+    {
+      "title": {
+        "en": "European Markets Cautious Ahead of US Open",
+        "zh": "欧洲市场开盘前保持谨慎"
+      },
+      "impact": {
+        "en": "Euro Stoxx 50 futures flat; ECB rate hike debate continues amid weak growth outlook.",
+        "zh": "欧斯托指数期货持平；增长前景疲软，ECB 加息辩论继续。"
+      },
+      "bullish": [],
+      "bearish": ["EWJ", "EWP"],
+      "macroRisk": {
+        "en": "Euro pressure from USD; ECB policy divergence concerns.",
+        "zh": "欧元受美元压力；ECB 政策分化担忧。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector showing resilience despite broad market retreat. AMD's data center narrative remains intact, NVDA bond deal provides funding flexibility. Hardware supply chain demand sustained.",
+      "zh": "尽管大盘回落，AI 板块表现 resilient。AMD 数据中心叙事完整，NVIDIA 债券交易提供资金灵活性。硬件供应链需求持续。"
+    },
+    "semiconductor": {
+      "en": "Mixed signals: TSMC strong but Asian semiconductor stocks corrected after record highs. Korean memory sector taking profit; global supply chain diversification ongoing.",
+      "zh": "信号分化：台积电强势但亚洲半导体股从历史新高回吐。韩国存储板块获利；全球供应链分散化进行中。"
+    },
+    "bigTech": {
+      "en": "Magnificent Seven cooling off after Friday's rally; MSFT/AAPL flat in Asia session. Cloud revenue growth expected to remain key driver despite near-term volatility.",
+      "zh": "七大巨头在周五反弹后降温；微软/苹果亚洲休市。云收入增长仍是关键驱动因素，短期波动不影响长期预期。"
+    },
+    "energy": {
+      "en": "Oil producers stabilizing after geopolitical event driven surge. XOM/CVX benefit from lower volatility but capex discipline remains crucial amid inflation concerns.",
+      "zh": "能源生产商在地缘事件驱动飙升后企稳。油价波动性降低使雪佛龙/埃克森受益，但通胀担忧下资本支出纪律至关重要。"
+    },
+    "ev": {
+      "en": "EV sector under pressure from Tesla high-beta volatility and broader tech rotation. FSD margin questions emerge; Chinese EV competition continues to impact global auto pricing.",
+      "zh": "电动车板块在特斯拉高波动和科技轮动中承压。FSD 利润率问题浮现；中国电动汽车竞争持续影响全球定价。"
+    },
+    "market": {
+      "en": "Broad index futures cooling; Nasdaq leading decline but not panic. Small caps (Russell) more sensitive to rate environment, showing tech divergence from growth story.",
+      "zh": "宽基指数期货降温；纳指领跌但未恐慌。小盘股对利率环境更敏感，显示科技板块与成长叙事分化。"
+    },
+    "preciousMetals": {
+      "en": "Gold/silver under heavy pressure from DXY strength and real yields. Fed hawkish stance limits safe-haven demand despite geopolitical headlines. XAU/USD testing next support zone.",
+      "zh": "金银受美元和实际收益率压制。美联储鹰派立场限制避险需求，尽管地缘新闻仍在。黄金测试下一支撑区。"
+    },
+    "oil": {
+      "en": "WTI stabilizing around $73 after Hormuz reopening news. Geopolitical risk premium unwinds but implementation concerns persist; OPEC+ production discipline remains key watch.",
+      "zh": "油价在霍尔木兹重开后围绕$73 企稳。地缘风险溢价消退但执行担忧仍在；OPEC+ 生产纪律是关键观察点。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P futures -0.7%, Nasdaq -1.0%, Dow -0.45% in Asia session",
+      "zh": "亚洲时段标普期货-0.7%，纳指-1.0%，道指-0.45%"
+    },
+    "treasury10Y": {
+      "en": "10Y Treasury yield 4.45%, down 3bps from Friday close",
+      "zh": "十年美债收益率 4.45%（周五收盘下跌 3bp）"
+    },
+    "dxy": {
+      "en": "Dollar Index above 100.86, broke May resistance levels",
+      "zh": "美元指数高于 100.86，突破五月阻力位"
+    },
+    "oil": {
+      "en": "WTI testing $73 support; Brent easing below $75 after Hormuz passage confirmed",
+      "zh": "WTI 测试$73支撑；布伦特在霍尔木兹通航确认后回落至$75下方"
+    },
+    "keyRisk": {
+      "en": "Iran MoU implementation uncertainty + US Fed hawkish pivot on inflation. Watch for VP Vance trip news or ECB rate debate impact.",
+      "zh": "美伊协议实施不确定性+美联储通胀鹰派转向。关注副总统行程新闻或欧央行利率辩论影响。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Mixed sentiment: tech sector divergence despite growth story, rate sensitivity outweighs earnings optimism. Geopolitical headlines create cross-asset transmission (oil→inflation→rates) dominating over company-level narratives.",
+      "zh": "情绪分化：尽管成长叙事持续，科技板块出现分歧；利率敏感性盖过盈利乐观。地缘新闻主导跨资产传导（油价→通胀预期→收益率），而非个股叙事。"
+    }
+  },
+  "disclaimer": "YUCLAW signals are research classifications, NOT investment recommendations. This brief is for informational purposes only."
+}
