@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-23",
+  "summary": {
+    "en": "Dow futures plunge ~1% (-$4,879) as AI megacap selloff spreads to Asian chipmakers (Korea -10%), with Nasdaq futures down nearly 3%. Treasury yields climb on rate hike bets while oil prices fall despite US-Iran peace hopes. SpaceX (+ve post-earnings) bucks broader tech trend amid Mag-7 concerns.",
+    "zh": "道指期货暴跌约 1%(-$4,879)，AI 龙头抛售蔓延至亚洲芯片股（韩国 -10%），纳指期指跌幅近 3%。美债收益率因加息赌注而上升，油价在美伊和平希望下下跌。SpaceX(财报后反弹)逆势上涨，Mag-7担忧加剧市场波动。"
+  },
+  "topNews": [
+    {
+      "title": {"en": "AI Selloff Deepens: Korean Chipmakers Plummet 10% as Mag-7 Dominates Risk Rotation", "zh": "AI 抛售加深：韩国芯片股暴跌 10%，Mag-7 主导风险轮动"},
+      "impact": {"en": "Supply chain concerns cascade: NVIDIA/Cadence/Broadcom exposure via Korean peers creates cross-border contagion risk for US chip stocks.", "zh": "供应链担忧传导：通过韩国同行对 NVIDIA/Cadence/Broadcom 的暴露，给美国芯片股带来跨境传染风险。"},
+      "bullish": ["XLK", "SOXX"],
+      "bearish": [],
+      "macroRisk": {"en": "Yes - AI narrative fractures amid valuation compression, sector rotation away from growth toward value.", "zh": "是——AI 叙事因估值压缩而破裂，资金从成长股轮动至价值股。"}
+    },
+    {
+      "title": {"en": "US-Iran Peace Talks Yield Mixed Signals as Trump Waiver Expires: Oil Falls But Geopolitical Premium Rebounds", "zh": "美伊和平谈判发出混杂信号，特朗普豁免期结束：油价下跌但地缘政治溢价回升"},
+      "impact": {"en": "Hormuz closure fears persist despite peace progress. Oil prices drop 3% but volatility remains elevated as markets weigh supply disruptions.", "zh": "尽管和平取得进展，霍尔木兹关闭的担忧仍然存在。油价下跌 3%，但市场评估供应中断风险导致波动率维持高位。"},
+      "bullish": ["XOM", "COP", "CVX"],
+      "bearish": [],
+      "macroRisk": {"en": "Yes - Oil supply shocks drive inflation repricing, Fed policy uncertainty compounds equity downside.", "zh": "是——石油供应冲击推动通胀重定价，美联储政策不确定性叠加拖累股市。"}
+    },
+    {
+      "title": {"en": "Treasury Yields Surge on Rate Hike Bets: 10Y Treasury Hits Multi-Year High as AI Spending Worries Surface", "zh": "美债收益率因加息赌注飙升：10Y 美国国债触及多年高点，AI 支出担忧浮现"},
+      "impact": {"en": "Higher rates pressure growth stocks and tech valuations. Rate-sensitive sectors (utilities, real estate) face headwinds.", "zh": "更高利率压制成长股和科技估值。利率敏感型板块（公用事业、房地产）面临阻力。"},
+      "bullish": ["T", "REZ"],
+      "bearish": ["AAPL", "MSFT", "NVDA"],
+      "macroRisk": {"en": "Yes - Yield volatility signals policy uncertainty. Duration risk for long-duration growth names escalates.", "zh": "是——收益率波动显示政策不确定性。长久期成长股的久期风险加剧。"}
+    },
+    {
+      "title": {"en": "DXY Strengthens as Dollar Aides EM Assets and Multinationals Face Currency Headwinds", "zh": "美元指数走强，美元助推新兴市场资产及跨国企业面临汇率阻力"},
+      "impact": {"en": "Strong dollar weighs on export-oriented tech (Apple, Tesla) while boosting energy sector revenues in USD terms.", "zh": "强势美元压制出口导向型科技股（苹果、特斯拉），但有助于能源板块以美元计价的营收。"},
+      "bullish": ["XOM", "SLB"],
+      "bearish": [],
+      "macroRisk": {"en": "Mixed - Beneficial for energy exporters but harmful to multinationals with overseas exposure.", "zh": "分化——有利于能源出口商，但对海外暴露的跨国企业不利。"}
+    },
+    {
+      "title": {"en": "SpaceX Bounces Back Post-IPO Amid Broader Tech Rout: Only Major Gainer as Wall Street Processes Mag-7 Selloff", "zh": "市场消化 Mag-7 抛售之际，SpaceX IPO 后逆势反弹：唯一主要涨股"},
+      "impact": {"en": "Rare positive outlier in negative day. SpaceX (+ve) provides short squeeze fuel while contrasting with peer chip weakness.", "zh": "负面的市场中罕见的正面异常。SpaceX(上涨)为做空挤压提供燃料，与同业芯片股弱势形成对比。"},
+      "bullish": ["SPCX"],
+      "bearish": [],
+      "macroRisk": {"en": "No - Standalone performance, unrelated to broader macro factors.", "zh": "否——独立表现，与更广泛的宏观因素无关。"}
+    },
+    {
+      "title": {"en": "Oil Plunge 3% Despite Iran Peace Progress: WTI Crude Drops on Supply Glut Fears, Gold Falls in Parallel", "zh": "油价暴跌 3%，尽管伊朗和平进展：WTI 原油因供应过剩担忧下跌，金价同步回落"},
+      "impact": {"en": "Geopolitical risk premium priced out as peace talks advance. Energy sector faces secular demand vs supply glut balance.", "zh": "随着和平谈判推进，地缘政治风险溢价被计价。能源板块面临长期需求与供应过剩的平衡问题。"},
+      "bullish": ["XOM", "COP"],
+      "bearish": [],
+      "macroRisk": {"en": "Medium - Oil disinflation eases CPI concerns but risks deflationary shock to GDP.", "zh": "中等——油价通缩缓解通胀担忧，但风险在于对 GDP 的滞胀冲击。"}
+    },
+    {
+      "title": {"en": "Fed Speaker Warsh Hints at Rate Stability: Markets Weigh Inflation Data vs. Growth Concerns in Q2", "zh": "美联储官员沃什暗示利率稳定：市场在 6Q 通胀数据与增长担忧之间权衡"},
+      "impact": {"en": "Fed commentary influences yield trajectory. Policy pivot timing affects equity risk premium and credit spreads.", "zh": "美联储评论影响收益率路径。政策转向时机影响股票风险溢价和信用利差。"},
+      "bullish": ["BAC", "JPM"],
+      "bearish": [],
+      "macroRisk": {"en": "Low - Policy signals already priced in; uncertainty centers on pivot timing.", "zh": "低——政策信号已反映在市场中；不确定性集中在转向时机。"}
+    }
+  ],
+  "sectorRadar": {
+    "ai": {"en": "AI chips face pressure from valuation compression and Mag-7 weakness. Supply chain exposure to Korean peers amplifies volatility.", "zh": "AI 芯片受估值压缩和 Mag-7 疲软的压力影响。对韩国同行的供应链暴露放大了波动性。"},
+    "semiconductor": {"en": "Korean chipmakers -10% drag on US names. Semiconductor sector divergence as hardware demand vs AI valuation concerns balance out.", "zh": "韩国芯片股下跌 10%，拖累美国同类公司。半导体板块分化，硬件需求与 AI 估值担忧相互平衡。"},
+    "bigTech": {"en": "Nasdaq futures -3% as Mag-7 selloff spreads. Apple, Microsoft lead declines amid tech sector rotation to value.", "zh": "纳指期指下跌 3%，Mag-7抛售蔓延。苹果、微软领衔科技板块跌向价值股轮动。"},
+    "energy": {"en": "Oil prices fall despite geopolitics. Energy stocks outperform on earnings, sector benefits from production discipline.", "zh": "尽管地缘政治紧张，油价仍下跌。能源股票因盈利表现跑赢板块受益于生产纪律。"},
+    "ev": {"en": "NIO, LI face headwinds from dollar strength and tech rotation. EV demand outlook mixed amid macro uncertainty.", "zh": "蔚来、理想受美元走强和科技轮动影响承压，EV 需求前景在宏观不确定性中呈现分化。"},
+    "market": {"en": "Risk-off dominates as chip weakness spreads to broader tech. S&P futures down ~1%, breadth deteriorates across sectors.", "zh": "风险规避主导市场情绪，芯片股疲软蔓延至更广泛科技板块，标普期指下跌约 1%，各板块广度恶化。"},
+    "preciousMetals": {"en": "Gold falls with risk-off reversal but maintains safe-haven role. Silver more sensitive to industrial demand from tech slowdown.", "zh": "金价随风险规避逆转而回落，但仍保持避险属性。白银对科技放缓的工业需求更敏感。"},
+    "oil": {"en": "Oil drops 3% as peace hopes dominate headlines. WTI/Brent volatility elevated amid supply glut fears vs OPEC+ restraint.", "zh": "油价下跌 3%，和平希望主导头条新闻。供应过剩担忧与 OPEC+ 克制的博弈导致 WTIBrent波动率升高。"}
+  },
+  "premarketFocus": {
+    "futures": {"en": "Dow futures -1% ($4,879), Nasdaq -3%, S&P down ~2%. Asia leads downturn with Korean semiconductors -10%.", "zh": "道指期指下跌 1%( $4,879)，纳指下跌 3%，标普指数下跌约 2%。亚洲领跌，韩国半导体暴跌 10%。"},
+    "treasury10Y": {"en": "10Y Treasury yields rise amid rate hike bets. Yield volatility signals policy uncertainty; duration risk escalates.", "zh": "加息赌注推动美债收益率上升。收益率波动显示政策不确定性；久期风险加剧。"},
+    "dxy": {"en": "DXY strengthens as dollar aids EM assets and multinationals face currency headwinds. Strong dollar weighs on tech exports.", "zh": "美元指数走强，美元助推新兴市场资产而跨国企业面临汇率阻力。强势美元压制科技出口股表现。"},
+    "oil": {"en": "WTI/Brent fall 3% despite geopolitics as peace talks advance. Oil disinflation eases inflation fears but risks GDP downside.", "zh": "尽管地缘政治紧张，油价仍下跌 3%，和平谈判取得进展。油价通缩缓解通胀担忧但拖累 GDP。"},
+    "keyRisk": {"en": "Mag-7 selloff spreads to Asian chipmakers; AI valuation compression and yield volatility compound downside.", "zh": "Mag-7抛售蔓延至亚洲芯片股，AI 估值压缩与收益率波动叠加加剧市场风险。"}
+  },
+  "judgment": {
+    "type": "risk-off",
+    "confidence": {"en": "medium", "zh": "中"},
+    "note": {"en": "Broad tech weakness with chip selloff leading. Risk rotation from growth to value; policy uncertainty and yield volatility drive downside.", "zh": "广泛科技股疲软，芯片抛售主导。资金从成长股轮动至价值股；政策不确定性和收益率波动驱动市场下行风险。"}
+  }
+}
