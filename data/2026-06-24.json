@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-24",
+  "summary": {
+    "en": "Markets edge higher in early trading with S&P +0.6%, Nasdaq +0.7% despite lingering AI valuation concerns and chip sector weakness from Korean peers (-10%). Oil continues selloff below $72 amid Iran peace progress, while gold tests support at $4,000 as strong dollar and Fed rate hike bets weigh on precious metals.",
+    "zh": "市场在早盘小幅上涨，标普指数 +0.6%，纳指 +0.7%，尽管 AI 估值担忧和对韩国芯片股疲弱的持续影响（-10%）。油价在地缘政治缓和背景下继续下跌至 $72 以下，黄金因美元走强和美联储加息赌注而测试$4,000支撑位。"
+  },
+  "topNews": [
+    {
+      "title": {"en": "Tech Selloff Eases in Early Session: AI Valuation Jitters Offset by Oil Price Relief", "zh": "早盘科技抛售缓和：油价缓解抵消了 AI 估值忧虑"},
+      "impact": {"en": "Market sentiment improving as broader chip weakness stabilizes. Tech rotation continues but oil relief helps offset inflation repricing concerns.", "zh": "随着更广泛的芯片股疲软趋于稳定，市场情绪改善。技术板块轮动持续但油价缓解有助于抵消通胀重定价担忧。"},
+      "bullish": ["XLK", "SMH"],
+      "bearish": [],
+      "macroRisk": {"en": "Mixed - Oil disinflation helps CPI but sector divergence (AI hardware vs. software) creates volatility.", "zh": "分化——油价通缩有助于通胀但板块轮动（硬件软件）造成波动。"}
+    },
+    {
+      "title": {"en": "WTI Crude Falls Below $72 as Hormuz Flows Improve and Peace Talks Offset Geopolitical Premium", "zh": "WTI 原油跌破$72，霍尔木兹流量改善和平谈判抵消地缘政治溢价"},
+      "impact": {"en": "Oil prices drop further despite energy sector resilience. Supply glut fears vs OPEC+ restraint remain key balance point.", "zh": "尽管能源板块表现强劲，油价进一步下跌。供应过剩担忧与 OPEC+克制之间的平衡是关键焦点。"},
+      "bullish": ["XOM", "COP", "CVX"],
+      "bearish": [],
+      "macroRisk": {"en": "Low-Medium - Energy disinflation eases inflation but risks GDP downside if too aggressive.", "zh": "低-中等——能源通缩缓解通胀但若过于激进可能拖累经济。"}
+    },
+    {
+      "title": {"en": "Gold Dips to $4,000 Support Zone as Dollar Strength and Fed Hiking Narrative Suppress Safe-Haven Demand", "zh": "金价跌至$4,000 支撑区域，美元走强和美联储加息叙事压制避险需求"},
+      "impact": {"en": "Precious metals under pressure from yield-sensitive positioning. Gold's safe-haven appeal intact but secondary to rate expectations.", "zh": "贵金属受收益率敏感配置影响而承压。黄金的避险属性完好但次要于利率预期。"},
+      "bullish": ["GLD", "IAU"],
+      "bearish": [],
+      "macroRisk": {"en": "Medium - Dollar strength and yield volatility create downside pressure on precious metals.", "zh": "中等——美元走强和收益率波动对贵金属构成下行压力。"}
+    },
+    {
+      "title": {"en": "Korean Semiconductor Weakness (-10%) Creates Cross-Border Contagion Concerns for US Chip Names", "zh": "韩国半导体疲软（-10%）引发美国芯片股跨境传染担忧"},
+      "impact": {"en": "Supply chain exposure to Asian peers amplifies volatility. NVIDIA/Cadence/Broadcom face indirect pressure through ecosystem linkages.", "zh": "对亚洲同行的供应链暴露放大了波动性。NVIDIA/ Cadence/Broadcom 通过生态系统联动面临间接压力。"},
+      "bullish": ["TSM"],
+      "bearish": ["NVDA", "AMD", "AVGO"],
+      "macroRisk": {"en": "Yes - Supply chain contagion risk for AI hardware complex.", "zh": "是——对 AI 硬件复杂体的供应链传染风险。"}
+    },
+    {
+      "title": {"en": "Micron Earnings Preview: Memory Cycle Rebound or Another Valuation Squeeze Ahead?", "zh": "美光财报前瞻：存储周期反弹还是估值挤压的又一次考验？"},
+      "impact": {"en": "Semiconductor sector faces earnings scrutiny amid valuation reset. Early results may signal whether AI demand remains sustainable.", "zh": "半导体板块在重置估值之际面临盈利审查。早期结果可能显示 AI 需求是否可持续。"},
+      "bullish": ["MU", "LRCX"],
+      "bearish": [],
+      "macroRisk": {"en": "Low - Earnings clarity needed to confirm sector fundamentals amid macro noise.", "zh": "低——需要在宏观噪音中确认板块基本面的盈利清晰度。"}
+    },
+    {
+      "title": {"en": "Fed Speaker Warsh Hints at Rate Stability: Markets Weigh Q2 Inflation Data vs Growth Concerns", "zh": "美联储官员沃什暗示利率稳定：市场权衡 6Q 通胀数据与增长担忧"},
+      "impact": {"en": "Policy signals moderate yield trajectory but uncertainty on pivot timing affects duration-sensitive growth stocks.", "zh": "政策信号缓和收益率路径但转向时机不确定影响久期敏感的成长股。"},
+      "bullish": ["JPM", "BAC"],
+      "bearish": [],
+      "macroRisk": {"en": "Low - Policy signals already priced; key watch is inflation data prints.", "zh": "低——政策信号已反映；关键观察通胀数据发布。"}
+    },
+    {
+      "title": {"en": "DXY Strength Persists as Dollar Aids EM Assets and Multinationals Face Currency Headwinds", "zh": "美元指数持续走强，美元助推新兴市场资产而跨国企业面临汇率阻力"},
+      "impact": {"en": "Strong dollar weighs on export-oriented tech (Apple, Tesla) but supports energy sector revenues in USD terms.", "zh": "强势美元压制出口导向型科技（苹果、特斯拉）但支持能源板块以美元计价的营收。"},
+      "bullish": ["XOM", "SLB"],
+      "bearish": [],
+      "macroRisk": {"en": "Mixed - Beneficial for commodity exporters but harmful to multinationals with overseas exposure.", "zh": "分化——有利于大宗商品出口商但对海外暴露的跨国企业不利。"}
+    }
+  ],
+  "sectorRadar": {
+    "ai": {"en": "AI complex stabilizes after selloff as broader market rallies. Valuation compression continues but hardware supply chain concerns ease. NVDA under pressure from Korean chip weakness contagion.", "zh": "AI 复杂体在市场整体上涨后企稳。估值压缩持续但对硬件供应链担忧缓和。NVDA 受到韩国芯片疲软传染而承压。"},
+    "semiconductor": {"en": "Mixed sector performance with hardware (memory chips) facing earnings scrutiny while software/design names stabilize. Korean peer weakness creates cross-border volatility but demand remains resilient.", "zh": "半导体板块表现分化，硬件（存储芯片）面临盈利审查而软件/设计股企稳。韩国同行疲软造成跨境波动但需求保持韧性。"},
+    "bigTech": {"en": "Nasdaq gains +0.7% as chip sector stabilization offsets Mag-7 concerns. Apple, Microsoft lead recovery amid rotation from overextended AI hardware into software and services.", "zh": "纳指上涨 0.7%，芯片板块企稳抵消了Mag-7担忧。苹果、微软在从过度超值的AI硬件轮动至软件服务之际引领复苏。"},
+    "energy": {"en": "Energy sector outperforms on oil price decline paradoxically - earnings discipline and production cuts support prices despite lower WTI/Brent. OPEC+ restraint balances supply glut fears.", "zh": "能源板块在油价下跌的悖论中表现优于其他——盈利纪律和生产削减支持价格，尽管WTI/布伦特更低。OPEC+克制平衡供应过剩担忧。"},
+    "ev": {"en": "EV names (NIO, LI) face pressure from dollar strength and tech rotation headwinds. Macro uncertainty dominates sector outlook; demand fundamentals mixed amid policy signals.", "zh": "电动车股（蔚来、理想）受美元走强和科技轮动阻力影响承压。宏观不确定性主导板块展望；需求基本面在政策信号中呈现分化。"},
+    "market": {"en": "Risk-on sentiment prevails with S&P +0.6%, Nasdaq +0.7%. Breadth improving as chip weakness contained to specific hardware names. Treasury yields volatile on rate hike bets.", "zh": "风险偏好情绪主导，标普指数 +0.6%，纳指 +0.7%。随着芯片疲软局限于特定硬件股而广度改善。美债收益率在加息赌注下波动。"},
+    "preciousMetals": {"en": "Gold tests $4,000 support zone with selling pressure from rate sensitivity and dollar strength intact. Safe-haven appeal secondary to Fed expectations but underlying demand supports floor.", "zh": "黄金测试$4,000支撑区，抛售压力因利率敏感性和美元走强而存在。避险属性次要于美联储预期但底层需求支持底线。"},
+    "oil": {"en": "WTI crude below $72 as peace talks advance and Hormuz flows improve. Oil price disinflation eases inflation fears but geopolitical premium compresses amid US-Iran ceasefire progress.", "zh": "WTI 原油低于$72，和平谈判进展和霍尔木兹流量改善。油价通缩缓解通胀担忧但地缘政治溢价在美伊停火进程中压缩。"}
+  },
+  "premarketFocus": {
+    "futures": {"en": "S&P futures tick higher after overnight gains; Nasdaq, Dow stabilize with chip sector relief. Asia mixed but improving sentiment from Korean semis stabilization.", "zh": "标普期指在隔夜上涨后小幅走高；纳指、道指随芯片板块缓解而稳定。亚洲市场分化但改善情绪因韩国半导体企稳而上升。"},
+    "treasury10Y": {"en": "10Y Treasury yields volatile amid rate hike bets vs. inflation data uncertainty. Yield fluctuations signal policy transition phase affecting duration-sensitive growth names.", "zh": "10Y 美债收益率在加息赌注和通胀数据不确定性间波动。收益率波动显示政策过渡期影响久期敏感的成长股名称。"},
+    "dxy": {"en": "Dollar index maintains strength as dollar aids EM assets while multinationals face currency headwinds. Strong USD weighs on tech exports but benefits energy sector revenues.", "zh": "美元指数保持强势，美元助推新兴市场资产而跨国企业面临汇率阻力。强势美元压制科技出口但有利于能源板块营收。"},
+    "oil": {"en": "Oil prices trade below $72 as peace hopes dominate headlines. WTI/Brent volatility elevated but disinflation narrative supports lower price regime despite supply risks.", "zh": "油价交易于$72 以下，和平希望主导头条新闻。WTI/布伦特波动率升高但通缩叙事支持较低价格格局尽管存在供应风险。"},
+    "keyRisk": {"en": "AI valuation compression spreading to broader tech amid Korean chip weakness and earnings season ahead. Oil disinflation vs supply disruption balance; Fed pivot timing uncertainty.", "zh": "在亚洲芯片疲软和财报季临近之际，AI 估值压缩蔓延至更广泛科技板块。油价通缩与供应中断平衡；美联储转向时机不确定。"}
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {"en": "medium", "zh": "中"},
+    "note": {"en": "Mixed sentiment: broader market rally offsets chip sector weakness. Risk-on bias with oil relief and dollar strength, but AI valuation concerns and earnings uncertainty create selective trading opportunities.", "zh": "情绪分化：市场整体反弹抵消了芯片板块疲软。风险偏好受油价缓解和美元走强影响，但AI 估值担忧和盈利不确定性创造了选择性交易机会。"}
+  }
+}
