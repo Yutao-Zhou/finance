@@ -1,0 +1,188 @@
+{
+  "date": "2026-06-22",
+  "summary": {
+    "en": "US futures slip on mixed geopolitical signals from US-Iran peace talks, AI sector volatility led by SpaceX sell-off (-16%), and lingering high yield pressure. Market sentiment remains bifurcated between risk-on trade driven by potential Middle East de-escalation and tech-sector concerns amid Mag-7 selloff.",
+    "zh": "美股期指因美伊和平谈判带来混杂的地缘政治信号而下跌，AI 板块受 SpaceX(-16%)抛售影响波动加大，高收益率压力犹存。市场情绪呈现分化：中东局势缓和带来的风险偏好与科技股 (Mag-7)抛售引发的担忧并存。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "SpaceX Tumbles 16% as Wall Street Digests Mag-7 Selloff, Offsetting Middle East Peace Hopes",
+        "zh": "SpaceX 暴跌 16%，华尔街消化 Mag-7 板块抛售，抵消中东和平希望"
+      },
+      "impact": {
+        "en": "Major headwind for Nasdaq and AI sector sentiment. SpaceX is a key component in tech index, so its decline drags overall market.",
+        "zh": "对纳斯达克和 AI 行业情绪构成重大阻力。SpaceX 是科技指数的重要组成部分，其下跌拖累整体市场表现。"
+      },
+      "bullish": ["NIO", "LI"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Yes - Tech sector rotation and Mag-7 dominance create vulnerability. Non-tech stocks may outperform.",
+        "zh": "是——科技板块轮动和 Mag-7 主导造成脆弱性，非科技企业可能相对跑赢。"
+      }
+    },
+    {
+      "title": {
+        "en": "US-Iran Peace Talks Continue but Trump Warns of Additional Strikes on Tehran Amid Ongoing Diplomacy",
+        "zh": "美伊和平谈判继续，但特朗普警告称在对德黑兰的进一步打击"
+      },
+      "impact": {
+        "en": "Oil prices remain volatile as markets weigh conflicting signals: peace deal hopes vs. threat of escalation in Strait of Hormuz.",
+        "zh": "油价保持波动：市场对相互矛盾的信号进行评估——和平协议希望与霍尔木兹海峡升级威胁。"
+      },
+      "bullish": ["XOM", "COP"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Uncertainty in oil supply, inflation implications through energy prices. Geopolitical risk premium pricing back into equities.",
+        "zh": "油价供应不确定性，通过能源价格传导通胀。地缘政治风险溢价重新定价到股票中。"
+      }
+    },
+    {
+      "title": {
+        "en": "AI Trading Mixed: Micron (MU) Drives Sector Higher Amid Yield Sensitivity, Oracle Slides on PPI Expectations",
+        "zh": "AI 交易分化：美光(MU)推动板块走高，因收益率敏感；甲骨文(PPI预期前下滑)"
+      },
+      "impact": {
+        "en": "Tech AI chips remain favored but yield-sensitive. Semiconductor sector shows divergence as hardware demand vs. valuation concerns balance.",
+        "zh": "科技芯片受青睐但收益敏感。半导体板块显示分化，硬件需求与估值担忧相互平衡。"
+      },
+      "bullish": ["MU", "AMD"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Interest rate sensitivity persists. AI demand structural but valuation compression risk.",
+        "zh": "利率敏感持续存在。AI 需求结构性好，但估值压缩风险。"
+      }
+    },
+    {
+      "title": {
+        "en": "10-Year Treasury Yields Elevated Continue to Weigh on Growth Stocks Despite Oil Price Stabilization",
+        "zh": "Elevated收益率仍压制成长股表现，尽管油价趋于稳定"
+      },
+      "impact": {
+        "en": "Bond market volatility transmits risk premiums through equity valuations. High yield environment favors value over growth rotation.",
+        "zh": "债券波动通过股票估值传导风险溢价。高收益环境有利于价值而非成长轮动。"
+      },
+      "bullish": [],
+      "bearish": ["SPY"],
+      "macroRisk": {
+        "en": "Yes - Real yields and inflation expectations impact risk asset pricing across all sectors.",
+        "zh": "是——实际收益率和通胀预期影响所有行业的风险资产定价。"
+      }
+    },
+    {
+      "title": {
+        "en": "DXY Dollar Index Stability Amid Mixed Data, Oil Prices Tumble on Temporary Ceasefire Reports",
+        "zh": "美元指数保持稳定，油价因停火报告而暴跌"
+      },
+      "impact": {
+        "en": "Oil-linked energy producers benefit from potential price stabilization. DXY watch indicates Fed policy balance amid inflation data.",
+        "zh": "与石油相关的能源生产商受益于价格稳定可能。DXY 观察表明在通胀数据下美联储政策平衡。"
+      },
+      "bullish": [],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Commodity price transmission affects energy sector disproportionately. Currency fluctuations impact import-heavy manufacturers.",
+        "zh": "商品价格传导不成比例地影响能源板块。汇率波动影响依赖进口的制造商。"
+      }
+    },
+    {
+      "title": {
+        "en": "Asian Markets Rally on Peace Deal News as US Futures Begin Lower",
+        "zh": "亚洲股市因和平协议消息上涨，美股期指开始走低"
+      },
+      "impact": {
+        "en": "Positive global sentiment contrasts with cautious US premarket. Risk-on flows may materialize if diplomatic breakthroughs hold.",
+        "zh": "积极全球情绪与美国谨慎盘前形成对比。如果外交突破得到维持，风险偏好流动可能实现。"
+      },
+      "bullish": [],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Diplomatic success could de-escalate energy security concerns. Oil price stability benefits portfolios sensitive to commodity exposure.",
+        "zh": "外交成功可能缓和能源安全担忧。油价稳定使对商品敞口敏感的投资组合受益。"
+      }
+    },
+    {
+      "title": {
+        "en": "Market Sentiment Fragile: AI Chip Demand Strong but Mag-7 Valuation Concerns Persist",
+        "zh": "市场情绪脆弱：AI 芯片需求强劲但七巨头估值担忧持续存在"
+      },
+      "impact": {
+        "en": "Sector rotation intensifies between hardware beneficiaries and growth-sensitive names. Macro environment dictates risk tolerance.",
+        "zh": "硬件受益者与收益敏感名称之间行业轮动加剧。宏观环境决定风险容忍度。"
+      },
+      "bullish": [],
+      "bearish": ["QQQ", "SPY"],
+      "macroRisk": {
+        "en": "Growth stocks particularly vulnerable to yield spikes. Structural AI demand vs valuation compression creates sector divergence.",
+        "zh": "成长股对收益率飙升特别脆弱。结构性AI需求与估值压缩造成行业分化。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Mixed signals: Micron(MU) pushes higher on AI chip demand, while Oracle and others slide. SpaceX(-16%) drags sentiment but underlying hardware build-out trend remains intact.",
+      "zh": "信号混杂：美光 (MU 因芯片需求走高，而甲骨文等其他公司下滑。SpaceX(-16%)拖累情绪但底层硬件建设趋势保持不变。"
+    },
+    "semiconductor": {
+      "en": "Divergent as AI hardware demand strong but valuations compressed. Memory and foundry segments outperform pure-play logic design amid yield sensitivity.",
+      "zh": "分化：AI 硬件需求强劲但估值压缩。内存和晶圆制造部门在收益敏感下表现优于纯逻辑设计公司。"
+    },
+    "bigTech": {
+      "en": "Mag-7 under pressure with SpaceX-led selloff. Cloud/AI infrastructure companies more resilient than consumer-facing tech amid economic slowdown fears.",
+      "zh": "七巨头受压力，SpaceX 抛售拖累。云/AI基础设施公司在经济放缓担忧下比面向消费端科技公司更具韧性。"
+    },
+    "energy": {
+      "en": "Volatile on geopolitical news. Oil prices stabilize after temporary ceasefire reports, creating mixed outlook. Energy producers benefit from price support despite uncertainty.",
+      "zh": "受地缘政治新闻影响波动剧烈。油价在暂时停火报告后稳定，前景混杂。能源生产商受益于价格支撑尽管存在不确定性。"
+    },
+    "ev": {
+      "en": "Mixed: EV demand slows but China exports resilient. Traditional OEMs vs pure-play new entrants diverge as macro environment shifts.",
+      "zh": "分化：EV 需求放缓但中国出口有韧性。传统汽车制造商与纯电动车新进入者在宏观环境转变时表现不同。"
+    },
+    "market": {
+      "en": "Futures broadly lower amid tech sector concerns. Geopolitical resolution in Middle East could be risk-on catalyst but yield sensitivity dominates.",
+      "zh": "期指普遍走低，因科技板块担忧。中东地缘政治解决可能成为风险偏好催化剂但收益率敏感度主导局面。"
+    },
+    "preciousMetals": {
+      "en": "Gold/silver show resilience amid geopolitical uncertainty and yield volatility. Traditional safe-haven demand vs inflation hedge role.",
+      "zh": "金银在地缘政治不确定性和收益波动下显示韧性。传统避险需求与通胀对冲角色并存。"
+    },
+    "oil": {
+      "en": "Prices volatile on Middle East conflict news. Potential supply disruption via Strait of Hormuz creates upside case even if temporary ceasefire reported.",
+      "zh": "油价在地中海冲突新闻中波动剧烈。霍尔木兹海峡潜在供应中断创造上涨案例即使有暂时停火报告也被考虑在内。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "/S&P -0.4%, /Dow +0.29%, /Nasdaq -1.32% (tech selloff led by Mag-7, particularly SpaceX)",
+      "zh": "标普/道指纳斯达克跌幅 0.4%/+0.29%-1.32%(科技抛售由七巨头领导，尤其是 SpaceX)"
+    },
+    "treasury10Y": {
+      "en": "Elevated near 4.5-4.6% range, sensitive to inflation data and geopolitical risk premium",
+      "zh": "在 elevated around 4.5%-4.6%(对通胀数据和地缘政治风险溢价敏感)"
+    },
+    "dxy": {
+      "en": "Stable near recent ranges despite mixed economic signals. Watch for Fed policy implications.",
+      "zh": "相对稳定于近期范围，尽管经济信号混杂。关注美联储政策影响。"
+    },
+    "oil": {
+      "en": "$65-70 WTI/Brent range as geopolitical tensions ease temporarily but supply uncertainty remains",
+      "zh": "WTI 布伦特油价美元/在 $65-70/(地缘政治紧张暂时缓和但供应不确定性犹存)"
+    },
+    "keyRisk": {
+      "en": "US-Iran conflict escalation risk, AI sector valuation compression following Mag-7 selloff",
+      "zh": "美伊冲突升级风险，AI 板块估值在七巨头抛售后压缩"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Geopolitical de-escalation provides risk-on foundation but tech sector volatility (especially SpaceX) creates mixed outcome. Oil price dynamics add uncertainty to energy-sensitive portfolios while AI fundamentals remain strong.",
+      "zh": "地缘政治缓和提供风险偏好基础，但科技板块波动（尤其是 SpaceX）造成混合结果。油价动态增加能源敏感投资组合不确定性而 AI 基本面保持强劲。"
+    }
+  }
+}
