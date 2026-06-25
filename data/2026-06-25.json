@@ -1,0 +1,192 @@
+{
+  "date": "2026-06-25",
+  "summary": {
+    "en": "Micron's surprise earnings surge reignited the AI trade, with Nasdaq futures jumping ~2% ahead of today's PCE inflation data. Oil markets ignored IRGC threats as WTI tested pre-conflict levels near $78/Bbl while gold fell below $4K amid disinflationary signals.",
+    "zh": "美光（MU）意外强劲的财报引发 AI 板块反弹，纳指期货上涨约 2%，今日 PCE 通胀数据公布前市场情绪回暖。油价无视 IRGC 威胁而维持在战前水平附近$78/Bbl，黄金在去通胀信号下跌破$4K。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Micron (MU) earnings surge +16% after-hours sparks tech rally ahead of PCE data",
+        "zh": "美光盘后暴涨+16%，点燃科技股反弹，市场关注今晚 PCE 通胀数据"
+      },
+      "impact": {
+        "en": "Strong Q3 revenue guidance ($50B vs $43.6B expected) and quadrupled margins validate AI memory demand, lifting broad semiconductor/AI ecosystem including Qualcomm (+13%), Sandisk, Western Digital.",
+        "zh": "强劲第三季度营收指引（$50B 对预期$43.6B）和四倍毛利率验证AI存储需求，带动半导体/ broader AI生态包括高通(+13%)、闪迪等"
+      },
+      "bullish": ["XLK", "SOXX", "SMH", "VGT"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - earnings-driven rally, not macro-inflationary pressure. Oil disinflation from Hormuz reopening supports inflation pivot thesis.",
+        "zh": "无-业绩驱动的反弹，非宏观通胀压力。霍尔木兹海峡重开带动油价去通胀，支持美联储转鸽论点"
+      }
+    },
+    {
+      "title": {
+        "en": "Qualcomm lifts non-handset revenue forecast to $40B, reinforcing AI chip supercycle",
+        "zh": "高通上调非手机营收目标至$40B，强化AI芯片超级周期逻辑"
+      },
+      "impact": {
+        "en": "Non-cellular businesses (IoT/automotive/server) surging on generative AI adoption, extending rally to semiconductor ETFs and design houses.",
+        "zh": "非手机业务（物联网/汽车/服务器）因生成式AI采用率上升而激增，推动半导体ETF和设计公司"
+      },
+      "bullish": ["QCOM", "SMH", "SOXX"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - sector-specific earnings catalyst; macro risk remains PCE data tonight.",
+        "zh": "无-板块特定业绩催化；主要宏观风险为今晚PCE数据"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil markets ignore IRGC threats as WTI tests $69/Bbl despite Strait of Hormuz tensions",
+        "zh": "油价无视IRGC威胁，WTI战前测试$69/桶尽管霍尔木兹海峡紧张局势"
+      },
+      "impact": {
+        "en": "US-Iran peace progress + oil supply reopening disinflationary for inflation data. If WTI < $75/Bbl sustained, supports Fed pivot and rate cuts.",
+        "zh": "美伊和平进展+供应重开对通胀数据形成去通胀。若WTI稳定<$75/桶，将支持美联储转鸽和降息"
+      },
+      "bullish": ["USO", "UNL"],
+      "bearish": ["XLE"],
+      "macroRisk": {
+        "en": "Yes - disinflationary oil supports pivot thesis, reduces inflation pressure on PCE readout.",
+        "zh": "是-油价去通胀支持转鸽论点，降低PCE读数上的通胀压力"
+      }
+    },
+    {
+      "title": {
+        "en": "Gold falls below $4K/oz as USD strengthens and oil prices decline amid risk-on sentiment",
+        "zh": "黄金跌破$40/盎司因美元走强和油价下跌，风险偏好情绪升温"
+      },
+      "impact": {
+        "en": "Risk-on flows hit safe havens. Gold/Oil inverse relationship confirmed as inflation expectations ease via oil disinflation.",
+        "zh": "风险流入避险资产。黄金与石油的负相关关系得到证实，因油价去通胀降低了通胀预期"
+      },
+      "bullish": ["GDX"],
+      "bearish": ["GLD", "SLV"],
+      "macroRisk": {
+        "en": "Yes - declining gold + oil signals easing inflation/strength in USD, could impact PCE perception.",
+        "zh": "是-黄金与油价下跌表明通胀缓和/美元走强，可能影响PCE解读"
+      }
+    },
+    {
+      "title": {
+        "en": "US May Core PCE expected to print hotter (3.4% core vs 3.3%) - key inflation gauge tonight at GMT 12:30",
+        "zh": "5月核心PCE预期更热（核心3.4%对前值3.3%）-今晚GMT 12:30关键通胀指标"
+      },
+      "impact": {
+        "en": "Fed's preferred inflation gauge could reinforce hawkish pivot if hotter than expected, affecting bond yields and stock valuations.",
+        "zh": "美联储偏好的通胀指标若超预期可能强化强硬转鸽，影响美债收益率和股票估值"
+      },
+      "bullish": ["TLT", "IEF"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Critical - Core PCE directly impacts Fed pivot thesis. Hotter print → higher yields, lower growth stocks.",
+        "zh": "关键-核心PCE直接影响转鸽论点。热读数→收益率上升，成长股承压"
+      }
+    },
+    {
+      "title": {
+        "en": "Australian jobs beat (40.3K vs 30.3K) but part-time mix raises hawkish RBA inflation debate",
+        "zh": "澳洲就业数据超预期（40,300对30,300），但兼职比例引发RBA通胀鹰派辩论"
+      },
+      "impact": {
+        "en": "Sticky core CPI at 3.6% YY keeps RBA rate hike possibility alive; AUD mixed sentiment impacts EM and global rates.",
+        "zh": "核心CPI粘性在3.6%年率，RBA加息可能性仍存；澳元分化情绪影响新兴市场和全球利率"
+      },
+      "bullish": ["FXI", "EEM"],
+      "bearish": ["EWJ", "KWEB"],
+      "macroRisk": {
+        "en": "Moderate - Australian inflation data influences global commodity prices and risk sentiment.",
+        "zh": "中等-澳洲通胀数据影响全球大宗商品和风险情绪"
+      }
+    },
+    {
+      "title": {
+        "en": "Venezuela 7.5 magnitude earthquake kills up to 100K, US aid pledged but oil impact minimal",
+        "zh": "委内瑞拉7.5级地震死亡人数或达10万，美国提供援助但油价影响微乎其微"
+      },
+      "impact": {
+        "en": "Catastrophic event impacts Venezuela economy; minor supply disruption vs Middle East tensions.",
+        "zh": "灾难性事件冲击委内瑞拉经济；供应中断相对中东紧张局势为轻微"
+      },
+      "bullish": [],
+      "bearish": ["XLE", "USO"],
+      "macroRisk": {
+        "en": "Low - regional crisis; oil supply impact negligible vs Hormuz geopolitical risk premium.",
+        "zh": "低-区域危机；油价供应影响相对霍尔木兹地缘政治风险溢价可忽略"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI rally reignited by Micron's earnings validation of memory demand. NVIDIA (NVDA), AMD, Super Micro all benefit from accelerated Capex cycles in data centers and edge AI.",
+      "zh": "美光业绩验证存储需求点燃AI板块。NVIDIA、AMD和华为等受益于数据中心和边缘AI的资本开支加速周期"
+    },
+    "semiconductor": {
+      "en": "Broad semiconductor rally: Qualcomm (+13%), Sandisk, Western Digital, Marvell on AI chip supercycle. Semiconductor equipment (AMAT, LRCX) and materials also lifted.",
+      "zh": "全面半导体反弹：高通(+13%)、闪迪、西部数据等在AI芯片超级周期中受益。半导体设备和材料也受到提振"
+    },
+    "bigTech": {
+      "en": "Big tech holding steady. NVDA/AMD rally on AI memory demand narrative; MSFT, GOOGL following cloud/AI infrastructure spend. Sectors mixed if PCE data disappoints.",
+      "zh": "大科技维持稳定。NVDA和AMD受益于AI存储需求叙事；MSFT、GOOG跟随云/AI基础设施支出。若PCE数据令人失望，板块分化"
+    },
+    "energy": {
+      "en": "Oil (WTI $69) testing pre-conflict levels as US-Iran peace progress + Strait of Hormuz reopening creates disinflationary backdrop. XLE under pressure vs USO bullish on supply fears.",
+      "zh": "油价(WTI$69)测试战前水平，因美伊和平进展+霍尔木兹重开形成去通胀背景。XLE承压而USO对供应担忧看涨"
+    },
+    "ev": {
+      "en": "EV sector (RIVN, LCID, NIO) lags on broader auto sentiment and macro uncertainty. Battery supply chain benefits from AI data center electrification but consumer demand weak.",
+      "zh": "电动车板块(RIVN、LCID、NIO)在总体汽车情绪和宏观不确定下落后。电池供应链受益于AI数据中心电气化但消费疲软"
+    },
+    "market": {
+      "en": "Risk-on sentiment with Nasdaq futures +2%, S&P +0.6% on Micron catalyst. Breadth expanding into semiconductor/AI ecosystem, but PCE data remains key uncertainty.",
+      "zh": "风险偏好情绪，纳指期货+2%，标普+0.6%因美光催化。广度扩展到半导体和AI生态，但PCE数据仍为关键不确定性"
+    },
+    "preciousMetals": {
+      "en": "Gold fell below $4K/oz as USD strengthens and oil disinflationary signals ease inflation fears. Silver hit lows near$56/Oz on risk-on flows hitting safe havens.",
+      "zh": "黄金跌破$40/盎司因美元走强和油价去通胀信号减轻通胀担忧。白银受风险偏好流入避险资产触及低点约$56"
+    },
+    "oil": {
+      "en": "WTI testing $69/Bbl vs Brent at $78.36 below 200-day SMA. US-Iran peace progress reduces geopolitical risk premium despite IRGC threats. Venezuela earthquake impact negligible.",
+      "zh": "WTI测试$69/桶对布伦特在$78.36低于200日移动平均。美伊和平进展减少地缘政治风险溢价尽管IRGC威胁。委内瑞拉地震影响可忽略"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "Nasdaq +1.8%, S&P +0.6%, Dow +0.2% on Micron/Qualcomm earnings catalysts.",
+      "zh": "纳指+1.8%，标普+0.6%，道指+0.2%在美光和高通业绩催化下"
+    },
+    "treasury10Y": {
+      "en": "~3.95-4.0%, easing on oil disinflation and dovish ECB signals ahead of PCE.",
+      "zh": "~3.95%-4.0%，因油价去通胀和对PCE之前鸽派ECB信号而回落"
+    },
+    "dxy": {
+      "en": "107-108 range on risk-on flows and oil disinflation easing inflation fears.",
+      "zh": "107-108范围因风险偏好和油价去通胀减轻通胀担忧"
+    },
+    "oil": {
+      "en": "WTI $69.5/Bbl, Brent $78.36 testing support levels pre-conflict Iran tensions.",
+      "zh": "WTI$69.5/桶，布伦特$78.36测试战前伊朗紧张局势支撑水平"
+    },
+    "keyRisk": {
+      "en": "US May Core PCE inflation data at 12:30 PM GMT (today). Hotter than expected → higher yields, lower growth stocks; cooler supports rate cut pivot.",
+      "zh": "美国5月核心PCE通胀数据于今日GMT下午12点公布。超预期热→收益率更高，成长股更低；较弱支持降息转鸽"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Mixed sentiment: AI rally driven by earnings (bullish) but macro uncertainty from PCE data tonight keeps risk-off potential. Oil disinflation supports pivot, but if Core PCE ≥ 3.5% core YoY, yields could spike and tech underperforms.",
+      "zh": "混合情绪：AI板块由业绩驱动（看涨），但今晚PCE数据的宏观不确定性保留风险规避潜力。油价去通胀支持转鸽，但若核心PCE≥3.5%，收益率可能飙升而科技股表现疲软"
+    }
+  },
+  "__disclaimer__": {
+    "en": "**YUCLAW signals are research classifications, NOT investment recommendations.** All briefs carry appropriate disclaimers before distribution.",
+    "zh": "**YUCLAW信号为研究分类，非投资建议。**所有简报在分发前均附有适当免责声明"
+  }
+}
