@@ -1,0 +1,160 @@
+{
+  "date": "2026-06-26",
+  "summary": {
+    "en": "The tape is event-driven into the weekend: U.S. retaliatory action on Iran has revived a fresh oil-risk premium, while Nasdaq futures lag and gold stays bid. The broad market is still only mildly softer, so this is more of a rotation shock than a full risk-off break for now.",
+    "zh": "周末前的主线是典型的事件驱动：美国对伊朗的报复性行动重新抬升了原油风险溢价，纳指期货继续跑输，而黄金保持强势。整体市场只是小幅走弱，因此当前更像是风格轮动冲击，而不是全面的风险出清。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "U.S. confirms retaliatory strike on Iran, pulling oil prices higher after hours",
+        "zh": "美国确认对伊朗实施报复性打击，盘后推升油价"
+      },
+      "impact": {
+        "en": "The headline restores a geopolitical risk premium to crude after weeks of de-escalation talk. That matters because higher energy prices can feed back into inflation expectations, Treasury yields, transports and consumer cyclicals before the market has time to digest the weekend headlines.",
+        "zh": "这一消息把原本被压缩的地缘政治风险溢价重新带回原油市场。其重要性在于，油价上行会通过通胀预期、美债收益率、运输板块和可选消费链条传导，且周末前市场很难提前完全定价。"
+      },
+      "bullish": ["XLE", "USO", "GLD"],
+      "bearish": ["IYT", "JETS", "QQQ"],
+      "macroRisk": {
+        "en": "Yes - oil -> inflation expectations -> higher yields -> lower long-duration multiples if the escalation persists.",
+        "zh": "是 - 若局势升级，传导路径将是油价上行 -> 通胀预期抬升 -> 收益率上移 -> 长久期估值承压。"
+      }
+    },
+    {
+      "title": {
+        "en": "Tech stocks log one of their worst weeks in a year as AI momentum cracks",
+        "zh": "科技股录得年内较差一周之一，AI 动能明显松动"
+      },
+      "impact": {
+        "en": "The market is telling us that AI leadership is no longer a one-way trade. When semis, cloud and mega-cap tech all lose traction together, factor exposure matters more than story stock selection and the index can remain fragile even if the macro backdrop is not collapsing.",
+        "zh": "市场正在提示：AI 领导力不再是单边交易。若半导体、云和大科技同步失去动能，因子暴露比个股故事更重要，即便宏观并未崩坏，指数层面也可能持续脆弱。"
+      },
+      "bullish": ["XLE", "XLP"],
+      "bearish": ["QQQ", "SMH", "SOXX", "NVDA"],
+      "macroRisk": {
+        "en": "Yes - a deeper AI de-rating would hit broad market sentiment because it is still the dominant U.S. growth engine.",
+        "zh": "是 - 如果 AI 估值继续下修，整体风险偏好会被拖累，因为它仍然是美股最核心的增长引擎。"
+      }
+    },
+    {
+      "title": {
+        "en": "ServiceNow, Salesforce and other software names surge as OpenAI disruption fears ease",
+        "zh": "ServiceNow、Salesforce 等软件股上涨，OpenAI 冲击担忧缓和"
+      },
+      "impact": {
+        "en": "This is an important internal rotation signal inside tech: investors are rewarding incumbents that can defend workflows and enterprise budgets even while the AI platform narrative remains loud. If the move holds, software could outperform hardware-heavy semis on a relative basis.",
+        "zh": "这是科技内部很重要的轮动信号：即使 AI 平台叙事仍然强势，市场开始奖励那些能守住工作流和企业预算的传统软件龙头。若该走势延续，软件相对硬件属性更强的半导体可能更占优。"
+      },
+      "bullish": ["NOW", "CRM", "ADBE"],
+      "bearish": ["SNOW", "NVDA"],
+      "macroRisk": {
+        "en": "No - this is mostly a valuation and competitive-positioning rotation rather than a macro growth shock.",
+        "zh": "否 - 这更像是估值和竞争格局的内部轮动，而不是宏观增长层面的冲击。"
+      }
+    },
+    {
+      "title": {
+        "en": "Bond yields ease even as inflation chatter persists, keeping duration supported for now",
+        "zh": "尽管通胀讨论仍在，债券收益率回落，久期资产暂获支撑"
+      },
+      "impact": {
+        "en": "Lower yields cushion growth valuations and can help the market absorb the tech selloff, but they also signal that the bond market is not yet convinced inflation will re-accelerate in a straight line. If oil stays elevated, that calm could fade quickly.",
+        "zh": "收益率回落对成长股估值形成缓冲，也有助于市场消化科技回撤；但这也说明债市并未完全相信通胀会直线再加速。若油价继续走高，这种平静很可能很快消失。"
+      },
+      "bullish": ["TLT", "IEF", "XLK"],
+      "bearish": ["XLF", "KRE"],
+      "macroRisk": {
+        "en": "Yes - the bond market is effectively weighing growth support against an oil-driven inflation impulse.",
+        "zh": "是 - 债市本质上是在权衡增长支撑与油价驱动的通胀冲击。"
+      }
+    },
+    {
+      "title": {
+        "en": "Shipping-insurance and freight risk reprice as war-risk premiums were too low",
+        "zh": "航运保险和运费风险重新定价，战时风险溢价此前过低"
+      },
+      "impact": {
+        "en": "Even without a full supply outage, the price of moving barrels and goods can move quickly when risk premiums reset. That can spill into transport margins, air travel, industrial inputs and the broader inflation narrative.",
+        "zh": "即便没有出现全面供给中断，风险溢价重估也会迅速影响原油和货物流通成本。这种变化会外溢到运输利润、航空出行、工业投入以及更广泛的通胀叙事。"
+      },
+      "bullish": ["XLE", "OIH", "GLD"],
+      "bearish": ["IYT", "JETS"],
+      "macroRisk": {
+        "en": "Yes - freight and insurance inflation can become the second-order channel if the geopolitical shock lasts.",
+        "zh": "是 - 如果地缘冲击持续，运费与保险通胀会成为更重要的二阶传导渠道。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI leadership is under pressure after a weak week, so the market is now demanding proof from earnings and spend plans rather than buying every dip. That usually means higher dispersion within the group and less tolerance for stretched multiples.",
+      "zh": "AI 领导力在疲弱的一周后承压，市场现在更看重业绩和资本开支兑现，而不是逢低就买。通常这意味着板块内部会更分化，且对高估值的容忍度更低。"
+    },
+    "semiconductor": {
+      "en": "Semis remain the cleanest expression of the AI unwind: the tape has been softer across memory, analog, equipment and design names. Until the market sees a new catalyst, this group likely trades as a beta reducer rather than a beta leader.",
+      "zh": "半导体仍是 AI 退潮最直接的表达：存储、模拟、设备和设计类标的整体都偏弱。除非出现新的催化，否则该板块更像是降低 beta 的工具，而不是引领 beta 的方向。"
+    },
+    "bigTech": {
+      "en": "Big Tech is split. Apple and Microsoft have held relatively better, but the AI-heavy end of the complex is still exposed to multiple compression if geopolitics or yields keep moving against duration.",
+      "zh": "大科技内部明显分化。苹果和微软相对抗跌，但若地缘风险或利率继续对长久期不利，AI 权重更高的部分仍会面临估值压缩压力。"
+    },
+    "energy": {
+      "en": "Energy is the clearest beneficiary of the Iran headline because the market has to re-price supply risk even if the front-month close still says de-escalation is possible. If crude holds above the low-70s, energy equities should stay bid.",
+      "zh": "能源板块最直接受益于伊朗事件，因为即便近月结算价仍暗示局势可能缓和，市场也必须重新给供给风险定价。若油价能守住 70 美元附近，能源股大概率还能维持买盘。"
+    },
+    "ev": {
+      "en": "EV names remain macro-beta vehicles more than standalone stories. Higher oil can help the relative pitch for electrification, but financing costs and consumer demand still matter more for near-term performance.",
+      "zh": "电动车更多仍是宏观 beta 工具，而不是独立叙事。油价走高会改善电动化的相对逻辑，但短期表现更取决于融资成本和终端需求。"
+    },
+    "market": {
+      "en": "The market tone is mixed to event-driven: the major averages were only modestly lower, but Nasdaq futures lagged and the leadership set is narrowing. Volatility is not breaking out yet, which suggests investors are hedging rather than fully de-risking.",
+      "zh": "整体市场基调偏混合且以事件驱动为主：主要指数只是小幅回落，但纳指期货明显跑输，且领涨范围在收窄。波动率尚未彻底失控，说明资金更像是在对冲，而不是全面去风险。"
+    },
+    "preciousMetals": {
+      "en": "Gold is acting as the cleanest hedge, helped by geopolitical demand and a market that still wants protection against both rate and risk shocks. Silver is also strong, which suggests the move is not just a pure panic bid.",
+      "zh": "黄金是最清晰的避险资产，受益于地缘需求，以及市场对利率和风险冲击的双重防御诉求。白银同样偏强，说明这波上涨不只是单纯的恐慌性买盘。"
+    },
+    "oil": {
+      "en": "WTI around $70 and Brent around $73.8 leave room for either a de-escalation fade or a sharp weekend spike, so oil remains the key variable for the next session. The current level says risk premium is back, but not yet fully stretched.",
+      "zh": "WTI 约在 70 美元、Brent 约在 73.8 美元附近，这意味着下一交易日既可能出现缓和回落，也可能在周末消息下快速上冲，因此油价仍是下一个交易时段的关键变量。当前水平说明风险溢价已经回来了，但还没有被完全拉满。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "ES=F is around 7,397 (-0.35%), NQ=F around 29,283 (-1.49%), and YM=F around 52,161 (-0.34%). The key message is that Nasdaq futures are underperforming, so growth and AI are still the weakest legs.",
+      "zh": "ES=F 约 7,397（-0.35%），NQ=F 约 29,283（-1.49%），YM=F 约 52,161（-0.34%）。核心信息是纳指期货明显跑输，因此成长股和 AI 仍是最弱一环。"
+    },
+    "treasury10Y": {
+      "en": "A clean live 10Y quote was not directly readable from the public pages I could access, but the curve still looks anchored in the low-4% area. That keeps rates supportive enough for now, though any oil-driven repricing could change that quickly.",
+      "zh": "我能直接读取的公开页面里没有拿到清晰的 10Y 实时报价，但收益率曲线看起来仍锚定在 4% 出头的低 4 区间。这样对市场暂时还有支撑，不过如果油价重新定价，这一格局可能很快改变。"
+    },
+    "dxy": {
+      "en": "DXY is around 101.37, slightly lower on the day, so the dollar is not adding extra pressure to risk assets right now.",
+      "zh": "DXY 约在 101.37，日内略低，因此美元暂时没有给风险资产施加额外压力。"
+    },
+    "oil": {
+      "en": "WTI is around $70.24 and Brent around $73.76. The after-hours Iran headline argues for a premium, but the front-month settlement still shows the market is not fully pricing a supply shock yet.",
+      "zh": "WTI 约 70.24 美元，Brent 约 73.76 美元。伊朗相关的盘后消息确实在抬升风险溢价，但近月结算价仍表明市场还没有完全定价供应冲击。"
+    },
+    "keyRisk": {
+      "en": "Weekend escalation risk is the main thing to watch. If crude gaps higher and yields follow, the next session could quickly flip from a tech-led rotation to a broader risk-off response.",
+      "zh": "周末局势升级风险是当前最需要盯住的变量。若原油跳高且收益率跟随上行，下一个交易时段很可能会从科技轮动迅速切换成更广泛的风险规避反应。"
+    }
+  },
+  "judgment": {
+    "type": "event-driven",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Geopolitics is steering the tape more than macro right now: oil and gold are bid, Nasdaq futures lag, and the market is waiting to see whether the Iran headline becomes a sustained energy shock or just a weekend fade.",
+      "zh": "当前主导市场的不是宏观数据，而是地缘政治：油价和黄金都在走强，纳指期货继续跑输，市场正在等待伊朗事件究竟会演化成持续的能源冲击，还是只在周末前昙花一现。"
+    }
+  },
+  "__disclaimer__": {
+    "en": "**YUCLAW signals are research classifications, NOT investment recommendations.** All briefs carry appropriate disclaimers before distribution.",
+    "zh": "**YUCLAW 信号仅为研究分类，非投资建议。** 所有晨报在分发前均附带适当免责声明。"
+  }
+}
