@@ -1,0 +1,142 @@
+{
+  "date": "2026-06-30",
+  "summary": {
+    "en": "U.S. futures are mixed to slightly firmer after Monday's strong close, with the Dow holding above 52,000 and mega-cap tech still doing most of the work. The overnight focus is the Iran/Hormuz risk premium: oil remains high enough to support energy, but not yet high enough to force a broad inflation shock.",
+    "zh": "美股期货在周一强势收盘后呈现分化但略偏强，道指站稳 52,000 点上方，推动指数的仍然主要是大市值科技股。盘前最重要的变量是伊朗与霍尔木兹海峡带来的地缘风险溢价：油价足以支撑能源板块，但还没有高到足以引发全面通胀冲击。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Dow closes above 52,000 as tech powers another risk-on session",
+        "zh": "道指收于 52,000 点上方，科技股继续推动风险偏好回升"
+      },
+      "impact": {
+        "en": "The tape is still being carried by a small group of mega-cap leaders, which is positive for index levels but leaves breadth fragile. If the leadership group pauses, the broader market may struggle to keep pace.",
+        "zh": "当前上涨仍主要由少数大市值龙头驱动，这对指数点位有利，但对市场广度并不友好。若领涨群体停顿，其他板块未必能顺利接棒。"
+      },
+      "bullish": [
+        "Mega-cap technology",
+        "AI infrastructure"
+      ],
+      "bearish": [
+        "Weak breadth",
+        "High-beta laggards"
+      ],
+      "macroRisk": {
+        "en": "A leadership fade would expose how dependent the rally is on a narrow set of names.",
+        "zh": "一旦领涨力量减弱，市场会更清楚地暴露出本轮反弹对少数股票的依赖。"
+      }
+    },
+    {
+      "title": {
+        "en": "AI jitters still cap the Nasdaq tape even as long-term capex demand stays intact",
+        "zh": "AI 情绪仍压制纳指节奏，但长期资本开支需求依旧稳固"
+      },
+      "impact": {
+        "en": "Near-term positioning and quarter-end rebalancing can keep semis and AI names choppy, but the underlying cloud and infrastructure spending cycle is still constructive. This is more a valuation and flow issue than a demand collapse.",
+        "zh": "短期仓位与季末再平衡会让半导体和 AI 个股波动加大，但云计算和基础设施支出周期本身仍然偏正面。这更像估值和资金流问题，而不是需求塌陷。"
+      },
+      "bullish": [
+        "AI capex visibility",
+        "Cloud infrastructure spend"
+      ],
+      "bearish": [
+        "Semiconductor valuation risk",
+        "Positioning-driven volatility"
+      ],
+      "macroRisk": {
+        "en": "If yields keep edging higher, duration-sensitive AI leaders can de-rate quickly.",
+        "zh": "如果收益率继续上行，久期敏感的 AI 龙头股可能很快出现估值压缩。"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil stays around $71 as Strait of Hormuz risk keeps a floor under energy",
+        "zh": "油价维持在 71 美元附近，霍尔木兹风险为能源板块提供支撑"
+      },
+      "impact": {
+        "en": "Crude is high enough to matter for inflation expectations and energy equities, but not yet high enough to force a recession-style re-rating. That keeps the market in a watchful, not panicked, stance.",
+        "zh": "原油价格已经足以影响通胀预期和能源股，但还没有高到迫使市场按衰退逻辑重定价。这意味着市场处于警惕状态，而不是恐慌状态。"
+      },
+      "bullish": [
+        "Energy producers",
+        "Oil services"
+      ],
+      "bearish": [
+        "Airlines",
+        "Transport names"
+      ],
+      "macroRisk": {
+        "en": "A move toward $80 would quickly lift inflation breakevens and Treasury yields.",
+        "zh": "如果油价逼近 80 美元，通胀预期和美债收益率会很快被推高。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI remains structurally bullish, but the trade is now more sensitive to yields and end-of-quarter positioning. Expect leadership to persist, though with sharper rotations inside the group.",
+      "zh": "AI 的结构性逻辑仍然偏多，但交易层面越来越受利率和季末仓位影响。领涨格局大概率还在，只是组内轮动会更剧烈。"
+    },
+    "semiconductor": {
+      "en": "Semis are still the cleanest way to express AI demand, but they are also the most exposed to valuation compression if rates grind higher. Short-term tape can stay messy even while the medium-term story stays intact.",
+      "zh": "半导体仍是表达 AI 需求最直接的方向，但在利率继续上行时也最容易遭遇估值压缩。短线走势可能继续偏乱，但中期逻辑并未破坏。"
+    },
+    "bigTech": {
+      "en": "Mega-cap tech looks the most resilient because cash flow quality can absorb macro noise. The risk is concentration: if the leaders wobble, the whole index loses support quickly.",
+      "zh": "大科技因为现金流质量高，最能承受宏观噪音。风险在于集中度太高：一旦龙头松动，整个指数会迅速失去支撑。"
+    },
+    "energy": {
+      "en": "Energy is the clearest geopolitical hedge on the board. The sector should stay bid as long as oil keeps a conflict premium and the market believes supply disruption is possible.",
+      "zh": "能源是当前最明确的地缘对冲方向。只要油价还带有冲突溢价、市场仍担心供应受扰，该板块就容易获得买盘。"
+    },
+    "ev": {
+      "en": "EV sentiment is mixed: higher oil is supportive over the long run, but higher yields and broader macro uncertainty still weigh on near-term multiples and demand confidence.",
+      "zh": "电动车情绪偏中性：油价走高对长期渗透率有帮助，但收益率上行和宏观不确定性仍会压制近端估值与需求信心。"
+    },
+    "market": {
+      "en": "The broad market is constructive but not clean. Futures are flat to slightly positive, yet breadth and month-end flows remain the biggest reasons the rally could stall.",
+      "zh": "大盘整体偏正面，但并不算顺畅。期货略偏强，不过市场广度和月末资金流仍是这轮上涨可能停顿的最大原因。"
+    },
+    "preciousMetals": {
+      "en": "Gold should stay supported as long as geopolitical headlines keep a safe-haven bid alive. It is not the main risk asset driver today, but it remains the cleanest hedge against escalation.",
+      "zh": "只要地缘新闻继续带来避险需求，黄金就有支撑。它不是今天的主导变量，但仍是应对升级风险最干净的对冲工具。"
+    },
+    "oil": {
+      "en": "WTI near $71 keeps the market alert without forcing panic. The key is whether the premium stays contained or broadens into a sustained inflation story.",
+      "zh": "WTI 在 71 美元附近让市场保持警觉，但还没有进入恐慌区间。关键在于这份溢价是被控制住，还是扩散成持续的通胀故事。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 E-minis are roughly flat to slightly higher, Nasdaq futures are a touch softer, and Dow futures are modestly positive. The setup is stable but not broad-based.",
+      "zh": "标普 500 期货基本持平略强，纳斯达克期货略软，道指期货小幅走高。盘前格局稳定，但不是全面普涨。"
+    },
+    "treasury10Y": {
+      "en": "The 10Y Treasury yield is around 4.39%, a bit firmer on the session. That is manageable for now, but it keeps pressure on long-duration tech if the move extends.",
+      "zh": "10 年期美债收益率约在 4.39%，盘中略有上行。当前仍属可控，但若继续抬升，会持续压制长久期科技股。"
+    },
+    "dxy": {
+      "en": "The DXY is around 101.34 and slightly firmer. A stable dollar supports risk assets at the margin, but it also signals that safe-haven demand has not fully disappeared.",
+      "zh": "美元指数约在 101.34，略有走强。美元稳定对风险资产边际上有利，但也说明避险需求并未完全退场。"
+    },
+    "oil": {
+      "en": "WTI crude is near $71, with the geopolitical premium still intact. Energy can stay supported, but a further spike would quickly change the macro conversation.",
+      "zh": "WTI 原油接近 71 美元，地缘溢价仍在。能源板块可以继续受益，但若再度飙升，宏观叙事会很快转向。"
+    },
+    "keyRisk": {
+      "en": "The main risk is a fresh escalation around the Strait of Hormuz, which would lift oil, push up inflation expectations, and pressure rates-sensitive stocks. Month-end rebalancing is the secondary risk.",
+      "zh": "主要风险仍是霍尔木兹海峡局势再度升级，这会推高油价、抬升通胀预期，并压制利率敏感股。其次要留意月末再平衡带来的资金扰动。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "The tape is slightly constructive, but not enough to call it clean risk-on because futures are mixed and geopolitics still matters. The market is supported by mega-cap tech and contained oil, yet it remains vulnerable to month-end flows and any jump in crude.",
+      "zh": "当前盘面略偏积极，但期货分化，暂时还不能算纯粹的 risk-on。大盘受大科技和受控油价支撑，不过仍容易受到月末资金流和油价急升的冲击。"
+    }
+  }
+}
