@@ -1,0 +1,120 @@
+{
+  "date": "2026-06-29",
+  "summary": {
+    "en": "U.S. equity futures edge higher as investors weigh the evolving US-Iran geopolitical standoff for signs of sustained deescalation rather than fresh escalation, with oil trading near $73 driven by Strait of Hormuz concerns but still below inflation-risk thresholds.",
+    "zh": "美股期货小幅走强，投资者关注美伊局势演变是否预示可持续降级而非新一轮升级，油价徘徊在 73 美元附近受霍尔木兹海峡担忧支撑但仍未达通胀警戒线。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "US Stock Futures Rise on Peace Talks Hope; Oil Holds Geopolitical Premium",
+        "zh": "美股期货因和平谈判希望而上涨；油价维持地缘溢价"
+      },
+      "impact": {
+        "en": "Risk-on sentiment supported by ceasefire durability, but quarter-end de-risking and algorithmic flow patterns limit upside. The peace narrative provides a floor below which equities may fall only on genuine escalation.",
+        "zh": "停火可持续性支撑风险偏好，但季度末去风险和算法交易模式限制上行空间。和平叙事为市场提供安全垫，仅真正升级才会跌破该防线。"
+      },
+      "bullish": ["S&P futures +0.3% into session", "Tech sector holds firm on peace narrative"],
+      "bearish": ["Quarter-end pension de-risking flows", "Algorithmic spread execution obscures flow signals"],
+      "macroRisk": {
+        "en": "Escalation to full conflict would spike oil above $80 and trigger broad market stress; current premium in Brent is not yet economically dangerous.",
+        "zh": "全面冲突升级将推升油价至 80 美元以上并引发市场压力；布伦特当前的溢价尚未达到经济危险水平。"
+      }
+    },
+    {
+      "title": {
+        "en": "Brent Crude Holds Near $73 as Hormuz Threat Remains Front and Center",
+        "zh": "布伦特原油维持 73 美元附近，霍尔木兹威胁成为焦点"
+      },
+      "impact": {
+        "en": "Oil price action reflects narrow conflict de-escalation but sustained threat to global supply. Not yet in the range that would force aggressive Fed response or broad inflation re-rating.",
+        "zh": "油价体现有限冲突降级但全球供应威胁持续存在。尚未达到迫使美联储激进应对或全面通胀重定价的水平。"
+      },
+      "bullish": ["Strait of Hormuz security uncertainty", "Geopolitical risk premium in energy"],
+      "bearish": ["Oil price remains below $75 economic danger threshold", "US military response limited and symbolic"],
+      "macroRisk": {
+        "en": "Sudden oil spike above $80 could trigger stagflation fears; current level is manageable within existing inventory buffers.",
+        "zh": "油价突然跃升超过 80 美元可能引发滞胀担忧；当前水平在现有库存缓冲内可管理。"
+      }
+    },
+    {
+      "title": {
+        "en": "AI Chip Sector Faces Near-Term Technical Headwinds; Long-term Structural Demand Intact",
+        "zh": "AI 芯片行业面临短期技术阻力；长期结构性需求完好无损"
+      },
+      "impact": {
+        "en": "Semiconductor stocks face intraday selling pressure but fundamental demand from AI infrastructure builds remains robust. Investors focus on quarter-end rebalancing noise rather than earnings quality.",
+        "zh": "半导体股票面临盘中抛压，但来自 AI 基础设施建设的实际需求依然强劲。投资者关注季度末再平衡噪音而非盈利质量。"
+      },
+      "bullish": ["AI infrastructure demand multi-year runway", "Cloud hyperscalers continue capex discipline"],
+      "bearish": ["Semiconductor sell-off continues amid quarter-end positioning shifts", "Technical weakness in chip names limits sector breadth"]
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI chip and infrastructure stocks face intraday selling pressure from algorithmic flows but remain supported by long-term earnings visibility. The peace narrative reduces macro volatility risk, allowing tech leaders to outperform if they can withstand quarter-end positioning shifts.",
+      "zh": "AI 芯片和基础设施股票面临算法流动带来的盘中抛压，但长期盈利可见性仍提供支撑。和平叙事降低宏观波动风险，只要科技巨头能抵御季度末再平衡调整，仍可跑赢大盘。"
+    },
+    "semiconductor": {
+      "en": "Chip stocks under selling pressure from quarter-end rebalancing flows, but AI demand fundamentals remain intact. Technical weakness is short-term noise; watch for recovery after positioning resets complete.",
+      "zh": "半导体股票面临季度末再平衡流动抛压，但 AI 需求基本面完好无损。技术弱势为短期噪音；观察再平衡完成后能否反弹。"
+    },
+    "bigTech": {
+      "en": "Mega-cap technology names hold firm amid geopolitical uncertainty, supported by strong cash flows and disciplined capex. Quarter-end flows may cause some volatility but fundamentals provide a durable floor.",
+      "zh": "大盘科技股在地缘不确定中表现坚挺，强劲现金流和审慎资本支出提供支撑。季度末流动可能引发波动但基本面形成持久安全垫。"
+    },
+    "energy": {
+      "en": "Oil and gas stocks trade higher with geopolitical risk premium but remain sensitive to escalation triggers. The market prices in narrow conflict de-escalation, not a full-scale war scenario.",
+      "zh": "油气股票以地缘风险溢价交易而上涨，但敏感于升级触发事件。市场定价体现有限冲突降级而非全面战争情景。"
+    },
+    "ev": {
+      "en": "EV sector faces mixed sentiment from oil price dynamics and geopolitical trade friction. Battery supply chains may be pressured by energy costs but demand elasticity provides cushioning.",
+      "zh": "电动车板块受油价动态和地缘贸易摩擦影响情绪分化。电池供应链可能承压但需求弹性提供缓冲。"
+    },
+    "market": {
+      "en": "Broad market futures edge higher on peace narrative support, with S&P and Nasdaq showing resilience despite quarter-end de-risking. The key is whether institutional flows remain constructive or turn defensive at critical junctures.",
+      "zh": "大盘期货在和平叙事支持下小幅走强，标普和纳斯达克尽管面临季度末去风险仍显示韧性。关键在于机构流动是在关键节点保持建设性还是转向防御。"
+    },
+    "preciousMetals": {
+      "en": "Gold and silver benefit from geopolitical uncertainty but remain secondary to equity risk-on flows. If escalation intensifies, precious metals would provide diversification value; current positioning favors equities.",
+      "zh": "黄金和白银受益于地缘不确定性，但仍次于股票风险偏好流动。如果升级加剧，贵金属将提供分散投资价值；当前配置偏向股票。"
+    },
+    "oil": {
+      "en": "Crude trades near $73 with geopolitical premium reflecting Strait of Hormuz threats but not yet at levels that would force immediate economic recession fears. Oil supply buffers absorb current tension.",
+      "zh": "原油在 73 美元附近交易，地缘溢价反映霍尔木兹海峡威胁但未达迫使立即担心经济衰退的水平。石油供应缓冲吸收当前紧张局势。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P E-mini futures +0.3%, Nasdaq 100 +1.1%, Dow Jones +0.7% into U.S. open; tech bounce led by mega-caps as investors reassess escalation probabilities and weigh quarter-end rebalancing noise.",
+      "zh": "标普微型期货涨 0.3%，纳斯达克费城工业平均指数涨 1.1%，道琼斯涨 0.7%；科技股反弹以大盘蓝筹领跌，投资者重估升级概率并权衡季度末再平衡噪音。"
+    },
+    "treasury10Y": {
+      "en": "10-year Treasury yields trading around flat to slightly lower with no immediate recession fears or fiscal surprises. Stable rates support risk assets without inflation spike concerns.",
+      "zh": "十年期国债收益率持平或略降，暂无立即衰退担忧或财政意外。稳定利率支持风险资产且无通胀飙升担忧。"
+    },
+    "dxy": {
+      "en": "DXY holds firm near current levels; dollar stable supports emerging markets without triggering commodity de-rating. USD strength reflects safe-haven flows that are balanced against geopolitical premium.",
+      "zh": "美元指数维持在当前水平附近；美元稳定支持新兴市场而不引发商品重定价。美强反映避险流动与地缘溢价的平衡。"
+    },
+    "oil": {
+      "en": "WTI around $68, Brent near $73 with geopolitical premium from Hormuz tensions. Energy sector trades above baseline but not at levels that would force recession re-rating.",
+      "zh": "WTI 约 68 美元，布伦特近 73 美元受霍尔木兹紧张地缘溢价支撑。能源板块交易高于基准但未到迫使衰退重定价的水平。"
+    },
+    "keyRisk": {
+      "en": "Primary risk remains escalation to full conflict over Strait of Hormuz, which would spike oil above $80 and trigger broad market stress. Secondary concern is quarter-end institutional de-risking flows.",
+      "zh": "主要风险仍是因霍尔木兹海峡升级为全面冲突，这将推升油价超过 80 美元并引发市场广泛压力。次要关注点是季度末机构去风险流动。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Equities edge higher on peace narrative support but remain vulnerable to quarter-end de-risking and escalation triggers. The judgment is mixed because geopolitical risk reduction offsets algorithmic selling pressure, yet institutional rebalancing at month end could cause unexpected weakness.",
+      "zh": "股票在和平叙事支持下小幅上涨但仍脆弱于季度末去风险和升级触发事件。判断分化因为地缘风险降低抵消算法抛压，但月末机构再平衡可能引发意外疲软。"
+    }
+  }
+}
