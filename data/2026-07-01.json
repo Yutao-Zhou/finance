@@ -1,0 +1,154 @@
+{
+  "date": "2026-07-01",
+  "summary": {
+    "en": "US futures soften into July as geopolitical tensions dim over US-Iran Doha peace talks, Fed rate hike fears mount with ~67% odds for September policy shift, and a strong Q2 rally draws profit-taking. Markets await ISM Manufacturing PMI (flash estimate at four-year high of 55.7) ahead today's formal release later midday.",
+    "zh": "美股期货在七月伊始温和回调，美伊多哈和平谈判前景降温、美联储加息预期升温（9 月政策转向概率约 67%）以及二季度反弹获利回吐成为三大主线。市场关注今日正式发布的 ISM 制造业 PMI 初值（四年高点 55.7）。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "US-Iran Doha Peace Talks Stall; Geopolitical Risk Premium Returns",
+        "zh": "美伊多哈和平谈判受阻；地缘政治风险溢价回归"
+      },
+      "impact": {
+        "en": "Diplomatic hopes dimmed after Tehran announced it won't meet directly with US envoys Jared Kushner and Steve Witkoff. Oil price drops ~1% as Brent slips below $69; risk assets承压 while defensive sectors supported.",
+        "zh": "德黑兰宣布不会直接与美方代表贾里德·库什纳和史蒂夫·维特科夫会面，外交希望降温。布伦特原油下跌约 1%，跌破 68.50 美元；风险资产受压，防御性板块获得支撑。"
+      },
+      "bullish": [
+        "XLE",
+        "OXY",
+        "COP"
+      ],
+      "bearish": [
+        "QQQ",
+        "IWM",
+        "XLK"
+      ],
+      "macroRisk": {
+        "en": "Geopolitical uncertainty in Middle East lifts oil demand premiums temporarily; watch for escalation vs. settlement dynamics as Doha talks progress.",
+        "zh": "中东地缘政治不确定性暂时提振石油需求溢价；关注多哈谈判进展中的升级与和解动态。"
+      }
+    },
+    {
+      "title": {
+        "en": "Fed Rate Hike Odds Rise: ~67% for September Policy Shift",
+        "zh": "美联储加息概率升至约 67%：9 月政策转向预期升温"
+      },
+      "impact": {
+        "en": "CME FedWatch Tool shows growing hawkish consensus. Treasury yields rise modestly but DXY strengthens, pressuring gold below $4015 and silver toward recent lows of ~$37.",
+        "zh": "CME 美联储观察工具显示鹰派共识增强。美债收益率温和上扬，美元指数走强压制黄金跌破 4015、白银逼近近期低点约 37.20 美元。"
+      },
+      "bullish": [
+        "TLT",
+        "IEFA"
+      ],
+      "bearish": [
+        "GLD",
+        "SLV",
+        "XAU"
+      ],
+      "macroRisk": {
+        "en": "Hawkish Fed expectations compress bond prices and pressure financial conditions; risk-off sentiment for rate-sensitive equities.",
+        "zh": "鹰派美联储预期压制债券价格并使金融条件收紧；对利率敏感的股票产生避险情绪。"
+      }
+    },
+    {
+      "title": {
+        "en": "ISM Manufacturing PMI Flash Estimate at Four-Year High of 55.7",
+        "zh": "ISM 制造业 PMI 初值升至四年高点 55.7"
+      },
+      "impact": {
+        "en": "Headline suggests strong US economic resilience but flash figure contains nearshoring rush and tariff front-loading distorting reading; new orders expansion at fastest pace since April 2022 while factory job cuts steepest since financial crisis.",
+        "zh": "初值显示美国经济韧性强劲，但快测数据受近岸外包冲刺和关税前置囤货扭曲；新订单扩张为自 2022 年 4 月以来最快，而工厂裁员力度为金融危机以来最严重。"
+      },
+      "bullish": [
+        "XLI",
+        "ITW"
+      ],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Tariff distortion and nearshoring boom may inflate headline PMI while underlying demand remains mixed; watch for real GDP growth implications later in week.",
+        "zh": "关税扭曲和近岸外包繁荣可能推高 PMI  headlines，而潜在需求仍存分歧；关注本周晚些时候实际 GDP 增长含义。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Nvidia +2.6%, AMD up 7.7% post-quarter-end rally; AI infrastructure trade-off between elevated valuations and strong order books from Apple $600B AI server program, Micron memory fabs, TSMC Arizona expansions.",
+      "zh": "英伟达涨 2.6%，AMD 在季度末反弹中上涨 7.7%；AI 基础设施交易在高估值与来自苹果 6000 亿美元 AI 服务器计划、美光晶圆厂和台积电亚利桑那扩产的强劲订单之间权衡。"
+    },
+    "semiconductor": {
+      "en": "SanDisk +10.9%, Marvell +7.3% drive semis higher on Q2 close momentum; but geopolitical risk premium and tariff front-loading create mixed sentiment ahead of ISM data.",
+      "zh": "金士顿涨 10.9%，美满电子涨 7.3%推动半导体板块在二季度末走强；但地缘政治风险溢价和关税前置造成 ISM 数据发布前的分化情绪。"
+    },
+    "bigTech": {
+      "en": "Microsoft +1.6%, Apple mixed on China sales concerns; Q2 earnings backdrop with strong AI-related revenue offsets NKE tariff refund one-offs that weigh after guidance cuts.",
+      "zh": "微软涨 1.6%，苹果受中国销售担忧拖累；二季度财报背景下，AI 相关收入强劲抵消耐克关税退税一次性收益在指引下调后的拖累。"
+    },
+    "energy": {
+      "en": "Brent -1% at ~$68.50 as Doha talks stall; US shale remains resilient but geopolitical dislocations temporarily lift oil demand premiums while Iran Strait of Hormuz stance uncertain.",
+      "zh": "布伦特在 68.37-69.27美元区间，跌幅约 1%；美国页岩油保持韧性但地缘政治中断暂时提升石油需求溢价，而伊朗霍尔木兹海峡立场仍存不确定性。"
+    },
+    "ev": {
+      "en": "EV sector underperforms as macro headwinds persist and consumer spending softens; Tesla, RIVN face margin pressure from tariff environment while Chinese EV exports slow.",
+      "zh": "电动车板块表现落后，宏观逆风持续且消费者支出放缓；特斯拉和 Rivian 面临关税环境下的利润率压力，而中国电动车出口减速。"
+    },
+    "market": {
+      "en": "S&P 500 futures flat to +0.1%, Nasdaq -0.2%, Dow -0.3% as Q2 rally fades into summer; market rotation from mega-cap tech toward mid-cap and defensive names ahead of ISM/NFP week.",
+      "zh": "标普 500 期货平盘至微涨 +0.1%，纳斯达克跌 0.2%，道指跌 0.3%；二季度反弹在夏季趋于平淡，市场从 mega-cap 科技向中盘和防御性名称轮动。"
+    },
+    "preciousMetals": {
+      "en": "Gold -0.7% below $4015, silver weaker toward ~$37; DXY strength and rising real yield expectations pressure precious metals while geopolitical risk premium remains muted post-Doha pause.",
+      "zh": "黄金跌 0.7%，跌破 4015，白银更弱逼近约 37.20；美元走强和实际收益率预期上升压制贵金属而多哈暂停后地缘政治风险溢价仍温和。"
+    },
+    "oil": {
+      "en": "WTI -0.9% at $68-69, Brent -1%; Middle East talks uncertainty temporarily supported crude but Doha diplomacy progress and US production resilience limit upside.",
+      "zh": "WTI 在 67.53–69.27 美元区间，跌幅约 0.9%，布伦特跌 1%；中东谈判不确定性暂时支撑原油但多哈外交进展和美国生产韧性限制上行空间。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "Dow futures -0.34% near $52,500; S&P 500 futures +0.1%, Nasdaq futures -0.2%; market consolidation ahead of ISM data with rotation from big tech toward mid-cap.",
+      "zh": "道指期货在 52500 附近跌 0.34%，标普 500 期货平盘至微涨 +0.1%，纳斯达克期货跌 0.2%；ISM 数据发布前市场 consolidation，从大科技向中盘轮动。"
+    },
+    "treasury10Y": {
+      "en": "~4.35-4.40%; hawkish Fed expectations and strong PMI flash print pressure yields slightly higher while Q2 GDP strength offsets inflation cooling.",
+      "zh": "约 4.35–4.40%；鹰派美联储预期和强劲的 PMI 快测使收益率温和走高，二季度经济强度抵消通胀降温。"
+    },
+    "dxy": {
+      "en": "92.8-93.1; stronger as dollar rally extends from Q2 and real yield expectations support greenback while Euro weakens on ECB dovishness.",
+      "zh": "92.7–93.0；美元从二季度反弹延续，实际收益率预期支撑绿背而欧元因欧央行鸽派走弱。"
+    },
+    "oil": {
+      "en": "$68-69; geopolitical uncertainty provides temporary floor but Doha diplomacy progress and US shale production resilience cap upside near current levels.",
+      "zh": "67.53–69.27 美元；地缘政治不确定性提供暂时支撑但多哈外交进展和美国页岩油生产韧性限制当前水平附近的上行空间。"
+    },
+    "keyRisk": {
+      "en": "ISM Manufacturing PMI flash at 4-year high but contains distortions from tariff front-loading and nearshoring rush; real GDP growth implications later in week will be critical.",
+      "zh": "ISM 制造业 PMI 快测为四年高点但包含关税前置和近岸外包冲刺的扭曲；本周晚些时候实际增长含义将成为关键。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Mixed signals with tech rally fading, defensive rotation to energy/utilities from oil price floor and tariff dynamics; strong PMI suggests underlying demand but geopolitical friction remains headwind.",
+      "zh": "信号分化，科技反弹减弱、防御轮动到能源/公用事业从油价支撑和关税动态；强劲 PMI 暗示潜在需求但地缘政治摩擦仍是逆风。"
+    }
+  },
+  "notes": {
+    "en": [
+      "Key events today: Fed Chair Warsh ECB forum speech midday, UK BoE Bailey parallel remarks; ISM Manufacturing PMI release around noon EST.",
+      "Watch for hawkish tone from central bank speakers which could extend DXY rally and pressure yields.",
+      "Geopolitical risk premium in oil may spike if Middle East escalation occurs during talks."
+    ],
+    "zh": [
+      "今日关键事件：美联储主席 Warsh 在 ECB Forum 中午讲话，英国央行行长 Bailey 平行声明；ISM 制造业 PMI 发布于纽约时间约正午。",
+      "关注中央银行发言人的鹰派语调可能延伸美元 rally 并压制收益率。",
+      "如果中东谈判期间升级发生可能导致原油中的地缘政治风险溢价飙升。"
+    ]
+  }
+}
