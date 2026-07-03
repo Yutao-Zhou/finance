@@ -1,0 +1,114 @@
+{
+  "date": "2026-07-02",
+  "summary": {
+    "en": "US markets closed mixed with Dow at record highs as jobs data came in weak (+57K vs +110K expected), pushing investors to trim tech and AI chip exposure. Fed rate hike bets cooled significantly following the softer employment report, easing yield pressures across bonds and equities.",
+    "zh": "美股收盘分化，道指创历史新高得益于非农数据偏弱（+57K 远低于预期的+110K），投资者减持科技和AI芯片敞口。较弱的就业报告显著缓解了市场对加息的押注，美债收益率压力减轻并向股市传导利好"
+  },
+  "topNews": [
+    {
+      "title": {"en": "Jobs Report Misses: Nonfarm Payrolls at +57K vs Expected +110K, Rate Cut Bets Rally", 
+               "zh": "就业报告不及预期：非农新增仅+5.7万低于预期的+11万，降息押注升温"},
+      "impact": {"en": "Soft data cooled Fed rate hike expectations significantly (Sept hike odds dropped from 65% to 50%), lifting equity valuations on lower yield environment while gold rallied >2% and Bitcoin surged +4%", 
+                "zh": "疲软的数据显著降温市场对美联储加息押注（9月加息概率从65%降至50%），低收益率环境提振股市估值，同时金价涨幅超2%，比特币大涨+4%"},
+      "bullish": ["SPY", "^DJI"],
+      "bearish": ["QQQ", "NVDA", "SMCI", "MU"], 
+      "macroRisk": {"en": "Low - weaker labor suggests economic cooling but risks deflationary spiral. Inflation may ease faster, creating upside surprise risk in subsequent jobs prints.", 
+                   "zh": "低风险——劳动力市场疲软暗示经济降温，但也存在通缩螺旋风险。通胀可能更快放缓，导致后续就业数据超预期上扬的反转风险"}
+    },
+    {
+      "title": {"en": "AI Chip Stocks Slide: Sector Rotation from Semiconductors to Defensives Amid Soft Jobs Data", 
+               "zh": "AI芯片股下滑：疲软非农导致资金从半导体流向防御板块，行业轮动加速"},
+      "impact": {"en": "Major chip names including TSLA (-7.5%), NVDA, SMCI and NBIS underperformed as money rotated to defensive sectors. Big tech faces growth concerns if labor market cools further.", 
+                "zh": "TSLA(-7.5%)、NVDA、SMCI等芯片股大幅跑输，资金流向防御板块。若劳动力市场进一步降温大科技面临增长担忧"},
+      "bullish": ["XLU", "JNJ"],  
+      "bearish": ["TSLA", "NVDA", "NBIS", "IREN"], 
+      "macroRisk": {"en": "Medium-term rotation risk to defensive names from growth stocks as rate cut expectations expand.", 
+                   "zh": "中长期的成长股向防御板块轮动风险在降息预期增强时显现"}
+    },
+    {
+      "title": {"en": "Fed Hike Probability Drops: September Rate Cut Odds Rise to 50% After Weak Jobs Data", 
+               "zh": "加息概率骤降：非农疲软后，9月降息押注升至50%"},
+      "impact": {"en": "Bond yields declined (10Y Treasury down four basis points), supporting equity valuations. Risk-on sentiment returns with lower-for-longer narrative gaining traction.", 
+                "zh": "美债收益率下行（10年期下调4基点）支撑股市估值。低利率持久叙事强化，市场风险偏好回升"},
+      "bullish": ["TLT", "GLD", "^GSPC"],  
+      "bearish": [], 
+      "macroRisk": {"en": "Inflation remains elevated due to energy prices but labor softness reduces aggressive tightening path risk.", 
+                   "zh": "能源价格推动通胀高位徘徊，但劳动力市场疲软降低了激进紧缩路径风险"}
+    },
+    {
+      "title": {"en": "Nasdaq Dips on Tech Weight: AI Momentum Fades as Semiconductor Weakness Spreads", 
+               "zh": "纳指因科技权重下跌：半导体走弱导致动量放缓，AI板块热度退潮"},
+      "impact": {"en": "^IXIC fell -0.8% while Dow gained on traditional industrials outperforming. Asian markets followed Korea's AI winners lower after US report release.", 
+                "zh": "纳指跌-0.8%，而道指受益于传统工业跑赢。美非农报告发布后，亚洲市场跟随韩国AI股走低"},
+      "bullish": [],  
+      "bearish": ["QQQ", "XLK"],
+      "macroRisk": {"en": "Semiconductor sector rotation risk from growth to value/defensive names.", 
+                   "zh": "半导体板块从成长向价值防御的轮动风险"}
+    },
+    {
+      "title": {"en": "Dow Jones Hits Record: Traditional Sectors Boost Broad Market Despite Tech Drag", 
+               "zh": "道指创新高，传统板块提振大盘尽管科技拖累"},
+      "impact": {"en": "^DJI ended +1.14% on record highs as manufacturing, financials and healthcare outperformed technology names.", 
+                "zh": "制造、金融和医疗跑赢科技股，道指以历史新高收盘上涨+1.14%"},
+      "bullish": ["^DJI", "^XLF"],  
+      "bearish": [],
+      "macroRisk": {"en": "Broad-based rally on rate cut hopes offsets tech weakness in Nasdaq.", 
+                   "zh": "降息预期驱动的广基反弹抵消了纳指的科技疲软"}
+    },
+    {
+      "title": {"en": "Gold Surges Above $4,000 Zone: Weaker Payrolls Lift Inflation Expectations Lower but Safe-Haven Demand High", 
+               "zh": "金价突破$4K区间，非农疲软压低通胀预期但避险需求强劲"},
+      "impact": {"en": "XAUUSD climbed >2% as soft jobs data reduced Fed rate hike concerns. Gold benefits from falling real yields and safe-haven flows amid geopolitical uncertainty.", 
+                "zh": "金价上涨超 2%，非农减弱降低了加息担忧。地缘政治不确定性叠加实际收益率下行，推动避险资金流入黄金"},
+      "bullish": ["GLD", "GC"],  
+      "bearish": [], 
+      "macroRisk": {"en": "Gold remains elevated above ~$4,000 as rate cut narrative strengthens with labor cooling.", 
+                   "zh": "随着劳动力降温降息叙事强化，黄金维持在~$4K 上方高位运行"}
+    },
+    {
+      "title": {"en": "US Treasury Yields Dip: 10Y Yield Falls Four Basis Points to ~4.46% on Soft Jobs Print", 
+               "zh": "美债收益率下行：非农数据疲软后，10年期国债下调四点基点至~4.46%"},
+      "impact": {"en": "Lower yields support equity valuations and reduce refinancing pressures for corporations, especially in growth sectors.", 
+                "zh": "较低收益率支撑股票估值并减轻企业再融资压力尤其利好成长型板块。"},
+      "bullish": ["TLT"],  
+      "bearish": []
+    }
+  ],
+  "sectorRadar": {
+    "ai": {"en": "Mixed - AI stocks under pressure after jobs data missed. Semiconductor weakness spread to NVDA, SMCI, MU but traditional industrials outperformed.", 
+           "zh": "分化——非农数据不及预期后，AI 板块承压。半导体走弱波及 NVDA、SMCI、MU，但传统工业跑赢"},
+    "semiconductor": {"en": "Weak - Chip sector rotation from growth to defensive as rate cut narrative strengthens. TSLA down ~7.5%, NBIS and IREN underperform.", 
+                     "zh": "疲软——降息叙事强化驱动从成长向防御轮动。TSLA 下跌约-7.5%，NBIS、IREN跑输"},
+    "bigTech": {"en": "Mixed - Nasdaq down -0.8% but Dow at record highs. Growth concerns if labor market continues to cool.", 
+               "zh": "分化——纳指跌-0.8%而道指创新高。若劳动力市场持续降温，成长股面临担忧"},
+    "energy": {"en": "Stable - Oil prices contained amid inflation relief from weak jobs data but geopolitical tensions in Middle East remain.", 
+              "zh": "稳定——非农疲软带来的通胀缓解限制了油价但中东地缘政治紧张仍存"},
+    "ev": {"en": "Mixed - TSLA significant drawdown (-7.5%) as AI narrative and growth expectations cool on soft labor data.", 
+            "zh": "分化——TSLA 大幅回调约-7.5%，AI叙事和增长预期因疲软劳动力数据降温"},
+    "market": {"en": "Mixed - Dow +1.14%, Nasdaq -0.8%. Rate cut hopes lift broad market but sector rotation from tech to value/defensive persists.", 
+              "zh": "分化——道指+1.14%，纳指-0.8%。降息希望提振大盘但科技向价值防御的板块轮动持续"},
+    "preciousMetals": {"en": "Strong - Gold rose >2%, trading above ~$4,000 as Fed rate hike concerns ease and real yields decline.", 
+                      "zh": "强势——金价上涨超 2%，在~$4K上方交易，加息担忧减轻且实际收益率下行"},
+    "oil": {"en": "Neutral - WTI contained in $60-$65 band. Jobs data easing inflation expectations but supply constraints and geopolitics provide floor.", 
+            "zh": "中性——WTI 在$60-$65区间，非农缓解通胀预期但供应限制和地缘政治提供支撑"}
+  },
+  "premarketFocus": {
+    "futures": {"en": "^GSPC futures flat before jobs release, then up ~0.7% after data came in weak on Friday", 
+               "zh": "美盘前标普期货平淡，周五非农数据疲软后上扬约+0.7%"},
+    "treasury10Y": {"en": "Dipped four basis points to ~4.46% ahead of jobs report, easing yield pressures", 
+                   "zh": "下行四点基点至~4.46%，缓解收益率压力"},
+    "dxy": {"en": "~97-98 range, stable with minor fluctuations amid Fed data release.", 
+           "zh": "在~97-98区间，美联储数据发布期间小幅波动"},
+    "oil": {"en": "WTI contained in $60-$65 band. Weak jobs ease inflation but Middle East tensions provide geopolitical floor.", 
+            "zh": "油价受限——WTI 在$60-$65区间，非农缓解通胀但中东紧张提供地缘支撑"},
+    "keyRisk": {"en": "Further labor market cooling could trigger broader tech sector rotation or deflationary concerns. Conversely, better jobs prints may reignite Fed hawkishness.", 
+               "zh": "风险——劳动力市场进一步降温可能触发科技板块轮动或通缩担忧。反之，就业数据好转可能重燃鹰派加息预期"}
+  },
+  "judgment": {
+    "type": "mixed",  
+    "confidence": {"en": "medium", 
+                 "zh": "中"},
+    "note": {"en": "Mixed signal environment - rate cut hopes supporting equities but sector rotation from growth to value persists. Dow outperforming Nasdaq on this day.", 
+             "zh": "混合信号环境——降息希望支撑股市但成长向价值轮动持续。道指跑赢纳指"}
+  }
+}
