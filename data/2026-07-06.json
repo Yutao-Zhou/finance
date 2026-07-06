@@ -1,0 +1,188 @@
+{
+  "date": "2026-07-06",
+  "summary": {
+    "en": "Wall Street futures climb ahead of services data, with Nasdaq futures moving higher as markets digest a strong week and position for Fed meeting minutes. Tech sector leads gains after holiday break while oil and precious metals ease from recent highs.",
+    "zh": "美股期货盘前上涨，纳斯达克期货表现强劲。市场在经历一周的强势行情后调整仓位，静待美联储会议决议纪要发布。科技板块假期休市后领涨，而原油和贵金属价格从近期高点回落。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Nasdaq Futures Surge on Tech Rally, Dow Approaches Record Territory",
+        "zh": "纳斯达克期货受科技股反弹提振走高，道指逼近记录水平"
+      },
+      "impact": {
+        "en": "Tech stocks led gains with AI leaders and chipmakers pushing major indices higher. Market sentiment remains bullish ahead of key earnings.",
+        "zh": "科技公司领涨，AI 龙头和芯片制造商推动主要指数上涨。在关键财报发布前市场情绪保持乐观。"
+      },
+      "bullish": ["NASDAQ", "semiconductor sector", "big tech names"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Elevated valuations in AI names raise concerns if earnings miss expectations; Fed rate policy uncertainty remains key overhang.",
+        "zh": "AI 板块估值偏高，若财报不及预期可能引发担忧；美联储利率政策不确定性仍是主要风险。"
+      }
+    },
+    {
+      "title": {
+        "en": "Fed Minutes Preview: Market Watches for Policy Clues on Rate Cut Path",
+        "zh": "关注美联储决议纪要：市场静待获取降息路径线索"
+      },
+      "impact": {
+        "en": "Investors will scrutinize June FOMC meeting minutes released July 28th for guidance on timing and magnitude of rate cuts. Markets favor dovish signals.",
+        "zh": "投资者将仔细审视将于 7 月 28 日发布的 6 月份会议纪要，获取有关降息时点和幅度的指引。市场更偏向于鸽派信号。"
+      },
+      "bullish": ["dollar", "growth stocks"],
+      "bearish": ["bonds if hawkish tone appears"],
+      "macroRisk": {
+        "en": "Hawkish surprises could trigger sell-off in rate-sensitive sectors and dollar weakness reversal.",
+        "zh": "鹰派意外可能引发对利率敏感板块的抛售，美元走软。"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil Prices Retreat as Geopolitical Tensions Ease Slightly",
+        "zh": "油价回落因地缘政治紧张局势略有缓和"
+      },
+      "impact": {
+        "en": "WTI crude easing from recent highs amid OPEC+ supply discipline. Lower energy costs could provide relief to inflation-sensitive retail sectors.",
+        "zh": "在欧佩克 + 供应纪律支持下，西德克萨斯中质原油价格从近期高点回落。较低能源成本可缓解通胀敏感型零售板块的压力。"
+      },
+      "bullish": ["energy producers hedged positions", "retail consumer discretionary"],
+      "bearish": ["oil and gas sector momentum"],
+      "macroRisk": {
+        "en": "Geopolitical shocks could quickly reverse trend with supply disruptions in Middle East or Russia-Ukraine energy flows.",
+        "zh": "地缘政治冲击可能迅速逆转趋势，中东或俄乌能源运输出现供应中断。"
+      }
+    },
+    {
+      "title": {
+        "en": "Gold Prices Cool from Record Highs on Yield Support",
+        "zh": "金价因美债收益率支撑从记录高点回落"
+      },
+      "impact": {
+        "en": "Real yields rising provide headwind for non-yielding precious metals. Dollar strength also weighs on bullion demand.",
+        "zh": "实际收益率上升对非生息贵金属构成阻力。美元走强也抑制了黄金需求。"
+      },
+      "bullish": ["bond yield sensitive portfolios", "inflation hedge positions"],
+      "bearish": ["precious metals miners", "gold ETFs"],
+      "macroRisk": {
+        "en": "Central bank buying provides partial floor, but higher-for-longer rates could keep precious metals in correction mode.",
+        "zh": "央行购买提供部分支撑，但利率维持高位可能使贵金属处于修正模式。"
+      }
+    },
+    {
+      "title": {
+        "en": "Dollar Index Stabilizes After Recent Volatility",
+        "zh": "美元指数在近期波动后趋于稳定"
+      },
+      "impact": {
+        "en": "DXY holding near support levels as yield differentials narrow. Emerging markets may see relief from currency headwinds.",
+        "zh": "随着收益率利差收窄，美元指数在近支撑位企稳。新兴市场可能看到汇率逆风的缓解。"
+      },
+      "bullish": ["US exports", "international travel stocks"],
+      "bearish": ["multinational earnings with overseas exposure"],
+      "macroRisk": {
+        "en": "Unanticipated policy divergence between Fed and foreign central banks could trigger sharp moves.",
+        "zh": "美联储与外国央行之间政策意外分化可能引发急剧变动。"
+      }
+    },
+    {
+      "title": {
+        "en": "EV Sector Faces Pressure on Macro Headwinds",
+        "zh": "电动车板块面临宏观逆风压力"
+      },
+      "impact": {
+        "en": "Electric vehicle manufacturers deal with supply chain constraints, interest rate sensitivity, and demand uncertainty. Higher rates hurt capital-intensive EV expansion plans.",
+        "zh": "电动汽车制造商应对供应链限制、利率敏感性和需求不确定性。较高的利率打击了资本密集型的电动车扩张计划。"
+      },
+      "bullish": ["traditional automakers with electrification strategies", "battery recyclers"],
+      "bearish": ["pure-play EV names in growth phase"],
+      "macroRisk": {
+        "en": "Policy changes including tariff shifts and subsidies could dramatically reshape competitive landscape.",
+        "zh": "政策变化包括关税转变和补贴可能彻底重塑竞争格局。"
+      }
+    },
+    {
+      "title": {
+        "en": "Market Sentiment Mixed on Services Data Preview",
+        "zh": "服务业数据预览引发市场情绪分化"
+      },
+      "impact": {
+        "en": "Upcoming services inflation and employment data will be closely watched for soft landing evidence. Sticky prints could raise rate cut expectations while weak readings fuel recession fears.",
+        "zh": "将密切关注即将到来的服务通胀和就业数据，以获取软着陆证据。粘性读数可能提高降息预期，而疲软读数会引发衰退担忧。"
+      },
+      "bullish": ["financial sector", "consumer discretionary"],
+      "bearish": ["utilities", "real estate if data shows strength reducing yield support"],
+      "macroRisk": {
+        "en": "Discrepancy between labor market and inflation readings could create volatility around key Fed speakers.",
+        "zh": "劳动力市场和通胀读数之间的差异可能在关键美联储发言人周围造成波动。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI chip makers lead tech rally with strong demand signals from hyperscalers. However, valuation compression concerns persist if earnings justify multiples.",
+      "zh": "AI 芯片制造商在科技股反弹中领涨，超大规模云服务商的强劲需求信号得到印证。但如果盈利倍数被证明过度扩张，估值压缩担忧将持续存在。"
+    },
+    "semiconductor": {
+      "en": "Chip sector benefits from cyclical recovery in PC demand and data center capex. Memory subsector particularly strong; logic semis follow suit.",
+      "zh": "半导体行业受益于 PC 需求周期复苏和数据中心资本支出增长。存储子部门特别强劲，逻辑芯片随之表现良好。"
+    },
+    "bigTech": {
+      "en": "Major tech names post-holiday bounce benefit from cloud growth and AI monetization. Ad spend stabilization provides revenue floor.",
+      "zh": "假期后反弹的大科技公司受益于云增长和AI 变现。广告支出稳定化提供了收入底线支撑。"
+    },
+    "energy": {
+      "en": "Oil producers consolidate gains as prices moderate from highs. OPEC+ production discipline and geopolitical tensions provide upside support but limit near-term explosive moves.",
+      "zh": "随着油价从高点温和回落，石油生产商整合收益。欧佩克 + 生产纪律和地缘政治紧张局势提供上行支撑但限制了近期的爆发式上涨空间。"
+    },
+    "ev": {
+      "en": "Electric vehicle sector under pressure from interest rate sensitivity and consumer hesitation. Traditional OEMs with proven technology stacks hold relative strength.",
+      "zh": "电动车行业面临利率敏感性和消费者犹豫的压力，拥有成熟技术堆栈的传统车企保持相对强势。"
+    },
+    "market": {
+      "en": "Major indices track Nasdaq futures higher in pre-market trading. Tech-heavy S&P500 benefits from AI rotation, while value lags due to macro uncertainty.",
+      "zh": "主要指数在盘前交易中跟随纳斯达克期货走高。科技权重标普 500 受益于 AI 板块轮动，而价值股由于宏观不确定性落后。"
+    },
+    "preciousMetals": {
+      "en": "Gold and silver retreat from recent peaks on real yields support. Dollar strength compounds headwinds for bullion but central bank buying offers partial floor.",
+      "zh": "金银因实际收益率支撑从近期高点回落。美元走强加剧了贵金属的逆风，但央行购买提供部分支撑。"
+    },
+    "oil": {
+      "en": "Crude prices ease amid OPEC+ output discipline and easing geopolitical risks. Supply-demand balance remains tight but volatile in Middle East context.",
+      "zh": "在欧佩克 + 产量纪律和地缘政治风险缓和的背景下，原油价格回落。供需平衡仍然紧张，但在中东背景下易变。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "Nasdaq futures up ~0.8% while Dow holds near record, S&P500 futures slightly higher in early session.",
+      "zh": "纳斯达克期货上涨约 0.8%，道指接近记录高位，标普 500 期货在早盘交易中小幅走高。"
+    },
+    "treasury10Y": {
+      "en": "US 10-year yields fluctuate near current levels as market digests week's momentum ahead of Fed minutes release. Expectations for rate cuts remain anchored to upcoming data.",
+      "zh": "美国十年期收益率在当前水平附近波动，市场在美联储会议纪要发布前消化一周势头。降息预期仍锚定于即将发布的数据。"
+    },
+    "dxy": {
+      "en": "Dollar index stabilizes in narrow range, testing support levels as yield differentials with other major currencies compress.",
+      "zh": "美元指数在近窄区间企稳，测试支撑位，同时与其他主要货币的收益率利差压缩。"
+    },
+    "oil": {
+      "en": "WTI crude tests recent lower high after overnight consolidation, awaiting direction on geopolitical developments and OPEC+ announcements.",
+      "zh": "西德克萨斯中质原油在隔夜盘整后测试近期较低高点，等待地缘政治发展和欧佩克 + 公告的指引。"
+    },
+    "keyRisk": {
+      "en": "Fed minutes release July 28th remains pivotal - any hawkish tone could trigger market volatility. Also watch for unexpected geopolitical escalation affecting energy flows.",
+      "zh": "7 月 28 日发布的美联储会议纪要仍然至关重要——任何鹰派基调都可能引发市场波动。还要关注可能影响能源流动的地缘政治意外升级情况。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Markets show cautious optimism with tech leading but valuation concerns and Fed policy uncertainty create mixed sentiment. Watch for earnings surprises that could alter AI sector rotation patterns.",
+      "zh": "市场表现出谨慎乐观，科技股领涨但估值担忧和美联储政策不确定性造成分化情绪。关注可能改变 AI 板块轮动模式的财报意外情况。"
+    }
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "date": "2026-06-28",
+  "summary": {
+    "en": "US-Iran geopolitical tensions escalate as a second wave of military strikes near the Strait of Hormuz rattles energy markets and lifts oil prices. Equity futures slip ahead of U.S. market open amid concerns about supply disruptions in key shipping lanes and inflation implications from higher crude costs.",
+    "zh": "美国与伊朗地缘政治紧张局势升级，第二波针对霍尔木兹海峡附近的军事打击扰乱能源市场并推高油价。美股盘前指数下跌，担忧关键航运通道的供应中断和原油成本上升的通胀影响。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "US Launches Second Wave of Strikes on Iran, OPEC+ Tightens Production Cuts",
+        "zh": "美国对伊朗发动第二轮打击，OPEC+ 收紧产量削减"
+      },
+      "impact": {
+        "en": "Geopolitical shockwave transmits through oil markets → inflation expectations rise → Treasury yields climb → growth-sensitive sectors under pressure. Strait of Hormuz disruption risk threatens global supply chain stability.",
+        "zh": "地缘政治冲击波通过油市传递→通胀预期上升→美债收益率攀升→成长型板块承压。霍尔木兹海峡中断风险威胁全球供应链稳定。"
+      },
+      "bullish": ["USO", "XLE", "CVX"],
+      "bearish": ["XLK", "QQQ", "SPY"],
+      "macroRisk": {
+        "en": "YES - Oil supply shock in strategic shipping channel, potential for 10-25% oil price spike within weeks. Transmission path: Energy → Inflation (CPI/PCE) → Fed policy uncertainty.",
+        "zh": "是——战略航运通道的原油供应冲击，可能导致油价在数周内上涨 10-25%。传导路径：能源→通胀（CPI/PCE）→美联储政策不确定性。"
+      }
+    },
+    {
+      "title": {
+        "en": "WTI Crude Surges Past $85/bbl, Brent Near $90 on Geopolitical Premium",
+        "zh": "WTI 原油飙升至$85/桶以上，布伦特油接近$90"
+      },
+      "impact": {
+        "en": "Oil price volatility creates headwinds for consumer discretionary and airline sectors. Energy sector rally benefits from risk premium but leaves broader market exposed to inflation re-acceleration risks.",
+        "zh": "油价波动给可选消费和航空板块带来阻力。能源股因风险溢价而上涨，但使整个市场暴露于通胀重新加速的风险之下。"
+      },
+      "bullish": ["XOM", "COP", "SLB"],
+      "bearish": ["AMCN", "DAL", "UAL"],
+      "macroRisk": {
+        "en": "YES - Persistent oil supply constraints near Middle East flashpoint could anchor inflation expectations above Fed's 2% target, complicating rate cut timing.",
+        "zh": "是——中东热点地区附近的持续原油供应约束可能将通胀预期锚定在美联储 2% 目标之上，使降息时机复杂化。"
+      }
+    },
+    {
+      "title": {
+        "en": "U.S. Treasury Yields Rally, 10Y Yield Breaks Above 4.75%",
+        "zh": "美国国债收益率飙升，十年期突破 4.75%"
+      },
+      "impact": {
+        "en": "Higher yields dampen growth stock valuations and mortgage-sensitive sectors. Risk-off sentiment in bonds mirrors equity pressure as investors price-in supply shock risks.",
+        "zh": "较高收益率抑制成长股估值和对房贷敏感的板块。债券的风险厌恶情绪与股市压力相呼应，投资者计价供应冲击风险。"
+      },
+      "bullish": ["TLT", "JPN"],
+      "bearish": ["XLF", "MAA"],
+      "macroRisk": {
+        "en": "YES - Yield spike suggests market pricing persistent inflation from energy shocks. Growth stocks and rate-sensitive real estate face headwinds.",
+        "zh": "是——收益率飙升表明市场对能源冲击导致的持续通胀进行了定价。成长股和对利率敏感的房地产面临阻力。"
+      }
+    },
+    {
+      "title": {
+        "en": "Asian Markets Decline Ahead of U.S. Open on Middle East Tensions",
+        "zh": "亚洲市场因中东紧张局势而下跌，美股即将开盘"
+      },
+      "impact": {
+        "en": "Regional risk-off sentiment transmits to U.S. markets. Japan and Korea indexes lower as investors rotate out of cyclical stocks amid geopolitical uncertainty.",
+        "zh": "区域性的风险厌恶情绪传导至美国市场。日本和韩国股指下跌，投资者在地缘政治不确定性下从周期性股票中切换出来。"
+      },
+      "bullish": [],
+      "bearish": ["XLK", "XLF"],
+      "macroRisk": {
+        "en": "MIXED - Geopolitical risk premium lifts oil but broader trade concerns could affect global growth outlook.",
+        "zh": "复杂——地缘政治风险溢价推升油价，但更广泛的贸易担忧可能影响全球增长前景。"
+      }
+    },
+    {
+      "title": {
+        "en": "Fed Officials Signal Cautious Approach to Rate Cuts Amid Supply Shock Risks",
+        "zh": "美联储官员在对供应冲击风险的谨慎态度下发出对降息信号的警告"
+      },
+      "impact": {
+        "en": "Rate cut expectations recalibrate lower as markets digest geopolitical supply disruption risks. Energy-focused rate cuts may be paused if inflation re-accelerates from oil.",
+        "zh": "随着市场消化地缘政治供应中断风险，对降息的预期重新校准到较低水平。如果油价导致通胀重燃加速，与能源相关的降息可能会被暂停。"
+      },
+      "bullish": ["BND", "IEFA"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "YES - Fed policy path uncertainty increases given supply-driven inflation persistence. Growth stocks face valuation compression if rates stay higher-for-longer.",
+        "zh": "是——鉴于供应驱动的通胀持续性，美联储政策路径的不确定性增加。如果利率维持更高更久，成长股面临估值压缩风险。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI chips and infrastructure face headwinds from macro uncertainty. NVIDIA, AMD underpressure as broader tech sector sells off on yield spike fears.",
+      "zh": "人工智能芯片和基础设施受到宏观不确定性的阻碍。英伟达、AMD 因对收益率飙升的担忧而承压，整个科技板块抛售。"
+    },
+    "semiconductor": {
+      "en": "Semiconductor stocks pressured by rate sensitivity and cyclical slowdown. Supply chain disruptions from geopolitical tensions could impact global chip distribution.",
+      "zh": "半导体股票受利率敏感性和周期性放缓影响。地缘政治紧张局势导致的供应链中断可能会影响全球芯片分销。"
+    },
+    "bigTech": {
+      "en": "Magnificent Seven underperformance on duration risk and growth slowdown fears. Cloud spending may decelerate if recession risks materialize.",
+      "zh": "七巨头在久期风险和增长放缓担忧下表现不佳。如果衰退风险现实化，云计算支出可能会减速。"
+    },
+    "energy": {
+      "en": "Energy sector outperforms sharply as geopolitical risk premium flows into oil price dynamics. OPEC+ production discipline strengthens despite supply threats.",
+      "zh": "能源板块在地缘政治风险溢价流入油价动态时大幅跑赢市场。尽管面临供应威胁，OPEC+ 的产量纪律加强。"
+    },
+    "ev": {
+      "en": "EV manufacturers face margin pressure from higher energy costs and macro uncertainty. Consumer adoption may slow if disposable income squeezed.",
+      "zh": "电动汽车制造商从较高的能源成本和宏观不确定性中面临利润率压力。如果可支配收入受到挤压，消费者采用可能会放缓。"
+    },
+    "market": {
+      "en": "Broad equity weakness across Russell 2000, Nasdaq futures decline on macro headwinds. Defensive rotation expected as uncertainty persists.",
+      "zh": "罗素 2000、纳斯达克期货等广泛股票疲软，受宏观阻力影响。随着不确定性持续，预计将出现防御性轮动。"
+    },
+    "preciousMetals": {
+      "en": "Gold and silver rally on geopolitics + higher real yield fears. Safe-haven demand supports bullion prices despite Fed hawkish rhetoric.",
+      "zh": "黄金和白银在政治风险和较高的实际收益率担忧下上涨。尽管美联储鹰派言论，避险需求支持贵金属价格。"
+    },
+    "oil": {
+      "en": "Oil price spike driven by Strait of Hormuz disruption fears and OPEC+ production discipline. WTI testing $85+, Brent near record highs.",
+      "zh": "油价飙升由对霍尔木兹海峡中断的担忧和 OPEC+ 产量纪律驱动。WTI 测试$85+，布伦特接近历史高点。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 futures down -1.2%, Nasdaq -1.4%, Dow -0.9% ahead of U.S. open on Middle East escalation",
+      "zh": "美股盘前标普 500 期货下跌-1.2%，纳斯达克-1.4%，道指-0.9%，因中东局势升级"
+    },
+    "treasury10Y": {
+      "en": "U.S. Treasury 10-year yield climbs to ~4.76%, breaking above key technical level",
+      "zh": "美国国债十年期收益率升至~4.76%，突破关键技术位"
+    },
+    "dxy": {
+      "en": "Dollar Index holds near neutral range as geopolitical risk premium offsets rate sensitivity",
+      "zh": "美元指数在政治风险溢价抵消利率敏感性附近保持中性区间"
+    },
+    "oil": {
+      "en": "WTI Crude surges past $85/bbl, Brent crude approaches $90 on supply shock fears",
+      "zh": "WTI 原油飙升至$85/桶以上，布伦特原油接近$90"
+    },
+    "keyRisk": {
+      "en": "Escalation in Strait of Hormuz could disrupt global oil flows. Secondary effect: inflation re-acceleration forcing Fed to hold rates longer.",
+      "zh": "霍尔木兹海峡的升级可能扰乱全球石油流动。次级影响：通胀重燃加速迫使美联储维持利率更久。"
+    }
+  },
+  "judgment": {
+    "type": "event-driven",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Market reaction primarily driven by geopolitics and oil supply shock dynamics. Energy sector benefits while growth/tech stocks face headwinds from inflation re-acceleration risks. Fed policy path uncertain given persistent energy-driven inflation.",
+      "zh": "市场反应主要由地缘政治和原油供应冲击动态驱动。能源板块受益，而成长型和技术股因通胀重燃加速风险面临阻力。鉴于持续的能源驱动的通胀，美联储政策路径不确定。"
+    }
+  },
+  "disclaimer": {
+    "en": "YUCLAW signals are research classifications, NOT investment recommendations. All briefs carry appropriate disclaimers before distribution.",
+    "zh": "YUCLAW信号是研究分类，而非投资建议。所有简报在分发前都带有适当的免责声明。"
+  }
+}
