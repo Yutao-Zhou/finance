@@ -1,0 +1,181 @@
+{
+  "date": "2026-07-08",
+  "summary": {
+    "en": "US stocks showed mixed-to-flat futures as Middle East tensions evolved with Trump declaring Iran ceasefire over. Oil prices surged >5% on WTI following US military strikes and Hormuz Strait vessel attacks, driving energy sector rally but pressuring inflation-sensitive growth names via higher yields. Fed minutes remained key focus while dollar held support at 101+. Asia markets declined overnight ahead of open.",
+    "zh": "美股期货在平至略跌中开市，因中东局势演变而特朗普宣布伊朗停火结束。油价在上次军演后升逾5% WTI，推动能源板块反弹但压低了通胀敏感的成长股通过更高收益。美联储纪要仍是关键焦点同时美元维持在101上方支撑。亚洲市场在盘前下跌隔夜表现不佳。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "US declares Iran ceasefire over as Trump says Middle East tensions resolved after military strikes",
+        "zh": "美国宣布伊朗停火结束，因特朗普称中东紧张局势在军事行动后得到缓解"
+      },
+      "impact": {
+        "en": "Trump announced the end of ceasefire with Iran following US airstrikes, shifting market dynamics from escalation fears to immediate supply concerns. Oil markets rallied on strike-driven price spike while geopolitical risk premium initially priced in now being re-evaluated.",
+        "zh": "特朗普在美国空袭后宣布伊朗停火结束，将市场动态从升级担忧转向即期供应忧虑。油价在军演驱动的价飙升中反弹而地缘政治风险溢价最初定价现重新评估。"
+      },
+      "bullish": ["XOM", "CVX"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Supply shock inflation transmission via oil price surge directly impacts Fed policy path and growth stock valuations. Energy sector benefits while rate-sensitive names face continued pressure from yield trajectory."
+      }
+    },
+    {
+      "title": {
+        "en": "Oil prices jump >5% to two-week high as WTI breaks past $70 on Middle East supply fears",
+        "zh": "油价升逾5%至两周高点，因中东供应忧虑而WTI突破 70美元"
+      },
+      "impact": {
+        "en": "US military strikes against Iran and vessel attacks in Strait of Hormuz pushed WTI to $72.19 (+6%) while Brent climbed toward $84 (+5%+). Supply disruption fears dominated pricing as geopolitical transmission path created immediate inflation headwinds.",
+        "zh": "美国对伊朗的军事行动和波斯湾船只袭击推动WTI 至$72.19（+6%），而布兰特攀升向$84（+5+%）。供应中断忧虑主导定价因地缘政治传导路径创造了即期通胀逆风。"
+      },
+      "bullish": ["XOM", "CVX", "COP", "OXY"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Oil price spike creates stagflation risk profile for growth portfolios. Higher energy costs transmit through input inflation, compressing margins while Fed may be forced to hold rates longer as supply shock persists."
+      }
+    },
+    {
+      "title": {
+        "en": "$DXY holds above 101 support amid dollar strength from Middle East tensions and resilient US economic data",
+        "zh": "美元指数在中东紧张和强劲的美国经济数据支持下持有 101支撑上方"
+      },
+      "impact": {
+        "en": "Dollar index maintained strong positioning at $101+ despite market volatility. Geopolitical events in Middle East strengthened risk-off USD demand while US employment and productivity data remained robust, limiting downside for greenback.",
+        "zh": "美元指数尽管市场波动仍维持强劲定位在$101 以上。中东地缘政治事件增强了避险美元需求而美国就业和生产率数据保持稳健，限制了美元下跌幅度。"
+      },
+      "bullish": [],
+      "bearish": ["FXE", "XEU"],
+      "macroRisk": {
+        "en": "Strong dollar weighs on multinational earnings and emerging market assets. Export-dependent US companies face headwinds while import inflation remains muted but currency volatility raises hedging costs for cross-border operations."
+      }
+    },
+    {
+      "title": {
+        "en": "Asian stocks decline overnight as semiconductor weakness transmits through global risk sentiment",
+        "zh": "亚洲股市隔夜下跌，因半导体疲软通过全球风险情绪传导"
+      },
+      "impact": {
+        "en": "S&P/ASX 200 futures and regional Asian indices declined on oil price pressure and chip sector weakness. Semiconductor selloff from previous session compounded by memory/storage concerns created negative spillover to broader emerging markets.",
+        "zh": "标普 ASX 200期货和地区亚洲指数因油价压力和芯片板块疲软而下跌。半导体抛售从前一交易日叠加内存/存储忧虑创造了负面溢出至更广泛的新兴市场。"
+      },
+      "bullish": [],
+      "bearish": ["NVDA", "AMD"],
+      "macroRisk": {
+        "en": "Transmitted volatility affects global technology ecosystem through cross-border supply chains and earnings correlations. Asian exposure to US chip demand faces pressure from semiconductor valuation reset."
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury yields rise on oil-driven inflation concerns ahead of Fed minutes release",
+        "zh": "美债收益率在油价驱动的通胀担忧下上升等待美联储纪要发布"
+      },
+      "impact": {
+        "en": "10Y Treasury yield climbed as supply shock from oil price surge anchored higher-for-longer rates expectations. Market pricing in extended rate stability or potential hikes if energy costs remain elevated through Q3.",
+        "zh":"因油价供给冲击锚定更高利率长期预期美国 10年期国债收益率上升。市场定价延长利率稳定或潜在加息如果能源成本通过第三季度保持高企。"
+      },
+      "bullish": ["GLD"],
+      "bearish": ["TLT", "IEF", "JPM"],
+      "macroRisk": {
+        "en": "Rising yields pressure mortgage REITs and rate-sensitive growth stocks. Bond market positioning reflects Fed policy uncertainty while inflation expectations from oil shock create stagflation tradeoffs."
+      }
+    },
+    {
+      "title": {
+        "en": "Fed minutes pending as investors seek clarity on hawkish stance amid persistent energy cost pressures",
+        "zh": "等待美联储纪要投资者寻求对鹰派立场的明确同时能源成本压力持续"
+      },
+      "impact": {
+        "en": "Market awaits Fed policy guidance while inflation data shows elevated trajectory due to oil surge. Policy divergence risk increases if central bank balances growth concerns against energy-driven price persistence.",
+        "zh":"市场等待美联储政策指引但通胀数据因油价飙升而显示高企轨迹。如果央行在增长担忧和能源驱动的物价坚持间平衡则分化风险增加。"
+      },
+      "bullish": [],
+      "bearish": ["SPY", "QQQ"],
+      "macroRisk": {
+        "en": "Policy uncertainty creates sector rotation risk. Defensive positioning favored until Fed signals tolerance for oil price volatility while growth names face pressure from rate path clarity."
+      }
+    },
+    {
+      "title": {
+        "en": "Bitcoin holds $63K support as institutional demand persists despite macro headwinds",
+        "zh": "比特币维持 6.3万支撑同时机构需求持续尽管宏观逆风"
+      },
+      "impact": {
+        "en": "Digital asset maintained level above $60k with strong order book depth from institutional buyers. Macro volatility and oil-driven inflation provide mixed context: downside hedge versus fiat currency risk premium.",
+        "zh":"数字资产维持在 6万美元以上有强大的订单簿深度来自机构投资者。宏观波动和油价驱动的通胀提供混合背景：下行对冲和对法币货币风险溢价之间权衡。"
+      },
+      "bullish": ["BTC"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Bitcoin functions as asymmetric hedge against traditional finance stress but faces regulatory and inflation narrative competition. Institutional flows provide stability despite geopolitical volatility."
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Mixed signals with semiconductor weakness from prior session lingering into new trading day while Nvidia maintains underlying demand fundamentals despite valuation compression.",
+      "zh": "信号混合因前一交易日半导体疲软持续进入新交易日同时Nvidia尽管估值压缩仍保持基本需求基本面。"
+    },
+    "semiconductor": {
+      "en": "Continued pressure as memory/storage sector selloff compounds broader chip concerns. VanEck Semiconductor ETF (SMH) tracks weakness while investors await durability of AI hardware demand amid oil inflation risks.",
+      "zh": "持续压力因内存/存储板块抛售加剧更广泛芯片忧虑。VanEck半导体ETF（SMH）追踪疲软而投资者等待AI硬件需求耐久度同时油价通胀风险下。"
+    },
+    "bigTech": {
+      "en": "Selective strength with mega-cap tech providing defensive support while cloud spending growth and AI revenue models remain intact despite short-term stock price volatility.",
+      "zh": "选择性强势因大科技提供防御支撑而云支出增长和AI收入模型保持完整尽管短期股价波动。"
+    },
+    "energy": {
+      "en": "Strong rally driven by geopolitical supply shock. Oil majors benefit from WTI surge to $72+ with immediate production benefits and favorable pricing environment as Middle East tensions persist.",
+      "zh":"能源板块强势反弹由地缘政治供给冲击驱动。石油巨头受益于WTI 升至$72 +，有即期生产利益和有利定价环境同时中东紧张局势持续。"
+    },
+    "ev": {
+      "en": "Headwinds from elevated energy costs and geopolitical supply disruption. EV sector faces stagflation risk profile as oil prices climb beyond pre-war levels despite autonomous vehicle technology progress.",
+      "zh":"高能源成本和地缘政治供应中断造成逆风。电动车板块面临滞胀风险概况因油价攀升超越战前水平尽管自动驾驶技术进展下。"
+    },
+    "market": {
+      "en": "Mixed-to-risk-off sentiment as geopolitical escalation and supply shock pricing outweighs baseline bull case. Energy rally provides support but broader indices under pressure from oil-driven yield spike.",
+      "zh":"平至风险情绪因地缘政治升级和供给冲击定价超过基础牛案例。能源反弹提供支持但更广泛指数在油价驱动收益飙升下承压。"
+    },
+    "preciousMetals": {
+      "en": "Gold struggles at $4,105 level with yields rising despite Mideast tensions creating mixed demand signals. Silver tracks gold lower as inflation fears from oil price surge compete with safe-haven flows.",
+      "zh":"金价在$4,105 水平挣扎尽管中东紧张创造混合需求信号而收益率上升。白银跟随黄金更低因油价飙升通胀担忧与避险流竞争下。"
+    },
+    "oil": {
+      "en": "WTI climbs >6% to $72.19 and Brent toward $84 on supply shock from Iran strikes. Energy sector becomes key defensive position while inflation transmission through oil costs threatens growth portfolio performance.",
+      "zh":"WTI 升逾6%至$72.19和布兰特向$84因伊朗袭击供给冲击。能源板块成为关键防御位置而通胀通过油价成本传导威胁增长组合表现下。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "US equity futures mixed with slight declines as Middle East news evolves overnight. S&P/Nasdaq/Dow track flat to down while Asian markets decline ahead of Wednesday open.",
+      "zh": "美国股市期货混合轻微下跌因中东新闻隔夜演变。标普/纳斯达克/道指跟踪平至跌同时亚洲市场在周三开盘前下跌。"
+    },
+    "treasury10Y": {
+      "en": "US 10-year yield rises on oil-driven inflation anchoring with market pricing in higher-for-longer rates scenario if energy costs persist through third quarter.",
+      "zh": "因油价驱动通胀锚定美国 10年期收益率上升而市场在对能源成本通过第三季度持续情景中定价更高利率长期化。"
+    },
+    "dxy": {
+      "en": "$DXY holds above $101 with support from Middle East tensions strengthening risk-off positioning. Greenback benefits from geopolitical volatility while maintaining resistance levels.",
+      "zh":"美元指数在$101 以上持有因中东紧张加强避险定位。美元从地缘政治波动中受益同时维持阻力水平下。"
+    },
+    "oil": {
+      "en": "WTI oil price jumps >6% to $72.19 with Brent climbing toward $84 after US strikes on Iran and vessel attacks in Hormuz Strait create immediate supply concerns.",
+      "zh":"因美国对伊朗袭击和霍尔木兹船只袭击造成即期供应忧虑 WTI 油价跳升逾6%至$72.19同时布兰特向$84攀升。"
+    },
+    "keyRisk": {
+      "en": "Middle East supply shock transmission through oil price surge to inflation expectations and Fed policy path remains primary macro risk while geopolitical events could escalate further.",
+      "zh": "中东供给冲击通过油价飙升传导至通胀预期和美联储政策路径仍是主要宏观风险同时地缘政治事件可能进一步升级。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Risk sentiment remains fragile as oil price surge and geopolitical escalation create stagflation headwinds for growth names while energy sector rally provides partial support. Mixed judgment due to conflicting signals: defensive positioning in oil vs rate sensitivity across broader portfolio. Energy inflation may force Fed policy adjustments that impact equity valuations unevenly.",
+      "zh": "风险情绪保持脆弱因油价飙升和地缘政治升级对成长股创造滞胀逆风同时能源板块反弹提供部分支持。混合判断因冲突信号：石油防御性定位 vs 更广泛组合利率敏感下。能源通胀可能迫使美联储政策调整影响股权估值不均衡地运行。"
+    }
+  }
+}
