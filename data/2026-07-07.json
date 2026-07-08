@@ -1,0 +1,226 @@
+{
+  "date": "2026-07-07",
+  "summary": {
+    "en": "US markets extended losses from Friday following overnight weakness in Asia. Semiconductor stocks sold off despite Samsung's record quarter as investors priced-in high valuations and profit-taking amid DeepSeek chip competition concerns. Oil prices surged on renewed Middle East tensions after US strikes against Iran, while Treasury yields rose and the dollar strengthened to week-high levels.",
+    "zh": "美股延续周五的下跌走势，亚洲盘前半导体板块承压。尽管 Samsung 交出创纪录季度业绩但仍遭抛售，市场对 AI 硬件股估值过高和获利了结担忧加剧，同时 DeepSeek 推出自有芯片引发竞争忧虑。油价因中东局势再度升级而飙升；美债收益率回升、美元走强至本周高点。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Semiconductor stocks slump despite Samsung's record earnings as valuation concerns dominate over profit news",
+        "zh": "半导体股遭重挫，尽管 Samsung 交出创纪录业绩但估值忧虑压倒利好消息"
+      },
+      "impact": {
+        "en": "Samsung Electronics' Q2 earnings showing strong AI memory demand failed to boost chip stocks, instead raising concerns about overvaluation in the sector. Memory chips and storage makers saw collective selloff while investors rotated into healthcare and financials.",
+        "zh": "尽管 Samsung 显示强劲的 AI 存储需求，但未能提振芯片股反而引发板块估值过高担忧。内存和存储器制造商遭集体抛售，投资者转向医疗保健和金融股避险。"
+      },
+      "bullish": ["MU (after correction)", "JPM", "MSFT"],
+      "bearish": ["NVDA", "AMD", "MCHP", "KLAC", "AMAT"],
+      "macroRisk": {
+        "en": "AI infrastructure slowdown concerns transmitted from memory sector weakness to broader semiconductor ecosystem including big tech names reliant on hardware refresh cycles."
+      }
+    },
+    {
+      "title": {
+        "en": "Oil prices surge 5%+ as US revokes Iran oil export license following Hormuz Strait vessel attacks",
+        "zh": "油价飙升逾 5%，美国因波斯湾船只袭击事件吊销伊朗石油出口许可证"
+      },
+      "impact": {
+        "en": "Iran's drone and missile strikes on three tankers near the Strait of Hormuz pushed WTI +$72.19 (+5.2%) and Brent +$76.00 (+5.4%). Geopolitical supply shock risks inflation expectations, causing Treasury yields to rise and pressuring rate-sensitive growth stocks.",
+        "zh": "伊朗对霍尔木兹海峡附近三艘油轮的无人机和导弹袭击导致 WTI 涨至$72.19(+5.2%)，布兰特原油升至$76(+5.4%)。地缘政治供给冲击推升通胀预期，美债收益率反弹压低了利率敏感的成长股。"
+      },
+      "bullish": ["XOM", "CVX", "COP"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Oil supply disruption in Strait of Hormuz directly threatens inflation trajectory and Fed policy path. Energy sector benefits while growth/tech face stagflation risks."
+      }
+    },
+    {
+      "title": {
+        "en": "$DXY hits week-high at 101.2 on Middle East tensions as dollar strengthens against peers",
+        "zh": "美元指数因中东局势触及本周高点 101.2，美元对同行货币走强"
+      },
+      "impact": {
+        "en": "Dollar index reached $101.18, highest since July 5 after US resumed strikes on Iran and revoked oil export licenses to Iran following Hormuz attacks. Stronger dollar weighs on multinational earnings but reduces import inflation.",
+        "zh": "美元指数升至$101.18，创下自7月2日以来新高。美元走强对跨国企业收益构成压力但降低进口通胀风险。"
+      },
+      "bullish": [],
+      "bearish": ["FXE", "XEU"],
+      "macroRisk": {
+        "en": "Dollar strength creates headwinds for US multinationals with significant overseas revenue while reducing imported inflation but raising borrowing costs in dollar-denominated markets."
+      }
+    },
+    {
+      "title": {
+        "en": "DeepSeek announces own AI chip project, intensifying competition fears in semiconductor sector",
+        "zh": "DeepSeek 宣布自主研发 AI 芯片项目，加剧半导体板块竞争忧虑"
+      },
+      "impact": {
+        "en": "Chinese AI startup DeepSeek reportedly developing proprietary inference chips to reduce reliance on Nvidia and Huawei products. News intensified concerns about shifting competitive landscape for US chipmakers as they compete with lower-cost Chinese alternatives.",
+        "zh": "中国 AI 初创企业DeepSeek研发专有推理芯片以降低对Nvidia和华为产品的依赖。此消息加剧了市场对于美国芯片制造商在与低成本中国替代者竞争中的担忧。"
+      },
+      "bullish": [],
+      "bearish": ["NVDA", "AMD"],
+      "macroRisk": {
+        "en": "Potential disruption to US chip dominance in AI inference market. Supply chain diversification away from Nvidia/Huawei products could accelerate, affecting revenue models for major semiconductor players."
+      }
+    },
+    {
+      "title": {
+        "en": "Gold declines amid rising yields and oil-driven inflation fears despite geopolitical safe-haven demand",
+        "zh": "金价因美债收益率上升和石油驱动的通胀担忧而下跌，尽管地缘政治避险需求支撑"
+      },
+      "impact": {
+        "en": "XAU/USD fell ~1.4% to trade near $4,105 as rising oil prices and inflation expectations weighed on safe-haven demand. Gold struggles with rate-sensitive positioning despite Mideast tensions, suggesting markets remain focused on Fed policy implications of higher energy costs.",
+        "zh": "金价下跌约 1.4%，徘徊在$4,105附近，因油价上涨和通胀预期削弱避险需求。尽管中东局势紧张但黄金受利率敏感定位拖累，显示市场更关注高能源成本对美联储政策的影响。"
+      },
+      "bullish": [],
+      "bearish": ["GLD"],
+      "macroRisk": {
+        "en": "Inflation expectations from oil price shock threaten to extend Fed rate-holding period. Gold faces dual pressure: rising real yields offsetting safe-haven flows while energy-driven inflation complicates monetary policy outlook."
+      }
+    },
+    {
+      "title": {
+        "en": "ASX 200 futures drop as US tech selloff transmits through risk sentiment to Australian market",
+        "zh": "澳大利亚股市期货下跌，美国科技股抛售情绪通过风险偏好传导至澳洲市场"
+      },
+      "impact": {
+        "en": "S&P/ASX 200 futures declined ~39 pts (-0.4%) as semiconductor weakness and higher oil prices weighed on global risk sentiment ahead of RBA economic briefing from Assistant Governor Sarah Hunter.",
+        "zh": "半导体疲软和油价上涨压制全球风险情绪前，标普 ASX 200期货下跌约 39点（-0.4%）。"
+      },
+      "bullish": [],
+      "bearish": ["BHP", "CBA", "CSL"],
+      "macroRisk": {
+        "en": "Transmitted volatility from US semiconductor and big tech declines affects exposure to global demand via Australian resource exporters' earnings."
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury yields rise as inflation fears from oil shock push rates higher across curve",
+        "zh": "美债收益率上升，油价冲击引发的通胀担忧推动整条曲线利率走高"
+      },
+      "impact": {
+        "en": "T-note futures settled 10 ticks lower on the price scale but yields rose as inflation expectations anchored to oil-driven supply shocks. Market waits for Fed minutes while bond prices adjust to higher-for-longer rates scenario.",
+        "zh": "美债期货在价格盘面上下跌10个 Tick，但收益率上升因通胀预期锚定油价驱动供给冲击。市场等待美联储会议纪要同时债券价格调整至更高利率情景中。"
+      },
+      "bullish": [],
+      "bearish": ["TLT", "IEF"],
+      "macroRisk": {
+        "en": "Rising yields directly pressure mortgage REITs, growth stocks, and consumer discretionary spending. Bond market signals Fed may hold rates longer despite soft-landing hopes."
+      }
+    },
+    {
+      "title": {
+        "en": "SpaceX stock drops ~7% on first official Nasdaq 100 inclusion day as valuation concerns overshadow debut",
+        "zh": "尽管正式纳入纳斯达克 100指数首日但仍跌约 7%，估值忧虑盖过上市喜悦"
+      },
+      "impact": {
+        "en": "Despite positive broker coverage following IPO, SpaceX fell ~7% on its first official Nasdaq 100 inclusion day as markets remain cautious about near-term earnings runway for high-growth launches and space economy valuation models.",
+        "zh":"尽管上市后券商覆盖呈正面但SpaceX在首次正式纳入纳斯达克 100指数日下跌约 7%，因市场对高速增长发射的短期盈利路径和太空经济估值模型保持谨慎。"
+      },
+      "bullish": [],
+      "bearish": ["SPCX"],
+      "macroRisk": {
+        "en": "High-growth tech valuations face pressure from rate sensitivity and earnings volatility. Space economy sector premium at risk of compression during periods of macro uncertainty."
+      }
+    },
+    {
+      "title": {
+        "en": "Fed minutes pending release create cautious sentiment as oil prices reignite inflation concerns",
+        "zh": "等待美联储会议纪要发布但油价重燃通胀担忧导致谨慎情绪"
+      },
+      "impact": {
+        "en": "Investors await Fed policy guidance while energy costs remain elevated. Market uncertainty about whether higher-for-longer rates will materialize as oil shock persists complicates equity and bond pricing.",
+        "zh": "投资者等待美联储政策指引但能源成本维持高位。市场对更高利率是否将长期化持观望态度，因油价冲击持续而复杂化了股债定价。"
+      },
+      "bullish": [],
+      "bearish": ["XLK", "XLF"],
+      "macroRisk": {
+        "en": "Fed policy ambiguity and oil-driven inflation fears create mixed risk sentiment. Growth sectors face pressure while defensive positioning may attract capital until clarity emerges."
+      }
+    },
+    {
+      "title": {
+        "en": "Geopolitical risks reshape global trade dynamics as US sanctions escalate in Middle East",
+        "zh": "地缘政治风险重塑全球贸易格局，因美国在中东升级制裁"
+      },
+      "impact": {
+        "en": "US revocation of Iran's oil export license and military strikes alter regional power balance, affecting global energy markets. Supply chain disruptions from Middle East tensions may ripple through shipping routes connecting Europe-Asia.",
+        "zh": "美国吊销伊朗石油出口许可证并对中东地区实施军事行动改变区域力量平衡，影响全球能源市场。从中东紧张局势导致的供应链中断可能通过连接欧洲和亚洲的航运路线产生涟漪效应。"
+      },
+      "bullish": ["XLE"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Supply chain rerouting and energy price volatility affect global trade. Companies with exposure to Middle East shipping routes face disruption risks impacting earnings forecasts."
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Mixed sentiment as semiconductor weakness drags on broader AI ecosystem. DeepSeek chip development news introduces competitive headwinds for US incumbents in inference market while Nvidia maintains demand momentum despite valuations.",
+      "zh": "情绪分化：半导体疲软拖累整体AI生态系统。DeepSeek芯片开发为美国推理市场龙头企业带来竞争阻力，Nvidia尽管估值高企仍保持需求势头。"
+    },
+    "semiconductor": {
+      "en": "Under pressure with VanEck Semiconductor ETF down >3%. Memory/storage selloff despite positive Samsung earnings reflects broader valuation concerns in AI hardware. Investors rotating out of chips until clarity on demand durability.",
+      "zh": "承压，VanEck半导体ETF跌逾 3%。尽管三星业绩正面但存储/内存股抛售反映投资者对AI硬件估值担忧的普遍问题，等待需求可持续性的澄清前轮出芯片板块避险。"
+    },
+    "bigTech": {
+      "en": "Divergent performance as large-cap tech diverged. Healthcare and financials provided relative strength while selective technology names held up despite semiconductor weakness in broader market.",
+      "zh": "表现分化：大科技股走势分化，医疗保健和金融提供相对强势而选择性技术股尽管半导体板块拖累整体市场仍能守住阵脚。"
+    },
+    "energy": {
+      "en": "Strong performer amid Middle East geopolitical escalation. Oil prices surge on supply shock concerns as Strait of Hormuz tensions intensify after US strikes against Iran.",
+      "zh": "在中东地缘政治升级背景下表现强势，油价因波斯湾紧张局势（美国对伊朗军事行动后）飙升反映供给冲击担忧。"
+    },
+    "ev": {
+      "en": "Pressure from higher energy costs and geopolitical supply disruptions. EV sector faces stagflation risks as oil prices climb despite Tesla's autonomous vehicle technology advancements.",
+      "zh": "高能源成本和地缘政治供应中断施加压力，电动车板块在油价攀升时面临滞胀风险尽管Tesla的自动驾驶技术进步。"
+    },
+    "market": {
+      "en": "Broad declines across major indexes. Dow -130pts (-0.25%), S&P 500 -76pts (-0.45%), Nasdaq -298pts (-1.16%). Breadth weak with semiconductor leading losses while healthcare/financials provided support.",
+      "zh": "主要指数普遍下跌：道指跌 130点（-0.25%）、标普 500 跌76点（-0.45%）、纳指跌幅扩大至 298点（-1.16%）。卖盘广泛半导体领涨跌幅而医疗保健和金融提供支持。"
+    },
+    "preciousMetals": {
+      "en": "Gold declined ~$15 to $4,105 despite Mideast tensions as rising yields and oil-driven inflation expectations outweighed safe-haven demand. Silver tracked lower alongside gold.",
+      "zh": "金价尽管中东局势紧张仍下跌约 15美元至$4,105，因美债收益率上升和石油驱动的通胀预期超过避险需求。白银跟随黄金同步走跌。"
+    },
+    "oil": {
+      "en": "WTI climbed to $72.19 (+5.2%) and Brent to $76.00 (+5.4%) as US military strikes against Iran followed three vessel attacks in Strait of Hormuz. Supply disruption fears dominate short-term pricing.",
+      "zh":"因伊朗袭击后对三个船只事件的担忧 WTI原油升至$72.19（+5.2%）和布兰特原油至$76 (+5.4%)。供应中断忧虑主导短期定价。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "US equity futures declined on Wednesday as Asian markets sold off overnight, with S&P/ASX 200 futures down ~39 pts (-0.4%) pre-open ahead of RBA monetary briefing.",
+      "zh": "美国股市期货在周三因亚洲市场隔夜抛售而下跌，标普 ASX 200期货盘前跌幅约 39点（-0.4%）等待澳联储货币政策简报。"
+    },
+    "treasury10Y": {
+      "en": "US 10-year Treasury yield rose on Mideast tensions and inflation fears from oil shock, pressuring rate-sensitive growth stocks ahead of Fed minutes release.",
+      "zh": "因中东局势和油价冲击通胀担忧美国10年期国债收益率上升，压低了利率敏感的成长股在美联储纪要发布前。"
+    },
+    "dxy": {
+      "en": "$DXY strengthened to week-high at $101.2 after US resumed military actions against Iran and revoked oil export license following Hormuz attacks.",
+      "zh": "因美国恢复对伊朗军事行动并在霍尔木兹袭击后吊销石油出口许可证美元指数走强至本周高点$101.2。"
+    },
+    "oil": {
+      "en": "$DXY strengthened to week-high at $101.2 after US resumed military actions against Iran and revoked oil export license following Hormuz attacks.",
+      "zh": "WTI 原油价格受波斯湾袭击后的伊朗制裁影响大幅上涨至$72以上。"
+    },
+    "keyRisk": {
+      "en": "Mideast geopolitical escalation with Iranian strikes on commercial vessels in Strait of Hormuz and US response including sanctions revocation creates supply shock inflation path while Fed monitors oil price trajectory for policy implications.",
+      "zh": "中东地缘政治升级包括伊朗对波斯湾商业船只的袭击以及美国回应（包括制裁吊销）造成供给冲击通胀路径同时美联储监控油价轨迹以研判政策影响。"
+    }
+  },
+  "judgment": {
+    "type": "risk-off",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Risk sentiment deteriorated as geopolitical tensions escalated in Mideast pushing oil higher and Treasury yields up simultaneously. Semiconductor valuation concerns compounded by Samsung earnings disappointment created sector divergence despite AI demand persistence.",
+      "zh": "风险情绪恶化因中东局势升级推升油价和美债收益率同时上升。半导体估值担忧叠加三星业绩不及预期加剧板块分化尽管AI需求持续。"
+    }
+  }
+}
