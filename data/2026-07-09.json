@@ -1,0 +1,159 @@
+{
+  "date": "2026-07-09",
+  "summary": {
+    "en": "US-Iran geopolitical escalation drives oil higher and bonds lower, weighing on equity sentiment. Futures rose modestly as traders weigh both risk premiums from Middle East tensions against soft US June data.",
+    "zh": "美国与伊朗的地缘政治紧张局势推动油价上涨，美债收益率上升。期货温和上扬，交易员在权衡中东紧张的避险溢价与美国 6 月疲软数据之间"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "US-Iran Strikes Escalate Oil Supply Risks, WTI/Brent Hit Intraday Highs",
+        "zh": "美伊新一轮空袭升级供应风险，WTI和布伦特原油触及日内高点"
+      },
+      "impact": {
+        "en": "Geopolitical risk premium keeps oil benchmarks elevated despite intraday pullbacks. Macro transmission: higher energy costs reinforce sticky inflation.",
+        "zh": "地缘政治风险溢价使油价在日内回落后仍维持高位。宏观传导：能源成本强化通胀粘性"
+      },
+      "bullish": ["XLE", "OIH"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Yes - Oil price spikes feed inflation, raising rate hike odds to 25bps by September (80% priced)",
+        "zh": "是——油价飙升推高通胀，加息概率升至 9 月前 25bp（已定价 80%）"
+      }
+    },
+    {
+      "title": {
+        "en": "Fed Minutes Hint at Higher-for-Longer; Inflation Risks Persist Despite Soft June Data",
+        "zh": "美联储纪要暗示高利率更长；尽管 6 月数据疲软，通胀风险犹存"
+      },
+      "impact": {
+        "en": "June Fed minutes show dovish/hawkish divergence but unanimous hold at 3.5-3.75%. Treasury yields extend higher, compressing equity valuations.",
+        "zh":"6 月纪要显示鸽鹰分歧但全体维持利率在 3.50-3.75%。美债收益率上行压制股估值"
+      },
+      "bullish": [],
+      "bearish": ["TLT"],
+      "macroRisk": {
+        "en": "No - Fed pause consensus priced in. Main risk is June CPI miss direction",
+        "zh": "否——点阵图暂停共识已定价。主要风险在于 6 月CPI数据方向"
+      }
+    },
+    {
+      "title": {
+        "en": "Gold Slips, Yen Weakens as Dollar Retreats from Fed Hawkishness Fade",
+        "zh": "金价回落，日元疲软，美元因美联储鹰派论调消退而撤退"
+      },
+      "impact": {
+        "en": "Fed minutes not hawkish enough to extend rate hike odds but also failed to spark dovish bets. DXY slips against EUR/GBP despite yield support.",
+        "zh":"美联储纪要不够鹰派以延长加息概率，但也未能引发鸽派押注。美元指数在对欧元、英镑下滑"
+      },
+      "bullish": ["GLD"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - Currency flows react to DXY technical pullback rather than macro regime shift",
+        "zh": "否——货币流向是对美元技术回调反应而非宏观体制转变"
+      }
+    },
+    {
+      "title": {
+        "en": "Tech Sector Mixed as Software Fears Meet AI Opportunity",
+        "zh": "科技板块分化，软件恐慌与 AI 机遇并存"
+      },
+      "impact": {
+        "en": "Stock-specific: Starbucks/AI vendor fears hit software vendors. However, NVIDIA/TSMC data center demand remains robust.",
+        "zh":"个股层面：星巴克对 AI 供应商担忧打压软件厂商。然而英伟达/台积电数据中心需求强劲"
+      },
+      "bullish": ["NVDA", "TSM"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Medium - China tariff backdrop + supply chain fragmentation risks; US June data miss could be good for rates but oil risk neutralizes",
+        "zh":"中等——关税背景下+供应链碎片化风险；6 月数据利空对利率有利但油价对冲"
+      }
+    },
+    {
+      "title": {
+        "en": "European Markets Mixed; EM Concerns Weigh on Risk Sentiment",
+        "zh": "欧洲市场分化，新兴市场担忧打压风险情绪"
+      },
+      "impact": {
+        "en": "EU equity markets declined amid Middle East risk premium and ECB policy uncertainty. Emerging market currencies under pressure.",
+        "zh":"欧盟股市下跌源于中东溢价和欧洲央行政策不确定性。新兴市场货币承压"
+      },
+      "bullish": [],
+      "bearish": ["VWO"],
+      "macroRisk": {
+        "en": "Yes - EM risk premium via oil import costs + geopolitical instability",
+        "zh":"是——通过原油进口成本+地缘政治动荡传导"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector resilient despite software vendor fears. Data center buildout remains key growth engine.",
+      "zh": "AI板块对软件供应商担忧表现韧性。数据中心建设仍是关键增长引擎"
+    },
+    "semiconductor": {
+      "en": "Semis mixed on AI demand vs China trade risk. TSM/NVDA outperform legacy chips amid supply chain fears",
+      "zh": "半导体在AI需求和⺟国贸易风险间分化。台积电/英伟达在供应链担忧中跑赢传统芯片股"
+    },
+    "bigTech": {
+      "en": "Big Tech mixed: Microsoft/AAPL defensive despite softening tech breadth. Cloud demand holds",
+      "zh": "大科技分化：微软/苹果防御性表现尽管技术广度放缓。云需求仍存"
+    },
+    "energy": {
+      "en": "Energy sector bullish on geopolitical risk premium despite intraday pullbacks from higher oil prices.",
+      "zh": "能源板块对地缘政治风险溢价看涨，尽管油价走高日内回落"
+    },
+    "ev": {
+      "en": "EV sector under pressure as oil price risks dominate headlines. No new policy catalysts",
+      "zh": "电动车板块承压因油价风险主导头条新闻。无新政策催化剂"
+    },
+    "market": {
+      "en": "Broad market cautious amid geopolitical escalation + oil price uncertainty.",
+      "zh": "大盘谨慎，地缘升级+⺟油价格不确定"
+    },
+    "preciousMetals": {
+      "en": "Gold pulls back on profit-taking after rally driven by geopolitical risk. Silver outperforms industrially",
+      "zh": "金价在避险后获利回吐回落。银工业需求跑赢大盘，但宏观顺风有限"
+    },
+    "oil": {
+      "en": "Oil benchmarks elevated on Middle East tensions despite intraday profit-taking.",
+      "zh": "油价在中东紧张下维持高位尽管日内获利了结"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 +0.32% | Nasdaq 100 +1.05% | Dow Jones +0.09%",
+      "zh": "标普+0.32%，纳指+1.05%，道琼+0.09%"
+    },
+    "treasury10Y": {
+      "en": "US 10-Year Treasury yield up near YTD highs on inflation/oil risk premium",
+      "zh": "美债收益率上行至年内高点附近，源于通胀/油价风险溢价"
+    },
+    "dxy": {
+      "en": "US Dollar Index slipped despite yield support, as Fed minutes failed to extend rate hike odds",
+      "zh": "美元指数在收益率支撑下滑，因美联储纪要未延长加息概率"
+    },
+    "oil": {
+      "en": "WTI crude trading near $73 with intraday pullback but above key technical levels",
+      "zh": "西德克萨斯原油在$73附近交易日内回落但仍高于关键技术位"
+    },
+    "keyRisk": {
+      "en": "Geopolitical escalation in Middle East (Iran Strait of Hormuz) driving oil inflation via supply risk transmission.",
+      "zh": "中东地缘升级（伊朗霍尔木兹海峡）通过供应风险传导驱动油价通胀"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": "medium",
+    "note": {
+      "en": "Mixed sentiment: geopolitical risk premium supports oil and safe havens, but soft June data keeps equities cautiously bullish. Oil > inflation transmission path dominates macro narrative.",
+      "zh": "市场分化：地缘风险溢价支撑油价和避险资产，但 6月数据疲软维持股市谨慎乐观。⺟油通胀传导路径主导宏观叙事"
+    }
+  },
+  "generatedBy": "clawbot-memory MORNING_BRIEF_TEMPLATE",
+  "runtimeNotes": {
+      "sourcesUsed": ["investing.com", "fxstreet.com"], 
+       "skipReason": "",
+       "geoRiskPrimary": true,
+        "macroPathFocus": ["oil-inflation", "Fed minutes"] }
+}
