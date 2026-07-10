@@ -1,0 +1,192 @@
+{
+  "date": "2026-07-10",
+  "summary": {
+    "en": "Premarket mixed as memory chip sector surges ahead of SK Hynix IPO while geopolitical tensions ease. Semiconductor stocks lead gains with Micron, AMD rising over 5% on strong AI demand outlook and robust earnings momentum.",
+    "zh": "盘前市场震荡，存储芯片板块因三星电子（SK Hynix）IPO 而走强；地缘政治紧张局势缓和。半导体股领涨，美光科技、AMD 涨幅超 5%，受益于强劲的人工智能需求预期和稳健的盈利势头。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "SK Hynix IPO Oversubscribed: Memory Chip Sector Leads Rally",
+        "zh": "三星电子（SK Hynix）IPO 超额认购：存储芯片板块领涨大盘"
+      },
+      "impact": {
+        "en": "Memory chip sector sentiment strongly positive as SK Hynix ADRs priced at $149 oversubscribed by 7+ times. Benefits memory makers (Micron, Western Digital) and storage partners (SanDisk, Seagate). Geopolitical easing in Middle East reduces risk premium on commodities.",
+        "zh": "SK Hynix IPO 定价$149，获超 7 倍超额认购，存储芯片板块情绪强烈正面。利好内存厂商（美光科技、西部数据）及存储合作伙伴（闪迪、希捷）。中东地缘局势缓和降低大宗商品风险溢价。"
+      },
+      "bullish": ["MU", "WDC", "SNDK", "STX"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Positive - reduced geopolitical premium on energy/oil prices supports tech hardware margin expansion",
+        "zh": "正面——能源/油价地缘溢价下降支持科技硬件利润率扩张"
+      }
+    },
+    {
+      "title": {
+        "en": "US Futures Mixed: Nasdaq Dips, Dow Steady Ahead of Open",
+        "zh": "美股期指震荡：纳斯达克下跌，道指稳定等待开盘"
+      },
+      "impact": {
+        "en": "Mixed futures sentiment as investors weigh SK Hynix IPO excitement against lingering geopolitical risks. Asian markets: Nikkei +1.2%, Hang Seng -0.7%. European indices mostly neutral.",
+        "zh": "期指情绪分化，投资者权衡三星电子 IPO 兴奋度与持续的地缘政治风险。亚洲市场：日经指数+1.2%，恒生指数-0.7%；欧洲指数大多中性。"
+      },
+      "bullish": ["DIA"],
+      "bearish": ["NDX", "^GSPC"],
+      "macroRisk": {
+        "en": "Moderate - mixed sentiment reflects uncertainty around Middle East peace process and Iran tensions easing slowly",
+        "zh": "中等——混合情绪反映中东和平进程及伊朗紧张局势缓慢缓和的不确定性"
+      }
+    },
+    {
+      "title": {
+        "en": "Gold Rebounds Above $4100/oz as Dollar Weakens, Oil Holds Near Record Levels",
+        "zh": "金价反弹突破$4100/盎司，美元走弱，油价维持高位"
+      },
+      "impact": {
+        "en": "Precious metals gain on DXY weakness below 101 and cooling US-Iran tensions. Gold futures up modestly but remain volatile near $4,105 support level.",
+        "zh": "贵金属因美元指数跌破 101、美伊紧张局势降温而上涨。金价在$4105支撑位附近波动但保持韧性。"
+      },
+      "bullish": ["GLD", "IAU"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Neutral - dollar decline supports gold but yield stability limits explosive upside; oil price stability eases inflation fears slightly",
+        "zh": "中性——美元下跌支持金价，但收益率稳定限制爆发式上涨；油价稳定略微缓解通胀担忧"
+      }
+    },
+    {
+      "title": {
+        "en": "Semiconductor Rally Continues: AMD, Intel Surge on AI Infrastructure Demand",
+        "zh": "半导体牛市延续：AMD、英特尔受益于人工智能基础设施需求大涨"
+      },
+      "impact": {
+        "en": "AI hardware demand remains robust despite recent pullback. Semiconductor stocks benefit from data center capex cycles and memory sector recovery.",
+        "zh": "尽管近期有所回调，但 AI 硬件需求依然强劲。半导体股受益于数据中心资本开支周期和存储板块复苏。"
+      },
+      "bullish": ["AMD", "INTC", "SOXX"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Positive - capital discipline and AI monetization accelerate adoption across enterprise segments",
+        "zh": "正面——资本纪律和 AI 变现加速企业板块采用"
+      }
+    },
+    {
+      "title": {
+        "en": "Fed Speaker Schedule: Warsh Comments Expected to Guide Rate Expectations",
+        "zh": "美联储发言人日程：沃舍讲话将引导市场预期"
+      },
+      "impact": {
+        "en": "Fed Watch Committee members including Fed Governor Philip Jefferson speak today. Markets monitor any hawkish shift in policy stance as inflation remains sticky.",
+        "zh": "联邦观察委员会成员包括菲利普·杰斐逊等今日发表讲话。市场密切关注通胀仍具粘性时的政策立场鹰派转变迹象。"
+      },
+      "bullish": [],
+      "bearish": ["TLT", "IEF"],
+      "macroRisk": {
+        "en": "Moderate - rate cut timing uncertainty creates volatility in duration-sensitive portfolios; bond yields may spike if policy tone turns hawkish",
+        "zh": "中等——降息时机不确定性导致久期敏感组合波动；若政策语气转向鹰派，美债收益率可能飙升"
+      }
+    },
+    {
+      "title": {
+        "en": "Delta Air Lines Beaten to Earnings, Consumer Discretionary Steady",
+        "zh": "达美航空盈利超预期，可选消费稳健"
+      },
+      "impact": {
+        "en": "Consumer spending remains resilient despite elevated interest rates. Travel demand holds steady; airline earnings beat supports sector rotation into quality names.",
+        "zh": "尽管利率高企，但消费者支出依然具有韧性。旅行需求保持稳定；航空股盈利超预期支持板块轮动至优质标的。"
+      },
+      "bullish": ["DAL", "UAL"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Neutral - resilient consumer spending supports airline revenue but elevated rates pressure margins and fuel costs",
+        "zh": "中性——消费者支出韧性支持航空收入，但高利率压缩利润率并给燃油成本带来压力"
+      }
+    },
+    {
+      "title": {
+        "en": "Premarket Movers: Enovix +5%, Forte Biosciences Surges 78%",
+        "zh": "盘前领涨：Enovix（+5%）、Forte BioScience 暴涨（+78%）"
+      },
+      "impact": {
+        "en": "Technology and biotech sectors see premarket strength in small-cap names. Enovix battery tech gains investor interest; Forte advances pipeline milestones.",
+        "zh": "技术和生物技术板块小市值个股盘前表现强劲。Enovix 电池技术吸引投资者兴趣；Forte 推进管线里程碑进展。"
+      },
+      "bullish": ["ENVX", "FBRN"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Low - sector-specific catalysts drive premarket activity with limited macro impact on broader indices",
+        "zh": "较低——板块特定催化剂驱动盘前活动，对大盘指数宏观影响有限"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector shows renewed strength as memory chip recovery fuels data center capex cycles. NVIDIA, AMD, and cloud infrastructure providers benefit from enterprise AI adoption acceleration.",
+      "zh": "人工智能板块因存储芯片复苏而重振，推动数据中心资本开支周期。英伟达、AMD 和云基础设施提供商受益于企业级 AI 采用加速。"
+    },
+    "semiconductor": {
+      "en": "Strong rally in memory and storage sector led by Micron (+4.5%), Intel, AMD with SK Hynix IPO excitement spilling over into peer names.",
+      "zh": "存储和半导体板块强劲反弹，美光科技（+4.5%）、英特尔、AMD 领涨；SK Hynix IPO 兴奋情绪蔓延至同行股票。"
+    },
+    "bigTech": {
+      "en": "Big Tech stocks remain mixed with NVIDIA slight weakness amid memory sector strength, but cloud services (AWS/Azure) see sustained demand from AI workload growth.",
+      "zh": "大型科技股震荡：英伟达小幅走弱，但受存储板块强劲提振；云服务（AWS/Azure）因 AI 工作负载增长需求持续增加而表现稳健。"
+    },
+    "energy": {
+      "en": "Oil prices stabilize near WTI $72-74/bbl as US-Iran peace negotiations progress. Energy sector trades neutral while geopolitics reduces volatility premium.",
+      "zh": "油价在WTI$72-75/桶附近企稳，因美伊和平谈判取得进展。能源板块交易平稳；地缘政治降低波动率溢价。"
+    },
+    "ev": {
+      "en": "EV sector cautious on high rates and supply chain constraints. Battery tech advances (Enovix) provide incremental optimism; demand softens in competitive markets.",
+      "zh": "电动车板块对高利率和供应链约束保持谨慎。电池技术进展（恩诺维克斯）提供边际乐观预期；竞争市场中需求软化。"
+    },
+    "market": {
+      "en": "Futures mixed with Nasdaq slightly down, Dow steady. Broad market breadth neutral-to-slightly-positive ahead of earnings season kickoff and SK Hynix listing.",
+      "zh": "期指震荡，纳斯达克小幅下跌、道琼斯指数稳定；在盈利季开启和三星电子 IPO 上市前，市场整体宽度中性偏正面。"
+    },
+    "preciousMetals": {
+      "en": "Gold rebounds above $4100/oz on DXY weakness and cooling geopolitics. Silver follows closely; safe-haven demand modestly elevated.",
+      "zh": "金价反弹突破$4100，受美元指数走弱和地缘政治降温影响。白银紧跟其后；避险需求小幅增加。"
+    },
+    "oil": {
+      "en": "WTI holds near $73.5/bbl, Brent around $78; geopolitical risk premium receding as peace negotiations advance but OPEC+ supply discipline remains intact.",
+      "zh": "西得克萨斯轻质原油维持$73.5/桶附近，布伦特原油约$78；和平谈判进展地缘风险溢价消退但欧佩克+供应纪律保持完整。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "Dow Futures: +0.18%, S&P 500 Futures: -0.03% (slight decline), Nasdaq 100 Futures: -0.32%; Mixed sentiment overall with memory chip strength offsetting growth stock concerns.",
+      "zh": "道指期指：+0.18%，标普 500 期指：-0.03%（小幅下跌），纳斯达克 100 期指：-0.32%；整体情绪分化，存储芯片板块强劲抵消成长股担忧。"
+    },
+    "treasury10Y": {
+      "en": "US 10-year Treasury yield around 4.45%, stable with Fed commentary focus today; yields may rise if policy tone turns hawkish or inflation data surprises upward.",
+      "zh": "美国十年期国债收益率约 4.45%，保持稳定；若政策语气转向鹰派或通胀数据超预期上行，收益率可能上升。"
+    },
+    "dxy": {
+      "en": "US Dollar Index at ~100.8, slipping below key resistance; weak on safe-haven metal rally and improving geopolitical prospects.",
+      "zh": "美元指数约 100.8，跌破关键阻力位；避险金属涨势和地缘政治改善使其走弱。"
+    },
+    "oil": {
+      "en": "WTI around $73.9/bbl, Brent at $76-78; oil volatility muted as US-Iran peace process advances despite Middle East tensions.",
+      "zh": "西得克萨斯轻质原油$74 左右，布伦特原油在$76-78；油价波动温和，因美国-伊朗和平进程取得进展。"
+    },
+    "keyRisk": {
+      "en": "Middle East peace process uncertainty and potential Fed policy pivot remain top headlines; Iran tensions easing but could reignite geopolitical volatility.",
+      "zh": "中东和平进程不确定性和潜在美联储政策转变仍是头条风险；伊朗紧张局势虽在缓和，但可能重新点燃地缘政治波动。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Mixed sentiment driven by memory chip sector strength vs. lingering geopolitical headwinds; Fed policy uncertainty limits upside bias despite earnings catalysts.",
+      "zh": "混合情绪由存储芯片板块强势与持续地缘政治逆风驱动；尽管有利空催化剂，但美联储政策不确定性限制看涨偏差。"
+    }
+  },
+  "__meta__": {
+    "generatedAt": "2026-07-10T13:05:00Z",
+    "sources": ["Business Insider Premarket Now", "TradingView News", "TradingKey Analysis"]
+  }
+}
