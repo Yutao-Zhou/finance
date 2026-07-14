@@ -1,0 +1,209 @@
+{
+  "date": "2026-07-13",
+  "summary": {
+    "en": "Geopolitical escalation in the Middle East dominates premarket action as Trump's Hormuz toll and Iran blockade lift oil prices above $85/bbl, pushing U.S. Treasury yields to two-month highs while broadening tech sector weakness from memory chip demand concerns.",
+    "zh": "中东地缘政治升级主导盘前交易，特朗普霍尔木兹海峡收费和伊朗港口封锁推动油价突破 85 美元/桶美油；通胀预期升温抬升美国国债收益率至两个月高位；大科技股受存储芯片需求担忧拖累普遍走弱。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Trump announces Hormuz shipping fees and Iran port blockade, lifting WTI oil to $79.91 (+2.3%) amid supply disruption fears",
+        "zh": "特朗普宣布霍尔木兹海峡航运费并重启伊朗港口封锁，美油期货涨至 79.91 美元/桶（+2.3%），市场对供应中断担加剧"
+      },
+      "impact": {
+        "en": "Supply shock premium widens as Strait of Hormuz traffic concerns materialize; one-fifth of global crude supply at risk, pushing inflation hedge demand and broadening energy rally",
+        "zh": "霍尔木兹海峡交通风险兑现，供应冲击溢价扩大；全球原油五分之一储量受威胁，通胀避险需求升温带动能源板块普涨"
+      },
+      "bullish": ["XLK (selective)", "XLE leaders"],
+      "bearish": ["Semiconductor stocks", "Big Tech growth names"],
+      "macroRisk": {
+        "en": "Yes - Oil → Inflation expectations ↑ → 10Y Treasury yields to ~4.62%; Dollar strength via safe-haven flows; Potential Fed rate pause reconsideration if inflation resurges",
+        "zh": "是：油价上涨推升通胀预期，美债收益率升至约 4.62%；避险资金流向美元强化 DXY；若通胀重燃或迫美联储重新考虑暂停加息"
+      }
+    },
+    {
+      "title": {
+        "en": "AI chip stocks tumble: SK Hynix debut sparks sector-wide selloff; NVDA, AMD, Broadcom all in red as memory demand concerns spread",
+        "zh": "AI 芯片股重挫：SK 海力士 NASDAQ 上市引发板块抛售；NVDA、AMD、Broadcom 悉数转跌，存储需求担忧蔓延"
+      },
+      "impact": {
+        "en": "Memory chip pullback reflects cyclical demand reset and profit-taking after recent surge; equipment makers (ASML, LRCX) also weakened ahead of earnings",
+        "zh": "内存芯片回落体现周期性需求重置及近期上涨后的获利了结；设备股（ASML、Lam Research）业绩前也走弱"
+      },
+      "bullish": [],
+      "bearish": ["NVDA", "AMD", "AVGO", "QCOM"],
+      "macroRisk": {
+        "en": "Yes - Semiconductor capex slowdown concerns could cascade to broader tech valuations if inventory rebalancing persists beyond mid-term election cycle",
+        "zh": "是：半导体资本开支放缓担忧可能扩散至大盘科技估值，若库存再平衡超出中期选举周期"
+      }
+    },
+    {
+      "title": {
+        "en": "DXY surges and Gold drops below $4,000 as U.S. Central Command completes Middle East strikes; inflation hedge rotation intensifies",
+        "zh": "美元走强黄金跌破 4000 美元，美军中东打击行动完成；通胀对冲交易加剧"
+      },
+      "impact": {
+        "en": "Dollar strength flows into USD as geopolitical safe-haven asset priced in oil shock; Gold underpressure from higher real yields and stronger currency amid conflict escalation",
+        "zh": "地缘避险+油价冲击定价下资金涌入美元；黄金受实际收益率攀升和强势货币压制"
+      },
+      "bullish": ["USD pairs"],
+      "bearish": ["GLD", "XAU/USD"],
+      "macroRisk": {
+        "en": "Yes - Higher USD suppresses EM equities; Gold rotation to real assets if inflation fears persist beyond temporary shock window",
+        "zh": "是：强势美元压制新兴市场股票；若通胀担忧超过暂时冲击窗口，黄金将流向实物资产"
+      }
+    },
+    {
+      "title": {
+        "en": "Bond yields rise on geopolitical risk premium: 10Y Treasury holds near two-month highs as oil-driven inflation expectations reprice",
+        "zh": "美债收益率受地缘风险溢价推升：10 年期国债维持在两个月高位，油价驱动通胀预期重定价"
+      },
+      "impact": {
+        "en": "Higher yields pressure rate-sensitive growth stocks; flight-to-quality in Treasuries but yield curve steepens as inflation re-enters pricing models",
+        "zh": "收益率上行施压利率敏感型成长股；避险国债买入但长端收益率在通胀预期回归定价模型后走陡"
+      },
+      "bullish": ["TLT defensive names"],
+      "bearish": ["XLP growth rotation away from tech"],
+      "macroRisk": {
+        "en": "Yes - Yield curve inflation hedge becomes material if supply shocks persist; Fed policy stance recalibration risk on sustained oil premium",
+        "zh": "是：若供应冲击持续，收益率曲线通胀对冲将实质性显现；油价溢价持久化或迫使美联储政策立场重新校准"
+      }
+    },
+    {
+      "title": {
+        "en": "Market breadth deteriorates as Japan/Korea/Australia trading weighs on U.S. futures; mixed sentiment amid selective energy rallies",
+        "zh": "日本/韩国/澳洲交易拖累美股期指，市场广度恶化；能源板块选择性走强下情绪分化"
+      },
+      "impact": {
+        "en": "Overseas Asian markets drag down premarket positioning despite selective strength in defense and energy sectors; S&P futures point lower into open",
+        "zh": "亚洲海外市场拖累盘前布局，尽管防御与能源板块表现选择性走强；标普期指低开"
+      },
+      "bullish": ["Energy defensive names"],
+      "bearish": ["Tech growth breadth"],
+      "macroRisk": {
+        "en": "Yes - Geopolitical risk premium persists; Selective rallies vulnerable if oil spike triggers broader inflation spiral",
+        "zh": "是：地缘风险溢价持续；若油价飙升引发更广泛通胀螺旋，选择性反弹将受挫"
+      }
+    },
+    {
+      "title": {
+        "en": "U.S. strikes on Iranian military targets complete per CENTCOM; Tehran retaliates against Gulf neighbors including UAE and Bahrain",
+        "zh": "美军完成对伊朗军事目标打击；德黑兰报复攻击阿联酋巴林等海湾邻国"
+      },
+      "impact": {
+        "en": "Escalation loop widens conflict scope beyond immediate oil choke points; Long-term regional instability reinforces premium on energy inflation hedge",
+        "zh": "升级循环扩大冲突范围超越即时油气咽喉；长期区域不稳定强化能源通胀避险溢价"
+      },
+      "bullish": ["Energy sector defensive positions"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Yes - Regional war spillover could force sustained oil supply constraints; Energy inflation feeds back into Fed rate expectations",
+        "zh": "是：区域战争外溢可能迫使能源供应持续受限；能源通胀反馈至美联储加息预期"
+      }
+    },
+    {
+      "title": {
+        "en": "Analysts warn Trump's Hormuz toll proposal raises military escalation risk; Citi cites higher-for-longer oil prices under Iranian regime exit MoU scenario",
+        "zh": "分析师警告特朗普霍尔木兹收费提案加剧军事升级风险；花旗称若伊朗政权退出协议，油价将维持高位"
+      },
+      "impact": {
+        "en": "Market pricing in sustained higher energy costs; Equity valuations pressured unless inflation stays contained within Fed policy window",
+        "zh": "市场定价为持续较高的能源成本；除非通胀控制在美联储政策窗口内，否则股票估值受压"
+      },
+      "bullish": ["Energy infrastructure plays"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Yes - Escalation risk keeps oil elevated; If supply disruptions persist, Fed may pause hikes or pivot faster to avoid recession",
+        "zh": "是：升级风险维持油价高位；若供应中断持续，美联储或暂停加息更快转向避免衰退"
+      }
+    },
+    {
+      "title": {
+        "en": "Chip equipment makers weaken: ASML, Applied Materials, LRCX, KLAC all down ~3% as semiconductor sector sentiment deteriorates",
+        "zh": "芯片设备股走弱：ASML、AppliedMaterials、Lam Research 和 KLA 均跌约 3%，半导体板块情绪恶化"
+      },
+      "impact": {
+        "en": "Memory chip demand reset + profit-taking from recent AI rally; Capital expenditure cycle concerns cascade through supply chain",
+        "zh": "存储芯片需求重置+AI 近期热潮后的获利了结；资本开支周期担忧通过产业链传导"
+      },
+      "bullish": [],
+      "bearish": ["AMAT", "LRCX", "KLAC"],
+      "macroRisk": {
+        "en": "Yes - Semiconductor downturn risk feeds into broader tech sector; Cyclical inventory imbalance could prolong weakness beyond earnings recovery",
+        "zh": "是：半导体下行风险传导至大盘科技；周期性库存失衡可能使弱势持续超出业绩复苏期"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Weakness broadened from SK hynix debut across memory/AI chip sector; NVDA, AMD lead selloff as cyclical demand concerns and profit-taking compound post-listing volatility.",
+      "zh": "弱势从SK海力士上市扩散至存储/芯片板块；NVDA、AMD领先抛售，周期性需求担忧和盘后获利了结叠加上市后波动。"
+    },
+    "semiconductor": {
+      "en": "Broad-based weakness: Equipment makers down 3% on memory demand reset; ASML faces earnings ahead. TSMC also pressured despite strong sales growth (QoQ+36%), reflecting sector-wide inventory rebalancing.",
+      "zh": "板块性走弱：设备股跌3%源于存储需求重置；ASML面临业绩。台积电虽销售增长强劲但亦受压制，反映全行业库存再平衡。"
+    },
+    "bigTech": {
+      "en": "Selective pressure; Big Tech names trade softer amid rate sensitivity as 10Y yield represses growth valuations. Cloud/AI monetization remain secular tailwinds but near-term volatility elevated.",
+      "zh": "选择性承压；大科技股受利率敏感拖累，10年期收益率压制成长估值。云/AI变现仍是长期顺风但短期波动加剧。"
+    },
+    "energy": {
+      "en": "Strong performer as geopolitical shock premium dominates; WTI+$80, Brent near$86. Citi warns of escalation risk; Sector rally supported by sustained supply constraints narrative.",
+      "zh": "强势品种地缘冲击溢价主导；WTI超 80 美元，布伦特近 86 美元。花旗警告升级风险；板块反弹得到供应约束叙事支撑。"
+    },
+    "ev": {
+      "en": "Neutral to cautiously negative given oil price spike impacts margin outlook; EV sector correlates with auto manufacturing macro regime rather than direct geopolitical impact on supply chain.",
+      "zh": "中性至谨慎负面，因油价飙升影响盈利前景；电动车板块与汽车制造宏观体制相关而非供应链直接地缘冲击。"
+    },
+    "market": {
+      "en": "Broad market mixed with defensive rotation; S&P futures point down from Asian session weakness. Energy rallies but tech breadth deteriorates amid supply chain/inventory concerns.",
+      "zh": "大盘分化防御性轮动；标普期指受亚洲走弱下点跌。能源上涨但科技广度恶化，供应链库存担忧拖累。"
+    },
+    "preciousMetals": {
+      "en": "Gold underperforms at < $4000 as real yields climb with USD strength; Silver follows. Flight-to-safety limited by dollar pricing-in of oil shock premium.",
+      "zh": "黄金表现弱于 4000 美元下实际收益率攀升；白银跟随。避险资金流向受油价冲击溢价定价为美元压制限制。"
+    },
+    "oil": {
+      "en": "Surge over+9% driven by Trump's Hormuz toll and Iran port blockade; U.S. strikes complete but escalation risks priced in. WTI at$79.91, Brent near $86.",
+      "zh": "暴涨 9%以上受特朗普霍尔木兹收费和伊朗港口封锁驱动；美军打击完成但升级风险已定价。WTI 在 79.91 美元，布伦特近 86 美元。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P500 futures -0.3% lower from Asian markets; Nasdaq neutral amid tech sector divergence",
+      "zh": "标普期指受亚洲市场拖累低约-0.3%；纳斯达克中性，科技股板块分化"
+    },
+    "treasury10Y": {
+      "en": "~4.62%, up 5 basis points on oil-driven inflation expectations; Yield curve steepens as rate-sensitive stocks pressured",
+      "zh": "约 4.62%，油价驱动通胀预期抬升上行 5bp；收益率曲线走陡利率敏感型股票承压"
+    },
+    "dxy": {
+      "en": "USD up vs EUR/JPY on oil shock safe-haven flows; DXY strength continues into premarket trading",
+      "zh": "油价冲击避险资金推动美元对欧元日元走强；盘前交易美元继续强势"
+    },
+    "oil": {
+      "en": "$79.8-80 range for WTI ahead of open, extended gains from Middle East escalation; Brent ~$85",
+      "zh": "开盘前WTI在 79.8-80美元区间，中东升级后延续涨势；布伦特近 85 美元"
+    },
+    "keyRisk": {
+      "en": "Sustained oil premium forcing Fed policy recalibration; if inflation reemerges, rate cut timeline shifts earlier than expected",
+      "zh": "油价溢价持久化迫使美联储政策重新校准；若通胀重现，降息时点将比预期提前"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Energy rally offsets tech weakness; Mixed sentiment due to geopolitical risk premium dominating broader market direction. Oil → inflation ↑→ yields up is the primary transmission channel today.",
+      "zh": "能源反弹抵消科技疲软；情绪分化因地缘风险溢价主导大盘方向。今日主要传导逻辑：油价→通胀↑→收益率上行"
+    }
+  },
+  "_meta_": {
+    "sourcesUsed": ["CNBC Markets", "Yahoo Finance (delayed)", "TradingView News"],
+    "generatedAt": "2026-07-14T04:19Z",
+    "uncertaintiesNotable": "Real-time DXY value delayed; some Nasdaq data unavailable per web sources"
+  }
+}
