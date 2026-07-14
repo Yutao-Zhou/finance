@@ -1,0 +1,188 @@
+{
+  "date": "2026-07-14",
+  "summary": {
+    "en": "U.S. markets open on risk-off sentiment as Gulf conflict escalates: Trump confirms resumption of strikes against Iran, pushing Brent to $85 and WTI near $80. Tech stocks lead declines amid inflation reacceleration fears from oil supply risks.",
+    "zh": "美股早盘避险情绪升温：海湾冲突升级，特朗普确认恢复对伊朗打击，布伦特原油飙升至 85 美元、WTI 逼近 80 美元。科技股领跌市场，油价重燃通胀再加速担忧。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Iran Conflict Resumes: Fresh U.S. Strikes Drive Oil Surge, Weigh on Growth",
+        "zh": "伊朗冲突重启：新一轮美军打击引发油价飙升，压制成长股"
+      },
+      "impact": {
+        "en": "Hormuz Strait transit risks reignited by renewed naval blockade and attacks. Energy supply disruption fears → inflation expectations reaccelerate → Fed rate hike resumption priced in.",
+        "zh": "海军封锁升级和袭击重燃霍尔木兹海峡运输风险。能源供应中断担忧→通胀预期再加速→市场定价美联储重启加息"
+      },
+      "bullish": [],
+      "bearish": ["NVDA", "AMD", "INTC", "MU"],
+      "macroRisk": {
+        "en": "Yes - oil inflation premium and rate hike resumption dominate. Macro link: Oil → CPI expectations → Treasury yields ↑ → Tech growth valuations compress.",
+        "zh": "是——油价通胀溢价和加息重启主导。传导链：原油→CPI 预期→美债收益率↑→科技成长估值受压"
+      }
+    },
+    {
+      "title": {
+        "en": "Semiconductor Sector Bleeds as Tech Leads Market Decline",
+        "zh": "半导体板块领跌，拖累大盘表现"
+      },
+      "impact": {
+        "en": "AI chip stocks tumble on broader risk-off flow. NVDA -3.5%, AMD down 4.21%. Sector sensitivity to rate expectations and macro volatility amplifies losses.",
+        "zh": "风险情绪下 AI 芯片股暴跌。NVDA 跌 3.5%，AMD 降 4.21%。板块对利率预期和宏观波动敏感，放大亏损"
+      },
+      "bullish": [],
+      "bearish": ["NVDA", "AMD", "MRVL", "SNDK"],
+      "macroRisk": {
+        "en": "Yes - rate hike resumption and energy inflation dominate. Macro link: Oil → CPI reacceleration risk → Bond yields up → Growth valuations down.",
+        "zh": "是——加息重启和能源通胀主导。传导链：油价→CPI 再加速风险→债收益率↑→成长估值↓"
+      }
+    },
+    {
+      "title": {
+        "en": "Gold Retreats Below $4,000 as Real Yields Climb",
+        "zh": "金价跌破 4000，实际利率上升压制避险需求"
+      },
+      "impact": {
+        "en": "Precious metals under pressure from rising real yields despite geopolitical headlines. Flight-to-safety signal weakening; investors reprice oil-driven inflation expectations over peace hopes.",
+        "zh": "贵金属受实际利率回升压力，地缘头条影响减弱。避险信号弱化；投资者重新定价油价驱动通胀预期而非和平希望"
+      },
+      "bullish": ["GLD"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Yes - oil-price-driven inflation expectations outweigh safe-haven demand. Macro link: Oil ↑ → Inflation fears ↑ → Real yields up → Gold ↓.",
+        "zh": "是——油价驱动通胀预期压倒避风港需求。传导链：原油↑→通胀担忧↑→实际利率↑→金价↓"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury Yields Spike on Oil-Fed Rate Hike Pivot",
+        "zh": "美债收益率飙升，油价与美联储加息转向共振"
+      },
+      "impact": {
+        "en": "10Y yields rise as oil-induced inflation reacceleration dominates headlines. Bond market prices in Fed pivot from cutting to hiking amid energy supply risks.",
+        "zh": "油价驱动通胀再加速主导头条，美债收益率攀升。债券市场定价美联储在能源供应风险下从降息转向加息"
+      },
+      "bullish": [],
+      "bearish": ["TLT", "IEF"],
+      "macroRisk": {
+        "en": "Yes - Fed rate hike resumption due to oil-driven inflation. Macro link: Oil → CPI reacceleration risk → Bond yields up → Growth rates down.",
+        "zh": "是——油价驱动通胀导致美联储加息重启。传导链：原油→CPI 再加速风险→美债收益率↑→成长率↓"
+      }
+    },
+    {
+      "title": {
+        "en": "Asian Markets Slip Amid Gulf War Escalation",
+        "zh": "亚洲股市受海湾战争升级拖累回调"
+      },
+      "impact": {
+        "en": "KOSPI -0.99%, Nikkei -0.7%. Regional risk-off sentiment carries into U.S. premarket. EM and tech names in Asia show weakness ahead of Fed day.",
+        "zh": "KOSPI 跌 0.99%，日经涨 0.7%。区域避险情绪延续至美股盘前，亚太新兴市场和科技股在美联储交易日前夕走弱"
+      },
+      "bullish": [],
+      "bearish": ["Asia tech", "EM"],
+      "macroRisk": {
+        "en": "Yes - global risk-off from Gulf conflict. Macro link: Geopolitical escalation → Risk appetite ↓ → Growth stocks vulnerable to inflation/rate headwinds.",
+        "zh": "是——海湾冲突引发全球避险。传导链：地缘升级→风险偏好↓→成长股易受通胀/利率逆风影响"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil Futures Soar on Strait of Hormuz Closure Threat",
+        "zh": "油价期货飙升，霍尔木兹海峡关闭威胁升温"
+      },
+      "impact": {
+        "en": "WTI +9.08% to $77.99, Brent +10.76% at $83.31. Supply disruption risk premium dominates oil market as Iran threatens strait closure.",
+        "zh": "WTI 涨 9.08%至 77.99，布伦特升 10.76%达 83.31。伊朗威胁封锁海峡，供应中断风险溢价主导油市"
+      },
+      "bullish": [],
+      "bearish": ["XLE", "USO"],
+      "macroRisk": {
+        "en": "Yes - supply shock risk → inflation spike expectation. Macro link: Oil shock → CPI reacceleration → Fed hikes resume.",
+        "zh": "是——供应冲击风险→通胀飙升预期。传导链：油料冲击→CPI 再加速→美联储加息重启"
+      }
+    },
+    {
+      "title": {
+        "en": "Natural Gas Futures Edge Lower Despite Energy Crises",
+        "zh": "天然气期货微跌，能源危机中表现疲软"
+      },
+      "impact": {
+        "en": "Gas -0.28% to $2.89/MMBtu. Europe's LNG demand remains muted; natural gas plays less sensitive than oil given non-oPEC supply.",
+        "zh": "天然气跌 0.28%至 2.89/百万英热单位。欧洲 LNG 需求疲软；非 OPEC 供应使天然气对油价冲击不敏感"
+      },
+      "bullish": [],
+      "bearish": ["XOM", "CVX"],
+      "macroRisk": {
+        "en": "Partial - oil price spike dominates energy sector. Macro link: Oil supply shock → Energy inflation focus; natural gas less exposed.",
+        "zh": "部分——油价飙升主导能源板块。传导链：油价供应冲击→聚焦能源通胀；天然气暴露有限"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector under pressure as tech stocks lead broader decline. NVIDIA -3.5%, AMD down 4%. Chip supply chain faces recession risk from oil-driven inflation expectations and rate hike pivot.",
+      "zh": "AI 板块受压，科技股领跌大盘。NVIDIA 降 3.5%，AMD 跌 4%。芯片供应链面临油价驱动通胀预期和加息转向带来的衰退风险"
+    },
+    "semiconductor": {
+      "en": "Semiconductors lead market declines on macro headwinds: NVDA -3.52%, AMD -4.21%, INTN -6.12%. Sector valuation compression from bond yields and oil-induced inflation fears dominates.",
+      "zh": "半导体领跌大盘，宏观逆风：NVDA 降 3.52%，AMD 跌 4.21%。债券收益率和油价驱动通胀担忧导致板块估值压缩"
+    },
+    "bigTech": {
+      "en": "Big tech lags as rate hike fears grow with oil surge. MSFT, GOOGL underperform; cloud infrastructure exposure amplifies yield sensitivity. Macro regime shift hurts growth narratives.",
+      "zh": "大科技落后，油价飙升加剧加息担忧。MSFT、GOOGL 表现疲软；云基础设施暴露放大利率敏感性。宏观制度转变打击成长叙事"
+    },
+    "energy": {
+      "en": "Energy sector rallies as Brent surges above $80. XOM and CVX benefit from oil supply shock premium; HES, MRO gain from Permian basin production strength amid geopolitical risks.",
+      "zh": "能源板块随布伦特突破 80 美元而上涨。XOM、CVX 受益于油价供应冲击溢价；HES、MRO 从中东风险背景下二叠纪盆地产量强劲中获利"
+    },
+    "ev": {
+      "en": "EV stocks weaken on oil price spike and rate sensitivity. Tesla, NIO pressured by recession fears from inflation resurgence; EV adoption slows if fuel costs rise significantly.",
+      "zh": "电动车股随油价飙升和利率敏感性走弱。Tesla、NIO 受通胀重燃引发衰退担忧压制；燃油成本大幅上升将放缓电动化采用"
+    },
+    "market": {
+      "en": "Broad market declines on Gulf war risk and oil-induced inflation fears. S&P -0.79%, Dow -0.26%, Nasdaq -1.55%. Fed pivot from cuts to hikes dominates sentiment; recession pricing intensifies.",
+      "zh": "大盘随海湾战争风险和油价驱动通胀担忧而下跌。S&P 跌 0.79%，道指降 0.26%，纳指挫 1.55%。美联储从降息转向加息主导情绪；衰退定价加剧"
+    },
+    "preciousMetals": {
+      "en": "Gold retreats below $4,000 as real yields climb from oil-driven inflation fears. Safe-haven demand muted; flight-to-safety signal weakening amid energy crisis headlines.",
+      "zh": "金价跌破 4000，油价驱动通胀担忧推升实际收益率。避险需求减弱；能源危机头条下避风港信号弱化"
+    },
+    "oil": {
+      "en": "Oil futures surge on Gulf conflict escalation: WTI +9% to $78, Brent +11% at $83. Supply disruption risk from Hormuz Strait closure threats dominates pricing.",
+      "zh": "油料期货随海湾冲突升级飙升：WTI 涨 9%至 78，布伦特升 11%达 83。霍尔木兹海峡关闭威胁主导供应中断风险定价"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P futures down ~0.2%, Nasdaq -0.1%, Dow -0.3%. Asian session declines carry into U.S. open amid Gulf war escalation.",
+      "zh": "标普期货跌约 0.2%，纳指降 0.1%，道指挫 0.3%。海湾战争升级下亚洲盘下跌延续至美市开盘"
+    },
+    "treasury10Y": {
+      "en": "10Y yields rise above critical threshold as oil inflation premium dominates bond market pricing.",
+      "zh": "随着油价通胀溢价主导债券市场定价，10 年期收益率升至关键阈值以上"
+    },
+    "dxy": {
+      "en": "Dollar index near neutral (101.25) but under pressure from risk-off sentiment and EM weakness.",
+      "zh": "美元指数接近中性（101.25），但受避险情绪和新兴市场疲软压制"
+    },
+    "oil": {
+      "en": "WTI futures +9% at ~$78, Brent +11% near $83. Focus: Hormuz Strait closure risk and Iran retaliation timeline.",
+      "zh": "WTI 期货涨 9%至约 78，布伦特升 11%接近 83。焦点：霍尔木兹海峡关闭风险和伊朗报复时间表"
+    },
+    "keyRisk": {
+      "en": "Iran conflict escalation and U.S. retaliation timeline; Fed rate hike resumption pricing as oil inflation reaccelerates.",
+      "zh": "伊朗冲突升级和美国反击时间表；油价通胀再加速导致美联储加息重启定价"
+    }
+  },
+  "judgment": {
+    "type": "risk-off",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Geopolitical risk (Gulf conflict) dominates with oil supply shock → inflation reacceleration → Fed rate hike pivot. Cross-asset transmission: Energy spike compresses growth valuations, bond yields up hurt tech sector, gold retreats as real rates climb.",
+      "zh": "地缘政治风险（海湾冲突）主导，油价供应冲击→通胀再加速→美联储加息转向。跨资产传导：能源飙升压缩成长估值、债收益率上升伤害科技板块、金价随实际利率回升而回撤"
+    }
+  }
+}
