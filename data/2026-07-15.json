@@ -1,0 +1,156 @@
+{
+  "date": "2026-07-15",
+  "summary": {
+    "en": "U.S. stocks are mixed in premarket trading as investors weigh soft inflation data against escalating Middle East tensions, with oil surging and Treasury yields hitting eight-week highs. Bank earnings boosts sentiment but geopolitical risk premium is weighing on broader equities.",
+    "zh": "美股盘前交易呈现分歧，投资者在软通胀数据与中东紧张局势升级之间权衡：油价飙升、美债收益率创八周新高。银行股业绩提振情绪，但地缘政治风险溢价抑制大盘表现。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Oil Surges as US Reinstates Blockade on Iran Strait of Hormuz",
+        "zh": "美国重启对伊朗霍尔木兹海峡封锁，油价飙升"
+      },
+      "impact": {
+        "en": "Energy prices jumped 3.5% with Brent at $86.22, raising inflation concerns and pressuring rate-sensitive sectors like airlines, utilities, and REITs.",
+        "zh": "能源价格跃升 3.5%，布伦特原油达$86.22，引发通胀担忧并压制对利率敏感的航空、公用事业和 REITs 板块。"
+      },
+      "bullish": ["XLE", "OXY"],
+      "bearish": ["LULU", "CCL", "DAL"],
+      "macroRisk": {
+        "en": "Yes - Geopolitical supply shock: US-Iran hostilities near Strait of Hormuz threaten 20% of global energy flows, pushing inflation expectations higher and pressuring Fed policy flexibility.",
+        "zh": "是——地缘政治供应冲击：霍尔木兹海峡附近的美伊冲突威胁全球 20% 的能源流动，推高通胀预期并压制美联储政策灵活性。"
+      }
+    },
+    {
+      "title": {
+        "en": "U.S. CPI Drops to 3.5%, Down from May's Three-Year High",
+        "zh": "美国 CPI 降至 3.5%，低于今年五月三年高位"
+      },
+      "impact": {
+        "en": "Softer inflation (headline -0.4% monthly, YoY down to 3.5%) provides room for Fed patience but is overshadowed by oil shock. Market consensus was ~3.8%, beat helps sentiment.",
+        "zh": "通胀降温（环比降 0.4%，同比至 3.5%）为美联储耐心提供空间，但被油价冲击掩盖。数据好于~3.8%的市场共识提振情绪。"
+      },
+      "bullish": ["TLT", "GLD"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Mixed - Inflation relief vs oil inflation: Core CPI improvement helps, but energy shock creates sticky inflation risk that could derail Fed hiking cycle.",
+        "zh": "分化——通胀缓解与油价冲击：核心通胀改善有助，但能源冲击制造粘性通胀风险可能破坏美联储加息周期。"
+      }
+    },
+    {
+      "title": {
+        "en": "10-Year Treasury Yields Hit Eight-Week High on Middle East Escalation",
+        "zh": "美债 10Y 收益率因中东升级创八周新高"
+      },
+      "impact": {
+        "en": "US, EU and UK 10Y yields rose to four.636%, 3.114% and 5.045% respectively on rate-sensitive positioning amid Middle East conflict escalating.",
+        "zh": "美欧英 10Y 收益率分别升至四。636%/三。114%/五。045%，中东冲突升级下的利率敏感配置推升债券收益率。"
+      },
+      "bullish": [],
+      "bearish": ["XLF", "XLK"],
+      "macroRisk": {
+        "en": "Yes - Yield spike: Rates at 8-week high of ~4.636% press on equities and make fixed income less attractive; flight-to-quality signals stress.",
+        "zh": "是——收益率飙升：利率创八周~四。636%高位压制股票、使固定收益吸引力减弱；避险情绪显露压力信号。"
+      }
+    },
+    {
+      "title": {
+        "en": "Dow Futures Edge Lower on US-Iran Tensions, Nasdaq Leads Gains",
+        "zh": "道指期货因美伊紧张承压，纳斯达克领涨"
+      },
+      "impact": {
+        "en": "Futures mixed: Dow -0.04%, S&P +0.38%, Nasdaq +0.9%. Tech sector defensive on AI growth despite broader market unease from geopolitics.",
+        "zh": "期货分歧：道指降 四。四%、标普升三。八%、纳指升九。技术板块在 AI 增长支撑下具防御性，但地缘政治整体市场不安。"
+      },
+      "bullish": ["NVDA", "MSFT"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Moderate - Sector rotation: Geopolitical risk favors big tech cash generation over consumer discretionary, but broader equity sentiment is neutral.",
+        "zh": "中等——板块轮动：地缘政治风险利好大科技现金生成而非可选消费，但大盘情绪中性。"
+      }
+    },
+    {
+      "title": {
+        "en": "Fed Governor Waller Says Rate Hike Remains on Table if Inflation Stays Firm",
+        "zh": "美联储沃勒称通胀保持坚挺则加息仍摆在桌上"
+      },
+      "impact": {
+        "en": "Hawkish tone from Fed leadership after softer CPI but with Warsh testimony ahead; policy flexibility signals keep markets watching closely.",
+        "zh": "在软通胀后联邦储备鹰派表态，但瓦拉赫证词在即；政策灵活性信号使市场密切关注。"
+      },
+      "bullish": [],
+      "bearish": ["XLP", "AMZN"],
+      "macroRisk": {
+        "en": "Yes - Policy uncertainty: Fed pause less likely, keeping growth and tech elevated while rate-sensitive sectors face headwinds.",
+        "zh": "是——政策不确定性：美联储暂停可能性降低，利好成长与科技股但利率敏感板块承压。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI chipmakers and infrastructure hold strength despite macro noise; NVIDIA, Broadcom leading as data center demand remains resilient to inflation shocks.",
+      "zh": "尽管宏观噪音，AI 芯片制造商和基础设施表现强劲；英伟达、博通领跑数据中心需求对通胀冲击保持韧性。"
+    },
+    "semiconductor": {
+      "en": "Semiconductors mixed with NVIDIA, AMD up on earnings but memory chips pressured by macro; sector watching Fed rate path and energy costs closely.",
+      "zh": "半导体分歧：英伟达、AMD 业绩上涨但存储芯片受宏观压制；板块密切关注美联储利率路径和能源成本。"
+    },
+    "bigTech": {
+      "en": "Big Tech defensive on AI growth but broader earnings cloud uncertain. Microsoft, Apple trade neutral amid macro uncertainty.",
+      "zh": "大科技在 AI 增长支撑下具防御性但更广泛业绩云不确定。微软、苹果在中宏观不确定性中交易中性。"
+    },
+    "energy": {
+      "en": "Energy sector surging on Brent $86.22 surge and geopolitical premium; OXY, CVX leading gains as supply fears dominate.",
+      "zh": "能源板块在布伦特$八十六二二飙升和地缘政治溢价推动下上涨；OXY、CVX 领涨供应担忧主导。"
+    },
+    "ev": {
+      "en": "EV sector pressured by oil price surge and rate sensitivity; demand softens as gasoline substitutes become less competitive on cost.",
+      "zh": "电动车板块受油价飙升和利率敏感压制；需求因汽油替代品成本竞争力减弱而放缓。"
+    },
+    "market": {
+      "en": "Broader equity sentiment mixed: growth/tech rallies while consumer discretionary and financials pressured by inflation/oil shock.",
+      "zh": "大盘情绪分歧：成长股反弹但可选消费和金融业受通胀油价冲击压制。"
+    },
+    "preciousMetals": {
+      "en": "Gold, silver attract safe-haven flows on Middle East risk and yield volatility; GLD up amid geopolitical stress.",
+      "zh": "金银在中东风险和收益率波动吸引避险资金；GLD 随地缘政治压力上涨。"
+    },
+    "oil": {
+      "en": "WTI near $79.50, Brent at $86.22; Strait of Hormuz blockade fears keep energy in premium trading despite supply glut concerns.",
+      "zh": "西德克萨斯原油近$ 七十九五，布伦特$八十六二二；霍尔木兹海峡封锁恐惧使能源保持溢价交易尽管供应过剩担忧。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "Dow futures -0.04% to ~52,780; S&P +0.38%, Nasdaq +0.9%; Dow edge lower but tech-led index gains dominate.",
+      "zh": "道指期货降四。零一%至~五二七八零；标普升三。八%，纳指升九；道指微跌但科技股主导的指数涨幅占据上风。"
+    },
+    "treasury10Y": {
+      "en": "~4.636%, up from recent lows on Middle East escalation and oil shock; yield-sensitive sectors face headwinds.",
+      "zh": "~四。六三六%，在中东升级和油价冲击下从近期低点反弹；收益率敏感板块承压。"
+    },
+    "dxy": {
+      "en": "$1.09-1.10, modest strengthening on safe-haven demand; dollar holds as risk-off flows from Middle East tensions.",
+      "zh": "$一零九至一一零，避险需求下适度走强；风险规避资金因中东紧张使美元持有。"
+    },
+    "oil": {
+      "en": "WTI ~$79.50, Brent $86.22; energy supplies at risk as US strikes on Iran intensify.",
+      "zh": "西德克萨斯原油~$ 七十九五，布伦特$八十六二二；美国对伊朗的袭击加剧能源供应风险。"
+    },
+    "keyRisk": {
+      "en": "US-Iran hostilities near Strait of Hormuz threaten global energy flows; Trump's proposed cargo fee adds trade uncertainty.",
+      "zh": "霍尔木兹海峡附近的美伊冲突威胁全球能源流动；特朗普提出的货物费用增加贸易不确定性。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Geopolitical risk (Middle East tensions) dominates with mixed sentiment: energy and gold rally while growth faces inflation/yield headwinds; tech provides partial support.",
+      "zh": "地缘政治风险（中东紧张局势）主导市场分歧情绪：能源和黄金反弹但成长股面临通胀收益率逆风；科技提供部分支撑。"
+    }
+  }
+}
