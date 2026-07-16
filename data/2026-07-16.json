@@ -1,0 +1,136 @@
+{
+  "date": "2026-07-16",
+  "summary": {
+    "en": "U.S. equity futures remain mixed as chip sector weakness drags down tech-heavy indices despite UnitedHealth's earnings beat lifting Dow components. Oil prices climb amid U.S.-Iran tensions, raising inflation concerns and pressuring energy-exposed stocks like airlines while boosting precious metals.",
+    "zh": "美股期货震荡不定，芯片板块疲软拖累科技股指数，尽管联合健康股价大涨提振道指成分股。受美伊紧张局势影响油价攀升引发通胀担忧，压制航空等能源敏感股票同时推升贵金属价格。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Chip Stocks Extend Declines Despite TSMC's Strong Earnings",
+        "zh": "台积电业绩强劲但芯片股持续下跌"
+      },
+      "impact": {
+        "en": "TSMC reported 77% profit surge but U.S.-listed shares fell 4.6%. Memory chip makers Western Digital (-7.2%) and Seagate (-5.8%) led declines amid investor concerns about AI spending sustainability.",
+        "zh": "台积电利润激增 77%，但美股股价跌 4.6%。投资者担忧 AI 支出可持续性，美光科技(-3.7%)、西部数据(-7.2%)和希捷技术(-5.8%)等存储芯片股领跌纳斯达克"
+      },
+      "bullish": ["AI infrastructure spending remains robust", "TSMC raised capital investment to $100B in US"],
+      "bearish": ["Valuation compression after year's massive AI rally", "Investor rotation from mega-cap tech into banks and healthcare"]
+    },
+    {
+      "title": {
+        "en": "U.S.-Iran Tensions Push Oil Higher, Boosting Treasury Yields to 4.58%",
+        "zh": "美伊紧张局势推高油价，10年期美债收益率升至 4.58%"
+      },
+      "impact": {
+        "en": "Brent crude rose to $85.43/barrel as Strait of Hormuz conflict escalates, reigniting inflation fears and pressuring rate-sensitive sectors including airlines (-3.1%) and retail.",
+        "zh": "霍尔木兹海峡局势升级推动布伦特原油升至 85.43/桶，重燃通胀担忧并压制航空(-3.1%)和零售等利率敏感板块"
+      },
+      "bullish": ["Geopolitical premium supports energy supercycle", "U.S. Central Command strikes on oil tankers keep passage open"],
+      "bearish": ["Secondary inflation wave risks Fed rate hike bets", "Oil price spike threatens margin compression in downstream industries"]
+    },
+    {
+      "title": {
+        "en": "UnitedHealth Beats Estimates, Raises 2026 Profit Forecast by 6.7%",
+        "zh": "联合健康超预期并上调 2026 年盈利预测"
+      },
+      "impact": {
+        "en": "UNH's profit forecast raise helped lift Dow futures (+95 points/0.18%) alongside Humana and Centene gains of 5-4%. Healthcare sector outperforms tech under rate sensitivity constraints.",
+        "zh": "联合健康上调盈利预测提振道指期货(+95点)及友邦保险(-5%)和森蒂纳(+-4%)等医疗股表现，医疗保健板块在利率敏感环境下优于科技"
+      },
+      "bullish": ["Healthcare remains defensive haven", "UnitedHealth guidance improvement validates healthcare investment thesis"],
+      "bearish": []
+    },
+    {
+      "title": {
+        "en": "Treasury Yields Rise as Bond Markets Re-price Inflation Upside",
+        "zh": "美债收益率上升，债券市场重新定价通胀上行风险"
+      },
+      "impact": {
+        "en": "10Y yield climbed to 4.58% from prior session's 4.55%, while 2Y rose 3bps to 4.16%. June PPI surprise dip provided disinflationary support but oil surge has reversed gains.",
+        "zh": "10年期收益率从上一交易日 4.55%升至 4.58%，2年期上升 3bp至 4.16%。尽管 PMI 意外回落提供通缩支持，油价飙升已逆转此前收益"
+      },
+      "bullish": ["Lower yields support mortgage demand and refinancing", "Bond market anticipates Fed hold at next meeting (90% probability)"],
+      "bearish": []
+    },
+    {
+      "title": {
+        "en": "Futures Mixed Ahead of Retail Sales, Jobless Claims Data Release",
+        "zh": "盘前期货震荡，等待美国零售销售与失业金申领数据公布"
+      },
+      "impact": {
+        "en": "S&P 500 futures down 14.75 points (-0.19%), Nasdaq -210 pts (-0.71%). June retail sales came in at +0.2% vs expectations; jobless claims fell to 208k below forecast.",
+        "zh": "标普 500期货跌 14.75点(-0.19%)，纳斯达克-210点(-0.71%).6月零售销售符合预期+0.2%，失业金申领降至低于预期的 208k"
+      },
+      "bullish": ["Resilient consumer spending despite high oil prices", "Job market remains strong with lower-than-expected claims"],
+      "bearish": []
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Mixed sentiment: Nvidia (-2.3%) weighs on S&P while memory makers lead declines amid valuation concerns post-massive year rally. TSMC beat expectations but U.S.-listed shares fell.",
+      "zh": "情绪分化：英伟达(-2.3%)拖累标普指数，而存储芯片股在大幅年度上涨后估值担忧下领跌。台积电超预期但美股股价下跌"
+    },
+    "semiconductor": {
+      "en": "Sector under pressure as memory and design stocks decline (-5 to -8% for Western Digital/Seagate). TSMC's strength in Taiwan contrasts with U.S. weakness amid geopolitical trade concerns.",
+      "zh": "板块受压：存储与设计股下跌（西部数据-7%，希捷-6%).韩国半导体巨头拖累 KOSPI，台积电在台表现强劲但美股受地缘贸易担忧影响走弱"
+    },
+    "bigTech": {
+      "en": "Mixed with banks outperforming tech. Netflix reports earnings after close; major lenders' strong results support financial sector while hyperscaler AI capex concerns persist.",
+      "zh": "大科技分化：银行跑赢科技股。Netflix 收盘前披露业绩，主要贷款机构强劲表现支持金融板块，但超大规模云厂商的 AI资本支出担忧仍然存在"
+    },
+    "energy": {
+      "en": "Bullish on geopolitics: Brent crude to $85.43/barrel, WTI above$79 as Iran conflict risks escalate. Energy sector benefits from oil supply concerns.",
+      "zh": "地缘政治利好：布伦特原油至 85.43/桶，WTI高于 79 美元。美伊冲突风险升级支撑能源板块从油价供应担忧中受益"
+    },
+    "ev": {
+      "en": "Mixed: Tesla not yet a top concern but high oil prices pressure EV demand elasticity. Battery suppliers face margin compression from input cost volatility.",
+      "zh": "分化：特斯拉尚未成为主要焦点，但高油价影响电动车需求弹性。电池供应商面临输入成本波动带来的利润率压缩"
+    },
+    "market": {
+      "en": "Mixed to slightly bearish: Dow futures +0.18% on UNH while S&P -0.19%, Nasdaq -0.71%. Chip weakness and oil price volatility create headwinds for broader index.",
+      "zh": "震荡偏空：道指期货+0.18%(联合健康提振)而标普-0.19%，纳斯达克-0.71%。芯片疲软和油价波动对大盘指数构成逆风"
+    },
+    "preciousMetals": {
+      "en": "Gold trades lower briefly before oil surge boost to safe-haven appeal, but XAU/USD faces headwinds as strong dollar limits precious metal rally space despite geopolitics.",
+      "zh": "金价在油价飙升提振避险属性前短暂下跌，但强势美元限制贵金属上涨空间。尽管地缘政治利好支撑黄金和白银作为避风港"
+    },
+    "oil": {
+      "en": "Bullish: Brent to $85.43, WTI near$79 as Strait of Hormuz tensions mount with CENTCOM strikes on oil tankers keeping waterway passable.",
+      "zh": "看涨：布伦特至 85.43美元，WTI接近 79 美元。随着美伊冲突升级和美军打击油轮保持霍尔木兹海峡通航"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "Dow E-minis +0.18% (+95 pts), S&P -0.19% (-14.75 pts), Nasdaq -0.71% (-210 pts). Mixed sentiment as chip stocks drag broad tech indices despite healthcare earnings support.",
+      "zh": "道指 E-minis 期货+0.18%(+95点)，标普-0.19%(-14.75点)，纳斯达克-0.71%(-210点)。芯片股拖累大盘科技指数，尽管医疗保健业绩提供支撑"
+    },
+    "treasury10Y": {
+      "en": "Rises to 4.58% from Wednesday's 4.55%, driven by oil price surge reviving inflation fears and reversing PPI-based disinflationary support.",
+      "zh": "升至 4.58%(周三为 4.55%)，油价飙升重燃通胀担忧并逆转基于 CPI 的通缩支撑"
+    },
+    "dxy": {
+      "en": "Struggles near multi-week low of ~100.50 as hawkish Fed bets wane and retail sales/employment data remain benign.",
+      "zh": "在接近多周低点~100.50 附近挣扎，鹰派美联储押注减弱且零售销售和就业数据保持温和"
+    },
+    "oil": {
+      "en": "$85.43/barrel for Brent (+0.6%), WTI near $79 as Middle East war escalates, keeping global oil market on edge about secondary inflation wave.",
+      "zh": "布伦特 85.43/桶(+0.6%)，WTI接近 79 美元。中东战争升级使全球石油市场担忧二次通胀波"
+    },
+    "keyRisk": {
+      "en": "U.S.-Iran conflict escalation in Strait of Hormuz threatens oil supply disruption and secondary inflation spike, potentially altering Fed rate path beyond current hold consensus (90% probability).",
+      "zh": "霍尔木兹海峡美伊冲突升级威胁石油供应中断和二次通胀飙升，可能改变美联储利率路径超出当前维持共识(90 概率)"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Mixed judgment driven by chip sector weakness offsetting healthcare/growth earnings beats, while geopolitical tensions in Middle East create oil price volatility. Macro outlook remains supportive with resilient consumer spending and strong job market despite inflation risks from energy spike.",
+      "zh": "分化判断源于芯片板块疲软抵消医疗保健/成长业绩，中东地缘紧张局势引发油价波动。宏观前景仍受支撑：尽管能源飙升带来的通胀风险，消费者支出坚韧且就业市场强劲"
+    }
+  }
+}
