@@ -1,0 +1,156 @@
+{
+  "date": "2026-07-21",
+  "summary": {
+    "en": "US chip stocks rebound ahead of big AI earnings as semiconductor sector expected to contribute 44% of S&P profit growth; oil trades above $83.70 driven by Iran tensions with Strait of Hormuz closure concerns keeping energy prices elevated.",
+    "zh": "美股芯片股在大型人工智能财报前反弹，半导体行业预计占标普指数利润增长的 44%;受伊朗紧张局势及霍尔木兹海峡关闭担忧影响，油价维持在$83.70 以上的高位。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Chip Stocks Lead Market Rebound: Nvidia, AMD, and Intel Rally as Semiconductor Earnings Outlook Brightens",
+        "zh": "芯片股引领市场反弹：NVIDIA、AMD 和英伟达等半导体公司涨幅扩大，受益于明朗的财报前景"
+      },
+      "impact": {
+        "en": "Semiconductor firms could account for 44% of S&P 500 earnings growth in Q2; LSEG data projects sector profits up 133%. Narrow breadth (64.3% Nasdaq names declined Monday) limits upside potential without broader confirmation.",
+        "zh": "半导体公司可能占标普指数第二季度利润增长的 44%;LSEG数据显示该行业利润预计增长 133%,但市场广度有限,周一纳斯达克股票下跌比例达 64.3%,若无更广泛的确认上涨空间受限。"
+      },
+      "bullish": ["semiconductor", "bigTech"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Narrow market breadth suggests limited participation; rebound needs earnings confirmation beyond oil price decline.",
+        "zh": "市场广度狭窄表明参与度有限;反弹需要油价下跌之外的财报确认。"
+      }
+    },
+    {
+      "title": {
+        "en": "WTI Crude Surges Near $84 Amid Escalating Iran-US Hostilities and Strait of Hormuz Closure Threats",
+        "zh": "伊朗与美国冲突升级及霍尔木兹海峡关闭威胁之际,WTI原油暴涨接近$84"
+      },
+      "impact": {
+        "en": "US military strikes hit ninth consecutive day; additional soldier deaths in Jordan/Iraq raise all-out war concerns. Oil price elevation threatens inflation expectations and supports DXY strength.",
+        "zh": "美军连续第九天对伊朗进行打击,约旦和伊拉克另有多名士兵阵亡引发全面战争担忧。油价抬升威胁通胀预期并支撑美元指数走强。"
+      },
+      "bullish": ["oil", "energy"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Geopolitical escalation could sustain high oil prices, complicating Fed policy and supporting dollar as safe-haven asset. Inflation concerns if energy costs persist.",
+        "zh": "地缘政治升级可能维持高油价,使美联储政策复杂化,并将美元作为避险资产支持。如果能源成本持续存在将引发通胀担忧。"
+      }
+    },
+    {
+      "title": {
+        "en": "DXY Strength Supported by Higher Energy Prices and Risk-Off Sentiment from Iran Conflict",
+        "zh": "能源价格走高和伊朗冲突避险情绪支撑美元指数走强"
+      },
+      "impact": {
+        "en": "ING analyst Chris Turner notes higher energy supports DXY recovery. Ten-year Treasury yields at 4.55% with stable rates provide dollar floor amid geopolitical uncertainty.",
+        "zh": "英国 ING分析师Chris Turner指出较高的能源价格支撑美元指数恢复。十年期国债收益率在 4.55%,稳定的利率在地缘政治不确定性中为美元提供底线。"
+      },
+      "bullish": ["preciousMetals", "dxy"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Geopolitical risk supports dollar as haven; sustained oil prices complicate inflation trajectory and could limit Fed rate cuts.",
+        "zh": "地缘政治风险支撑美元作为避风港,持续的油价使通胀轨迹复杂化并可能限制美联储降息。"
+      }
+    },
+    {
+      "title": {
+        "en": "Big Tech Awaits Catalysts: Nasdaq Futures Up 1.3% But Limited Participation Highlights Earnings Season Importance",
+        "zh": "大型科技股等待催化剂：纳斯达克期货上涨 1.3%,但参与度有限凸显财报季的重要性"
+      },
+      "impact": {
+        "en": "Dow futures gained 0.3%, S&P up 0.5% as chip rally counters regional tensions. Narrow breadth puts premium on upcoming AI-related earnings for market direction.",
+        "zh": "道指期货上涨 0.3%,标普指数上涨 0.5%,芯片股反弹抵消地区紧张局势。狭窄的市场广度使市场方向更依赖于即将到来的与人工智能相关的财报。"
+      },
+      "bullish": ["ai", "semiconductor"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Market breadth remains weak with 64%+ Nasdaq names declining. Earnings validation required for sustained move above Monday's range.",
+        "zh": "市场广度仍然疲软,超过 60%的纳斯达克股票下跌。需要财报验证才能支撑持续上涨至周一下半段区间以上。"
+      }
+    },
+    {
+      "title": {
+        "en": "Gold and Silver Benefit from Safe-Haven Demand as US-Iran Tensions Escalate",
+        "zh": "金银受益于避险需求,美国与伊朗紧张局势升级"
+      },
+      "impact": {
+        "en": "Precious metals rally on geopolitical premium. If oil stays above $84/WTI with Strait of Hormuz closure risks, real yields and safe-haven flows could push prices higher.",
+        "zh": "地缘政治溢价带动贵金属上涨。如果油价维持在$84/桶以上且霍尔木兹海峡关闭风险存在，实际收益率和避险资金流可能推高金价。"
+      },
+      "bullish": ["preciousMetals", "dxy"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "High oil prices could complicate inflation and Fed policy, creating mixed signals for precious metals despite geopolitical premium.",
+        "zh": "高油价可能使通胀和美联储政策复杂化，尽管存在地缘政治溢价，但对贵金属发出混合信号。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI chipmakers lead gains with NBIS, NVDA, IREN in focus; semiconductor earnings could drive index performance as sector expected to contribute 44% of S&P growth. Narrow breadth requires validation.",
+      "zh": "人工智能芯片制造商领涨,NBIS、NVDA和IREN成为焦点。半导体财报可能推动指数表现，行业预计占标普增长的 44%,但市场广度狭窄需要验证。"
+    },
+    "semiconductor": {
+      "en": "Leading rally; Philadelphia Semiconductor Index remains elevated despite July decline. Stock Twits highlights: NVDA, AMD, INTC, SNDK, MU gaining as earnings outlook improves.",
+      "zh": "领涨芯片股；费城半导体指数尽管七月出现下跌，仍维持高位。股票交易员重点关注：NVDA、AMD、INTC、SNDK和MU因财报前景改善而上涨。"
+    },
+    "bigTech": {
+      "en": "Futures up 1.3% but narrow market breadth (64%+ names declined) suggests limited participation ahead of earnings. AI sector premium could sustain gains if results beat expectations.",
+      "zh": "期货涨 1.3%,但狭窄的市场广度(超过 60%的股票下跌)表明在财报前参与度有限。如果结果好于预期，AI板块溢价可能支撑收益。"
+    },
+    "energy": {
+      "en": "WTI near $84/WTI with Brent approaching $90 due to Iran tensions. Strait of Hormuz closure risks sustain supply concerns. Oil price elevation supports energy sector names and complicates inflation dynamics.",
+      "zh": "受伊朗紧张局势影响，WTI 原油接近$84,布伦特原油逼近$90。霍尔木兹海峡关闭风险加剧供应担忧。油价抬升支撑能源板块个股并使通胀动态复杂化。"
+    },
+    "ev": {
+      "en": "Mixed; chip component rebound offsets regional tensions but high oil prices could pressure auto demand. TSLA in watch list amid earnings focus and broader market breadth constraints.",
+      "zh": "混合情绪；芯片部件反弹抵消地区紧张局势，但高油价可能压制汽车需求。特斯拉在关注名单中,因为财报重点和市场广度限制。"
+    },
+    "market": {
+      "en": "Nasdaq futures up 1.3%, S&P +0.5%, Dow +0.3%. Chip rally counters Iran conflict jitters but limited breadth (64%+ stocks declined Monday) requires earnings validation for sustained moves.",
+      "zh": "纳斯达克期货上涨 1.3%，标普指数 +0.5%,道指 +0.3%,芯片股反弹抵消伊朗冲突紧张局势,但狭窄的市场广度(周一超过 64%的股票下跌)需要财报验证才能持续推动。"
+    },
+    "preciousMetals": {
+      "en": "Gold and silver gain on safe-haven flows from US-Iran escalation. If oil remains elevated with Strait concerns, real yields could support higher precious metals prices despite mixed economic signals.",
+      "zh": "金银因美伊升级的避险资金而上涨。如果油价保持高位且海峡存在担忧，实际收益率可能支持更高的贵金属价格尽管经济信号混合。"
+    },
+    "oil": {
+      "en": "WTI above $83.70 with concerns over Strait of Hormuz closure and ongoing US-Iran hostilities. If tensions escalate further, oil could push toward Brent $100 level; sustained energy costs complicate inflation outlook.",
+      "zh": "WTI 超过$83.70且担忧霍尔木兹海峡关闭和持续的美伊敌对行动。如果紧张局势进一步升级，油价可能推动布伦特达到$100水平,持续的能源成本使通胀前景复杂化。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "Nasdaq futures up 1.3%, S&P +0.5%, Dow +0.3%. Chip stocks lead gains as market awaits AI earnings validation after Monday's narrow breadth selloff.",
+      "zh": "纳斯达克期货上涨 1.3%，标普指数 +0.5%,道指+0.3%。芯片股领涨，市场在周一狭窄广度抛售之后等待人工智能财报验证。"
+    },
+    "treasury10Y": {
+      "en": "Ten-year Treasury yield at approximately 4.55%. Stable yields provide dollar floor amid geopolitical uncertainty; sustained oil prices could complicate inflation trajectory and Fed rate policy.",
+      "zh": "十年期国债收益率约为 4.55%。稳定的收益率为地緣政治不确定性中的美元提供底线,持续的油价可能使通胀轨迹和美联储利率政策复杂化。"
+    },
+    "dxy": {
+      "en": "US Dollar Index supported by higher energy prices and safe-haven flows from Iran conflict escalation; ING analyst notes recovery trend.",
+      "zh": "美元指数受较高能源价格和美国伊朗冲突升级的避险资金支持,英国 ING 分析师指出复苏趋势。"
+    },
+    "oil": {
+      "en": "WTI trading above $83.70 with Iran-US tensions sustaining supply concerns; Strait of Hormuz closure risks and ongoing military strikes could push prices higher toward Brent $90-$100 range.",
+      "zh": "受美伊紧张局势影响 WTI 原油交易在$83.70以上,维持供应担忧；霍尔木兹海峡关闭风险和持续的军事打击可能推动油价上涨至布伦特$90-100区间。"
+    },
+    "keyRisk": {
+      "en": "Narrow market breadth (64%+ Nasdaq names declined Monday) requires earnings validation; sustained high oil prices and geopolitical escalation complicate inflation outlook and Fed policy.",
+      "zh": "狭窄的市场广度(周一超过 60%的纳斯达克股票下跌)需要财报验证；油价持续走高和地缘政治升级使通胀前景和美联储政策复杂化。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Mixed: Chip-led gains offset by narrow breadth and geopolitical oil risks. Earnings validation critical; DXY strength from safe-haven flows but inflation concerns if energy costs persist.",
+      "zh": "混合情绪：芯片领涨抵消狭窄广度和地缘政治油价风险。财报验证至关重要；避险资金推动美元走强,但如果能源成本持续通胀担忧仍存。"
+    }
+  }
+}
