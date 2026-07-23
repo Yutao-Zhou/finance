@@ -1,0 +1,225 @@
+{
+  "date": "2026-07-22",
+  "summary": {
+    "en": "US stock futures trade lower as surging oil prices above $94/barrel and Middle East tensions weigh on sentiment. Investors await key earnings from Tesla, Alphabet, IBM, and ServiceNow while balancing geopolitical risks with AI spending outlooks.",
+    "zh": "美股期指走弱，布伦特原油攀升至 94 美元/桶以上且中东局势加剧打压市场情绪。投资者在等待特斯拉、Alphabet、IBM 和 ServiceNow 等关键财报的同时，平衡地缘政治风险与 AI 支出展望。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Oil Surges Above $94 as US Strikes on Iran Escalate; Futures Slip Amid Inflation Concerns",
+        "zh": "美国对伊朗空袭升级推动油价飙升至 95 美元/桶；通胀担忧拖累期指走弱"
+      },
+      "impact": {
+        "en": "Rising oil prices threaten to derail Fed rate cut expectations. Brent at $94+ and WTI above $87 renew inflation fears, with CME pricing in 27% probability of a hawkish vote.",
+        "zh": "油价上涨威胁美联储降息预期。布伦特超 94 美元、WTI 高于 87 美元引发通胀担忧，CME 数据显示加息概率升至 27%。"
+      },
+      "bullish": [
+        "Oil and gas stocks",
+        "Energy sector rally hedge play",
+        "US LNG exporters from Middle East disruption premium"
+      ],
+      "bearish": ["Tech growth valuations if inflation sticks", "Dollar-sensitive multinationals facing headwinds"],
+      "macroRisk": {
+        "en": "Geopolitical shock chain: Iran tensions → oil supply disruption fears → persistent CPI risk → Fed pivot delayed. Cross-asset implication includes broad equities under pressure, flight-to-safety flows in gold/treasuries.",
+        "zh": "地缘政治传导链：伊朗紧张→油价供应中断担忧→通胀粘性风险→美联储转向延迟。跨资产影响包括股票承压，黄金/美债避险配置回流。"
+      }
+    },
+    {
+      "title": {
+        "en": "NVIDIA Q2 Revenue Beats: $46.7B (+56% YoY) with 73% Non-GAAP Margins; Blackwell Ramp Accelerating",
+        "zh": "英伟达二季度营收超预期 4,670 亿美元（同比+56%），非 GAAP 利润率约 73%，Blackwell 出货加速"
+      },
+      "impact": {
+        "en": "AI infrastructure demand remains robust but margins compressing. Blackwell Ultra ramp and enterprise server adoption (Disney/Foxconn/Hitachi) support growth through Q3.",
+        "zh": "AI 基础设施需求强劲但利润率承压。Blackwell Ultra 加速和大型企业服务器采用（迪士尼/富士康）支撑三季度增长。"
+      },
+      "bullish": [
+        "NVIDIA and AI chip ecosystem",
+        "Semiconductor design tools (Synopsys/Cadence)",
+        "Cloud providers deploying Blackwell clusters",
+        "European sovereign AI infrastructure plays"
+      ],
+      "bearish": ["Potential China demand uncertainty on H20 inventory release"],
+      "macroRisk": {
+        "en": "AI spending sustainability question: Can current CapEx translate to revenue growth? Earnings commentary will clarify path through 2H '26 and guide semiconductor sector positioning.",
+        "zh": "AI 支出可持续性疑问：当前资本开支能否转化为收入增长？财报指引将厘清下半年路径并影响半导体板块配置。"
+      }
+    },
+    {
+      "title": {
+        "en": "Tesla (TSLA) and Alphabet Earnings in Focus; AI Growth Trajectory Critical for Valuations",
+        "zh": "特斯拉和 Alphabet 财报成焦点；AI 增长路径对估值至关重要"
+      },
+      "impact": {
+        "en": "Market awaiting clarity on whether AI investments deliver commercial ROI. Tesla: EV pricing pressure vs FSD monetization; Google Cloud AI demand visibility.",
+        "zh": "市场等待厘清 AI 投资能否带来商业回报。特斯拉：电动汽车定价压力与 FSD 货币化平衡；谷歌云 AI 需求可见度。"
+      },
+      "bullish": [
+        "NVIDIA earnings strength validates TAM",
+        "Super Micro Computer surge on Q4 profit margin beat and $60B+ orders",
+        "Strong cloud infrastructure demand supporting ecosystem growth",
+        "European sovereign AI adoption accelerating with Nemotron partnerships"
+      ],
+      "bearish": [
+        "High-multiple tech names sensitive to any earnings miss or cautious commentary",
+        "Macro uncertainty from geopolitical events creating volatility around key reports"
+      ],
+      "macroRisk": {
+        "en": "Earnings-driven regime: Any deviation in growth guidance or AI CapEx discipline will ripple across Nasdaq 100. Geopolitical backdrop adds noise layer complicating earnings-based directional moves.",
+        "zh": "财报驱动型市场格局：任何增长指引偏离或 AI 资本开支纪律松懈都将传导至纳指。地缘政治背景叠加噪音层，使基于财报的方向性变动更复杂化。"
+      }
+    },
+    {
+      "title": {
+        "en": "Gold Surges Past $4,100 vs Oil Sink as DXY Weakens to Near 101.00",
+        "zh": "黄金升至 4,100 美元以上与油价回落形成背离，美元指数弱至 101"
+      },
+      "impact": {
+        "en": "Cross-asset divergence: Dollar softness amid Middle East escalation supports safe havens while oil supply fears boost precious metals. DXY near key support level.",
+        "zh": "跨资产分化：中东升级推动美元走弱支撑避险资产，而供应担忧提升贵金属。美元指数接近 101 关键支撑位。"
+      },
+      "bullish": [
+        "Gold mining stocks and XAU bullion play",
+        "Silver following gold strength if industrial demand holds",
+        "Bitcoin/digital asset hedge against geopolitical risk premium increases"
+      ],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Real yields vs precious metals dynamic: Oil price persistence risks re-anchoring inflation, which would lift Treasury real rates and pressure gold. Monitor this tension in Middle East escalations.",
+        "zh": "实际收益率与贵金属动态：油价持续性风险重锚通胀预期，将推高美债实际利率并压制黄金。需在中东升级中监控此张力关系。"
+      }
+    },
+    {
+      "title": {
+        "en": "Semiconductor Sector Mixed: TSMC Capex Hike Worry + NVIDIA Strength Drive Divergent Plays",
+        "zh": "半导体板块分化：台积电资本开支担忧叠加英伟达强势引发对立交易"
+      },
+      "impact": {
+        "en": "Supply chain cascade analysis: Broadcom/Qualcomm impacts on ecosystem partners. TSMC foundry exposure to geopolitical risk vs NVIDIA demand tailwinds.",
+        "zh": "供应链级联分析：博通/高通对生态系统伙伴的影响。台积电代工业务地缘政治风险与英伟达需求顺风关系对立。"
+      },
+      "bullish": [
+        "Design tools vendors (Synopsys/Mentor)",
+        "Memory subsystem suppliers benefiting from AI demand",
+        "European equipment manufacturers via sovereign programs",
+        "Super Micro Computer server margin story"
+      ],
+      "bearish": ["Capex restraint concerns after TSMC warning to investors"],
+      "macroRisk": {
+        "en": "Geopolitical supply chain realignment risk: US chip restrictions, Taiwan production location tensions. China market access constraints could limit H20 deployments despite revenue recognition from earlier sales.",
+        "zh": "地缘政治供应链重构风险：美国芯片限制、台湾产地紧张局势。中国准入约束可能限制下半年部署，尽管早期收入已确认。"
+      }
+    },
+    {
+      "title": {
+        "en": "Big Tech Cloud Spending Visibility: Enterprise AI Adoption Remains Key Theme",
+        "zh": "大型科技公司云支出可见度：企业 AI 采用仍是关键主题"
+      },
+      "impact": {
+        "en": "Cloud infrastructure deployment pace critical for revenue growth stories. Enterprise customers evaluating total cost of ownership for reasoning models.",
+        "zh": "云端基础设施部署速度对收入增长至关重要。企业客户评估推理模型总拥有成本（TCO）。"
+      },
+      "bullish": [
+        "Azure, AWS, GCP infrastructure partners",
+        "Enterprise AI software stack beneficiaries (vector DBs, orchestration)",
+        "SAP and Oracle hybrid cloud transition gains"
+      ],
+      "bearish": ["High-cost deployment projects may slow if enterprise budget cuts occur"],
+      "macroRisk": {
+        "en": "Cloud spending sensitivity to macro regime shifts: If inflation persists delaying Fed pivot, IT budgets face tighter scrutiny. AI revenue monetization timeline becomes investor proxy for growth durability.",
+        "zh": "云支出对宏观制度转变敏感：若通胀持续推迟美联储转向，IT 预算面临更严审查。AI 收入变现时间表成为投资者判断增长持久性的代理指标。"
+      }
+    },
+    {
+      "title": {
+        "en": "Fed Rate Expectations Shift: CME Shows 27% Hike Probability as Oil Pressures Inflation Data",
+        "zh": "美联储利率预期转变：CME 显示加息概率升至 27%，油价压制通胀数据"
+      },
+      "impact": {
+        "en": "Pricing in hawkish pivot due to energy-driven CPI risks. Bond market re-pricing yields higher given Middle East escalation and oil supply vulnerabilities.",
+        "zh": "因能源驱动型 CPI 风险定价出鹰派转向。债券市场在中东升级和油价供应脆弱性背景下重新设定收益率曲线更高水平。"
+      },
+      "bullish": [
+        "Long duration value stocks if recession fears subside",
+        "Energy infrastructure projects with stable cash flows"
+      ],
+      "bearish": ["Growth names re-rated down if yield curve stays steep"],
+      "macroRisk": {
+        "en": "Policy regime risk: Any persistent oil shock above $90/barrel keeps Fed neutral on cuts until inflation clearly anchors. Treasury yields will remain elevated supporting real rates, compressing equity valuations for growth segments.",
+        "zh": "政策制度风险：油价持续高于 90/桶将使美联储在通胀明确锚定前对降息持中性态度。美债收益率维持高位支撑实际利率，压缩成长股估值区段。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "NVIDIA earnings beat validates AI infrastructure thesis with $46.7B revenue (+56% YoY) and accelerating Blackwell Ultra ramping. European sovereign programs + enterprise cloud adoption sustain demand through Q3 '26, though H20 China constraints remain a minor overhang.",
+      "zh": "英伟达财报超预期验证 AI 基础设施论点，营收$4,670 亿美元（同比+56%）且 Blackwell Ultra加速出货。欧洲主权项目和企业云采用支撑三季度需求，尽管中国 H20 约束仍构成次要压制因素。"
+    },
+    "semiconductor": {
+      "en": "Mixed signals: TSMC earnings surprise followed by stock weakness on capex restraint concerns. NVIDIA tailwind offsets supply chain risks, while memory subsystem suppliers and design tools (Synopsys/Cadence) benefit from AI compute demand.",
+      "zh": "信号混杂：台积电财报意外后股价因资本开支担忧走弱。英伟达顺风对冲供应链风险，内存子系统和设计工具（新思/楷登）受益于 AI 算力需求。"
+    },
+    "bigTech": {
+      "en": "Earnings watch mode: Tesla, Alphabet, IBM, ServiceNow on calendar. Market awaiting commercial ROI clarity on AI investments and capex discipline amid macro uncertainty from Middle East escalations.",
+      "zh": "财报观察模式：特斯拉、Alphabet、IBM 和 ServiceNow 在日程上。市场在中东升级宏观不确定背景下等待厘清 AI 投资商业回报率和资本开支纪律性。"
+    },
+    "energy": {
+      "en": "Strong bullish momentum from geopolitical shocks: Brent $94+, WTI $87+. Supply disruption fears in Middle East lift energy sector, LNG exporters benefit most. US strategic reserves and OPEC+ stance will be watched for supply stability signals.",
+      "zh": "地缘政治冲击推动能源板块强劲看涨动力：布伦特超 94、WTI 达 87。中东供应中断担忧提升能源部门，LNG 出口商受益最多。美国战略储备和欧佩克立场将提供供应稳定信号关注点。"
+    },
+    "ev": {
+      "en": "Tesla earnings focus amid pricing pressure and FSD monetization story. Broader EV sector sentiment tied to macro regime - if inflation persists and rates stay higher, growth auto names face compression. Supercharger network expansion remains key differentiator.",
+      "zh": "特斯拉在定价压力和 FSD 货币化故事中处于财报焦点。 broader EV部门情绪与宏观制度挂钩：若通胀持续且利率维持高位，成长型汽车股面临压制。超充网络扩展仍是关键差异化因素。"
+    },
+    "market": {
+      "en": "Risk-off sentiment from oil shock and geopolitical escalation. Futures trading down (Dow -0.2%, S&P -0.4%, Nasdaq -0.9%) as investors balance earnings surprises against inflation risks. DXY near 101 support; broad equities under pressure from real yield elevation.",
+      "zh": "油价冲击和地缘政治升级导致避险情绪。期指走弱（道指-0.2%、标普-0.4%、纳指-0.9%），投资者在财报惊喜与通胀风险间权衡平衡。美元指数接近 101 支撑；股票受实际收益率上升压力影响普遍承压。"
+    },
+    "preciousMetals": {
+      "en": "Gold strength above $4,100 amid dollar weakness and geopolitical premium. Safe haven flows strengthen from Middle East escalation while real yield dynamics watch inflation re-anchoring risk. Silver benefits but industrial demand monitoring needed.",
+      "zh": "黄金在美元走弱和地缘溢价上强于$4,100。避险资金因中东升级增强流入，而实际收益率动态需观察通胀重锚风险。白银受益但需监控工业需求。"
+    },
+    "oil": {
+      "en": "Brent near $95 peak following US strikes on Iran escalation. WTI above $87, geopolitical premium persists despite supply fears creating self-fueling inflation loop risk. OPEC+ output discipline + Hormuz passage monitoring critical for trend continuation.",
+      "zh": "布伦特接近 95 美元峰值，美国对伊朗空袭升级后。WTI 高于 87，尽管供应担忧创造自我燃料通胀循环风险，地缘溢价仍存。欧佩克生产纪律和霍尔木兹海峡通过监测关键趋势延续因素。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "Dow futures -126 pts (-0.2%), S&P 500 futures -0.4%, Nasdaq-100 futures -0.9% in pre-market as investors await earnings and weigh oil-driven inflation risks against growth fundamentals.",
+      "zh": "道指期货跌 126点（-0.2%），标普期货下滑 0.4%，纳指期货下跌 0.9%，投资者在等待财报的同时权衡油价驱动的通胀风险与成长基本面。"
+    },
+    "treasury10Y": {
+      "en": "10-year Treasury yield at ~4.63% (latest close). Elevated amid Middle East escalation and oil price persistence risks delaying Fed pivot expectations. Watch for re-pricing if inflation anchors higher.",
+      "zh": "十年期美债收益率约 4.63%（最近收盘）。中东升级和油价持续性风险推迟美联储转向预期使其处于高位。若通胀重锚更高，则需关注重新定价动态。"
+    },
+    "dxy": {
+      "en": "US Dollar Index near 101.00 support level after Middle East escalation concerns initially boosted strength but inflation worries dampened momentum. Technicals suggest range-bound between ~98.5-102 until clear directional catalyst emerges.",
+      "zh": "美元指数在接近中东升级担忧最初支撑增强但通胀担忧抑制动量后弱至 101 附近。技术面显示无明显明确方向性催化剂前将在~98.5-102区间波动震荡。"
+    },
+    "oil": {
+      "en": "Brent crude above $94/barrel, WTI near $87 following US military actions in Middle East escalation scenario. Oil prices fuel inflation expectations which complicates Fed policy easing trajectory.",
+      "zh": "布伦特原油高于$94/桶，WTI 接近$87美元。美国军事行动中中东升级情景后油价上涨。油价推动通胀预期使美联储政策宽松轨迹复杂化。"
+    },
+    "keyRisk": {
+      "en": "Geopolitical escalation in Middle East (US-Iran conflict) creating persistent oil supply disruption fears → inflation re-anchoring risk → Fed delay on pivot timing. Earnings surprises also critical given packed calendar.",
+      "zh": "中东地缘政治升级（美伊冲突）创造持续油价供应中断担忧→通胀重锚风险→美联储转向时机延迟。密集的日程使财报惊喜也成关键因素。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Mixed sentiment driven by divergence between geopolitical risk premiums in oil/precious metals vs tech fundamentals supported by AI spending. Inflation persistence from energy prices creates policy regime uncertainty that complicates broad equity directionality while earnings provides structural support for growth names.",
+      "zh": "分化情绪源于油价贵金属地缘风险溢价与科技基本面（AI支出支撑）之间的背离。能源价格通胀持续性创造政策制度不确定，使股票方向复杂化；财报则为成长股提供结构性支持。"
+    }
+  },
+  "metaVersion": {
+    "en": "YutaoClawBot production workflow v1.0 | Compliance disclaimer: All signals are research classifications, NOT investment recommendations",
+    "zh": "玉韬爪机器人生产工作流 v1.0 | 合规免责声明：所有信号为研究分类，非投资建议"
+  }
+}
