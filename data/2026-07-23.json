@@ -1,0 +1,188 @@
+{
+  "date": "2026-07-23",
+  "summary": {
+    "en": "Stock futures slip as AI capex concerns and Iran tensions weigh on sentiment, with oil closing near $95/Bbl adding pressure to energy-intensive tech sectors. Pre-market focus centers on whether growth stocks can hold despite earnings overhang around Alphabet and Tesla reports.",
+    "zh": "美股期货承压，AI 资本支出担忧与伊朗紧张局势拖累市场情绪，油价回落至$95/桶附近对能源密集型科技板块形成压力。盘前关注重点在于成长股能否承受 Alphabet 和特斯拉财报季的盈利不确定性。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Futures Fall on AI Capex Concerns and Iran Tensions",
+        "zh": "期货下跌：AI 资本支出担忧与伊朗紧张局势拖累市场"
+      },
+      "impact": {
+        "en": "Market sentiment deteriorated overnight as concerns about sustained AI infrastructure spending faded, combined with Middle East tensions driving oil higher to ~$95/Bbl. Tech-heavy indices face headwinds from rate-sensitive positioning and commodity cost pressures.",
+        "zh": "市场情绪隔夜恶化，市场对持续投入 AI 基础设施的担忧减弱，加上中东紧张局势推升油价至约$95/桶。以科技为主的指数面临利率敏感型配置和商品成本压力的阻力。"
+      },
+      "bullish": ["oil producers"],
+      "bearish": ["hyperscalers", "semiconductor equipment makers"],
+      "macroRisk": {
+        "en": "Yes - Oil at $95/Bbl raises inflation re-pricing risks, potentially tightening Fed policy. Tech sector compression if commodity costs persist.",
+        "zh": "是——$95/桶的油价推升通胀重定价风险，可能收紧货币政策。若商品成本持续存在，科技板块承压。"
+      }
+    },
+    {
+      "title": {
+        "en": "Alphabet and Tesla Earnings Overhang Looms",
+        "zh": "Alphabet 和特斯拉财报季悬念笼罩市场"
+      },
+      "impact": {
+        "en": "Large-cap tech names face pre-earnings volatility with cloud growth (Google Cloud) questioned in recent analyst notes. Tesla delivery timelines under scrutiny amid EV sector rotation into value stocks.",
+        "zh": "大盘科技股面临财报前波动，近期分析师对云增长（Google Cloud）提出质疑。特斯拉交付时间表受到审查，EV 板块资金向价值股轮动。"
+      },
+      "bullish": [],
+      "bearish": ["GOOGL", "TSLA"],
+      "macroRisk": {
+        "en": "Earnings overhang creates sector rotation volatility. Investors may flee growth names ahead of big tech prints.",
+        "zh": "财报季悬念引发板块轮动波动。投资者可能在大型科技股发布前逃离成长股名称。"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil Prices Stabilize Near $95 Amid Geopolitical Premium",
+        "zh": "油价在地缘政治溢价下稳定在$95 附近"
+      },
+      "impact": {
+        "en": "WTI oil closed near $94-96 range, with geopolitical premiums from Middle East tensions supporting prices above $80/barrel threshold. Energy sector shows relative strength despite tech weakness.",
+        "zh": "WTI 油价接近$94-96区间，地缘政治溢价支持中东紧张局势使价格高于$80/桶阈值。尽管科技疲软，能源板块展现相对强势。"
+      },
+      "bullish": ["XLE", "OXY"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Oil supply disruption risks remain elevated. Inflation re-pricing above $90/Bbl could accelerate rate hike expectations.",
+        "zh": "石油供应中断风险仍然偏高。油价超过$90/桶的通胀重定价可能加速加息预期。"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury Yields Edged Up as Growth Rot Deepens",
+        "zh": "收益率微幅上涨，成长股轮动加剧"
+      },
+      "impact": {
+        "en": "10Y Treasury yields drifted higher on mixed economic data and persistent inflation readings. Rate-sensitive mega-cap tech faces valuation compression from yield curve steepening.",
+        "zh": "混合经济数据和持续的通胀读数推动 10 年期国债收益率微幅上涨。对利率敏感的大型科技股因收益率曲线陡峭化而面临估值压缩。"
+      },
+      "bullish": ["utilities", "banks"],
+      "bearish": ["growth stocks", "tech hardware"],
+      "macroRisk": {
+        "en": "Rising yields compress valuation multiples for long-duration growth. Flight to value names persists as defensive positioning increases.",
+        "zh": "收益率上涨压缩长期成长股估值倍数。资金流向价值股的态势持续，防御性配置增加。"
+      }
+    },
+    {
+      "title": {
+        "en": "Semiconductor Sector Shows Divergence on AI Demand Questions",
+        "zh": "半导体板块因AI需求疑虑出现分化"
+      },
+      "impact": {
+        "en": "Chipmakers with diversified revenue streams outperforming those overly dependent on hyperscaler capex cycles. China-related exposure adds geopolitical overhang to sector fundamentals.",
+        "zh": "收入多元化超过的芯片制造商表现优于过度依赖超大规模计算中心资本支出周期的厂商。中国相关敞口给板块基本面增加了地缘政治不确定性。"
+      },
+      "bullish": ["NVDA", "AMBA"],
+      "bearish": ["SMH-ETF sensitive names"],
+      "macroRisk": {
+        "en": "AI demand sustainability concerns persist. Hyperscaler spending discipline may constrain equipment makers and fab developers.",
+        "zh": "AI 需求可持续性担忧持续。超大规模计算中心的支出纪律可能限制设备制造商和晶圆代工厂开发商的发展空间。"
+      }
+    },
+    {
+      "title": {
+        "en": "Dollar Strengthens as Fed Policy Uncertainty Mounts",
+        "zh": "美元走强，美联储政策不确定性增加"
+      },
+      "impact": {
+        "en": "DXY gained ground on mixed inflation signals and strong US economic data. Multinational earnings may be impacted by currency headwinds while EM assets face pressure.",
+        "zh": "美元指数在混合通胀信号和强劲的美国经济数据支持下上涨。跨国盈利可能受到货币阻力影响，而新兴市场资产面临压力。"
+      },
+      "bullish": ["USD", "gold producers"],
+      "bearish": ["international stocks", "EM equities"],
+      "macroRisk": {
+        "en": "Currency volatility adds complexity to earnings forecasts. Strong dollar amplifies weakness in import-dependent tech segments.",
+        "zh": "货币波动使盈利预测更加复杂。强势美元放大了依赖进口的科技板块的疲态。"
+      }
+    },
+    {
+      "title": {
+        "en": "Market Breadth Weakens as Rotation Accelerates",
+        "zh": "市场广度减弱，轮动加速"
+      },
+      "impact": {
+        "en": "Declining count of advancing stocks signals sector rotation from growth into value. Volume patterns suggest institutional de-risking ahead of key economic prints and earnings season.",
+        "zh": "上涨的股票数量减少表明资金从成长股向价值股的板块轮动。成交量模式显示机构在关键经济数据和财报季前降低风险倾向。"
+      },
+      "bullish": ["value stocks", "financials"],
+      "bearish": ["growth tech", "small-cap growth"],
+      "macroRisk": {
+        "en": "Rotation may persist if earnings miss expectations materialize. Risk-off bias could intensify with negative economic surprises.",
+        "zh": "若盈利不及预期出现，轮动可能持续。负面经济意外可能导致避险偏好加剧。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector under pressure as capex sustainability concerns mount. Hype cycle may be peaking while real deployment rates lag expectations. Hardware makers face demand questions from cloud providers.",
+      "zh": "AI 板块承压，资本支出可持续性担忧加剧。炒作周期可能达到顶峰，而实际部署率落后于预期。硬件制造商面临来自云供应商的需求疑问。"
+    },
+    "semiconductor": {
+      "en": "Mixed bag - AI-focused chipmakers supported by hyperscaler demand, but broader semiconductor cyclicality and China exposure create headwinds. Equipment vendors face margin pressure from inventory corrections.",
+      "zh": "喜忧参半——聚焦AI的芯片制造商受到超大规模计算中心需求的支撑，但更广泛的半导体周期性和中国敞口构成阻力。设备供应商因库存修正面临利润率压力。"
+    },
+    "bigTech": {
+      "en": "Earnings overhang creates near-term uncertainty. Cloud growth questioned as AI monetization timelines slip. Advertising and search segments show resilience but face economic slowdown risks.",
+      "zh": "财报季悬念造成近期不确定性。云增长受到质疑，AI 货币化时间表延误。广告和搜索部门展现韧性但面临经济放缓风险。"
+    },
+    "energy": {
+      "en": "Relative strength amid oil price stability near $95/Bbl. Supply disruptions from Middle East and OPEC+ discipline support prices above breakeven thresholds for majors.",
+      "zh": "在油价稳定于$95/桶附近时展现相对强势。从中东和 OPEC+纪律造成的供应中断支持价格高于主要公司的盈亏平衡阈值。"
+    },
+    "ev": {
+      "en": "Sector rotation into value stocks weighs on EV names. Deliveries questioned as consumers prioritize affordability over range competition. Chinese rivals pressure margins globally.",
+      "zh": "资金向价值股轮动拖累电动车名称的估值。交付受到质疑，消费者优先考虑可负担性而非续航竞争。中国竞争对手全球施压利润率。"
+    },
+    "market": {
+      "en": "Mixed sentiment with tech weakness offset by energy strength. Breadth deteriorating as rotation accelerates from growth into value names ahead of earnings season.",
+      "zh": "情绪混合，科技疲软被能源强势抵消。在财报季前轮动加速从成长股向价值股的背景下，市场广度恶化。"
+    },
+    "preciousMetals": {
+      "en": "Gold trades above $2,600/oz as geopolitical risk premium and Fed policy uncertainty support prices. Silver lags due to industrial demand concerns from economic slowdown.",
+      "zh": "金价在$2,600/盎司以上交易，地缘政治风险溢价和美联储政策不确定性支持价格。白银因经济放缓的工业需求担忧落后。"
+    },
+    "oil": {
+      "en": "WTI closing near $95/Bbl with geopolitical premium from Middle East tensions. Supply disruptions and OPEC+ discipline maintain prices above inflation threshold, posing risks for rate-sensitive sectors.",
+      "zh": "西德克萨斯中质油在$95/桶附近收盘，中东紧张局势提供地缘政治溢价。供应中断和OPEC+纪律使价格保持在通胀阈值之上，对利率敏感型行业构成风险。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500, Nasdaq futures slip as AI concerns and oil pressure weigh on sentiment. Tech-heavy indices face headwinds ahead of earnings reports.",
+      "zh": "标普 500、纳斯达克期货承压，AI 担忧和油价拖累市场情绪。以科技为主的指数在财报前面临阻力。"
+    },
+    "treasury10Y": {
+      "en": "~4.3-4.6% with mixed economic data and inflation signals keeping yields elevated.",
+      "zh": "约 4.3%-4.6%，混合经济数据和通胀信号使收益率维持高位。"
+    },
+    "dxy": {
+      "en": "DXY strengthening on strong US employment/inflation prints relative to peers.",
+      "zh": "美元指数在对标货币相对疲软的美国就业和通胀数据支持下走强。"
+    },
+    "oil": {
+      "en": "$94-96/WTI range with Middle East tensions supporting prices near $85 Brent equivalent.",
+      "zh":"$94-$96/桶 WTI 区间，中东紧张局势支持价格接近$85/布伦特等效水平。"
+    },
+    "keyRisk": {
+      "en": "AI capex sustainability and earnings miss expectations around big tech names. Oil inflation re-pricing above $90/Bbl threshold.",
+      "zh": "AI 资本支出可持续性和大型科技股盈利不及预期。油价通胀重定价超过$90/桶阈值。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Sector divergence with energy strength offsetting tech weakness. Geopolitical and earnings overhang create elevated volatility ahead of key economic prints.",
+      "zh": "板块分化，能源强势抵消科技疲软。地缘政治和财报季悬念在关键经济数据发布前造成高波动性。"
+    }
+  }
+}
