@@ -1,0 +1,188 @@
+{
+  "date": "2026-07-24",
+  "summary": {
+    "en": "US futures trade mixed as investors digest geopolitical tensions, elevated oil prices below $100, and AI hyperscaler earnings pressure. Intel's strong bounce contrasts with broader tech weakness following Mag7 rout on Thursday.",
+    "zh": "美股期指分化，投资者消化地缘紧张、油价虽回落但仍居高位 ($98 附近)，以及大厂 AI 营收预期压力。英伟达等巨头周四大跌后科技股承压，Intel 强劲反弹形成鲜明对比。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Oil Prices Drop Below $100 as Geopolitical Risk Eases Slightly",
+        "zh": "油价跌破$100，地缘政治风险小幅缓和"
+      },
+      "impact": {
+        "en": "WTI/Brent stabilization provides breathing room for growth stocks; inflation fears persist but easing reduces stagflation risk premium. MacroRisk: Moderate transmission via energy-sensitive sectors.",
+        "zh": "油价稳定为成长股提供空间；通胀担忧仍存但缓解，降低滞胀风险溢价。宏观传导：能源敏感型板块受益。"
+      },
+      "bullish": ["XLE", "XLV", "Consumer Discretionary"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Oil below $100 reduces stagflation concerns, but supply chain disruptions and geopolitical premiums maintain volatility.",
+        "zh": "$98 油价缓解滞胀担忧，但供应链中断和地缘溢价维持波动。"
+      }
+    },
+    {
+      "title": {
+        "en": "Intel Leads Chip Stocks with 25% Revenue Jump, Nasdaq Futures Recover",
+        "zh": "Intel 收入跃升 25%，引领芯片股反弹，纳斯达克期货回升"
+      },
+      "impact": {
+        "en": "Semiconductor rally suggests bottoming process near July 17 support at $48. Intel earnings surprise offsets AI spending concerns, but hyperscaler capex debate persists.",
+        "zh": "半导体 Rally 显示接近$48 的技术支撑有效。Intel 业绩超预期抵消开支担忧，但超大规模云厂商资本支出辩论持续。"
+      },
+      "bullish": ["INTC", "AMD", "AVGO"],
+      "bearish": ["NVDA", "MSFT"],
+      "macroRisk": {
+        "en": "AI sector divergence: Capex sustainability question vs. demand realization creates mixed sentiment.",
+        "zh": "AI 板块分化：资本支出可持续性疑问与需求实现形成混合情绪。"
+      }
+    },
+    {
+      "title": {
+        "en": "Trump Tariff Strikes Again as Trade Tensions Escalate",
+        "zh": "特朗普关税政策再出重拳，贸易紧张局势升级"
+      },
+      "impact": {
+        "en": "New tariff threats create uncertainty for multinational corporations; consumer discretionary and industrials face margin pressure from import costs.",
+        "zh": "新关税威胁令跨国企业不确定；消费可选和工业面临进口成本挤压利润。"
+      },
+      "bullish": [],
+      "bearish": ["XLY", "XLI", "Consumer Staples"],
+      "macroRisk": {
+        "en": "Trade policy volatility transmits to earnings multiples, particularly for tech with global supply chains.",
+        "zh": "贸易政策波动传导至盈利倍数，尤其对全球供应链的科技股。"
+      }
+    },
+    {
+      "title": {
+        "en": "Wall Street Shakes Off Iran Jitters After Thursday Mag7 Rout",
+        "zh": "美股市在周四巨头暴跌后摆脱伊朗紧张局势影响"
+      },
+      "impact": {
+        "en": "Futures edge higher despite geopolitical headlines; risk appetite recovering but remains sensitive to Middle East escalation and energy shocks.",
+        "zh": "尽管地缘头条，期指微幅回升；风险偏好恢复但敏感于中东升级和能源冲击。"
+      },
+      "bullish": ["SPY", "QQQ"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Geopolitical premium in oil prices remains elevated; any Middle East escalation would spike WTI toward $105.",
+        "zh": "油价地缘溢价仍高；中东任何升级会将 WTI 推高至$105。"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury Yields Stabilize as Inflation Expectations Cool",
+        "zh": "美债收益率稳定，通胀预期降温"
+      },
+      "impact": {
+        "en": "10Y Treasury yield holds steady near 4.2%; rate-sensitive sectors stabilize after volatile week, providing clarity for equity positioning.",
+        "zh": "10Y 国债维持在$4.2 左右；利率敏感板块波动后企稳，为股票配置提供清晰度。"
+      },
+      "bullish": ["TLT", "GLD"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Bond market clarity supports growth stocks, but fiscal deficits and yield curve control regime create underlying uncertainty.",
+        "zh": "债券市场清晰度支持成长股，但财政赤字和收益率曲线控制机制造成内在不确定。"
+      }
+    },
+    {
+      "title": {
+        "en": "Dollar Index Consolidates as Rate Differential Plays Mellow",
+        "zh": "美元指数盘整，利率差博弈缓和"
+      },
+      "impact": {
+        "en": "DXY holds neutral near 106.5; Fed rate cut expectations vs. yield dynamics balance out, benefitting multinationals with global exposure.",
+        "zh": "DXY在中性区$106.5；降息预期与收益率动力平衡，利于全球化企业。"
+      },
+      "bullish": ["MCHP", "LNT"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Dollar stability supports EM assets and commodity exporters, reducing FX headwinds for global tech.",
+        "zh": "美元稳定支持新兴市场资产和大宗商品出口商，减少全球科技的外汇逆风。"
+      }
+    },
+    {
+      "title": {
+        "en": "Market Absorbs AI Anxiety Amidst Broader Tech Correction",
+        "zh": "市场吸收 AI 焦虑 amid 更广的科技调整"
+      },
+      "impact": {
+        "en": "AI sector correction continues as investors question capex sustainability; divergence between hyperscalers and hardware suppliers intensifies.",
+        "zh": "AI 板块继续回调，投资者质疑资本支出可持续性；云厂商与硬件供应商分化加剧。"
+      },
+      "bullish": ["HIMR", "DDOG"],
+      "bearish": ["NVDA", "SMCI"],
+      "macroRisk": {
+        "en": "Sector rotation away from mega-cap tech toward value/small caps signals style shift amid growth concerns.",
+        "zh": "从大盘科技向价值/小盘轮动显示成长担忧中的风格切换。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector under pressure following Mag7 rout, but hyperscaler earnings remain strong; divergence between software and hardware persists.",
+      "zh": "AI 板块在巨头暴跌后承压，但超大规模云厂商业绩强劲；软件与硬件分化持续。"
+    },
+    "semiconductor": {
+      "en": "Intel bounce validates bottoming process; memory demand recovering while logic chip competition intensifies. AMD/AVVO show mixed signals.",
+      "zh": "Intel 反弹确认筑底过程；内存需求恢复，逻辑芯片竞争加剧。AMD/QCOM信号混合。"
+    },
+    "bigTech": {
+      "en": "Big Tech weak on capex sustainability concerns; Alphabet/Tesla earnings questioned by market despite strong revenue. Cloud growth slowing.",
+      "zh": "大盘科技因资本支出可持续性担忧而疲软；Alphabet/特斯拉营收强劲但业绩遭质疑，云增长放缓。"
+    },
+    "energy": {
+      "en": "Oil below $100 provides relief but supply constraints persist; renewable transition plays mixed as policy uncertainty dominates.",
+      "zh": "$98 油价提供缓解但仍受供应限制；能源转型项目分化，政策不确定占主导。"
+    },
+    "ev": {
+      "en": "EV sector faces headwinds from higher energy costs and tariff threats. Traditional OEMs gain margin on EV slowdown while Chinese competition intensifies.",
+      "zh": "电动车受更高成本和新关税威胁拖累。传统车企在电动车放缓时获得利润率，但中国竞争加剧。"
+    },
+    "market": {
+      "en": "Broad market mixed after Mag7 rout, with S&P stabilizing near key support. Semiconductor rally offsets broader weakness as Intel/AMD lead.",
+      "zh": "大盘巨头暴跌后混合，标普稳定在关键支撑附近。半导体反弹抵消疲软，Intel/AMD 领涨。"
+    },
+    "preciousMetals": {
+      "en": "Gold consolidates near $2800, DXY stability limiting upside; geopolitical premium remains but rate dynamics cap gains.",
+      "zh": "黄金在$2800附近盘整，美元稳定限制上行；地缘溢价仍在但利率动态封顶。"
+    },
+    "oil": {
+      "en": "WTI drops below $98, providing respite for growth stocks but supply disruptions and geopolitical tensions prevent sustained decline.",
+      "zh": "$98油价为成长股喘息，但供应中断和地缘紧张防止持续下跌。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "Nasdaq futures edging higher on Intel-led semiconductor rally; S&P500 mixed after Thursday sell-off. Dow holds near support.",
+      "zh": "纳斯达克期货在英伟达领涨半导体反弹中微升；标普 500 周四暴跌后混合，道指接近支撑。"
+    },
+    "treasury10Y": {
+      "en": "10Y yield stabilizes near 4.2%, providing clarity after volatile week in bonds.",
+      "zh": "10Y 收益率在$4.2%附近稳定，债券市场波动周后提供清晰度。"
+    },
+    "dxy": {
+      "en": "DXY holds around 106.5, rate cut expectations balance with yield dynamics.",
+      "zh": "美元指数维持在$106.5 左右，降息预期与收益率动态平衡。"
+    },
+    "oil": {
+      "en": "WTI trades near $98, Brent below $92; geopolitical premium limits downside but supply concerns cap upside.",
+      "zh": "$98 附近交易，Brent 低于$92；地缘溢价限制下行但供应担忧封顶上行。"
+    },
+    "keyRisk": {
+      "en": "Geopolitical escalation in Middle East could spike WTI toward $105, triggering inflation resurgence and equity volatility.",
+      "zh": "中东升级可能将原油推高至$105，引发通胀卷土重来和股市波动。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Mixed sentiment reflects sector divergence: semiconductor bounce vs. big tech weakness, oil stabilization but geopolitical premiums persist.",
+      "zh": "混合情绪反映板块分化：半导体反弹与大盘科技疲软，油价稳定但地缘溢价持续。"
+    }
+  }
+}
