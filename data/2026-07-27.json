@@ -1,0 +1,158 @@
+{
+   "date":"2026-07-27",
+   "summary":{
+      "en":"US futures rise on relief that U.S.-Iran hostilities paused, tech leading higher while oil plunges. AI financing momentum persists with Nvidia exploring $50B partnerships.",
+      "zh":"美股期货因美伊停火传闻上涨，科技股领涨大盘，石油暴跌。AI 融资势头延续，NVIDIA 探索为数据中心提供 50 亿美元合作方案。"
+   },
+   "topNews":[
+      {
+         "title":{
+            "en":"Trump Pauses US Strikes on Iran, Wall Street Futures Rally",
+            "zh":"特朗普暂停对伊朗空袭，美股期货上涨"
+         },
+         "impact":{
+            "en":"Ceasefire de-escalates geopolitical risk premium; energy underperforms. Gold rises on safe-haven flows.",
+            "zh":"停火降低地缘风险溢价；能源股表现不及预期。黄金因避险资金流入而上涨。"
+         },
+         "bullish":[
+            "SPX",
+            "NDQ"
+         ],
+         "bearish":[
+            
+         ],
+         "macroRisk":{
+            "en":null,
+            "zh":""
+         }
+      },
+      {
+         "title":{
+            "en":"Nvidia $250B Credit Backstop for OpenAI Ohio Data Center Project Unveiled",
+            "zh":"英伟达为美国 AI 俄亥俄数据中心项目提供 250 亿美元信用支持"
+         },
+         "impact":{
+            "en":"Corporate financing milestone validating massive data center CAPEX cycle with SoftBank involvement.",
+            "zh":"企业融资里程碑级进展；验证了软银参与的大型数据中心资本开支周期。"
+         },
+         "bullish":[
+            "NVDA",
+            "SMCI"
+         ],
+         "bearish":[
+            
+         ],
+         "macroRisk":{
+            "en":null,
+            "zh":""
+         }
+      },
+      {
+         "title":{
+            "en":"WTI Oil Plunges 5% to $84.62 on Diplomatic Pause Despite Hormuz Blockade",
+            "zh":"西德克萨斯中质原油因外交暂停暴跌至每桶 84.62 美元，霍尔木兹海峡封锁仍持续"
+         },
+         "impact":{
+            "en":"Energy sector drawdown; inflation expectations ease but recession risks remain unpriced.",
+            "zh":"能源板块显著回落；油价降低使通胀预期放缓，但衰退风险尚未计价。"
+         },
+         "bullish":[
+            
+         ],
+         "bearish":[
+            "XLE"
+         ],
+         "macroRisk":{
+            "en":null,
+            "zh":""
+         }
+      },
+      {
+         "title":{
+            "en":"Gold Futures Rise to $4,093 Amid Risk-On and Safe-Haven Confluence",
+            "zh":"黄金期货在风险偏好与避险情绪共振下上涨至每盎司 4,093"
+         },
+         "impact":{
+            "en":"Mixed signal: equity rally suggests growth confidence while metals hedge geopolitical uncertainty.",
+            "zh":"混合信号：股市上涨表明对增长有信心，而金属投资者对冲地缘不确定性。"
+         },
+         "bullish":[
+            "GLD"
+         ],
+         "bearish":[
+            
+         ],
+         "macroRisk":{
+            "en":null,
+            "zh":""
+         }
+      }
+   ],
+   "sectorRadar":{
+      "ai":{
+         "en":"AI surges on Nvidia $250B OpenAI backstop. Mega data center CAPEX validated with SoftBank.",
+         "zh":"英伟达为美国 AI 提供的 250 亿美元支持推动 AI 板块上涨。软银参与验证了大型数据中心资本开支周期。"
+      },
+      "semiconductor":{
+         "en":"Broadcom and SK Hynix unveil $950B memory supply partnership with Nvidia. Korean stocks slip.",
+         "zh":"博通和美光与 NVIDIA 推出价值 9,500 亿美元内存供应合作方案，韩国股票出现下滑。"
+      },
+      "bigTech":{
+         "en":"Nasdaq futures up 1.2%. META posting gains ahead of earnings season.",
+         "zh":"纳斯达克期货上涨 1.2%，META 在财报季前发布稳健收益。"
+      },
+      "energy":{
+         "en":"WTI -5% to $84.62 on diplomatic pause. XOM, CVX underperform amid Red Sea Houthi strikes.",
+         "zh":"西德克萨斯中质原油因外交暂停暴跌至每桶 84.62 美元。在红海胡塞武装袭击持续情况下，美国石油巨头和雪佛龙表现疲软。"
+      },
+      "ev":{
+         "en":null,
+         "zh":""
+      },
+      "market":{
+         "en":"S&P futures +0.6% at 7,492; Nasdaq leads with +1.2%. Breadth improving.",
+         "zh":"标普期货上涨 0.6%，至 7,493；纳斯达克指数领涨，涨幅达 1.2%。广度改善。"
+      },
+      "preciousMetals":{
+         "en":"Gold up +0.6% to $4,093; Silver following with strength.",
+         "zh":"黄金上涨 0.6%，至每盎司 4,094；白银跟随走强。"
+      },
+      "oil":{
+         "en":"WTI -5% at $84.62; Brent down to ~$73 amid diplomatic truce but Hormuz blockade persists.",
+         "zh":"西德克萨斯中质原油下跌至每桶 84.62 美元；布伦特跌至约 73 美元。"
+      }
+   },
+   "premarketFocus":{
+      "futures":{
+         "en":"SPX +0.6% at 7,492; NDQ +1.2%. Tech leading session.",
+         "zh":"标普期货上涨至 7,493；纳斯达克领涨，涨幅达 1.2%，科技股主导。"
+      },
+      "treasury10Y":{
+         "en":null,
+         "zh":""
+      },
+      "dxy":{
+         "en":null,
+         "zh":""
+      },
+      "oil":{
+         "en":"WTI $84.62 (-5%) | Brent ~$73",
+         "zh":"西德克萨斯中质原油 84.62(-5%)；布伦特约 73"
+      },
+      "keyRisk":{
+         "en":"Diplomatic pause fragile; Houthi strikes ongoing with Hormuz transit uncertainty.",
+         "zh":"停火脆弱，也门胡塞武装袭击持续。霍尔木兹海峡通行前景存不确定性。"
+      }
+   },
+   "judgment":{
+      "type":"risk-on",
+      "confidence":{
+         "en":"medium",
+         "zh":"中"
+      },
+      "note":{
+         "en":"Geopolitical de-escalation drives risk appetite. Tech financing milestones sustain rally.",
+         "zh":"地缘政治缓和提振风险偏好。科技融资里程碑支撑涨势延续。"
+      }
+   }
+}
