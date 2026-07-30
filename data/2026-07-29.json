@@ -1,0 +1,152 @@
+{
+  "date": "2026-07-29",
+  "summary": {
+    "en": "Semiconductor weakness led broad tech decline with NVDA, AMD down ~8% on chip demand concerns. Financials and healthcare stocks provided support while futures point to cautious open. Key watch: whether AI sector selloff is healthy profit-taking or fundamental shift.",
+    "zh": "半导体板块走弱带动科技股普遍下跌，NVDA、AMD 约跌 8%，引发对芯片需求担忧。金融和医疗保健股票提供支持，而期货预示谨慎开盘。关键看点：AI 板块抛售是健康获利了结还是基本面转变"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Semiconductor stocks tumble on chip demand fears amid AI slowdown concerns",
+        "zh": "半导体股票因芯片需求担忧暴跌，市场对 AI 放缓产生疑虑"
+      },
+      "impact": {
+        "en": "NVDA -8.15%, AMD -8.15%, SMCI -4.56% indicate sector-wide pressure from potential inventory glut and slower demand",
+        "zh": "NVDA、AMD 等暴跌显示行业面临库存积压和需求放缓压力"
+      },
+      "bullish": ["QCOM +0.05%", "AVGO -0.60%"],
+      "bearish": ["SMCI -4.56%", "SMIC related names", "AI chip demand uncertainty"],
+      "macroRisk": {
+        "en": "Yes: Chip slowdown → Tech earnings re-rating downward; could spread to broader growth stocks if inflation fears intensify (oil volatility)",
+        "zh": "是：芯片放缓→科技盈利重估下行；若通胀担忧加剧可能蔓延至宽幅成长股"
+      }
+    },
+    {
+      "title": {
+        "en": "Financials rally on stable yields, but macro uncertainty lingers",
+        "zh": "金融板块因收益率稳定而上涨，但宏观不确定性仍存"
+      },
+      "impact": {
+        "en": "BAC +0.79%, JPM +0.31%, USB +1.48% benefit from steady rates, though 10Y yield sensitivity remains key",
+        "zh": "美银、摩根大通等受益于稳定利率，但长债收益率敏感性仍是关键"
+      },
+      "bullish": ["BAC +0.79%", "JPM +0.31%", "USB +1.48%"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No: Yields stable within range; rotation to financials is defensive positioning",
+        "zh": "否：收益率稳定在范围内；流向金融股是防御性配置"
+      }
+    },
+    {
+      "title": {
+        "en": "Healthcare and biotech surge on positive drug pipeline news",
+        "zh": "医疗保健和生物技术因新药管线利好而大涨"
+      },
+      "impact": {
+        "en": "HCA +7.33%, INCY +9.30%, REGN +4.20% led sector strength amid biotech rally expectations",
+        "zh": "HCA、INCY 等带动板块走强，市场预期生物技术反弹"
+      },
+      "bullish": ["HCA +7.33%", "INCYS +9.30%", "REGN +4.20%"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No: Defensive sector insulated from tech weakness; driven by fundamentals",
+        "zh": "否：防御板块免受科技股疲软影响；由基本面驱动"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil prices stabilize after OPEC+ meeting, geopolitical tensions ease slightly",
+        "zh": "OPEC+会议后油价稳定，地缘政治紧张局势略有缓解"
+      },
+      "impact": {
+        "en": "Energy sector mixed: some names up on demand resilience but broader uncertainty from Middle East dynamics remains",
+        "zh": "能源板块分化：部分股票因需求韧性上涨，但中东动态带来的广泛不确定性仍存"
+      },
+      "bullish": ["Oil price stabilization"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Yes: Geopolitical easing → Lower oil risk premium; inflation expectations may decline modestly",
+        "zh": "是：地缘政治缓和→石油风险溢价下降；通胀预期可能温和回落"
+      }
+    },
+    {
+      "title": {
+        "en": "Tech breadth concerns: WDC -6.91%, STX -8.53%, MPWR -4.26% amid hardware capex slowdown",
+        "zh": "科技板块广度担忧：西部数据等存储硬件下跌，反映资本支出放缓"
+      },
+      "impact": {
+        "en": "Storage and semiconductor equipment companies under pressure as AI build-out normalizes, raising questions about sustainability of 2023-24 boom",
+        "zh": "AI建设正常化背景下存储和半导体设备公司承压，引发对 23-24 年繁荣可持续性的质疑"
+      },
+      "bullish": ["IBM +5.21%"],
+      "bearish": ["WDC -6.91%", "STX -8.53%", "MPWR -4.26%", "KLAC -6.18%"]
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI chip names lead decline: NVDA, AMD down ~8%. Concerns about demand sustainability and inventory normalization; broader AI ecosystem (CSCO +0.88%, MSFT +1.1%) more resilient but still pressured.",
+      "zh": "AI 芯片股带头下跌：NVDA、AMD约跌8%。担忧需求可持续性和库存正常化；更广泛的AI生态系统（思科、微软）更有韧性但仍承压"
+    },
+    "semiconductor": {
+      "en": "-2.56% overall decline driven by memory/storage (WDC -6.91%, STX -8.53%) and design leaders (NVDA, AMD). Equipment names like LRCX (-7.54%), KLAC (-6.18%) also weak on capital expenditure cycle concerns.",
+      "zh": "-2.56%整体下跌，由存储/内存(WDC、西部数据)和设计龙头(NVDA、AMD)驱动。设备股如LRCX、科磊也因资本支出周期担忧而疲软"
+    },
+    "bigTech": {
+      "en": "Mixed performance: MSFT (+1.10%), GOOG (+2.18%) hold up better than chip names; META (-0.08%) nearly flat amid social media revenue concerns and AI ad monetization uncertainty.",
+      "zh": "表现分化：微软、谷歌持守得更好；META因社交媒体营收担忧和AI广告变现不确定性而几乎持平"
+    },
+    "energy": {
+      "en": "Mixed sector: WLL names showing divergence. Oil price stabilization following OPEC+ signals provides support but geopolitical risk premium still priced in.",
+      "zh": "板块分化：石油价格稳定为支撑，但地缘政治风险溢价仍定价在内"
+    },
+    "ev": {
+      "en": "TSLA -0.59% neutral amid EV slowdown concerns from higher interest rates and competitive landscape normalization; broader auto sector supportive (GM +3.75%, F +1.91%).",
+      "zh": "特斯拉中性：电动车放缓担忧下，利率上升和竞争格局正常化；更广泛汽车板块提供支持"
+    },
+    "market": {
+      "en": "Mixed: S&P 500 at 7,428 (+0.21%) but breadth weak with semiconductor拖累 (-3-9%). Rotation to financials (BAC +0.79%), healthcare (HCA +7.33%) provides defensive support.",
+      "zh": "混合：标普500在7,428点(+0.21%)但广度弱，半导体拖累(-3-9%)。流向金融和医疗保健提供防御支撑"
+    },
+    "preciousMetals": {
+      "en": "Limited data but gold typically responds to real yields and risk sentiment; watch 10Y Treasury inversion spread as key indicator for safe-haven flows.",
+      "zh": "数据有限，黄金通常对实际收益率和风险情绪反应；关注长债倒挂利差作为避险流关键指标"
+    },
+    "oil": {
+      "en": "WTI stabilizing after OPEC+ signals. Middle East tensions easing slightly but supply disruptions remain key risk premium; watch EIA inventory data and geopolitical developments.",
+      "zh": "油价在OPEC+信号后稳定。中东紧张局势略有缓解，但供应中断仍是关键风险溢价；关注EIA库存数据和地缘政治发展"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P futures direction depends on whether semiconductor selloff is contained or spreads; Nasdaq may face more pressure due to growth stock sensitivity",
+      "zh": "标普期货方向取决于半导体抛售是否局限或蔓延；纳斯达克因成长股敏感性可能面临更大压力"
+    },
+    "treasury10Y": {
+      "en": "Monitor 10Y yield around current levels; semiconductor and AI slowdown concerns could push yields higher if growth disappointment intensifies",
+      "zh": "监测长期国债收益率；若成长失望加剧半导体和AI放缓可能推高收益率"
+    },
+    "dxy": {
+      "en": "Dollar strength supports EM assets but weak US equities may pressure DXY; watch ECB and Fed policy divergence signals overnight.",
+      "zh": "美元支持新兴市场资产，但美国股票疲软可能打压美元指数；关注欧洲央行和美联储政策分歧信号"
+    },
+    "oil": {
+      "en": "WTI/Brent stabilizing after OPEC+ meeting. Key support levels critical; any Middle East escalation would spike prices despite demand concerns.",
+      "zh": "油价在OPEC+会议后稳定。关键支撑水平至关重要；任何中东升级都会推高价格"
+    },
+    "keyRisk": {
+      "en": "Semiconductor sector rotation - whether AI chip weakness is technical or fundamental. Inventory levels, China demand signals critical watch points.",
+      "zh": "半导体板块轮动-AI芯片疲软是技术性还是根本性。库存水平、中国需求信号是关键看点"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Sector divergence: tech weakness vs financials/healthcare strength. Semiconductors lead decline amid AI slowdown concerns, but broader economy resilient.",
+      "zh": "板块分化：科技疲软与金融、医疗保健强势。半导体因AI放缓担忧带头下跌，但更广泛经济保持韧性"
+    }
+  }
+}
