@@ -1,0 +1,140 @@
+{
+  "date": "2026-07-30",
+  "summary": {
+    "en": "Premarket focus centers on post-Microsoft earnings sentiment and pending PCE inflation data. Tech sector faces mixed signals with AI optimism versus rate sensitivity, while major index futures rise ahead of key macro releases.",
+    "zh": "盘前焦点集中在微软财报后的情绪和即将公布的 PCE 通胀数据。科技板块呈现分歧信号，AI 乐观与利率敏感性交织，主要指数期货在关键宏观发布前上涨。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Microsoft Jumps Over 9% Post-Earnings as AI Optimism Offsets Fed Rate Worries",
+        "zh": "微软 earnings后大涨超 9%，AI 乐观情绪抵消美联储利率担忧"
+      },
+      "impact": {
+        "en": "Big tech rally led by MSFT lifts Nasdaq futures. Microsoft's strong Q2 results validate AI monetization narrative despite broader macro headwinds.",
+        "zh": "以微软为首的科技股上涨带动纳斯达克期货。尽管存在宏观逆风，MSFT 强劲的 Q2 业绩验证了 AI 商业化叙事。"
+      },
+      "bullish": ["MSFT", "NVDA"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - earnings-driven rally; positive for growth/tech stocks.",
+        "zh": "否——财报驱动的上涨，利好成长股和科技板块。"
+      }
+    },
+    {
+      "title": {
+        "en": "Meta Slides 7% as PCE Inflation Data Tests Tech Valuations",
+        "zh": "META 下跌约 7%，PCE 通胀数据考验科技估值水平"
+      },
+      "impact": {
+        "en": "AI-focused mega-cap faces scrutiny ahead of key macro data. Rate sensitivity concerns weigh on ZM, SNOW and other high-valuation growth names.",
+        "zh": "关键宏观数据公布前，关注 AI 驱动的巨头。利率敏感性担忧压制了包括 ZM、SNOW 在内的估值高企的成长股。"
+      },
+      "bullish": [],
+      "bearish": ["META", "ZM"],
+      "macroRisk": {
+        "en": "Yes - PCE data transmission path: inflation expectations → bond yields → rate-sensitive growth stocks.",
+        "zh": "是——PCE 数据传导路径：通胀预期→美债收益率→利率敏感的成长股。"
+      }
+    },
+    {
+      "title": {
+        "en": "S&P 500, Nasdaq Futures Rise Ahead of PCE/GDP Releases",
+        "zh": "标普和纳斯达克期货在 PCE 和 GDP 数据发布前上涨"
+      },
+      "impact": {
+        "en": "Risk-on sentiment as earnings offset macro uncertainty. Tech-heavy indices benefit from AI narrative despite inflation data volatility.",
+        "zh": "财报抵消宏观不确定性，呈现风险偏好情绪。尽管通胀数据波动，以科技为主的指数受益于 AI 叙事。"
+      },
+      "bullish": ["SPY", "QQQ"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Mixed - PCE data creates uncertainty but tech earnings provide buffer.",
+        "zh": "混合——PCE 数据带来不确定性，但科技财报提供缓冲。"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury Yields Steady as Fed Policy Divergence Deepens",
+        "zh": "美债收益率盘整，美联储政策分歧加深"
+      },
+      "impact": {
+        "en": "Bond market reflects growing uncertainty about rate path. 10Y yield stability supports big tech re-rating without crowding out concerns.",
+        "zh": "债券市场反映对利率路径的不确定性增加。10 年期收益率稳定，支持大科技重估而无挤出效应担忧。"
+      },
+      "bullish": ["TLT"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - stable yields support equity valuations.",
+        "zh": "否——稳定的收益率支撑股票估值水平。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Mixed sentiment with MSFT leading the charge on AI monetization while META pulls back. NVIDIA and other chipmakers continue benefiting from demand acceleration.",
+      "zh": "情绪分化，MSFT 在 AI 变现上领涨，META 回落。NVIDIA 和其他芯片商持续受益于需求加速增长。"
+    },
+    "semiconductor": {
+      "en": "Chip sector strong on PC/AI server demand recovery. AMD, AVGO and other semiconductor names outperform despite broader market rotation.",
+      "zh": "半导体板块在 PC 和 AI 服务器需求复苏中表现强劲。AMD、AVGO 等股票超越大盘尽管市场出现轮动调整。"
+    },
+    "bigTech": {
+      "en": "Divergent performance: MSFT surges on earnings, META under pressure. Cloud and advertising revenues remain key growth drivers amid AI monetization focus.",
+      "zh": "表现分化：MSFT 财报后飙升，META 承压。云服务与广告收入仍是增长驱动因素在 AI 变现焦点下。"
+    },
+    "energy": {
+      "en": "Oil prices stable. Energy sector shows resilience amid geopolitical tensions, with ETC and other integrated majors gaining ground.",
+      "zh": "油价稳定，能源板块在地缘政治紧张中展现韧性，ETC 和其他综合公司取得进展。"
+    },
+    "ev": {
+      "en": "EV sector cautious as EV demand concerns persist. RIVN, F and traditional automakers await policy clarity on subsidies.",
+      "zh": "电动车板块谨慎应对需求担忧的持续。RIVN、F 和传统汽车制造商等待补贴政策明朗化。"
+    },
+    "market": {
+      "en": "Mixed sentiment overall with index futures rising despite inflation headwinds. Tech-heavy portfolio overweight benefits while growth names under scrutiny.",
+      "zh": "整体情绪分化，尽管通胀逆风指数期货上涨。以科技为主的投资组合过度配置受益，成长股受审查中。"
+    },
+    "preciousMetals": {
+      "en": "Gold and silver hold steady amid inflation data uncertainty. Precious metals act as hedge against rate volatility ahead of PCE release.",
+      "zh": "金银在通胀数据不确定性中保持坚挺，贵金属作为对冲工具应对 PCE 发布前的利率波动。"
+    },
+    "oil": {
+      "en": "Oil prices stable at ~$74-75/barrel. geopolitical tensions in Middle East provide floor despite weaker global demand expectations.",
+      "zh": "油价稳定在每桶 74-75 美元，中东地缘政治紧张提供支撑尽管全球需求预期疲软。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "Rising on MSFT earnings and AI optimism; S&P futures +0.3%, Nasdaq +0.5% ahead of open.",
+      "zh": "在微软财报和 AI 乐观情绪推动下上涨；标普期货涨约 0.3%，纳斯达克期货前市涨 0.5%。"
+    },
+    "treasury10Y": {
+      "en": "~4.2-4.3%; stable despite PCE uncertainty, Fed policy divergence deepens.",
+      "zh": "约在 4.2%-4.3%；尽管存在通胀不确定性保持稳定，美联储政策分歧加深。"
+    },
+    "dxy": {
+      "en": "DXY hovering near 106-107 range; dollar stable with rate expectations mixed.",
+      "zh": "美元指数在 106-107 附近徘徊；美元稳定，利率预期分化。"
+    },
+    "oil": {
+      "en": "$74.50/bbl WTI, Brent ~$80; geopolitical tensions support prices despite weak growth outlook.",
+      "zh": "WTI 油价约 74.50/桶，布伦特油约 80 美元；地缘政治紧张支撑价格尽管增长前景疲软。"
+    },
+    "keyRisk": {
+      "en": "PCE inflation data release at 13:30 PT; could trigger volatility in rate-sensitive sectors (tech, biotech).",
+      "zh": "美联储 PCE 通胀数据下午 5:30 公布；可能触发利率敏感板块（科技、生物科技）的波动。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Mixed sentiment driven by MSFT earnings strength offsetting broader macro uncertainty. Tech sector bifurcation evident with AI leaders outperforming while mega-cap consumer names face pressure from PCE data release.",
+      "zh": "分化情绪由微软财报强劲抵消广泛宏观不确定性。科技板块出现分叉，AI 领导者超越大盘而大型消费类股票在通胀数据发布后承压。"
+    }
+  }
+}
