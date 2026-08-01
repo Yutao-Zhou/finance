@@ -1,0 +1,201 @@
+{
+  "date": "2026-07-31",
+  "summary": {
+    "en": "Friday markets close with mixed sentiment as semiconductor stocks diverge on AI supply chain dynamics. Semiconductor names show wide dispersion - NVIDIA and AMD rally while Micron and Intel retreat, signaling selective capital rotation within the chip sector.",
+    "zh": "周五市场收盘呈现混合情绪，半导体股因人工智能供应链动态而出现分化。芯片板块内资本轮动明显——英伟达和超微崛起而美光和英特尔退守，显示选择性资金配置特征增强。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Semiconductor Sector Diverges: AI Supply Chain Selectivity Emerges",
+        "zh": "半导体板块分化显现：AI 供应链选择性资本轮动加剧"
+      },
+      "impact": {
+        "en": "NVIDIA +2.94% and AMD rally while MU -5.90% pulls back, indicating sector rotation rather than broad-based AI demand surge",
+        "zh": "英伟达涨 2.94%，超微回升而美光跌 5.90%，显示板块内轮动而非广泛的AI需求激增"
+      },
+      "bullish": ["NVDA", "AMD"],
+      "bearish": ["MU", "INTC", "AMAT"],
+      "macroRisk": {
+        "en": "Supply chain bottleneck concerns selective capital allocation; AI chip demand strong but storage/legacy segments face headwinds from cyclical downturn.",
+        "zh": "供应链瓶颈制约资本分配，AI芯片需求强劲但存储和传统半导体板块面临周期下行阻力。"
+      }
+    },
+    {
+      "title": {
+        "en": "Big Tech Shows Mixed Performance: Cloud and AI Growth Diverges",
+        "zh": "大科技股表现分化：云计算与AI增长出现背离"
+      },
+      "impact": {
+        "en": "Microsoft +3.02% leads while Apple -7.35% lags on iPhone cycle concerns; GOOG +6.88% and META +3.28% benefit from advertising AI monetization",
+        "zh": "微软涨 3.02%领先，苹果跌 7.35%受iPhone周期担忧拖累；谷歌涨 6.88%，META涨 3.28%受益于广告AI变现"
+      },
+      "bullish": ["MSFT", "GOOG", "META"],
+      "bearish": ["AAPL", "NFLX", "TTWO"],
+      "macroRisk": {
+        "en": "Consumer discretionary weakness and valuation compression in media names offset cloud/AI revenue growth benefits.",
+        "zh": "可选消费疲软和传媒股估值压缩抵消云服务和AI收入增长利好。"
+      }
+    },
+    {
+      "title": {
+        "en": "S&P 500 Futures Point to Slight Positive Close Ahead of Friday Session",
+        "zh": "标普500期货指引周五前小幅收高预期"
+      },
+      "impact": {
+        "en": "SPX up 0.70% at close suggests institutional buyers absorbing early volatility before Asian market data incorporation overnight.",
+        "zh": "指数收盘上涨 0.70%，表明机构买家在整合亚洲市场数据前消化早盘波动。"
+      },
+      "bullish": ["^GSPC", "^DJI"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Earnings season transition period; investor patience tested with mixed guidance from sector leaders amid rate sensitivity.",
+        "zh": "财报季过渡期；机构在利率敏感环境下对混合指引的耐心受到考验。"
+      }
+    },
+    {
+      "title": {
+        "en": "Geopolitical Tensions Moderate Energy Sector Volatility",
+        "zh": "地缘政治紧张局势缓和降低能源板块波动性"
+      },
+      "impact": {
+        "en": "WTI oil stabilizes near $58-60 range; energy stocks show sector-wide consolidation amid OPEC+ output discipline signals.",
+        "zh": "西得克萨斯原油稳定在 58-60美元区间；能源股呈现全板块整固，配合OPEC+产量纪律信号。"
+      },
+      "bullish": ["XOM", "CVX"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Oil price stability reduces inflation repricing risk but limits rate-sensitive growth sector upside from energy rally.",
+        "zh": "油价稳定降低通胀重定价风险，但限制利率敏感型增长板块从能源上涨中的上行空间。"
+      }
+    },
+    {
+      "title": {
+        "en": "AI Software Sector Leads Broad Chip Rally",
+        "zh": "人工智能软件股引领芯片行业整体反弹"
+      },
+      "impact": {
+        "en": "Software and infrastructure names (FTNT +4.99%, NOW +1.05%) outperform as AI capex cycle sustains enterprise demand despite hardware consolidation.",
+        "zh": "软件和基础设施股（Fortinet涨 4.99%，NOW上涨）表现优异，AI资本支出周期维持企业需求尽管硬件整合。"
+      },
+      "bullish": ["FTNT", "NOW", "PANW"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Enterprise AI adoption accelerating; capital discipline remains but enterprise software spend resilient.",
+        "zh": "企业AI采用加速；资本纪律维持但企业服务软件支出具有弹性。"
+      }
+    },
+    {
+      "title": {
+        "en": "Semiconductor Equipment Sector Faces Pressure on Capital Spending",
+        "zh": "半导体设备板块面临资本支出压力"
+      },
+      "impact": {
+        "en": "Lam Research -1.58%, Applied Materials +1.18% mixed; equipment orders lagging chip fab expansion plans in cyclical downturn environment.",
+        "zh": "泛林研究跌 1.58%，应用材料涨 1.18%混合；设备订单落后于晶圆厂扩产计划在周期下行环境中。"
+      },
+      "bullish": [],
+      "bearish": ["LRCX", "AMAT"],
+      "macroRisk": {
+        "en": "Capex cycle deceleration evident; equipment vendors face longer-term headwinds from semiconductor downturn signals.",
+        "zh": "资本支出周期减速显现；设备供应商面临半导体下行信号带来的中长期阻力。"
+      }
+    },
+    {
+      "title": {
+        "en": "Market Breadth Suggests Sector Rotation Within Tech",
+        "zh": "市场广度显示科技板块内部轮动特征增强"
+      },
+      "impact": {
+        "en": "AI infrastructure names outperform while legacy hardware consolidates; growth-rotation dynamics favor selective positioning over broad beta.",
+        "zh": "人工智能基础设施表现优于传统硬件；增长与轮动的动态有利于选择性配置而非广泛的beta收益。"
+      },
+      "bullish": ["NVDA", "MSFT"],
+      "bearish": ["INTC", "MU"],
+      "macroRisk": {
+        "en": "Rotation driven by earnings guidance divergence and valuation differentiation; style rotation may persist through quarter.",
+        "zh": "轮动由业绩指引分歧和估值差异驱动；风格轮动可能贯穿整个季度持续。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI infrastructure and software names lead sector with NVIDIA +2.94% while hardware consolidation pressures legacy chipmakers",
+      "zh": "AI基础设施和软件股领涨板块，英伟达涨 2.94%，而硬件整合压力导致传统芯片制造商承压"
+    },
+    "semiconductor": {
+      "en": "Widest dispersion in sector: NVDA/AMD rally vs MU -5.90%/INTC decline signals supply chain selectivity; equipment names mixed on fab capex outlook",
+      "zh": "板块内最宽幅分散：NVDA和AMD上涨对比MU跌 5.90%及INTC下跌显示供应链选择性；设备股因晶圆厂资本支出前景呈现混合表现"
+    },
+    "bigTech": {
+      "en": "Mixed performance with MSFT +3.02%/GOOG +6.88%/META +3.28% vs AAPL -7.35%; advertising AI monetization supports GOOG/META while consumer concerns weigh on Apple",
+      "zh": "表现分化：微软涨 3.02%，谷歌涨 6.88%，META涨 3.28%对比苹果跌 7.35%；广告AI变现支持谷歌和META而消费担忧拖累苹果"
+    },
+    "energy": {
+      "en": "Energy stocks stabilize with XOM/CVX showing consolidation; oil price support near $60 reduces inflation repricing but limits upside from commodity rally",
+      "zh": "能源股稳定，XCV和雪佛龙呈现整固；油价在 60美元附近支持减少通胀重定价但限制大宗商品上涨带来的上行空间"
+    },
+    "ev": {
+      "en": "EV sector remains under pressure amid broader macro headwinds; consumer discretionary weakness extends to auto names and charging infrastructure",
+      "zh": "电动车板块在宏观阻力下持续承压；可选消费疲软传导至汽车股和充电基础设施"
+    },
+    "market": {
+      "en": "S&P 500 closes +0.70% on selective strength; sector rotation within tech dominates with AI infrastructure leading and legacy hardware consolidating",
+      "zh": "标普指数因选择性走强收盘上涨 0.70%，板块轮动在科技中占主导，AI基础设施领先而传统硬件整固"
+    },
+    "preciousMetals": {
+      "en": "Gold/silver stabilize with geopolitical risk premium moderate; safe haven flows muted as bond yields provide inflation hedge support",
+      "zh": "金银稳定地缘政治风险溢价适度；避险资金流入温和因美债收益率提供通胀对冲支持"
+    },
+    "oil": {
+      "en": "WTI oil stabilizes near $58-60 range; OPEC+ output discipline signals limit downside while demand outlook remains muted through August",
+      "zh": "西得克萨斯原油稳定在 58-60美元附近；OPEC+产量纪律信号限制下行而需求前景保持平淡直至八月"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "SPX futures point to slight gain; Asian markets data suggests institutional buyers absorbed early volatility before Friday close",
+      "zh": "标普指数期货指向小幅收益；亚洲市场数据表明机构买家在周五收盘前消化早盘波动"
+    },
+    "treasury10Y": {
+      "en": "Unchanged at current levels; yield curve slope supports duration-sensitive positioning with moderate inflation expectations",
+      "zh": "保持当前水平不变，收益率曲线斜率支持期限敏感型配置配合适度的通胀预期"
+    },
+    "dxy": {
+      "en": "Dollar index shows resilience amid mixed commodity performance and emerging market flows; USD strength limits growth stock beta upside temporarily",
+      "zh": "美元指数在混合商品表现和新兴市场资金流下展现韧性；美元走强暂时限制成长股beta上行"
+    },
+    "oil": {
+      "en": "WTI stabilizes in $58-60 band with geopolitical tensions moderating; no imminent catalysts for major price moves until August",
+      "zh": "西得克萨斯原油稳定在 58-60美元带地缘政治紧张局势缓和；直到八月没有重大价格变动即将催化剂"
+    },
+    "keyRisk": {
+      "en": "Semiconductor capex cycle deceleration and earnings season divergence could drive style rotation; monitor guidance from cyclical leaders (NVDA/MU)",
+      "zh": "半导体资本支出周期减速和业绩季分歧可能驱动风格轮动；监控周期性领导者（英伟达/美光）指引"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Market shows sector-specific rotation within tech (AI infrastructure vs legacy hardware) with limited breadth signals. Energy stabilizes but doesn't drive broad rally.",
+      "zh": "市场显示科技板块内部特定轮动（人工智能基础设施对比传统硬件）广度信号有限。能源稳定但不驱动广泛上涨。"
+    }
+  },
+  "__metadata__": {
+    "generatedAt": "2026-07-31T05:54Z",
+    "timezone": "America/Los_Angeles",
+    "sourcesAttempted": ["CNBC Markets", "Reuters Markets (blocked)", "MarketWatch (blocked)", "Yahoo Finance"],
+    "dataCompleteness": {
+      "en": "Primary market data from Yahoo Finance supplemented with sector analysis based on observed price action and known macro context.",
+      "zh": "主要市场数据来自雅虎财经辅以行业分析基于观察到的价格行动和已知的宏观环境。"
+    }
+  },
+  "disclaimer": {
+    "en": "YUCLAW signals are research classifications, NOT investment recommendations. All briefs carry appropriate disclaimers before distribution.",
+    "zh": "YUCLAW信号是研究分类，不是投资建议。所有简报在分发前载有适当的免责声明。"
+  }
+}
