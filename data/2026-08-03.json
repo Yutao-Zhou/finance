@@ -1,0 +1,224 @@
+{
+  "date": "2026-08-03",
+  "summary": {
+    "en": "US stocks poised to open higher as three major index futures rise on Monday. Oil prices fell below $84 amid hopes for de-escalation in the Middle East following US-Iran diplomatic signals, while healthcare sector gained focus after Bristol Myers Squibb and AstraZeneca merger talks sparked a potential ~$400B deal that could reshape the global pharmaceutical landscape.",
+    "zh": "美股周一开盘料上涨，三大指数期货齐扬。受美伊外交缓和信号推动，油价跌破 84 美元；医疗保健板块因博姿与阿斯利康合并谈判而受到关注，双方可能达成价值约 4000 亿美元的交易，或重塑全球制药格局。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Wall Street Futures Rise on Middle East Truce Hopes; Healthcare Merger Talks Spark Interest",
+        "zh": "美指期货上涨押注中东停火；医疗保健合并谈判引发关注"
+      },
+      "impact": {
+        "en": "Market sentiment boosted by diplomatic de-escalation signals reducing oil supply risk premium. Simultaneously, potential BMY/AZN merger creates sector-wide healthcare repositioning theme that could drive stock flows away from growth toward defensive positions.",
+        "zh": "外交缓和信号降低油价供应风险溢价提振市场情绪。同时，潜在的博姿/阿斯利康合并创造医疗保健板块重组主题，或驱动资金从成长股转向防御性仓位。"
+      },
+      "bullish": [
+        "$SPY",
+        "$QQQ",
+        "$DIA",
+        "${HLA}"
+      ],
+      "bearish": [
+        "$OXY",
+        "$XLE"
+      ],
+      "macroRisk": {
+        "en": "NO - Geopolitical tension easing reduces crude supply fears. Energy sector faces downside pressure from falling WTI/Brent prices, though this is a transmission rather than systemic risk.",
+        "zh": "否 — 地缘政治紧张缓解降低原油供应担忧。能源股因 WTI/布油下跌而承压，但这属于传导风险而非系统性风险。"
+      }
+    },
+    {
+      "title": {
+        "en": "Gold Holds Above $4,060 Despite Mixed Middle East Headlines; Hawkish Fed Speeches Caution",
+        "zh": "金价在 4060 美元上方持稳；中东消息面混杂、美联储鹰派言论令人谨慎"
+      },
+      "impact": {
+        "en": "Gold benefits from risk premium but faces headwinds if US yields remain elevated. The $2-4% decline in oil supports real rates staying lower, providing some cushion for non-yielding precious metals as inflation expectations cool.",
+        "zh": "黄金受益风险溢价，但若美债收益率维持高位则面临逆风。油价下跌 2-4% 支撑实际利率保持低位，为无息贵金属提供缓冲，通胀预期降温亦有助金价。"
+      },
+      "bullish": [
+        "$GLD",
+        "$GC=F",
+        "${IAU}"
+      ],
+      "bearish": [],
+      "macroRisk": {
+        "en": "NO - Gold trading within normal range; oil price drop supports inflation cooling which is benign for real rates regime.",
+        "zh": "否 — 金价处于正常区间；油价下跌支撑通胀降温，对实际利率体制无害。"
+      }
+    },
+    {
+      "title": {
+        "en": "AI Sector Consolidation Continues; Micron Dips on Chinese Competitor Expansion News",
+        "zh": "AI 板块整固持续；美光因中国竞争对手扩张消息而下跌"
+      },
+      "impact": {
+        "en": "Semiconductor and memory chip sector faces near-term pressure as investors digest CXMT's potential second plant in Beijing. However, AI capex momentum remains intact post-Microsoft/Amazon earnings surges.",
+        "zh": "半导体和存储芯片板块面临短期压力，因投资者消化芯华迈在北京第二工厂及融资谈判消息。然而，英伟达/微软财报后 AI 资本开支动能依然完整。"
+      },
+      "bullish": [
+        "$NVDA",
+        "$AMD"
+      ],
+      "bearish": [
+        "${MCHP}",
+        "$MU"
+      ],
+      "macroRisk": {
+        "en": "NO - Sector-specific competitive dynamics, not systemic. Chinese capacity expansion may pressure margins but doesn't threaten AI growth narrative.",
+        "zh": "否 — 行业特定竞争格局，非系统性风险。中国产能扩张或挤压利润空间，但无损 AI 增长叙事。"
+      }
+    },
+    {
+      "title": {
+        "en": "Fed Rate Hike Probability at 64%; Kevin Warsh Meets for Reduced Guidance Frequency",
+        "zh": "加息概率升至 64%；沃什主张减少指引频率"
+      },
+      "impact": {
+        "en": "Market pricing in September rate increase suggests persistent underlying inflation pressures despite recent calm. Fed's potential move away from regular meeting guidance introduces policy uncertainty that could cause volatility across all asset classes.",
+        "zh": "市场对 9 月加息定价表明尽管近期平静，但通胀压力依然。美联储减少常规会议指引或引入政策不确定性，可能引发所有资产类别波动。"
+      },
+      "bullish": [
+        "$TGT",
+        "$MCD"
+      ],
+      "bearish": [],
+      "macroRisk": {
+        "en": "YES - Policy framework changes create uncertainty; reduced guidance frequency may increase rate volatility and impact duration-sensitive portfolios.",
+        "zh": "是 — 政策框架变化带来不确定性；减少指引频率可能增加利率波动并影响久期敏感组合。"
+      }
+    },
+    {
+      "title": {
+        "en": "SpaceX Prepares for First Quarterly Report Post-IPO; Investors Scrutinize AI Spending vs Starlink Profits",
+        "zh": " SpaceX 准备 IPO 后首个季度财报；投资者审视 AI 支出与星链利润"
+      },
+      "impact": {
+        "en": "Post-SPAC/ipo public company faces heightened scrutiny on capital allocation. Strong Starlink margins combined with strategic AI investments could justify premium valuation if delivery growth remains robust.",
+        "zh": "作为 SPAC 或 IPO 后的上市公司，资本配置将受到更高审视。强劲的星链利润加上战略性 AI 投资可在交付增长稳健情况下支撑溢价估值。"
+      },
+      "bullish": [
+        "$SPCE",
+        "$XLK"
+      ],
+      "bearish": [],
+      "macroRisk": {
+        "en": "NO - Company-specific event, not macro-driven. Market sentiment neutral to positive given SpaceX track record.",
+        "zh": "否 — 公司特定事件，非宏观驱动。鉴于 SpaceX 历史记录，市场情绪中性偏正。"
+      }
+    },
+    {
+      "title": {
+        "en": "Palantir Advances Ahead of Earnings; PLTR Among AI Names with Weekly Reports",
+        "zh": "Plater 在财报前上涨；PLTER 为本周披露的 AI 公司之一"
+      },
+      "impact": {
+        "en": "AI software play benefits from strong institutional demand and government contract visibility. Strong quarterly results could extend rally while disappointing guidance risks correction, especially if margins compress.",
+        "zh": "AI 软件受益强劲机构需求和政府合同可见度。强劲季度结果可延长涨势，但令人失望的指引或引发修正，尤其是当利润率压缩时。"
+      },
+      "bullish": [
+        "$PLTR",
+        "${AIG}"
+      ],
+      "bearish": [],
+      "macroRisk": {
+        "en": "NO - Earnings-driven theme, not macro. Geopolitical backdrop provides tailwinds for defense/AI intersection companies.",
+        "zh": "否 — 财报驱动主题，非宏观。地缘政治背景为国防/AI交叉公司提供顺风势。"
+      }
+    },
+    {
+      "title": {
+        "en": "Fed Watch Tool: September Rate Hike Odds at 64%; Investors Await Labor Data",
+        "zh": "联邦基金观察工具：9 月加息概率为 64%；投资者等待劳动数据"
+      },
+      "impact": {
+        "en": "CME FedWatch shows persistent inflation concerns despite calm headlines. Friday's NFP report will be critical as markets balance risk-on sentiment from Middle East truce hopes against sticky wage data that supports continued tightening.",
+        "zh": "CME 联邦基金观察显示尽管头条平静，但通胀担忧依然存在。周五的非农数据将至关重要，因市场在中东停火乐观与坚持的薪资支持继续收紧之间取得平衡。"
+      },
+      "bullish": [
+        "$TLT",
+        "${LQD}"
+      ],
+      "bearish": [],
+      "macroRisk": {
+        "en": "YES - Rate uncertainty creates volatility for long-duration bonds and rate-sensitive growth stocks.",
+        "zh": "是 — 利率不确定性造成长久期债券和利率敏感型成长股的波动。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector shows mixed performance post-Big Tech earnings. NVIDIA and AMD remain resilient despite broader consolidation, while memory chip names (Micron, Western Digital) face pressure from Chinese competitor CXMT's Beijing expansion plans. AI capex momentum intact with Palantir ($PLTR), Advanced Micro Devices reporting this week.",
+      "zh": "AI 板块在大科技财报后表现不一。尽管整体整固，NVIDIA/AMD 保持韧性，但存储芯片股（美光、西部数据）因中国竞争对手芯华迈在北京扩张计划而承压。AI 资本开支动能完整，本周 Palantir ($PLTR)、先进半导体披露业绩。"
+    },
+    "semiconductor": {
+      "en": "Semiconductors mixed. Strong from NVDA/AMD but memory sector weakens on Chinese competition news. $XRT (phoenix) and broader semiconductor equipment play could benefit from persistent AI demand despite margin compression risks in China-facing exposures.",
+      "zh": "半导体板块分化。NVDA/AMD 强劲，但存储芯片受中国竞争消息拖累。$XRE（凤凰）及更广泛的半导体设备主题可从持久 AI 需求受益，尽管中国敞口面临利润率压缩风险。"
+    },
+    "bigTech": {
+      "en": "Big Tech (Mag-7) split after earnings: MSFT +21.8%, AMZN +17% from strong cloud/AI demand offset by AAPL -7.3%, META -6.5%. Broader index futures suggest positive start with QQQQ leading gains amid risk-on sentiment.",
+      "zh": "大科技（巨头七）财报后分化：MSFT 涨+21.8%、AMZN 涨+17%，因强劲云/AI需求，抵消 AAPL -7.3%、META -6.5%。大盘期货暗示积极开端，QQQ领涨，市场风险偏好上升。"
+    },
+    "energy": {
+      "en": "Energy sector under significant pressure as Brent crude falls ~5.7% to $83.77/barrel following diplomatic signals from US-Iran talks reducing oil supply risk premium. XLE etf and major producers (OXY, CVX) face near-term headwinds unless OPEC+ production cuts deepen or geopolitical tensions resurface.",
+      "zh": "能源板块显著承压，布油受美伊会谈外交信号打压约 5.7%至$83.77/桶，降低油价供应风险溢价。XLE ETF及主要生产商（OXY、CVX）短期面临逆风，除非欧佩克+减产深化或地缘政治紧张重新浮现。"
+    },
+    "ev": {
+      "en": "EV sector neutral on this geopolitical backdrop. Traditional auto manufacturers and battery names not directly impacted by Middle East headlines, though oil price decline does support electric vehicle adoption narrative as ICE alternatives become cheaper fuel risk diminishes.",
+      "zh": "电动车板块在中东地缘政治背景下中性。传统车企和电池股未受中东头条直接冲击，但油价下跌支撑电动车采用叙事：随着内燃机替代燃料风险降低（石油变便宜），EV 渗透率应提升。"
+    },
+    "market": {
+      "en": "Broad market poised for higher open with Dow futures +329 points (+0.63%), S&P E-minis +36.75pts (+0.49%), Nasdaq 100 up 151 pts (+0.53%). Risk-on sentiment boosted by Middle East de-escalation but cautious as Friday earnings review continues and jobs data looms.",
+      "zh": "大盘料高开，Dow期货涨+329点（+0.63%），标普微盘 +36.75 点(+0.49%)，纳斯达克100上扬 151 点（+0.53%）。中东局势缓解提振风险偏好，但谨慎因周五财报审查持续且就业数据临近。"
+    },
+    "preciousMetals": {
+      "en": "Gold holds above $4,060 after opening higher on geopolitical calm but faces mixed headlines from Iran diplomacy. XAU/USD trades near $4,135 as Fed rate hike probability (64%) keeps real rates elevated; however, oil price decline supports inflation cooling which eases pressure on non-yielding safe havens.",
+      "zh": "金价在中东平静后于高开后持稳$4060上方，但伊朗外交消息混杂。XAU/USD在~$4135交易；联邦加息概率（64%）使实际利率维持高位，但油价下跌支持通胀降温，缓解无息避险压力。"
+    },
+    "oil": {
+      "en": "WTI/Brent declining amid US-Iran diplomatic progress signaling potential Hormuz Strait reopening. Brent @ $83.77/barrel (-5.7%), WTI likely near ~$76-80 range based on spread patterns. Oil price transmission affects inflation expectations, Treasury yields, and energy sector positioning significantly.",
+      "zh": "WTI/布油受美伊外交进展（暗示霍尔木兹海峡可能重开）而下跌。布油在~$83.77桶(-5.7%)，WTI 可能在 ~$76-80范围基于价差模式。油价传导显著影响通胀预期、国债收益率和能源仓位调整。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "Dow E-minis: +329 pts (+0.63%) ~52,920; S&P 500 E-minis: +36.75pts (+0.49%)~7,550; Nasdaq 100 E-minis: +151pts (+0.53%)~28,590",
+      "zh": "道指微盘：+329点（+0.63%）约$52,920；标普期货:+36.75 点(+0.49%) ~$7,550;纳指100: +151pts (+0.53%)~28,590"
+    },
+    "treasury10Y": {
+      "en": "~4.68% as of latest readings (July 30), with Treasury 2-year note @ 4.291%. Fed rate hike probability at 64%; hawkish speeches and sticky inflation expectations keep yield elevated.",
+      "zh": "~4.68%（截至最新读数，7月30日），国债2年期在$4.291。联邦加息概率为 64%，鹰派言论和粘性通胀预期使收益率维持高位。"
+    },
+    "dxy": {
+      "en": "DXY trading direction influenced by Fed rate comments and inflation expectations; Barkin speech scored modestly hawkish (6.2/10) signaling limited aggressive dollar repricing near term.",
+      "zh": "美元指数受美联储利率评论和通胀预期影响；伯钦讲话温和鹰派（评分 6.2/10），暗示短期内美元升值有限。"
+    },
+    "oil": {
+      "en": "Brent @ $83.77/barrel (-5.7%), WTI likely ~$79-80 given spread patterns, driven by de-escalation in Middle East from US-Iran talks.",
+      "zh": "布油在~$83.77/桶(-5.7%)，WTI 可能约 $79-80（基于价差模式），受美伊会谈中东局势缓解驱动。"
+    },
+    "keyRisk": {
+      "en": "Federal Reserve policy framework uncertainty: Kevin Warsh's proposed reduced guidance frequency creates volatility risk for duration-sensitive assets (bonds, growth). Additionally, Friday NFP data could reveal persistent labor/inflation pressures supporting further tightening despite geopolitical calm.",
+      "zh": "美联储政策框架不确定性：沃什提议减少指引频率造成久期敏感资产（债券、成长股）波动风险。此外，周五非农数据可能揭示持续劳工/通胀压力支持进一步收紧，尽管地缘政治平静。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中等"
+    },
+    "note": {
+      "en": "Markets showing risk-on from Middle East de-escalation but tempered by earnings review, inflation data expectations and policy uncertainty. Sector divergence (energy down vs AI/tech up) defines mixed sentiment regime.",
+      "zh": "市场因中东局势缓解而风险偏好上升，但受财报审查、通胀数据预期和政策不确定性制约。板块分化（能源下跌与 AI/科技上涨）定义混合情绪格局。"
+    }
+  },
+  "disclaimer": {
+    "en": "YUCLAW signals are research classifications, NOT investment recommendations. All briefs carry appropriate disclaimers before distribution.",
+    "zh": "裕克劳信号是研究分类，非投资建议。所有简报在分发前均包含适当免责声明。"
+  },
+  "generatedAt": "2026-08-03T13:05:00.000Z",
+  "timezone": "America/Los_Angeles"
+}
