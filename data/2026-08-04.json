@@ -1,0 +1,194 @@
+{
+  "date": "2026-08-04",
+  "summary": {
+    "en": "Premarket tone is decisively risk-on: index futures are sharply higher after WTI collapsed more than 7%, easing the inflation and rate scare that has been hanging over equities. The main caution is that the 10Y yield is still grinding up to 4.66%, so the rally favors high-quality growth and other duration-sensitive winners only if rates stay contained.",
+    "zh": "盘前情绪明显偏风险偏好：在 WTI 重挫逾 7% 后，三大指数期货齐涨，通胀和利率冲击得到缓解。需要留意的是，10Y 美债收益率仍上行至 4.66%，因此本轮反弹更偏向高质量成长和久期资产，前提是利率别继续失控。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Oil Sinks More Than 7% as Iran De-escalation Hopes Reprice the Tape",
+        "zh": "伊朗局势缓和预期压低油价，原油跌幅超 7%"
+      },
+      "impact": {
+        "en": "The biggest macro transmission today is oil to inflation expectations to Treasury yields. Cheaper crude supports airlines, transports, consumer discretionary and broad equity multiples, while removing a fresh tailwind from energy producers.",
+        "zh": "今天最关键的宏观传导链是“油价下跌 -> 通胀预期回落 -> 美债收益率压力缓解”。原油走弱利好航空、运输、可选消费和整体估值，但会削弱能源板块的顺风。"
+      },
+      "bullish": [
+        "$SPY",
+        "$QQQ",
+        "$JETS",
+        "$XLY"
+      ],
+      "bearish": [
+        "$XLE",
+        "$XOP",
+        "$USO"
+      ],
+      "macroRisk": {
+        "en": "Yes - a headline reversal in Middle East talks could snap crude back higher and quickly reprice inflation and rates.",
+        "zh": "是 - 若中东谈判出现反转，原油可能迅速反弹，并重新定价通胀与利率。"
+      }
+    },
+    {
+      "title": {
+        "en": "Onsemi Sees Strong AI Data-Center Chip Demand",
+        "zh": "Onsemi 上调 AI 数据中心需求展望"
+      },
+      "impact": {
+        "en": "An upbeat revenue outlook reinforces the AI capex trade, especially analog, power and networking exposure tied to data-center buildouts. It is constructive for semiconductors even though the 10Y yield moving higher can still make valuation-sensitive names choppy.",
+        "zh": "乐观的营收指引继续强化 AI 资本开支主线，尤其利好与数据中心建设相关的模拟、功率和网络类半导体。对半导体整体偏正面，但 10Y 收益率抬升仍会让高估值个股波动偏大。"
+      },
+      "bullish": [
+        "$ON",
+        "$NVDA",
+        "$AMD",
+        "$SMH"
+      ],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - this is a sector-specific read-through that supports the AI investment narrative.",
+        "zh": "否 - 这是偏行业层面的正面信号，主要强化 AI 投资叙事。"
+      }
+    },
+    {
+      "title": {
+        "en": "U.S. Dollar Weakens Against the Yen After Intervention Headlines",
+        "zh": "日元干预消息压低美元、推高外汇波动"
+      },
+      "impact": {
+        "en": "A softer dollar can help multinationals and commodities at the margin, but the bigger takeaway is cross-asset volatility from policy-driven FX moves. That matters for global risk appetite and can spill into Treasury trading if the market keeps leaning on intervention headlines.",
+        "zh": "美元走弱对跨国公司和大宗商品有边际利好，但更重要的是政策驱动型外汇波动会抬高跨资产不确定性。它会影响全球风险偏好，也可能通过资金流动传导到美债交易。"
+      },
+      "bullish": [
+        "$AAPL",
+        "$MSFT",
+        "$EEM",
+        "$EWJ"
+      ],
+      "bearish": [
+        "$UUP",
+        "$TLT"
+      ],
+      "macroRisk": {
+        "en": "Yes - abrupt FX policy moves can ripple into global risk assets and bond markets.",
+        "zh": "是 - 突发性的汇率政策动作可能向全球风险资产和债市扩散。"
+      }
+    },
+    {
+      "title": {
+        "en": "Inflation Worries Stay Elevated and Keep Fed Pressure Alive",
+        "zh": "通胀担忧仍高企，联储压力继续存在"
+      },
+      "impact": {
+        "en": "Sticky inflation readings help explain why the 10Y is still near 4.66% even as crude falls. That keeps duration-sensitive assets from fully participating and narrows leadership toward profitable megacap growth and financials.",
+        "zh": "粘性通胀数据解释了为何在油价下跌的同时，10Y 收益率仍接近 4.66%。这会限制久期资产的弹性，并让领先板块更集中在盈利能力强的大盘成长股和金融股。"
+      },
+      "bullish": [
+        "$XLF",
+        "$JPM",
+        "$KRE"
+      ],
+      "bearish": [
+        "$TLT",
+        "$ARKK",
+        "$IWM"
+      ],
+      "macroRisk": {
+        "en": "Yes - if yields keep climbing, the broad rally can narrow and pressure rate-sensitive assets.",
+        "zh": "是 - 如果收益率继续上行，本轮反弹可能收窄，并继续压制利率敏感资产。"
+      }
+    },
+    {
+      "title": {
+        "en": "McDonald’s Revenue Miss Suggests the Consumer Is Still Selective",
+        "zh": "麦当劳营收不及预期，说明消费仍偏挑剔"
+      },
+      "impact": {
+        "en": "A softer quick-service read suggests households are still trading value and scrutinizing traffic, which matters for broader consumer-spend assumptions. It is not systemic by itself, but it keeps the lower-income demand backdrop cautious.",
+        "zh": "快餐龙头的收入不及预期，说明家庭端仍在精打细算、对客流和价格更敏感，这会影响对整体消费支出的判断。单独看不算系统性风险，但低收入消费环境仍偏谨慎。"
+      },
+      "bullish": [
+        "$WMT",
+        "$COST",
+        "$YUM"
+      ],
+      "bearish": [
+        "$MCD",
+        "$SBUX",
+        "$XLY"
+      ],
+      "macroRisk": {
+        "en": "No - this is mainly a consumer-pocketbook read-through unless it starts spreading across the retail complex.",
+        "zh": "否 - 这更多是消费分层的读数，除非扩散到整个零售链条，否则不算宏观风险。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI remains the leadership lane; Onsemi's upbeat data-center guide reinforces capex demand, but the market will still reward clear hyperscaler order visibility over generic AI exposure.",
+      "zh": "AI 依然是领涨主线；Onsemi 对数据中心需求的乐观指引继续强化资本开支逻辑，但市场仍更偏爱有明确超大规模客户订单能见度的标的，而非泛化的 AI 概念。"
+    },
+    "semiconductor": {
+      "en": "Semis should open stronger with AI-linked analog, power and networking names supported, yet the higher 10Y keeps valuation-sensitive names from running too far without earnings confirmation.",
+      "zh": "半导体大概率高开，AI 相关的模拟、功率和网络股会更受益，但 10Y 上行会限制估值敏感股的延伸空间，仍需财报确认。"
+    },
+    "bigTech": {
+      "en": "Big Tech gets the cleanest help from lower oil and lower volatility, but the 10Y at 4.66% argues for balance-sheet strength and earnings durability rather than a blanket multiple expansion.",
+      "zh": "大科技板块最直接受益于油价下跌和波动率回落，但 10Y 仍在 4.66%，这意味着市场更会奖励资产负债表稳健、盈利持续性强的公司，而不是无差别的估值扩张。"
+    },
+    "energy": {
+      "en": "Energy is the clear laggard as the geopolitical risk premium drains from crude; integrated majors should hold up better than E&Ps, but near-term flow is negative.",
+      "zh": "能源板块是今天最明确的落后者，地缘政治风险溢价从原油里被迅速挤出；综合油企通常会比上游勘探生产商更抗跌，但短线资金流向仍偏负面。"
+    },
+    "ev": {
+      "en": "EV names get an indirect tailwind from cheaper oil and softer inflation expectations, but this is mostly a valuation relief trade rather than a demand inflection.",
+      "zh": "电动车板块会间接受益于油价下跌和通胀预期回落，但更像是估值修复交易，而不是基本面需求真正拐点。"
+    },
+    "market": {
+      "en": "Broad market tone is risk-on: futures are sharply higher and volatility is lower, but breadth still needs confirmation after the open if yields keep edging up.",
+      "zh": "大盘基调偏风险偏好：期货显著走强、波动率回落，但如果收益率继续抬升，开盘后仍需要观察市场宽度能否跟上。"
+    },
+    "preciousMetals": {
+      "en": "Gold is bid even in a risk-on tape, which suggests residual hedge demand from geopolitics and FX moves; further yield gains could cap the upside.",
+      "zh": "即便在风险偏好回升的背景下，黄金仍有买盘，说明市场对地缘政治和外汇波动仍保留一定对冲需求；但如果收益率继续上行，黄金上方空间可能受限。"
+    },
+    "oil": {
+      "en": "Oil is the main shock absorber today, down roughly 7% as diplomacy headlines unwind the supply-risk premium; that is bullish for airlines, transports and consumers, bearish for energy.",
+      "zh": "今天原油是最关键的缓冲器，受外交缓和预期影响大跌约 7%，供应风险溢价被快速拆除；这对航空、运输和消费者是利好，对能源板块则是利空。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "ES +2.41%, NQ +3.40% and YM +3.06% premarket; the Nasdaq is leading and VIX has dropped to 15.61, pointing to a clear risk-on open.",
+      "zh": "标普期货 +2.41%、纳指期货 +3.40%、道指期货 +3.06%；纳指领涨、VIX 已跌至 15.61，指向明显的风险偏好开盘。"
+    },
+    "treasury10Y": {
+      "en": "The 10Y yield is at 4.66%, up about 4 bp from the prior read. That is still high enough to keep pressure on long-duration growth if rates keep grinding higher.",
+      "zh": "10Y 美债收益率在 4.66%，较前值上行约 4 个基点。这个水平仍足以继续压制久期较长的成长股，只要收益率继续上行。"
+    },
+    "dxy": {
+      "en": "DXY is at 99.92, slightly lower on the day. A softer dollar helps multinationals and supports commodity-linked risk assets at the margin.",
+      "zh": "DXY 在 99.92，日内略有回落。美元走软对跨国公司有帮助，也会边际支撑商品相关风险资产。"
+    },
+    "oil": {
+      "en": "WTI is at $77.53, down 7.25%. The collapse in the crude risk premium is the main reason inflation worries are cooling before the open.",
+      "zh": "WTI 报 77.53 美元/桶，跌幅 7.25%。原油风险溢价的坍塌，是盘前通胀担忧降温的主要原因。"
+    },
+    "keyRisk": {
+      "en": "Watch Middle East headline risk and whether the 10Y yield keeps moving up despite cheaper oil; that decides whether today's rally stays broad or turns into a narrow growth trade.",
+      "zh": "重点盯住中东头条风险，以及油价下跌之下 10Y 收益率是否仍继续上行；这将决定今天的反弹是维持全面扩散，还是收窄成少数成长股行情。"
+    }
+  },
+  "judgment": {
+    "type": "risk-on",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Oil's collapse and the lower VIX point to a risk-on open, but the 10Y yield near 4.66% keeps the rally rate-sensitive and headline-dependent.",
+      "zh": "油价大跌和 VIX 回落共同指向风险偏好开盘，但 10Y 接近 4.66% 让这轮反弹仍然对利率和头条消息高度敏感。"
+    }
+  }
+}
