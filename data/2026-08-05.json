@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-05",
+  "summary": {
+    "en": "Premarket tone is modestly risk-on: index futures are higher on Hormuz de-escalation hopes, softer labor data, and a revived AI trade. The caution is that the 10Y yield is still near 4.66% and gold is also bid, so the open looks supported but still headline-sensitive and rate-sensitive.",
+    "zh": "盘前基调偏风险偏好：市场在霍尔木兹局势缓和预期、偏弱就业数据和 AI 交易回暖的推动下高开。需要警惕的是，10Y 美债收益率仍接近 4.66%，黄金也同步走强，因此这更像是一个有支撑但仍对头条和利率高度敏感的开盘。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Hormuz De-escalation Hopes Lift Futures and Ease the Oil Shock",
+        "zh": "霍尔木兹缓和预期推高股指期货，并压低原油冲击"
+      },
+      "impact": {
+        "en": "A lower geopolitical risk premium is the cleanest macro tailwind this morning. If crude stays contained, it helps airlines, transports, consumer discretionary and valuation multiples, while removing some urgency from energy leadership.",
+        "zh": "地缘风险溢价回落，是今早最直接的宏观利好。如果原油能保持受控，它会利好航空、运输、可选消费和整体估值倍数，同时削弱能源板块的相对优势。"
+      },
+      "bullish": [
+        "$SPY",
+        "$QQQ",
+        "$JETS",
+        "$XLY"
+      ],
+      "bearish": [
+        "$XLE",
+        "$XOP",
+        "$USO"
+      ],
+      "macroRisk": {
+        "en": "Yes - if the diplomacy headlines reverse, crude can jump back quickly and reprice inflation expectations and Treasury yields.",
+        "zh": "是 - 一旦外交缓和的消息反转，原油可能迅速反弹，并重新定价通胀预期与美债收益率。"
+      }
+    },
+    {
+      "title": {
+        "en": "ADP's Softer Private Payroll Readout Bolsters Rate-Cut Bets",
+        "zh": "ADP 私营就业放缓，进一步强化降息押注"
+      },
+      "impact": {
+        "en": "Slower hiring gives the Fed more room to cut, which is supportive for duration assets and high-quality growth. The flip side is that if the labor slowdown broadens into a growth scare, cyclicals and financials can lose momentum fast.",
+        "zh": "招聘放缓给联储留下更多降息空间，这对久期资产和高质量成长股是利好。反面则是，如果劳动力放缓扩散成增长担忧，周期股和金融股可能很快失去动能。"
+      },
+      "bullish": [
+        "$TLT",
+        "$QQQ",
+        "$IWM"
+      ],
+      "bearish": [
+        "$XLF",
+        "$XLI",
+        "$UUP"
+      ],
+      "macroRisk": {
+        "en": "Yes - a sharper slowdown narrative can flip from rate-cut friendly to recession-fear negative in one session.",
+        "zh": "是 - 更明显的放缓叙事，可能在一个交易日内从“利好降息”切换成“衰退担忧”负面。"
+      }
+    },
+    {
+      "title": {
+        "en": "The AI Trade Reclaims Leadership as Indexes Push Back Toward Records",
+        "zh": "AI 交易重新夺回主线，指数继续逼近纪录高位"
+      },
+      "impact": {
+        "en": "The market is still rewarding the AI capex story and mega-cap earnings durability. That supports semis and large-cap tech, but the leadership is concentrated enough that any rate spike or earnings miss can cause a fast rotation.",
+        "zh": "市场仍在奖励 AI 资本开支叙事与大盘科技的盈利韧性。这对半导体和大科技有支撑，但领涨过于集中，只要利率上冲或财报失误，就可能触发快速轮动。"
+      },
+      "bullish": [
+        "$NVDA",
+        "$MSFT",
+        "$AVGO",
+        "$SMH"
+      ],
+      "bearish": [
+        "$AMD",
+        "$SOXX"
+      ],
+      "macroRisk": {
+        "en": "No - this is a leadership signal more than a macro stress point, unless yields or earnings start to break the trade.",
+        "zh": "否 - 这更多是领涨信号而不是宏观压力点，除非收益率或财报开始破坏这条交易链条。"
+      }
+    },
+    {
+      "title": {
+        "en": "AMD's Weak Earnings Reaction Highlights How Selective Tech Leadership Has Become",
+        "zh": "AMD 财报反应偏弱，凸显科技股领涨正在变得更挑剔"
+      },
+      "impact": {
+        "en": "The message is not that AI is over, but that the market wants stronger proof of monetization and capex payback. That is constructive for the best-in-class names, but it raises the bar for the rest of the semiconductor complex.",
+        "zh": "这并不是说 AI 逻辑结束了，而是市场要求更强的变现能力和资本开支回报证明。这对最强的龙头有利，但也抬高了整个半导体板块的门槛。"
+      },
+      "bullish": [
+        "$NVDA",
+        "$AVGO",
+        "$MSFT"
+      ],
+      "bearish": [
+        "$AMD",
+        "$SMH",
+        "$QQQ"
+      ],
+      "macroRisk": {
+        "en": "Yes - disappointment can spread from one issuer into the broader AI/semis valuation stack if rates stay high.",
+        "zh": "是 - 如果利率维持高位，单一公司的失望反应可能扩散到整个 AI / 半导体估值链条。"
+      }
+    },
+    {
+      "title": {
+        "en": "Disney, Lilly and CVS Extend the Earnings-Driven Breadth in Stocks",
+        "zh": "迪士尼、礼来和 CVS 延续了财报驱动的广度修复"
+      },
+      "impact": {
+        "en": "Broad earnings beats help the rally look healthier than a pure megacap squeeze. It also matters for sector rotation: profitable healthcare and consumer names can still work even when the market is debating rates and geopolitics.",
+        "zh": "广泛的财报超预期，让这轮上涨看起来比单纯的大盘科技挤压更健康。它对板块轮动也很重要：即使市场还在讨论利率和地缘政治，具备盈利能力的医疗和消费股仍然能走强。"
+      },
+      "bullish": [
+        "$DIS",
+        "$LLY",
+        "$CVS"
+      ],
+      "bearish": [
+        "$MCD",
+        "$SBUX"
+      ],
+      "macroRisk": {
+        "en": "No - this is mainly a single-stock and sector-breadth positive unless it starts changing the macro growth narrative.",
+        "zh": "否 - 这主要是个股和板块广度层面的正面信号，除非它开始改变宏观增长叙事。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI is back to being the market's preferred growth lane. The tape still rewards data-center capex exposure, but the trade is crowded and vulnerable if rates move up again.",
+      "zh": "AI 再次成为市场最偏爱的成长主线。资金仍在奖励数据中心资本开支链条，但这个交易已经比较拥挤，只要利率再次上行就容易受压。"
+    },
+    "semiconductor": {
+      "en": "Semis remain constructive but selective. AI-linked leaders can outperform, while weaker reactions to earnings remind the market that not every chip name deserves the same multiple.",
+      "zh": "半导体依然偏多，但更挑剔。AI 相关龙头仍有超额收益空间，不过财报后的弱反应提醒市场，不是每一家芯片公司都该享受同样的估值。"
+    },
+    "bigTech": {
+      "en": "Big Tech still anchors the rally, helped by lower oil and a softer dollar. Even so, the 10Y near 4.66% argues for balance-sheet quality and earnings durability rather than blanket multiple expansion.",
+      "zh": "大科技仍是行情锚点，受益于油价回落和美元走软。不过 10Y 接近 4.66%，意味着市场更偏好资产负债表稳健和盈利韧性强的公司，而不是无差别的估值扩张。"
+    },
+    "energy": {
+      "en": "Energy is less compelling if Hormuz de-escalation holds. Crude is still elevated, but the sector loses urgency when the supply-risk premium comes out of the tape.",
+      "zh": "如果霍尔木兹缓和真的延续，能源板块的吸引力会下降。原油虽仍处于高位，但一旦供应风险溢价从盘面中退去，能源板块的紧迫性就会减弱。"
+    },
+    "ev": {
+      "en": "EV names get a relative tailwind from still-elevated fuel costs and a softer dollar, but high rates remain the main valuation brake. This is more of a relief trade than a demand inflection.",
+      "zh": "电动车板块会从仍然偏高的燃油成本和较弱的美元中获得相对利好，但高利率依旧是估值的主要压力。这更像是估值修复，而不是需求真正拐点。"
+    },
+    "market": {
+      "en": "The broad market setup is risk-on at the open, but breadth still needs confirmation after the bell. If yields keep grinding higher, the rally can narrow quickly.",
+      "zh": "大盘开局偏风险偏好，但广度还需要开盘后确认。如果收益率继续缓慢上行，这轮反弹很快就可能收窄。"
+    },
+    "preciousMetals": {
+      "en": "Gold is bid hard around $4,255, which tells you the market still wants a hedge even with equities green. That usually means investors are not fully convinced the macro risk has gone away.",
+      "zh": "黄金在约 4,255 美元附近强势买盘，说明即便股市走强，市场仍然需要对冲。这通常意味着投资者并不完全相信宏观风险已经消失。"
+    },
+    "oil": {
+      "en": "WTI around $76.22 is no longer screaming higher, but it is still high enough to keep inflation expectations relevant. The key question is whether the risk premium keeps bleeding lower or stabilizes here.",
+      "zh": "WTI 在 76.22 美元附近，虽然不再暴冲，但仍足以让通胀预期保持相关性。关键在于风险溢价是继续回吐，还是在这里企稳。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "ES 7,802.75 (+0.48%), NQ 29,941.75 (+0.26%) and YM 54,486.00 (+0.40%); the open is positive, though Nasdaq is lagging slightly and VIX is still around 16.84.",
+      "zh": "ES 7,802.75（+0.48%）、NQ 29,941.75（+0.26%）、YM 54,486.00（+0.40%）；开盘偏多，但纳指涨幅略落后，VIX 仍在约 16.84。"
+    },
+    "treasury10Y": {
+      "en": "The 10Y yield is 4.663%, still high enough to cap long-duration multiple expansion if it keeps grinding up.",
+      "zh": "10Y 美债收益率为 4.663%，如果继续缓慢上行，依然足以压制长久期资产的估值扩张。"
+    },
+    "dxy": {
+      "en": "DXY is 99.83, slightly softer on the session. That is a small tailwind for multinationals and commodities.",
+      "zh": "DXY 为 99.83，日内略有走软。这对跨国公司和大宗商品构成轻微利好。"
+    },
+    "oil": {
+      "en": "WTI is $76.22, up 0.59% from the prior close. The market is pricing less tail risk than before, but not a full unwind of geopolitical caution.",
+      "zh": "WTI 报 76.22 美元，较前收涨 0.59%。市场已经比之前少定价了一些尾部风险，但并没有完全解除地缘政治谨慎。"
+    },
+    "keyRisk": {
+      "en": "The two risks to watch are whether Hormuz de-escalation headlines survive the open and whether the 10Y yield can stay near 4.66% without tightening the equity discount rate.",
+      "zh": "需要重点观察两件事：霍尔木兹缓和的消息能否在开盘后继续成立，以及 10Y 是否会在 4.66% 附近继续抬升，从而重新收紧股票折现率。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Risk-on futures and a softer dollar support the open, but strong gold, firm crude and a 4.66% 10Y make this a hedged, headline-driven tape rather than a clean macro green light.",
+      "zh": "期货走强和美元走软支持高开，但黄金强势、原油坚挺以及 10Y 接近 4.66% 说明这仍是一个需要对冲、由头条驱动的盘面，而不是干净利落的宏观绿灯。"
+    }
+  }
+}
