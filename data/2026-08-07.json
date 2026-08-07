@@ -1,0 +1,188 @@
+{
+  "date": "2026-08-07",
+  "summary": {
+    "en": "Markets showed mixed sentiment ahead of Friday's close as investors balanced geopolitical tensions in the Middle East against solid U.S. productivity and labor cost data, with oil prices surging on Iran Strait concerns while Treasury yields rose modestly.",
+    "zh": "市场在周五收盘前表现分化，投资者在中东地缘政治紧张与扎实的美国生产力和劳动力成本数据之间权衡。油价因伊朗海峡问题飙升，同时美债收益率小幅上升。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Oil prices surge 3% on Iran Strait tensions despite ongoing talks",
+        "zh": "尽管持续进行谈判，油价仍因伊朗海峡紧张局势飙升 3%"
+      },
+      "impact": {
+        "en": "Geopolitical risk premium continues to support oil above $75/bbl, with WTI at ~$77.29 and Brent at ~$82.48 after Iran's parliament reviewed restrictive Hormuz shipping plan",
+        "zh": "地缘政治风险溢价继续支撑油价高于 75 美元/桶，WTI 约在 77.29 美元附近交易，布伦特原油在伊朗议会审查限制霍尔木兹海峡航运计划后升至约 82.48 美元"
+      },
+      "bullish": ["XLE", "OXY", "COP"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Yes - Higher oil → inflation re-anchoring risk → potential Fed tightening expectations (though productivity offsetting partially)",
+        "zh": "是 - 油价上升→通胀重锚风险增加→可能引发美联储紧缩预期（尽管生产力增长部分对冲）"
+      }
+    },
+    {
+      "title": {
+        "en": "Memory chip stocks lead market decline: Western Digital down 13%, Sandisk -6% on earnings misses",
+        "zh": "内存芯片股主导市场下跌：西部数据跌 13%，闪迪因财报不及预期暴跌"
+      },
+      "impact": {
+        "en": "Strong Q4 results followed by disappointing guidance hurt memory names; sector rotation out of semi-storage into broader AI infrastructure stocks. Concerns about pricing power in cyclically down market cycle.",
+        "zh": "强劲的第四季度业绩之后指导预期令人失望打击了内存股；资金从半导体存储转向更广泛的 AI 基础设施股票。担忧在周期性下行市场中定价能力不足的问题"
+      },
+      "bullish": [],
+      "bearish": ["WDC", "SAND", "SMCI"],
+      "macroRisk": {
+        "en": "No direct macro risk - sector-specific guidance concerns amid cyclical headwinds. Memory pricing weakness suggests broader semiconductor cycle downturn.",
+        "zh": "无直接宏观风险——周期性顺风中行业特定指导担忧。内存定价疲软表明更广泛的半导体周期下行"
+      }
+    },
+    {
+      "title": {
+        "en": "10-Year Treasury yield rises to 4.66% amid oil-driven inflation concerns",
+        "zh": "十年期美债收益率升至 4.66%，担忧油价驱动的通胀问题"
+      },
+      "impact": {
+        "en": "Treasury yields moved higher as bond markets priced in both the oil shock (TLT -0.6%) and solid U.S. productivity data, creating a complex risk-reward environment for growth stocks",
+        "zh": "随着债券市场对油价冲击（TLT 跌 0.6%）和美国扎实的生产力数据进行定价，美债收益率上升，为成长股创造了复杂的风险回报环境"
+      },
+      "bullish": ["XLRE"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Yes - Treasury yield rise impacts rate-sensitive sectors; disinflation via productivity rather than demand destruction preferred by markets",
+        "zh": "是——美债收益率上升影响利率敏感型行业；市场偏好通过生产力而非需求破坏来实现通缩"
+      }
+    },
+    {
+      "title": {
+        "en": "S&P 500 closes down 20 pts (0.18%), Nasdaq -6 points, Dow loses 464 points as Mag7 underperforms",
+        "zh": "标普 500 下跌 20 点（-0.18%），纳斯达克跌 6 个点，道指损失 464 点，七大巨头表现不佳"
+      },
+      "impact": {
+        "en": "Broad market weakness driven by oil-related inflation fears and earnings disappointments in large caps; Mag7 rally muted despite AI optimism as sector breadth concerns emerge",
+        "zh": "市场整体疲软由油价相关通胀担忧和大型股业绩失望驱动；尽管对 AI 乐观，但由于行业广度问题，七大巨头反弹势头有限"
+      },
+      "bullish": [],
+      "bearish": ["XLF", "XLK"],
+      "macroRisk": {
+        "en": "Moderate - Market repricing risk premium with breadth deterioration signals cautious sentiment amid geopolitical noise. Flight-to-quality not yet triggered.",
+        "zh": "中等——市场正在重新定价风险溢价，广度恶化显示地缘政治噪音下的谨慎情绪。避险质量尚未触发"
+      }
+    },
+    {
+      "title": {
+        "en": "Salesforce leadership shuffle impacts Dow, shares drop 3%",
+        "zh": "Salesforce 高层变动影响道指，股价下跌 3%"
+      },
+      "impact": {
+        "en": "Corporate governance concerns and execution uncertainty under pressure; CRM represents significant weight in major indices making volatility meaningful for market breadth",
+        "zh": "公司治理问题和执行力不确定性承受压力；CRM 在主要指数中占很大权重，因此波动性对市场广度有意义"
+      },
+      "bullish": [],
+      "bearish": ["CRM"],
+      "macroRisk": {
+        "en": "No - Company-specific event rather than macro-driven. Salesforce earnings mix impacted by AI investment cycle.",
+        "zh": "否——公司特定事件而非宏观驱动。Salesforce 业绩受到 AI 投资周期的影响"
+      }
+    },
+    {
+      "title": {
+        "en": "Unit labor costs fall sharply, productivity surges - potential AI-driven disinflation trend emerges",
+        "zh": "单位劳动力成本大幅下降，生产力大幅上升——可能出现了 AI 驱动的通缩趋势"
+      },
+      "impact": {
+        "en": "Positive long-term data despite market noise; if AI efficiencies are showing in unit labor costs, this validates a secular growth path without inflation. Market fixated on oil override signal.",
+        "zh": "尽管有市场噪音，长期数据是积极的；如果单位劳动力成本中显示了 AI 效率的提升，这证实了在不引发通胀的世俗增长路径。市场专注于油价覆盖信号"
+      },
+      "bullish": ["XLC"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Low - Fundamental data supports healthy disinflation, but market reaction to oil overrides fundamentals in short term. Long-term trend could benefit growth stocks if AI thesis validated.",
+        "zh": "低——基本数据支持健康的通缩，但市场对油价的反应短期覆盖基本面。如果验证了 AI 理论，长期趋势可能受益于成长股"
+      }
+    },
+    {
+      "title": {
+        "en": "DXY dollar strength amid Middle East uncertainty",
+        "zh": "中东不确定性下的美元走强"
+      },
+      "impact": {
+        "en": "Risk-off dynamics in emerging markets supporting dollar; higher yields and oil volatility create flight-to-safety flows into USD. Dollar weakness typically benefits multinationals, current strength constraining export demand.",
+        "zh": "新兴市场风险厌恶动态支持美元；较高收益率和油价波动创造流向美元的避险资金。美元疲软通常有利于跨国企业，当前强度抑制出口需求"
+      },
+      "bullish": [],
+      "bearish": ["XLU"],
+      "macroRisk": {
+        "en": "Moderate - Strong dollar creates headwinds for multinational earnings and commodity exporters. Multinational revenue hedging reduces but doesn't eliminate impact.",
+        "zh": "中等——强势美元为跨国企业收益和商品出口商带来逆风。对冲国际收入减轻了影响，但并未完全消除"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Mixed signals: AI infrastructure stocks showing strength but Mag7 underperforming on earnings mix. Productivity data suggests AI is already impacting unit costs, validating thesis long-term though short term noise persists.",
+      "zh": "信号混合：AI 基础设施股票表现强劲，但七大巨头因业绩组合欠佳而表现疲软。生产力数据表明 AI 已经在影响单位成本，长期验证了理论，尽管短期噪音仍然存在"
+    },
+    "semiconductor": {
+      "en": "Divergent: Storage names (WDC -13%, SAND -6%) weak on cyclical concerns, but broader semi hardware resilient. Memory cycle downturn vs compute strength creating sector divergence.",
+      "zh": "分化：存储股（西部数据-13%，闪迪-6%）因周期担忧走弱，但更广泛的半导体硬件表现稳健。内存周期下行与计算能力强劲造成行业分歧"
+    },
+    "bigTech": {
+      "en": "Rotation in progress: Salesforce weakness dragging indices, AI investing concerns emerging. Market questioning ROI timeline as unit labor costs data validates productivity gains without recession risk.",
+      "zh": "正在进行轮动：Salesforce 疲软拖累指数，出现投资担忧。市场质疑 ROI 时间表，单位劳动力成本数据验证生产力增长而无衰退风险"
+    },
+    "energy": {
+      "en": "Strong performer: Energy sector up +1.5% as geopolitical tensions sustain risk premium in oil, especially with Strait of Hormuz threats. OXY and upstream names outperform despite Iran talks progress.",
+      "zh": "表现强劲：随着地缘政治紧张维持油价风险溢价，能源板块上涨 1.5%，特别是霍尔木兹海峡威胁。尽管伊朗谈判进展，OXY 和上游股票优于大盘"
+    },
+    "ev": {
+      "en": "Under pressure: Higher oil prices and potential rate sensitivity from Fed policy increase cost concerns for EV adoption, though underlying demand remains solid despite macro headwinds.",
+      "zh": "承受压力：油价上涨和潜在利率敏感度（美联储政策）增加电动车采用成本担忧，尽管基本需求保持稳健"
+    },
+    "market": {
+      "en": "Mixed with breadth concerns: Only 3 of 11 S&P sectors advanced (Energy +1.5%, Healthcare +0.2%, Communications +0.3%). Basic materials, industrials leading declines at -0.9%. Market cautious ahead of Friday close.",
+      "zh": "表现分化，广度担忧：标普五个板块中仅三个上涨（能源+1.5%，医疗保健+0.2%，通信+0.3%）。基础材料、工业股领跌-0.9%"
+    },
+    "preciousMetals": {
+      "en": "Safe haven flows limited as VIXY down 1.2%, suggesting geopolitical anxiety easing. Gold prices stable but without strong rally catalyst from oil shock alone - need additional USD weakness or central bank buying.",
+      "zh": "避险资金流动有限，VIXY 下跌 1.2%，表明地缘政治焦虑缓解。金价稳定但仅靠油价冲击没有强有力的反弹催化剂——需要美元疲软或央行购买"
+    },
+    "oil": {
+      "en": "WTI ~$77.30 (+3%), Brent ~$82.50 (+4%) trading at elevated geopolitical premium despite potential deal nearness with Oman/Iran. Supply disruptions in Middle East continue to be priced in by market.",
+      "zh": "WTI 约在 77.30 美元（+3%），布伦特约 82.50 美元（+4%）以较高的地缘政治溢价交易，尽管与阿曼/伊朗的协议即将达成。中东供应中断继续被市场定价"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P, Nasdaq futures neutral to slightly negative following Friday close. Japan/Korea markets cautious on Middle East headlines and memory chip earnings disappointments.",
+      "zh": "标普、纳斯达克期货在周五收盘后中性到略微负面。日本/韩国市场对中东海湾头条和内存芯片业绩失望保持谨慎"
+    },
+    "treasury10Y": {
+      "en": "~4.66% up 5 bps on oil shock and solid productivity data creating mixed yield environment for growth positioning",
+      "zh": "约在 4.66%，油价冲击和扎实生产力数据造成混合收益率环境对成长配置产生影响"
+    },
+    "dxy": {
+      "en": "Slightly higher amid Middle East uncertainty, emerging market capital flight supporting strength but constrained by US Treasury inflows",
+      "zh": "中东不确定性下小幅走强，新兴市场资本流出支持美元强度但受美国国债流入约束"
+    },
+    "oil": {
+      "en": "$77.29 WTI / $82.48 Brent with elevated risk premium from Iran Strait tensions despite diplomacy progress",
+      "zh": "WTI 在 77.29 美元/布伦特原油在 82.48 美元，尽管外交进展仍存在伊朗海峡紧张关系带来的较高风险溢价"
+    },
+    "keyRisk": {
+      "en": "Geopolitical escalation in Middle East driving oil inflation → Treasury yields up → potential growth stock pressure if sentiment deteriorates further",
+      "zh": "中东地缘政治升级推动油价上升→美债收益率走高→如果情绪进一步恶化可能给成长股带来压力"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Market caught between positive productivity data and negative oil/geopolitical sentiment. Mixed breadth with energy leading gains, storage semis lagging on cycle concerns. Watch for further escalation or de-escalation in Middle East developments.",
+      "zh": "市场夹在积极的生产力数据和负面的油价/地缘政治情绪之间。行业广度分化，能源领涨存储半导体因周期担忧落后。关注中东局势进一步升级或降级"
+    }
+  }
+}
