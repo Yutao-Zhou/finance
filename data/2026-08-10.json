@@ -1,0 +1,141 @@
+{
+  "date": "2026-08-10",
+  "summary": {
+    "en": "Geopolitical tensions over Strait of Hormuz dominate pre-market, with Trump's shifting stance on oil majors and Iran negotiations creating cross-asset uncertainty. Oil prices surge as market weighs strike cessation prospects against geopolitical escalation risks.",
+    "zh": "霍尔木兹海峡地缘紧张主导盘前交易，特朗普对石油巨头立场转变及伊朗谈判进展引发跨资产不确定性。油价在停火前景与地缘升级风险间博弈后大涨。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Trump signals shift to economic pressure as Iran hardens stance over Strait of Hormuz",
+        "zh": "特朗普转向经济施压，伊朗对霍尔木兹海峡立场强硬化"
+      },
+      "impact": {
+        "en": "Escalation risk in oil supply chain creates bullish sentiment for OIL/XOM/CVX, but macroRisk as inflation expectations rise and energy sector volatility could spill over to growth stocks via higher input costs.",
+        "zh": "石油供应链升级风险利好 XOM/CVX 等标的，但通胀预期上升带来宏观风险；能源板块波动可能通过提高投入成本传导至成长股。"
+      },
+      "bullish": ["USO", "UCO", "XLE"],
+      "bearish": ["/DXY", "/GLD"],
+      "macroRisk": {
+        "en": "Yes - Oil price transmission → inflation expectations → Treasury yields ↑ → growth valuations pressured"
+      }
+    },
+    {
+      "title": {
+        "en": "Iran negotiations: Market weighs strike cessation prospects vs. escalation risks",
+        "zh": "伊朗谈判：市场权衡停火前景与升级风险"
+      },
+      "impact": {
+        "en": "Mixed sentiment on energy sector; bullish for oil producers if strikes halt, bearish for growth/tech amid commodity inflation concerns and supply chain volatility.",
+        "zh": "能源板块情绪分化；若伊朗停止袭击利好石油生产商，但大宗商品通胀担忧和供应链波动压制成长股。"
+      },
+      "bullish": ["OIL", "XLE"],
+      "bearish": ["/USO", "/UCO"],
+      "macroRisk": {
+        "en": "Yes - Geopolitical supply shock risk → oil volatility ↑ → broader market uncertainty"
+      }
+    },
+    {
+      "title": {
+        "en": "Berkshire's stock purchases amid geopolitical tensions create sector divergence",
+        "zh": "伯克希尔在地缘紧张中增持股票，板块出现分化信号"
+      },
+      "impact": {
+        "en": "Large-cap value (BRK holdings) sees support; tech/AI growth faces headwinds from oil inflation and geopolitical instability, creating rotation into defensive sectors.",
+        "zh": "伯克希尔持仓支撑大型价值股；AI 成长股受石油通胀和地缘不稳定压制，资金轮动至防御板块。"
+      },
+      "bullish": ["BRK", "XLF"],
+      "bearish": ["/QQQ", "/SMH"],
+      "macroRisk": {
+        "en": "Partial - Rotation from tech to value due to geopolitical uncertainty; inflation hedge demand in energy/oil"
+      }
+    },
+    {
+      "title": {
+        "en": "Shein faces existential threat as tariffs hit low-price model, new focus on services",
+        "zh": "SHEIN 低价格模式受关税打击生存危机，转向服务业务成新焦点"
+      },
+      "impact": {
+        "en": "Retail sector weakness signals broader consumer pressure; tariff escalation risks for Chinese retail names and apparel peers. Neutral impact on energy but creates rotation opportunity.",
+        "zh": "零售板块疲弱显示消费压力；中国零售和服装同业面临关税风险。对能源中性，但创造轮动机会。"
+      },
+      "bullish": [],
+      "bearish": ["SHE", "/SPX"],
+      "macroRisk": {
+        "en": "No - Sector-specific tariff exposure, not macro driver. Cross-asset impact limited."
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector faces headwinds from geopolitical escalation risk and energy cost volatility. Chip supply chain uncertainty (Taiwan/Texas fabs) adds to caution on NVDA/AMD/CAD design tools.",
+      "zh": "AI 板块因地缘升级风险和能源成本波动承压；芯片供应链不确定性（台湾/德州晶圆厂）令 NVIDIA/AMD/Cadence等设计工具谨慎。"
+    },
+    "semiconductor": {
+      "en": "Semiconductors exposed to trade war/geopolitical risks. China exposure (SMIC, etc.) under pressure; US chip sanctions add headwinds for equipment makers.",
+      "zh": "半导体受贸易战和地缘风险暴露；中国相关企业（中芯国际等）承压；美国芯片制裁给设备商带来下行压力。"
+    },
+    "bigTech": {
+      "en": "Big Tech (MSFT, GOOGL) shows resilience but AI infrastructure costs rising with energy volatility. Rotation opportunity into value/defensive names amid inflation uncertainty.",
+      "zh": "大科技（微软、谷歌）展现韧性，但AI基础设施成本因能源波动上升；通胀不确定性下资金轮动至价值股和防御板块。"
+    },
+    "energy": {
+      "en": "Energy sector surges as geopolitical risk premium rises. XOM/CVX gain on Iran strike cessation hopes, USO benefits from oil price breakout above key levels.",
+      "zh": "能源板块因地缘风险溢价上升而大涨；石油巨头（埃克森美孚、雪佛龙）受益于伊朗停火预期，USO 在油价突破关键水平后获利。"
+    },
+    "ev": {
+      "en": "EV sector muted amid energy cost concerns and supply chain uncertainty. Battery mineral pricing (lithium, cobalt) linked to geopolitical stability; Tesla faces tariffs.",
+      "zh": "电动车板块因能源成本担忧和供应链不确定性表现平淡；电池矿物定价（锂、钴）与地缘稳定相关，特斯拉面临关税压力。"
+    },
+    "market": {
+      "en": "Broader market uncertain with mixed breadth signals. Rotation from growth to value; defensive positioning favored by geopolitical overhang and inflation expectations.",
+      "zh": "大盘不确定性增加，买卖信号分化；资金从成长轮动至价值；地缘悬案和通胀预期促使防御性配置受青睐。"
+    },
+    "preciousMetals": {
+      "en": "Gold under scrutiny despite geopolitical risks. GLD neutral as market weighs inflation hedge vs. opportunity cost with rising yields from oil price surge.",
+      "zh": "黄金在地缘风险下仍受审视；GLD 在油价飙升推升美债收益率时，市场权衡通胀对冲与机会成本后保持中性。"
+    },
+    "oil": {
+      "en": "Oil prices break key levels on Strait of Hormuz tensions. WTI/WTI futures bullish; XOM/CVX/XES benefit from supply disruption fears and geopolitical risk premium.",
+      "zh": "霍尔木兹海峡紧张推动油价突破关键位；西德克萨斯中质原油期货上涨；石油巨头受益于供应中断担忧和地缘风险溢价。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P futures neutral, Nasdaq slight down-pressure from AI/tech concerns; Dow faces value pressure as growth-rotation continues.",
+      "zh": "标普期货中性，纳斯达克因AI和技术担忧小幅承压；道指在成长轮动中面临价值压力。"
+    },
+    "treasury10Y": {
+      "en": "10Y Treasury yield volatile, range-bound 4.3-4.5% as oil price surge feeds inflation expectations but recession fears limit upward momentum.",
+      "zh": "美债收益率在油价飙升推升通胀预期但衰退担忧限制上行动能的背景下波动，区间震荡于 4.3%-4.5%"
+    },
+    "dxy": {
+      "en": "DXY weak as geopolitical uncertainty supports risk-on sentiment in EM currencies but oil-dollar correlation adds volatility.",
+      "zh": "美元指数因地缘不确定性支持新兴经济体货币风险偏好而走弱，但油价与美元相关性带来波动。"
+    },
+    "oil": {
+      "en": "WTI/Brent above $80-$90 range as market prices in Strait of Hormuz risk premium; oil majors (XOM/CVX/XES) see bullish flows.",
+      "zh": "西德克萨斯中质原油/布伦特突破 80-90美元区间，油价在地缘风险溢价定价下上涨；石油巨头（埃克森美孚、雪佛龙等）受到买入追捧。"
+    },
+    "keyRisk": {
+      "en": "Strait of Hormuz escalation risk remains primary driver; monitor Iran talks progress, US sanctions on oil supermajors impact. Energy volatility could spill over to broader markets.",
+      "zh": "霍尔木兹海峡升级风险仍是主要驱动因素；关注伊朗谈判进展、美国对石油巨头制裁影响。能源波动可能传导至大盘。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Mixed sentiment as energy/geopolitical uncertainty offsets growth rally; value/defensive rotation ongoing. Confidence medium due to incomplete data and evolving geopolitical situation.",
+      "zh": "情绪分化：能源和地缘不确定性抵消成长股反弹；价值轮动防御正在进行。由于数据不完整且局势持续演变，信心评级为中。"
+    }
+  },
+  "disclaimer": {
+    "en": "YUCLAW signals are research classifications, NOT investment recommendations.",
+    "zh": "本分析仅供参考不构成投资建议。市场有风险投资需谨慎。",
+    "timestamp": "2026-08-10T13:05:00Z"
+  }
+}
