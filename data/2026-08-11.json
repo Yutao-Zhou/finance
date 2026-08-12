@@ -1,0 +1,173 @@
+{
+  "date": "2026-08-11",
+  "summary": {
+    "en": "U.S. stocks opened mixed as geopolitical tensions over the Iran Strait of Hormuz eased oil prices, while tech sector showed divergence amid AI chip narrative debates and earnings season noise.",
+    "zh": "美股盘前表现分化：随着伊朗霍尔木兹海峡地缘紧张局势缓和导致油价回落，科技股在 AI 芯片叙事争论和财报季噪音中呈现不同走势。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Oil Prices Slide Below $80 as Gulf Peace Hopes Rise",
+        "zh": "油价跌破 80 美元，海湾和平预期升温"
+      },
+      "impact": "Lower oil prices reduce inflation expectations and ease corporate margin pressure, benefiting energy stocks less than tech but supporting discretionary spending sectors.",
+      "bullish": ["XLRE", "AMZN", "DIS"],
+      "bearish": ["USO", "XLE - select components"],
+      "macroRisk": {
+        "en": "Geopolitical easing reduces oil supply risk premium, supports broader equity valuations via lower inflation expectations.",
+        "zh": "地缘缓和降低油价供应风险溢价，通过通胀预期下行支持更广泛的股权估值。"
+      }
+    },
+    {
+      "title": {
+        "en": "AMD Beats Q2 Earnings Yet Stock Down 7% - Valuation Concerns Persist",
+        "zh": "AMD 二季报超预期但股价跌约 7%，估值担忧持续"
+      },
+      "impact": "Market reaction signals high short-term expectations for AI chip leaders; earnings beat alone insufficient without margin expansion narrative.",
+      "bullish": ["MSFT", "GOOGL"],
+      "bearish": ["AMD", "NVDA - sentiment spillover"],
+      "macroRisk": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Nasdaq and S&P 500 Futures Rise on Diplomatic Relief Hopes",
+        "zh": "纳指和标普 500 期货上涨，外交缓和预期提振"
+      },
+      "impact": "Risk-on sentiment from de-escalation risks in Middle East supports big tech, airlines and cyclical discretionary sectors.",
+      "bullish": ["AAPL", "NVDA", "AAL"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Tesla (TSLA) Under Pressure Amid Broader Tech Rotation",
+        "zh": "特斯拉股价受压力，科技股板块轮动"
+      },
+      "impact": "EV sector faces near-term volatility; broader market weakness in AI narrative detracts from consumer electronics and autonomous driving valuations.",
+      "bullish": ["RIVN - relative value play"],
+      "bearish": ["TSLA", "F - EV competition pressure"],
+      "macroRisk": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Palantir (PLTR) Earnings Watch: AI Platform Expansion in Focus",
+        "zh": "关注 Palantir 财报：AI 平台扩张成焦点"
+      },
+      "impact": "Key bellwether for data analytics and defense IT spending; strong demand signals institutional AI adoption beyond hype.",
+      "bullish": ["PLTR"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Gold Holds Above $2,300 Despite Dollar Strength",
+        "zh": "金价持稳在 2,300 美元以上，尽管美元走强"
+      },
+      "impact": "Safe-haven demand from geopolitical concerns supports precious metals; gold miners could benefit if yields stay elevated.",
+      "bullish": ["GDX - Gold Miners ETF", "GLD"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury 10Y Yield Stabilizes Near Key Technical Levels",
+        "zh": "美债 10 年期收益率在关键技术水平附近企稳"
+      },
+      "impact": "Bond market positioning critical for rate-sensitive sectors; yield stability supports mortgage-backed and REIT valuations.",
+      "bullish": ["O - Realty Income ETF"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "",
+        "zh": ""
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Mixed sentiment with earnings noise; NVDA rally offset by AMD underperformance. AI chip demand remains strong but short-term expectations elevated.",
+      "zh": "AI 板块情绪分化，财报噪音干扰：英伟达上涨抵消了AMD疲软。尽管芯片需求强劲，但短期预期过高导致波动加剧"
+    },
+    "semiconductor": {
+      "en": "Divergent performance: AMD disappointed despite earnings beat, signaling high expectations for next quarter. Memory chips (WAFERS/MXLC) still strong.",
+      "zh": "表现分化：AMD财报超预期但股价下跌，暗示市场对下一季度的期望已非常高。存储芯片仍受强劲需求支撑"
+    },
+    "bigTech": {
+      "en": "Big Tech names benefit from risk-on; MSFT/GOOGL outperform on AI cloud revenue. Consumer tech faces EV rotation pressure.",
+      "zh": "大型科技公司受益于风险偏好提升；微软谷歌在AI云收入上跑赢，而消费电子面临电动车板块轮动的压制"
+    },
+    "energy": {
+      "en": "Oil slide supports energy cost-sensitive sectors but weighs on XLE. Renewable transition stocks underperform amid traditional oil rally.",
+      "zh": "油价下跌利好能源敏感型部门但压制了XLE ETF；传统油企反弹拖累新能源转型股票"
+    },
+    "ev": {
+      "en": "TSLA and legacy auto EV segments face pressure. Rivian offers relative value opportunity but near-term volatility likely.",
+      "zh": "特斯拉及传统车企电动车业务承压。Rivian 提供相对价值机会，但短期波动不可避免"
+    },
+    "market": {
+      "en": "Broad market mixed; futures suggest moderate open with potential midday weakness if yield spike occurs. Defensive rotation possible.",
+      "zh": "大盘表现分化；期货显示可能温和开盘，若收益率飙升则午后或走弱。防御性板块轮动机会浮现"
+    },
+    "preciousMetals": {
+      "en": "Gold remains elevated despite mixed market; geopolitical hedging supports miners. Silver lags gold in technical terms.",
+      "zh": "金价在分化市场中依然坚挺；地缘避险支撑矿业股。银价技术上相对黄金落后"
+    },
+    "oil": {
+      "en": "WTI below $80 on Gulf diplomatic progress; downside risk limited but upside depends on renewed supply shocks.",
+      "zh": "受海湾外交进展影响 WTI 跌破 80 美元；下行空间有限，上行取决于新的供应冲击"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P futures flat to +0.2%; Nasdaq up ~+0.4% driven by AI chip rally hopes; Dow mixed with industrial stocks lagging.",
+      "zh": "标普期货平盘至微涨 0.2%；纳指受芯片反弹预期推动上涨约 0.4%，道指表现分化工业股拖累"
+    },
+    "treasury10Y": {
+      "en": "~3.85-3.9%, stabilized after recent volatility; watch for upward break above resistance.",
+      "zh": "收益率在 3.85%-3.9%区间企稳，波动后暂稳；需警惕突破上方阻力位"
+    },
+    "dxy": {
+      "en": "~96-97, relatively stable; geopolitical calm supports dollar but safe-haven flows could reverse if tensions flare.",
+      "zh": "美元指数在 96-97区间相对平稳；地缘缓和支撑美元但若局势突变避险流可能逆转"
+    },
+    "oil": {
+      "en": "$74-80 range as Gulf diplomacy deescalates; downside capped at $73 if supply fears return.",
+      "zh": "油价在 74-80区间震荡；地缘缓和压制下行空间，供应担忧重燃前下方支撑"
+    },
+    "keyRisk": {
+      "en": "Elevated AI chip valuations + potential earnings miss; geopolitical shock (war escalation or new conflict) could trigger sharp sell-off.",
+      "zh": "高企的AI芯片估值叠加财报风险；地缘政治突发事件（冲突升级）可能引发抛售"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Market shows divergence between tech/AI optimism and earnings pressure. Geopolitical easing supports but oil weakness keeps some investors cautious about discretionary spending.",
+      "zh": "市场呈现分化：科技股乐观与财报压力并存。地缘缓和提供支撑但油价疲软使部分投资者对可选消费谨慎"
+    }
+  },
+  "noteAddedAt": "2026-08-11T07:45Z",
+  "sourcesChecked": ["CNBC Markets", "MarketWatch", "Reuters Energy"],
+  "disclaimer": {
+    "en": "Data compiled from public sources; market commentary reflects synthesis of available headlines and macro logic.",
+    "zh": "数据来源于公开渠道；市场点评基于已有头条新闻与宏观逻辑的综合研判"
+  }
+}
