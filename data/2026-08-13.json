@@ -1,0 +1,220 @@
+{
+  "date": "2026-08-13",
+  "summary": {
+    "en": "Pre-market attention centers on AI chip demand resilience amid trade tensions and earnings expectations for major tech names. Oil prices remain under geopolitical watch as Middle East dynamics influence energy sector positioning ahead of U.S. session open.",
+    "zh": "盘前关注焦点在于贸易紧张局势下人工智能芯片需求的韧性以及主要科技股盈利预期。油价受中东地缘政治动态影响，在能源板块配置方面保持观望态度，等待美盘开盘。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "NVIDIA and AMD Earnings Anticipation Drives Semiconductor Sector Optimism Despite Trade War Headwinds",
+        "zh": "英伟达和超微电子盈利预期推动半导体板块乐观情绪，尽管面临贸易战逆风"
+      },
+      "impact": {
+        "en": "Strong datacenter chip demand could offset tariff concerns, but geopolitical risks remain a macro risk that may cause rotation into defensive sectors.",
+        "zh": "强劲的数据中心芯片需求可能抵消关税担忧，但地缘政治风险仍构成宏观风险因素，可能导致资金流入防御性板块。"
+      },
+      "bullish": ["SMRT", "NVDA"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Yes - Trade tensions escalation could disrupt supply chains and impact earnings revisions across tech sector.",
+        "zh": "是——贸易战升级可能扰乱供应链并影响科技板块的盈利修正。"
+      }
+    },
+    {
+      "title": {
+        "en": "Fed Speakers Calendar: Warrant Co-Chair Warsh Comments Expected to Influence Rate Expectations",
+        "zh": "美联储发言日程：战争沙共同主席言论预期将影响利率预期"
+      },
+      "impact": {
+        "en": "Rate-sensitive positioning critical; any dovish hints could spark rally while hawkish tone may pressure growth stocks and push yields higher.",
+        "zh": "对利率敏感的仓位配置至关重要；任何鸽派暗示可能引发上涨，而鹰派语调则可能对成长股施压并推升收益率。"
+      },
+      "bullish": [],
+      "bearish": ["TLT", "HY"],
+      "macroRisk": {
+        "en": "No - Fed commentary provides clarity rather than unexpected policy shift; yields expected to react based on hawkness/dovishness balance.",
+        "zh": "否——美联储评论提供清晰度而非意外政策转变；收益率预期将根据鸽派或鹰派的平衡进行反应。"
+      }
+    },
+    {
+      "title": {
+        "en": "Middle East Tensions Keep Oil Prices Elevated as Geopolitical Risk Premium Remains in Play",
+        "zh": "中东紧张局势使油价保持高位，地缘政治风险溢价仍然发挥作用"
+      },
+      "impact": {
+        "en": "Elevated WTI/Brent supports energy producers' cash flows but inflation expectations from oil could complicate Fed policy stance and pressure duration-sensitive names.",
+        "zh": "高企的 WTI/布伦特原油支持能源生产商现金流，但来自油价的预期通胀可能使美联储政策立场复杂化并施压久期敏感股票。"
+      },
+      "bullish": ["XLE", "CVX"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Yes - Escalation risk could cause sudden volatility and rotation into energy sector, impacting broader market sentiment.",
+        "zh": "是——升级风险可能导致突然的波动并转向能源板块，影响广泛的市场情绪。"
+      }
+    },
+    {
+      "title": {
+        "en": "European Market Close Shows Mixed Sentiment as Yellen Comments on Inflation Targeting Generate Debate",
+        "zh": "欧洲市场收盘显示混合情绪，耶伦关于通胀目标的评论引发辩论"
+      },
+      "impact": {
+        "en": "Broad market breadth depends on inflation debate resolution; uncertainty around monetary policy stance creates conditions for sector divergence.",
+        "zh": "广泛的市场广度取决于通胀辩论的解决情况；货币政策立场的不确定性创造了板块分化的条件。"
+      },
+      "bullish": ["XLF"],
+      "bearish": ["XLK", "XLV"],
+      "macroRisk": {
+        "en": "Medium - Inflation expectations and Fed policy clarity will determine risk-on or risk-off positioning; current environment favors selective exposure.",
+        "zh": "中等——通胀预期和美联储政策的清晰度将决定风险偏好或规避立场；当前环境有利于选择性敞口。"
+      }
+    },
+    {
+      "title": {
+        "en": "Dollar Index Fluctuates on Divergent Central Bank Policy Expectations with EM Assets Under Pressure",
+        "zh": "美元指数在央行政策预期分歧中波动，新兴市场资产承受压力"
+      },
+      "impact": {
+        "en": "Strong dollar pressures multinational earnings and commodity exporters; weak dollar could benefit tech multinationals but creates USD-denominated bond volatility.",
+        "zh": "强势美元施压跨国盈利和大宗商品出口商；弱势美元可能利好科技跨国公司但造成以美元计价债券的波动。"
+      },
+      "bullish": [],
+      "bearish": ["XLK"],
+      "macroRisk": {
+        "en": "No - Dollar movements reflect broader global rate differential expectations rather than sudden Fed policy change.",
+        "zh": "否——美元变动反映更广泛的全球利率差异预期，而非美联储政策的突然变化。"
+      }
+    },
+    {
+      "title": {
+        "en": "AI Sector Consolidation Pattern Suggests Rotation Toward Infrastructure as End-User Adoption Slows",
+        "zh": "人工智能行业整合模式表明随着终端用户采用放缓，向基础设施的轮动加剧"
+      },
+      "impact": {
+        "en": "Supply chain cascades impact chip designers and equipment makers; infrastructure plays show relative resilience despite overall sector valuation compression.",
+        "zh": "供应链级联影响芯片设计公司和设备制造商；尽管整个行业估值压缩，基础设施交易显示出相对的韧性。"
+      },
+      "bullish": ["AVGO"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - Consolidation reflects normal industry dynamics and capital allocation optimization; valuation concerns are priced.",
+        "zh": "否——整合反映了正常的行业动态和资本配置优化；估值担忧已计价。"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury 10Y Yield Watch: Economic Data Release Schedule Could Drive Rate-Sensitive Stock Performance",
+        "zh": "美债 10 年期收益率观察：经济数据发布时间表可能驱动对利率敏感的股市表现"
+      },
+      "impact": {
+        "en": "Yield fluctuations will dictate broad market direction today; any significant move beyond normal range could trigger flight-to-safety or risk-on positioning.",
+        "zh": "收益波动将决定今日广泛市场方向；任何超出正常范围的显著变动都可能触发避险或风险偏好配置。"
+      },
+      "bullish": [],
+      "bearish": ["TLT", "JNK"],
+      "macroRisk": {
+        "en": "Yes - Unexpected yield moves beyond normal range could trigger portfolio repricing and broader market volatility.",
+        "zh": "是——超出正常范围的意外收益变动可能触发投资组合重新定价和更广泛的市场波动。"
+      }
+    },
+    {
+      "title": {
+        "en": "China EV Import Policies May Restrict Competition as Domestic Automakers Face Margin Pressure",
+        "zh": "中国电动车进口政策可能限制竞争，而国内汽车制造商面临利润率压力"
+      },
+      "impact": {
+        "en": "Regulatory headwinds for Chinese exports impact global supply chains; U.S. EV manufacturers positioned differently with domestic protection advantage.",
+        "zh": "对中国出口的政策逆风影响全球供应链；美国电动车生产商处于不同的地位，享有国内保护优势。"
+      },
+      "bullish": [],
+      "bearish": ["TSLA"],
+      "macroRisk": {
+        "en": "Medium - Trade policy uncertainty creates volatility but also provides opportunity for market leaders to capture share in regulatory-protected markets.",
+        "zh": "中等——贸易政策的不确定性造成波动，但也为市场领导者捕获监管保护市场的份额提供了机会。"
+      }
+    },
+    {
+      "title": {
+        "en": "Precious Metals Rally on Safe Haven Flows as Gold Reaches Multi-Year Highs Amid Global Uncertainty",
+        "zh": "贵金属在对安全港资金流向中上涨，黄金在全球不确定性下达到多年高位"
+      },
+      "impact": {
+        "en": "Gold strength reflects inflation hedging and central bank buying; could signal portfolio flight-to-safety positioning as monetary policy uncertainty persists.",
+        "zh": "黄金走强反映通胀对冲和央行购买；当货币政策不确定性持续时，可能表明投资组合避险配置。"
+      },
+      "bullish": ["GLD", "GDX"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - Metals rally driven by structural themes (central bank demand, inflation hedging) rather than sudden geopolitical shock.",
+        "zh": "否——金属上涨由结构性主题（央行需求、通胀对冲）驱动，而非突然的地缘政治冲击。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector shows mixed signals with chip demand strong but end-user application adoption slowing. Infrastructure plays (datacenter equipment, cloud providers) outperforming pure-play applications due to capital expenditure cycles favoring capex-heavy infrastructure over margin-pressured software.",
+      "zh": "人工智能行业显示混合信号，芯片需求强劲但终端用户应用程序采用放缓。基础设施交易（数据中心设备、云提供商）优于纯种应用，因为资本支出周期有利于重资产支出的基础设施而非利润率受压的软件。"
+    },
+    "semiconductor": {
+      "en": "Semiconductor sector positioned for moderate resilience amid trade tensions; advanced logic and memory makers benefit from datacenter demand while consumer electronics remain vulnerable to inventory corrections.",
+      "zh": "半导体板块在贸易紧张局势下处于适度韧性地位；先进逻辑和内存制造商受益于数据中心需求，而消费电子仍容易受到库存修正的影响。"
+    },
+    "bigTech": {
+      "en": "Big Tech names display mixed fundamentals as cloud spending decelerates marginally but AI infrastructure investment remains strong. Revenue growth moderating from hyper-growth phase creates conditions for selective rotation within mega-cap technology stocks.",
+      "zh": "大型科技公司的基本面显示混合情况，云计算支出边际减速但人工智能基础设施投资仍然强劲。收入增长从超高速增长阶段放缓为大市值技术股内的选择性轮动创造了条件。"
+    },
+    "energy": {
+      "en": "Energy sector maintains resilience amid geopolitical tensions; elevated oil prices support cash flows for integrated producers while renewable energy transition plays remain sensitive to interest rate volatility.",
+      "zh": "能源板块在地缘政治紧张中保持韧性；高油价支持一体化生产商现金流，而可再生能源转型交易仍对利率波动敏感。"
+    },
+    "ev": {
+      "en": "Electric vehicle sector faces headwinds from Chinese competition and regulatory uncertainty; valuation compression ongoing but select names with technology differentiation and domestic market focus show relative strength.",
+      "zh": "电动车行业面临来自中竞争和政策不确定性的逆风；估值压缩持续，但具有技术差异化和国内市场焦点的选择性股票显示出相对的强势。"
+    },
+    "market": {
+      "en": "Broad market breadth shows sector divergence; technology leaders hold gains while financials and industrials lag. Yield fluctuations create uncertainty around rate-sensitive positioning, with Fed commentary providing key clarity.",
+      "zh": "广泛市场广度显示板块分化；科技领导者持有收益而金融和工业落后。收益率波动造成对利率敏感配置的不确定性，美联储评论提供关键清晰度。"
+    },
+    "preciousMetals": {
+      "en": "Gold and silver rally continues on central bank demand, safe haven flows from geopolitical uncertainty, and inflation hedging. Multi-year highs support physical premium while ETF inflows signal portfolio positioning shifts.",
+      "zh": "黄金和白银的涨势在央行需求、地缘政治不确定性的安全港资金流向和通胀对冲下继续。多年高位支持实物溢价而ETF流入表明投资组合配置转变信号。"
+    },
+    "oil": {
+      "en": "Crude prices elevated on Middle East geopolitical risk premium; OPEC+ production discipline and unexpected supply disruptions could sustain levels above $75/bbl for WTI. Energy producers benefit while inflation expectations create Fed policy complexity.",
+      "zh": "原油价格在中东地缘政治风险溢价下高企；OPEC + 生产纪律和意外的供应中断可能在油价保持在高于WTI$75/桶水平。能源生产商受益而预期通胀使美联储政策复杂化。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 futures slightly flat to +0.1%, Nasdaq futures near breakeven, Dow futures marginally lower reflecting mixed European close and Asian market performance ahead of U.S. session open.",
+      "zh": "标普 500期货微幅持平至+0.1%，纳斯达克期货近盈亏平衡，道指期货轻微下跌反映欧洲收盘和亚洲市场表现混合美盘开盘前。"
+    },
+    "treasury10Y": {
+      "en": "10Y Treasury yield range-bound between 4.0-4.25%, awaiting economic data releases and Fed speakers commentary; any breakout beyond this band could signal meaningful rate repricing.",
+      "zh": "10 年期美债收益率在%范围内波动，等待经济数据发布和美联储发言人的评论；任何超出该带的突破都可能表明有意义的重新定价。"
+    },
+    "dxy": {
+      "en": "Dollar index hovering near neutral with divergent central bank policy expectations. Strong USD pressures emerging market assets and commodity exporters but benefits U.S.-based multinational tech earnings visibility.",
+      "zh": "美元指数在中性附近徘徊，央行政策预期分歧。强势美元施压新兴市场资产和大宗商品出口商但有利于以美国为基础跨国科技公司盈利可见度。"
+    },
+    "oil": {
+      "en": "WTI crude trading elevated near $68-70/bbl amid Middle East geopolitical risk. OPEC+ supply discipline and potential escalation concerns support prices while demand outlook remains moderate.",
+      "zh": "中东地缘政治风险 WTI原油交易高企在$68-70/桶左右。OPEC + 供应纪律和潜在的升级担忧支持价格而需求前景仍然适度。"
+    },
+    "keyRisk": {
+      "en": "Escalation in Middle East tensions and unexpected geopolitical developments remain primary risks. Treasury yield breakouts beyond normal range, Fed policy divergence from global peers, or inflation surprises could drive volatility.",
+      "zh": "中东紧张局势升级和意外的地缘政治发展仍是主要风险。美债收益率超出正常范围突破、美联储政策与全球同行分歧或通胀意外可能驱动波动性。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Mixed sentiment driven by AI infrastructure strength versus broader consumer spending slowdown and geopolitical uncertainty. Technology sector leaders hold gains while energy plays benefit from elevated oil prices; rotation between sectors expected to persist.",
+      "zh": "混合情绪由人工智能基础设施力量与更广泛的消费支出放缓和中不确定性驱动。科技板块领导者持有收益而能源交易受益于高油价；预期板块之间轮动将持续。"
+    }
+  }
+}
