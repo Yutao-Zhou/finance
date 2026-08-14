@@ -1,0 +1,204 @@
+{
+  "date": "2026-08-14",
+  "summary": {
+    "en": "US futures trade mixed ahead of Friday's open as oil prices climb on geopolitical tensions in the Middle East and Iran, while AI-driven mega-cap gains offset broader concerns about inflation sticky bits. PPI data due later this week could push Fed rate cut odds higher or lower depending on print.",
+    "zh": "\u7f8e\u56fd \u4e0a\u76d8 前期货波动，油价受中东地缘政治紧张局势支撑上涨，AI 驱动的大型科技股收益抵消了通胀粘性担忧。本周稍后发布的 PPI 数据将根据实际数值推高或压低美联储降息预期。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Oil Climbs on Iran's Hormuz Standoff – What to Watch Today",
+        "zh": "\u6cb9\u4ef7 \u53d1\u8bad:伊朗霍尔木兹海峡紧张局势升级"
+      },
+      "impact": {
+        "en": "Elevated oil prices test Fed's inflation buffer and could trigger mean reversion in growth stocks. If WTI breaches key resistance, energy sector outperformance may drag broader market higher despite yield concerns.",
+        "zh": "\u9ad8\u4ef7\u6cb3\u5baa\u5dfc"
+      },
+      "bullish": ["XLE", "CVX"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Yes - High oil prices increase inflation expectations, pressuring Fed rate cut probabilities and impacting real asset valuations including equities.",
+        "zh": "\u6709 \u24e8"
+      }
+    },
+    {
+      "title": {
+        "en": "AI Stocks Rally as Mega-Caps Lead Index Gains",
+        "zh": "AI 板块领涨：大型科技股引领指数上涨"
+      },
+      "impact": {
+        "en": "NVIDIA partnerships with sovereign funds and strong enterprise AI adoption continue to support chip designers. Cloud infrastructure demand remains robust despite mixed futures.",
+        "zh": "\u7b9d\u5e36"
+      },
+      "bullish": ["NVDA", "AMD"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - AI sector strength is driven by earnings and product cycles, not directly correlated with macroeconomic conditions.",
+        "zh": "\u65e0"
+      }
+    },
+    {
+      "title": {
+        "en": "DXY Weakens on Fed Rate Cut Bets",
+        "zh": "\\u7f8e\u5143 \u9a7c"
+      },
+      "impact": {
+        "en": "Dollar index under pressure as markets price in earlier-than-expected rate cuts. Multinational tech beneficiaries from weak USD see headwinds, while EM-linked names benefit.",
+        "zh": "\u521d\u6cbf"
+      },
+      "bullish": ["FXE"],
+      "bearish": ["FDX", "XLK-multinationals"],
+      "macroRisk": {
+        "en": "No - Dollar weakness aligns with dovish Fed stance, which is positive for equity valuations but creates mixed currency translation effects.",
+        "zh": "\u65e0"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury Yields Steady Ahead of PPI Release",
+        "zh": "\u7f8e\u901f \u24be\ufb3c:\u5bf6"
+      },
+      "impact": {
+        "en": "10Y yield hovers near key levels as traders await upcoming inflation data. Yield stability supports risk assets, but any spike could trigger broad corrections.",
+        "zh": "\u7248\u9a8c"
+      },
+      "bullish": ["TLT"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Medium - Yield movements directly impact duration-sensitive sectors like real estate and utilities, while tech earnings multiples face compression risk.",
+        "zh": "\u4e2d"
+      }
+    },
+    {
+      "title": {
+        "en": "Energy Sector Outperforms on Supply Concerns",
+        "zh": "\u80fd\u6e90 \u7532:\u5de9\u4fa1\u5bfc"
+      },
+      "impact": {
+        "en": "Oil supply constraints and geopolitical risks drive prices higher. Energy companies with hedged production see improved margins, but high valuations remain a vulnerability.",
+        "zh": "\u70e6"
+      },
+      "bullish": ["XLE", "XOM"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Medium - Higher oil prices may eventually trigger demand destruction or inflationary feedback loops that complicate Fed policy.",
+        "zh": "\u4e2d"
+      }
+    },
+    {
+      "title": {
+        "en": "EV Sector Faces Mixed Signals",
+        "zh": "电动车板块面临混合信号"
+      },
+      "impact": {
+        "en": "EV sales data shows resilient demand despite high interest rates. China competition and tariff issues remain headwinds, but battery cost reductions help.",
+        "zh": "\u96e8 \u5706\u4ef2"
+      },
+      "bullish": ["TSLA"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Medium - EV demand is rate-sensitive; higher-for-longer rates could suppress consumer spending on capital-intensive purchases.",
+        "zh": "\u4e2d"
+      }
+    },
+    {
+      "title": {
+        "en": "Precious Metals at Record Highs",
+        "zh": "贵金属创历史新高"
+      },
+      "impact": {
+        "en": "Gold and silver rally on safe-haven demand and real rate declines. Central bank buying continues to provide floor, but high prices could trigger profit-taking.",
+        "zh": "\u91cd\u5706\u4ef2"
+      },
+      "bullish": ["GLD", "SLV"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - Precious metals act as portfolio insurance rather than macro-risk drivers in isolation.",
+        "zh": "\u65e0"
+      }
+    },
+    {
+      "title": {
+        "en": "Market Breadth Remains Healthy",
+        "zh": "市场广度保持健康"
+      },
+      "impact": {
+        "en": "Rotations between defensive and growth sectors continue. Mid-caps lag leaders but show improving technicals ahead of earnings season.",
+        "zh": "\u6234\u9a8c \u75be"
+      },
+      "bullish": ["IWM"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Low - Breadth improvements signal broad participation rather than single-sector concentration risks.",
+        "zh": "\u4f4e"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI chipmakers and cloud infrastructure stocks continue to lead, supported by easing inflation data. NVIDIA partnerships with sovereign funds provide tailwind.",
+      "zh": "\u4e3b\u6279"
+    },
+    "semiconductor": {
+      "en": "Semiconductor equipment providers see demand from AI-driven fab capex cycles. TSMC production capacity expansions offset China headwinds for domestic names.",
+      "zh": "\u5f38\u4ef7 \u6b21"
+    },
+    "bigTech": {
+      "en": "Magnificent Seven outperform as earnings remain solid but priced in ahead of next quarter's print. Cloud adoption remains resilient across enterprise clients.",
+      "zh": "\u5927\u8d43 \u6e1a"
+    },
+    "energy": {
+      "en": "Energy sector benefits from geopolitical tensions and supply constraints driving prices higher. Hedged producers see margin expansion opportunities.",
+      "zh": "\u80fd\u6cbf"
+    },
+    "ev": {
+      "en": "EV demand remains resilient despite high rates, but China competition and tariffs create uncertainty. Battery cost reductions help offset some headwinds.",
+      "zh": "\u7532:\u9ad8 \u4efc\u6e1b"
+    },
+    "market": {
+      "en": "Futures trade mixed with S&P 500 testing record levels. Breadth remains healthy but sector divergences persist between growth and value.",
+      "zh": "\u9a82 \u75be"
+    },
+    "preciousMetals": {
+      "en": "Gold and silver at multi-year highs on safe-haven flows, real rate declines, and central bank buying. High prices may trigger profit-taking but demand remains.",
+      "zh": "\u91cd\u6b3e"
+    },
+    "oil": {
+      "en": "Crude oil climbs amid Iran-Hormuz tensions and OPEC+ production discipline. WTI testing key resistance levels; sustained break could push toward next supply ceiling.",
+      "zh": "\u75be \u6cbf\n"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 futures mixed/flat, Nasdaq slightly bullish on AI strength. Dow vulnerable to oil price volatility.",
+      "zh": "\u6ce1\u8da3 \u92b7"
+    },
+    "treasury10Y": {
+      "en": "10Y Treasury yield hovering near 4.0-4.1%, awaiting PPI data for direction. Stability supports equities but spikes are dangerous.",
+      "zh": "\u5e36 \u82b9"
+    },
+    "dxy": {
+      "en": "DXY under pressure as markets price in Fed rate cuts earlier than expected. Weak dollar benefits multinationals and commodity exporters.",
+      "zh": "\u7fbd\u4ef0 \u5e36"
+    },
+    "oil": {
+      "en": "WTI oil trading elevated near multi-week highs on geopolitical tensions around Iran-Hormuz Strait. Sustained strength could spark inflation concerns.",
+      "zh": "\u9a8c"
+    },
+    "keyRisk": {
+      "en": "PPI release later this week and any unexpected yield spike or oil surge that re-ignites inflation expectations for the Fed.\n",
+      "zh": "本周稍后发布的 PPI 数据和任何意外的美债收益率飙升或油价上涨，可能会重燃市场对美联储通胀预期的担忧。\n"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "\u4e2d"
+    },
+    "note": {
+      "en": "Mixed sentiment due to oil-driven inflation concerns versus AI earnings strength. PPI data will be critical for Fed pivot timing and direction.",
+      "zh": "\u53cc\u6b7c: \u9ad8\u4ef7"
+    }
+  }
+}
