@@ -1,0 +1,156 @@
+{
+  "date": "2026-08-17",
+  "summary": {
+    "en": "US equity futures mixed as pre-market AI enthusiasm drives Nasdaq significantly while Dow lags. Fed rate hike odds drop to 30%, easing yield pressures. Oil nears $90 amid stalled Iran peace talks, keeping energy sector under geopolitical premium.",
+    "zh": "美股期指早盘分化，AI 热潮推动纳斯达克大幅上涨，而道指表现滞后。美联储加息概率降至 30%，缓解收益率压力。油价接近 90 美元，伊朗停火谈判停滞使能源板块承受地缘溢价。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Nasdaq Futures Rise 0.52% as AI Rally Accelerates on Anthropic IPO Optimism",
+        "zh": "纳斯达克期货上涨 0.52%，AI 热潮因英伟达 IPO 乐观情绪加速"
+      },
+      "impact": {
+        "en": "Anthropic's $190-200B revenue forecast for 2028 boosts AI ecosystem confidence, lifting Amazon and chipmakers.",
+        "zh": "英伟达对 2028 年营收 190-200 亿美元的预测提振了 AI 生态系统信心，带动亚马逊和芯片制造商。"
+      },
+      "bullish": ["NVDA", "AVGO", "AMZN", "GOOGL"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "AI concentration risk; rally may be valuation-driven rather than earnings-led.",
+        "zh": "AI 集中风险；上涨可能由估值驱动而非盈利带动。"
+      }
+    },
+    {
+      "title": {
+        "en": "Micron Technology Surges 3% on Renewed AI Memory Demand",
+        "zh": "美光科技因 AI 内存需求回升而大涨 3%"
+      },
+      "impact": {
+        "en": "U.S. policy support for domestic memory chip production combined with AI infrastructure buildout drives demand.",
+        "zh": "美国政策支持本土内存芯片生产与 AI 基础设施建设共同推动需求。"
+      },
+      "bullish": ["MU"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Cyclical semiconductor exposure; dependent on AI capex cycles.",
+        "zh": "周期性半导体暴露；依赖 AI 资本支出周期。"
+      }
+    },
+    {
+      "title": {
+        "en": "WTI Crude Trades Above $82 as Middle East Tensions Persist",
+        "zh": "西德克萨斯 Intermediate 原油在 82 美元以上交易，中东紧张局势持续"
+      },
+      "impact": {
+        "en": "Oil prices supported by Iran conflict risk premium despite ceasefire deadline passing.",
+        "zh": "尽管停火截止日期已过，但伊朗冲突风险溢价支撑油价。"
+      },
+      "bullish": ["OIL", "XLE"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Inflation persistence via energy costs; geopolitical volatility transmits to broader market.",
+        "zh": "通过能源成本持续通胀；地缘政治波动传导至更广泛市场。"
+      }
+    },
+    {
+      "title": {
+        "en": "Fed Rate Hike Odds Fall to 30% Following Soft US Data",
+        "zh": "美联储加息概率在软美国经济数据后降至 30%"
+      },
+      "impact": {
+        "en": "Lower yield expectations benefit rate-sensitive growth stocks while providing volatility buffer.",
+        "zh": "较低的收益率预期利好对利率敏感的成长股，同时提供波动率缓冲。"
+      },
+      "bullish": ["QQQ", "XLK"],
+      "bearish": ["JPM", "BAC"],
+      "macroRisk": {
+        "en": "Policy pivot narrative; yields may rebound if inflation reaccelerates.",
+        "zh": "政策转向叙事；如果通胀重燃，收益率可能回升。"
+      }
+    },
+    {
+      "title": {
+        "en": "VIX Under 15 Despite Oil and Geopolitical Risks",
+        "zh": "VIX 低于 15，尽管存在油价和地缘政治风险"
+      },
+      "impact": {
+        "en": "Low implied volatility suggests complacency but offers limited protection if oil or rates shift.",
+        "zh": "低隐含波动率表明自满情绪，但如果油价或收益率变动则提供有限保护。"
+      },
+      "bullish": [],
+      "bearish": ["VIX"],
+      "macroRisk": {
+        "en": "Volatility compression may intensify reversal if geopolitical shock hits or oil spikes.",
+        "zh": "如果遭遇地缘政治冲击或油价飙升，波动率压缩可能加剧逆转。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Strong momentum driven by Anthropic IPO expectations and memory demand revival. NVDA and AVGO lead semiconductor sector.",
+      "zh": "英伟达 IPO 预期和内存需求复苏推动强劲势头。NVDA 和 AVGO 引领半导体板块。"
+    },
+    "semiconductor": {
+      "en": "Benefiting from AI capex cycles with MU up 3% on memory demand. Broadcom sees sustained GPU/networking chip demand.",
+      "zh": "受益于 AI 资本支出周期，MU 因内存需求上涨 3%。博通看到持续的 GPU/网络芯片需求。"
+    },
+    "bigTech": {
+      "en": "Amazon and Alphabet gain on AI infrastructure spending. Valuation focus shifts from growth to quality earnings.",
+      "zh": "亚马逊和谷歌因 AI 基础设施支出而获益。估值焦点从增长转向优质盈利。"
+    },
+    "energy": {
+      "en": "Oil nears $90 with WTI at $82. Energy sector maintains geopolitical risk premium despite ceasefire deadline.",
+      "zh": "油价接近 90 美元，WTI 在 82 美元。尽管停火截止日期已过，能源板块仍保持地缘风险溢价。"
+    },
+    "ev": {
+      "en": "Mixed as broader auto/manufacturing macro regime impacts demand. EV sector lags in cyclical downturn.",
+      "zh": "分化，更广泛的汽车/制造宏观经济环境影响需求。电动车板块在周期性衰退中落后。"
+    },
+    "market": {
+      "en": "Futures mixed: Nasdaq +0.52%, S&P 500 +0.13%, Dow -0.17%. Growth outperforms as yields stabilize.",
+      "zh": "期指分化：纳斯达克 +0.52%，标普 500+0.13%，道指-0.17%。收益率稳定时成长股表现更优。"
+    },
+    "preciousMetals": {
+      "en": "Gold gains 0.5% to $4,398 amid dollar easing and inflation hedging demand.",
+      "zh": "美元走缓和通胀对冲需求下，黄金上涨 0.5% 至 4,398 美元。"
+    },
+    "oil": {
+      "en": "WTI at $82.10 (+0.70%), Brent near $89. Middle East conflict risk premium sustains prices above recession zone.",
+      "zh": "WTI 在 82.10 美元（+0.70%），布伦特接近 89 美元。中东冲突风险溢价使油价维持在高点之上。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "Nasdaq +0.52%, S&P 500 +0.13%, Dow -0.17%. Nasdaq outperforms fourfold on AI-driven growth momentum.",
+      "zh": "纳斯达克 +0.52%，标普 500+0.13%，道指-0.17%。AI 驱动的增长动量使纳斯达克表现四倍好于其他指数。"
+    },
+    "treasury10Y": {
+      "en": "U.S. 10-year yield at 4.688%, down 2bps premarket on soft data and falling rate hike odds.",
+      "zh": "美国 10 年期收益率在 4.688%，因数据疲软和加息概率下降而早盘下跌 2 个基点。"
+    },
+    "dxy": {
+      "en": "Dollar index eased 0.2% as yields stabilize and safe-haven flows moderate.",
+      "zh": "美元指数下跌 0.2%，收益率稳定和安全避风资产流动缓和。"
+    },
+    "oil": {
+      "en": "WTI above $82, Brent near $89. Middle East tensions prevent collapse despite ceasefire expiration.",
+      "zh": "WTI 高于 82 美元，布伦特接近 89 美元。尽管停火过期，中东紧张局势阻止了价格崩溃。"
+    },
+    "keyRisk": {
+      "en": "AI concentration in Nasdaq; oil volatility if geopolitical shocks hit; compressed VIX under 15 offers thin protection.",
+      "zh": "纳斯达克中 AI 集中；如果地缘政治冲击发生，油价波动；VIX 低于 15 提供微薄保护。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Growth rally led by AI sector diverges from cyclical laggards. Risk sentiment cautious but yields and oil stability provide buffer.",
+      "zh": "AI 板块引领的增长行情与周期性滞后的公司分化。风险情绪谨慎，但收益率和油价稳定提供缓冲。"
+    }
+  }
+}
