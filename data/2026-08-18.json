@@ -1,0 +1,156 @@
+{
+  "date": "2026-08-18",
+  "summary": {
+    "en": "US equity futures flat to slightly elevated as pre-market AI and semiconductor stocks show selective strength. Fed rate decision probability remains low at 30%, supporting growth stock valuations despite mixed macro signals. Oil holds above $82 on Middle East geopolitical concerns, keeping energy sector under risk premium.",
+    "zh": "美股期指早盘平稳至微幅上涨，盘前 AI 和半导体股票表现分化。美联储加息概率保持低位 30%，支撑成长股估值尽管宏观信号混杂。油价维持在 82 美元以上受中东地缘担忧影响，能源板块承受风险溢价。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Nasdaq Futures Rise 0.3% on AI Chip Demand Optimism",
+        "zh": "纳斯达克期货因 AI 芯片需求乐观情绪上涨 0.3%"
+      },
+      "impact": {
+        "en": "Strong demand for AI accelerators from major cloud providers continues to boost semiconductor valuations ahead of earnings season.",
+        "zh": "主要云服务商对 AI 加速器的强劲需求持续在 earnings season 前提振半导体估值。"
+      },
+      "bullish": ["NVDA", "AMD", "AVGO"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "AI concentration risk in tech-heavy indices; earnings-driven rally may face headwinds from valuations.",
+        "zh": "科技指数中 AI 集中风险；盈利驱动的上涨可能面临估值逆风。"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil Near $84 as Middle East Tensions Persist Beyond Ceasefire Deadline",
+        "zh": "油价接近 84 美元，中东紧张局势在停火截止日期后持续"
+      },
+      "impact": {
+        "en": "Geopolitical risk premium sustains energy prices despite OPEC+ supply discipline. WTI above $82 signals continued inflation concerns.",
+        "zh": "地缘政治风险溢价支撑能源价格尽管 OPEC+ 供应纪律。WTI 高于 82 美元表明持续的通胀担忧。"
+      },
+      "bullish": ["OIL", "XLE"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Inflation persistence through energy costs; geopolitical volatility transmits to broader market sentiment.",
+        "zh": "通过能源成本持续通胀；地缘政治波动传导至更广泛市场情绪。"
+      }
+    },
+    {
+      "title": {
+        "en": "US 10-Year Yield Stabilizes at 4.70% Following Soft Jobs Data",
+        "zh": "美国 10 年期收益率在疲软就业数据后稳定在 4.70%"
+      },
+      "impact": {
+        "en": "Rate-sensitive growth stocks benefit from yield stability while bond market absorbs uncertainty around Fed policy timing.",
+        "zh": "对利率敏感的成长股从收益率稳定中获益，债券市场吸收美联储政策时机的不确定性。"
+      },
+      "bullish": ["QQQ", "XLK"],
+      "bearish": ["TLT"],
+      "macroRisk": {
+        "en": "Policy pivot narrative strengthens; yields may rebound if inflation reaccelerates.",
+        "zh": "政策转向叙事加强；如果通胀重燃，收益率可能回升。"
+      }
+    },
+    {
+      "title": {
+        "en": "Dollar Eases Slightly as Treasury Yields Moderate",
+        "zh": "美元因美债收益率温和而轻微走弱"
+      },
+      "impact": {
+        "en": "Lower yields reduce dollar strength pressure on EM assets while maintaining relative stability across currencies.",
+        "zh": "较低的收益率减轻了对新兴市场资产的压力，同时保持货币间的相对稳定性。"
+      },
+      "bullish": ["EM", "XAU"],
+      "bearish": ["DXY"],
+      "macroRisk": {
+        "en": "Currency market remains stable amid moderate policy divergence.",
+        "zh": "货币市场在温和的政策分化下保持稳定。"
+      }
+    },
+    {
+      "title": {
+        "en": "VIX Below 15 Despite Geopolitical Oil Risks",
+        "zh": "VIX 低于 15，尽管存在地缘政治油价风险"
+      },
+      "impact": {
+        "en": "Low implied volatility indicates complacency but offers limited protection if geopolitical shock hits or oil spikes.",
+        "zh": "低隐含波动率表明自满情绪，但如果遭遇地缘政治冲击或油价飙升则提供有限保护。"
+      },
+      "bullish": [],
+      "bearish": ["VIX", "UVXY"],
+      "macroRisk": {
+        "en": "Volatility compression may intensify reversal if geopolitical shock hits or oil spikes suddenly.",
+        "zh": "如果遭遇地缘政治冲击或油价突然飙升，波动率压缩可能加剧逆转。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Selective strength in AI chip demand continues with NVDA, AMD leading. Cloud provider capex drives sustained sector momentum.",
+      "zh": "AI 芯片需求的选择性强劲持续，NVDA 和 AMD 领先。云服务商资本支出推动行业持续动量。"
+    },
+    "semiconductor": {
+      "en": "Memory and AI chip makers benefit from infrastructure buildout. MU Technology rebounds on renewed demand signals.",
+      "zh": "内存和 AI 芯片制造商从基础设施建设中受益。美光科技在需求信号恢复后反弹。"
+    },
+    "bigTech": {
+      "en": "Amazon and Alphabet gain on cloud spending. Valuation focus remains on quality earnings rather than pure growth narrative.",
+      "zh": "亚马逊和谷歌因云支出而获益。估值焦点保持在优质盈利而非纯粹增长叙事上。"
+    },
+    "energy": {
+      "en": "WTI above $82 with geopolitical premium. Energy sector maintains elevated prices despite ceasefire deadline passing.",
+      "zh": "WTI 高于 82 美元具有地缘政治溢价。尽管停火截止日期已过，能源板块仍维持高位价格。"
+    },
+    "ev": {
+      "en": "Mixed as broader auto/manufacturing macro regime impacts demand. EV sector lags in cyclical downturn conditions.",
+      "zh": "分化，更广泛的汽车/制造宏观经济环境影响需求。电动车板块在周期性衰退条件下落后。"
+    },
+    "market": {
+      "en": "Futures flat to slightly positive: Nasdaq +0.3%, S&P 500 breakeven, Dow near neutral. Growth outperforms value on yield stability.",
+      "zh": "期指平稳至微幅正面：纳斯达克 +0.3%，标普 500 持平，道指接近中性。收益率稳定时成长股优于价值股。"
+    },
+    "preciousMetals": {
+      "en": "Gold near $4,400 with dollar easing and inflation hedging demand providing support despite lower yields.",
+      "zh": "黄金接近 4,400 美元，美元走弱和通胀对冲需求提供支撑尽管收益率较低。"
+    },
+    "oil": {
+      "en": "WTI $82-84 range. Middle East conflict risk premium sustains prices above recession zone. Oil volatility moderates after geopolitical shock.",
+      "zh": "WTI 在 82-84 美元区间。中东冲突风险溢价使油价维持在高点之上。地缘政治冲击后油价波动缓和。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "Nasdaq futures +0.3%, S&P 500 flat, Dow near neutral. Nasdaq outperforms on AI-driven growth momentum.",
+      "zh": "纳斯达克期货 +0.3%，标普 500 持平，道指接近中性。AI 驱动的增长动量使纳斯达克表现更优。"
+    },
+    "treasury10Y": {
+      "en": "U.S. 10-year yield at 4.70%, stable following soft data and falling rate hike odds.",
+      "zh": "美国 10 年期收益率在 4.70%，数据疲软和加息概率下降后稳定。"
+    },
+    "dxy": {
+      "en": "Dollar index eased 0.15% as yields stabilize and safe-haven flows moderate.",
+      "zh": "美元指数下跌 0.15%，收益率稳定和安全避风资产流动缓和。"
+    },
+    "oil": {
+      "en": "WTI above $82, Brent near $89. Middle East tensions prevent collapse despite ceasefire expiration.",
+      "zh": "WTI 高于 82 美元，布伦特接近 89 美元。尽管停火过期，中东紧张局势阻止了价格崩溃。"
+    },
+    "keyRisk": {
+      "en": "AI concentration in Nasdaq; oil volatility if geopolitical shocks hit; VIX under 15 offers thin protection.",
+      "zh": "纳斯达克中 AI 集中；如果地缘政治冲击发生，油价波动；VIX 低于 15 提供微薄保护。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Growth rally led by AI sector diverges from cyclical laggards. Risk sentiment cautious but yields and oil stability provide buffer.",
+      "zh": "AI 板块引领的增长行情与周期性滞后的公司分化。风险情绪谨慎，但收益率和油价稳定提供缓冲。"
+    }
+  }
+}
