@@ -1,0 +1,156 @@
+{
+  "date": "2026-08-19",
+  "summary": {
+    "en": "U.S. stock futures mixed Wednesday as investors digest fading Iran peace prospects lifting oil and yields, while crowded AI chip trades unwind amid sector rotation into capacity validation themes. Broad market remains cautious with tech sector under pressure from valuation concerns and rising rate environment.",
+    "zh": "美股期货周三涨跌不一，投资者消化伊朗和平前景减弱推高油价和美债收益率，同时拥挤的 AI 芯片交易因板块轮动至产能验证主题而平仓。大盘保持谨慎态度，科技股受制于估值担忧和上升利率环境承压。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Iran Peace Talks Stall as Trump Says 'No Discussions' — Oil Rises for 4th Day",
+        "zh": "特朗普称'没有讨论'伊朗和平谈判停滞——油价连续 4 日上涨"
+      },
+      "impact": {
+        "en": "Geopolitical uncertainty elevates WTI to ~$84.50/barrel, pressuring rate-sensitive equities while offering inflation hedge benefits.",
+        "zh": "地缘政治不确定性将 WTI 推高至约$84.50/桶，给利率敏感型股票带来压力，同时提供通胀对冲益处。"
+      },
+      "bullish": ["XLV", "XLP"],
+      "bearish": ["XLF", "XLI"],
+      "macroRisk": {
+        "en": "Yes — Oil spike → inflation recalculation → Treasury yields higher → growth stocks pressured; flight to defensive sectors evident.",
+        "zh": "是——油价飙升→通胀重估→美债收益率上升→成长股承压；防御性板块吸引力显现。"
+      }
+    },
+    {
+      "title": {
+        "en": "Nvidia, AMD, Intel Slide Premarket as AI Chip Crowded Trade Unwinds",
+        "zh": "Nvidia、AMD、Intel 盘前下跌，AI 芯片拥挤交易平仓"
+      },
+      "impact": {
+        "en": "Crowded long positions in AI hardware face profit-taking pressure; sentiment shift from pure demand growth to capacity validation phase.",
+        "zh": "AI 硬件的拥挤多头头寸面临获利了结压力；情绪从纯需求增长转向产能验证阶段。"
+      },
+      "bullish": ["NVDA"],
+      "bearish": ["NVDA", "AMD", "INTC"],
+      "macroRisk": {
+        "en": "Yes — High rate environment magnifies valuation concerns in long-duration growth names; sector rotation underway.",
+        "zh": "是——高利率环境放大了长期成长股的估值担忧；板块轮动进行中。"
+      }
+    },
+    {
+      "title": {
+        "en": "10-Year Treasury Yields Edge Higher at 4.72% Amid Rate Sensitivity Concerns",
+        "zh": "10 年期美债收益率在利率敏感度担忧中微升至 4.72%"
+      },
+      "impact": {
+        "en": "Rising yields compress bond-equity valuation multiples, particularly affecting high-duration tech and consumer discretionary names.",
+        "zh": "上升收益率压缩债券与股票估值倍数，特别是影响高久期科技和可选消费名称。"
+      },
+      "bullish": ["TLT"],
+      "bearish": ["QQQ", "XLK", "XLY"],
+      "macroRisk": {
+        "en": "Yes — Treasury yield up → discount rates higher → equity DCF models pressured; growth stocks face headwinds.",
+        "zh": "是——美债收益率上升→贴现率提高→股票 DCF 模型承压；成长股面临逆风。"
+      }
+    },
+    {
+      "title": {
+        "en": "Gold Inches Higher as USD Weakens Ahead of FOMC Minutes Release",
+        "zh": "美元走弱之际黄金小幅回升，关注 FOMC 纪要发布"
+      },
+      "impact": {
+        "en": "Safe-haven demand supports precious metals; dollar weakness benefits miners and multinationals with overseas earnings exposure.",
+        "zh": "避险需求支撑贵金属；美元弱势利好矿商和海外收入暴露的多国公司。"
+      },
+      "bullish": ["GDX", "GLD"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Limited — Gold rally partly USD-driven rather than inflation hedge demand; safe-haven flows supportive but not trend-reversing.",
+        "zh": "有限——黄金上涨部分由美元驱动而非通胀对冲需求；避险流动支撑但非趋势反转。"
+      }
+    },
+    {
+      "title": {
+        "en": "S&P 500 Futures Fall 0.07%, Nasdaq-100 Slides 0.26% on Rate and Tech Pressures",
+        "zh": "标普 500 期货下跌 0.07%，纳斯达克 100 滑跌 0.26% 受利率和科技股压力影响"
+      },
+      "impact": {
+        "en": "Mixed premarket sentiment reflects divergent sector performance; tech underperformance counterbalanced by defensive sector strength.",
+        "zh": "盘前混合情绪反映板块分化表现；科技表现不佳被防御性板块走强抵消。"
+      },
+      "bullish": ["XLF", "XLV"],
+      "bearish": ["XLK", "QQQM"],
+      "macroRisk": {
+        "en": "Moderate — Broad market cautious; breadth deterioration possible if yields continue climbing or geopolitical tension escalates further.",
+        "zh": "中等——大盘谨慎；若收益率继续攀升或地缘紧张升级，可能出现广度恶化。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Under pressure from crowded trade unwind; Nvidia down ~2% premarket amid valuation reset. Shift from pure demand enthusiasm to capacity validation theme; watch for rotation into smaller-cap semis and analog chips.",
+      "zh": "受拥挤交易平仓压力；Nvidia 盘前跌约 2% 伴随估值重设。从纯需求热情转向产能验证主题；关注轮动至小盘半导体和模拟芯片。"
+    },
+    "semiconductor": {
+      "en": "Equilibrium challenge amid TSMC capacity concerns and AI demand normalization signals; AMD/Intel also under profit-taking. Optical comms sell-off reflects validation-phase reality.",
+      "zh": "台積電產能擔憂和 AI 需求正常化信號挑戰平衡；AMD/Intel 也獲利了結。光通信拋售反映驗證階段現實。"
+    },
+    "bigTech": {
+      "en": "Mixed sentiment; Nvidia faces valuation headwinds while Microsoft/AAPL hold steadier. Cloud capex cycles support long-term growth despite near-term volatility.",
+      "zh": "情绪混合；Nvidia 面临估值逆风，而微软/AAPL 保持稳健。云资本支出周期支持长期增长，尽管短期波动。"
+    },
+    "energy": {
+      "en": "WTI extends gains for 4th day near $84.50/barrel; Iran uncertainty adds geopolitical risk premium but OPEC+ production discipline limits upside.",
+      "zh": "WTI 连续 4 日上涨近$84.50/桶；伊朗不确定性增加地缘政治风险溢价，但欧佩克+产量纪律限制上行空间。"
+    },
+    "ev": {
+      "en": "Neutral to cautious; EV demand slowdown and interest rate sensitivity weigh on sector; broader auto manufacturing macro regime takes precedence.",
+      "zh": "中性偏谨慎；EV 需求放缓和利率敏感度拖累板块；更广泛的汽车制造宏观制度占主导。"
+    },
+    "market": {
+      "en": "Mixed breadth with defensive sectors outperforming growth tech; yields rising compresses equity multiples. Monitor breadth for early weakness signals.",
+      "zh": "广度混合，防御性板块跑赢成长科技；收益率上升压缩股票倍数。监控广度以获取早期弱势信号。"
+    },
+    "preciousMetals": {
+      "en": "Gold edges higher on USD weakness and safe-haven flows ahead of FOMC; silver also supportive but more sensitive to industrial demand concerns.",
+      "zh": "黄金在美元走弱和 FOMC 前避险流动中小幅上涨；白银也受支持但更敏感于工业需求担忧。"
+    },
+    "oil": {
+      "en": "WTI ~$84.50/bbl supported by Iran tension, rising supply risks. Supply constraints from geopolitical events provide floor but inflation recalculation caps near-term gains.",
+      "zh": "WTI 约$84.50/桶受伊朗紧张和供应风险支撑。地缘政治事件的供应约束提供地板，但通胀重估限制近期收益。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P futures -0.07%, Nasdaq -0.26%; Dow holding near flat. Japan/Korea/Australia markets mixed; sentiment cautious before earnings cycle.",
+      "zh": "标普期货-0.07%，纳指-0.26%；道指持近平仓。日/韩/澳市场混合；财报周期前情绪谨慎。"
+    },
+    "treasury10Y": {
+      "en": "10Y Treasury yield elevated at ~4.72%, up from recent lows. Higher rates pressure long-duration growth names; bond-equity valuation compression ongoing.",
+      "zh": "10 年美债收益率高企约 4.72%，自近期低点回升。高利率压制冷长久期成长股；债券 - 股票估值压缩持续。"
+    },
+    "dxy": {
+      "en": "Dollar softening ahead of FOMC minutes; modest USD decline supports gold miners and multinationals with overseas revenue exposure.",
+      "zh": "FOMC 纪要前美元走弱；温和美元下跌支持金矿商和海外收入暴露的多国公司。"
+    },
+    "oil": {
+      "en": "WTI oil around $84.50/bbl, extending 4th consecutive session of gains. Iran peace process uncertainty adds geopolitical risk premium to crude prices.",
+      "zh": "WTI 原油约$84.50/桶，连续第 4 个交易日上涨。伊朗和平进程不确定性为原油价格增加地缘政治风险溢价。"
+    },
+    "keyRisk": {
+      "en": "Rising Treasury yields coupled with geopolitical instability (Iran) creates mixed environment; defense sector and energy names benefit while tech faces headwinds.",
+      "zh": "上升的美债收益率加之地缘政治不稳定（伊朗）创造混合环境；国防部门和能源名称受益而科技面临逆风。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Mixed sentiment driven by geopolitics and rate sensitivity; defensive sectors outperform while growth tech under pressure. Monitor breadth deterioration as potential risk-off signal if yields continue climbing.",
+      "zh": "地缘政治和利率敏感度驱动混合情绪；防御性板块跑赢而成长科技承压。若收益率继续攀升，监控广度恶化作为潜在风险规避信号。"
+    }
+  }
+}
