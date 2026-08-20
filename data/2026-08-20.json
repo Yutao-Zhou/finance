@@ -1,0 +1,115 @@
+{
+  "date": "2026-08-20",
+  "summary": {
+    "en": "US futures steady after Asian tech selloff as Treasury buybacks calm long-end yields. Moderna surges 177% on melanoma vaccine breakthrough while oil climbs near $92 amid Hormuz tensions. DXY slips below 99, gold rallies toward $4,500.",
+    "zh": "美股期货在亚洲科技股抛售后企稳，国债买盘压低长期收益率。Moderna 因黑色素瘤疫苗突破飙升 177%，油价受霍尔木兹海峡紧张局势影响升至近 92 美元。美元指数跌破 99，黄金反弹至 4500 美元附近。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Moderna's Melanoma Vaccine Passes Phase 3 Trial, Stock Soars 177%",
+        "zh": "Moderna 黑色素瘤疫苗通过三期试验，股价飙升 177%"
+      },
+      "impact": "Historic mRNA cancer therapy success with Merck partnership reduces melanoma recurrence risk; catalyst for biotech sector and broader healthcare rally.",
+      "bullish": ["MRNA", "JNJ", "PFE", "GILD"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - biotech innovation event",
+        "zh": "否 - 生物技术创新事件"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil Prices Rise for Fifth Session as Hormuz Standoff Keeps WTI/Brent Near $92",
+        "zh": "油价连涨五日，霍尔木兹僵局令 WTI/Brent 原油接近 92 美元"
+      },
+      "impact": "Middle East tensions elevate supply risks; geopolitical premium weighs on inflation expectations and energy sector positioning.",
+      "bullish": ["XOM", "CVX", "COP"],
+      "bearish": ["PSX", "VLO"],
+      "macroRisk": {
+        "en": "Yes - stagflation risk via oil → inflation → Treasury yields",
+        "zh": "是 - 油价推升通胀预期传导至国债收益率"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury Doubles Buybacks, Yields Fall from 4.71% to 4.65%",
+        "zh": "财政部加倍买盘，收益率从 4.71% 降至 4.65%"
+      },
+      "impact": "Technical yield relief provides temporary respite for rate-sensitive equities; longer-term fundamentals remain challenging.",
+      "bullish": ["GLD", "TLT"],
+      "bearish": ["XLK", "QQQ"],
+      "macroRisk": {
+        "en": "Yes - stagflation regime persists despite Treasury intervention",
+        "zh": "是 - 国债干预难改滞胀格局"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Chip-led selloff extends overnight; SK Hynix, Samsung Electronics drop 7% on tech rout. AI hardware and semiconductor equipment names under pressure from stagflation fears.",
+      "zh": "芯片抛售延续至盘后，SK 海力士、三星电子跌 7%。AI 硬件和半导体设备股受滞胀担忧压制。"
+    },
+    "semiconductor": {
+      "en": "Broad-based weakness across fabless and equipment; KOLM (Korea) -5.8%, Japan semiconductor index mirrors Asian decline. Inventory normalization amid demand slowdown.",
+      "zh": "无晶圆厂和设备股全面走弱；韩国 COLM 跌 5.8%，日半指数同步亚洲下滑。需求放缓下的库存去化。"
+    },
+    "bigTech": {
+      "en": "Futures pause on tech-led losses following overnight decline; NVDA, MSFT names slip as rate sensitivity limits upside despite strong earnings expectations.",
+      "zh": "隔夜下跌后科技领跌，期货暂停；NVDA、MSFT 受利率敏感压制上行空间。"
+    },
+    "energy": {
+      "en": "WTI near $88-90, Brent approaching $92; Hormuz disruption fears drive risk premium. OPEC+ production discipline supports pricing power in inflationary environment.",
+      "zh": "WTI 近 88-90，Brent 近 92 美元；霍尔木兹中断担忧推升风险溢价。OPEC+ 增产纪律在通胀环境下支撑定价权。"
+    },
+    "ev": {
+      "en": "Auto sector lags on broader market weakness; EV-specific names underperform as chip shortage relief fails to offset macro headwinds.",
+      "zh": "整车板块跟随大盘走弱；EV 个股跑输，芯片短缺缓解难抵宏观逆风。"
+    },
+    "market": {
+      "en": "Futures flat to slightly lower after three-day decline; S&P 500 contracts slip 0.3%, Nasdaq down 0.5% as tech sells off. Healthcare gains offset broader weakness.",
+      "zh": "三连跌后期货持平微跌；标普合约跌 0.3%，纳指跌 0.5%。医药股上涨抵消大盘疲软。"
+    },
+    "preciousMetals": {
+      "en": "Gold rallies toward $4,500 as yields fall and DXY weakens; silver lags ahead of Fed minutes. Real rates decline supports precious metals flight-to-safety.",
+      "zh": "黄金反弹至 4500 美元附近，收益率和美元指数走弱；金银在美联储纪要前表现分化。实际利率下行助推避险属性。"
+    },
+    "oil": {
+      "en": "WTI extends four-day advance, Brent near $92. Geopolitical risk premium from Middle East tensions; Hormuz closure scenario keeps supply concerns elevated.",
+      "zh": "WTI 延续四日上涨，Brent 近 92 美元。中东紧张局势的风险溢价；霍尔木兹关闭情景维持供应担忧。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 futures steady to slightly lower after Friday's close; Nasdaq contracts down ~0.5% on tech selloff",
+      "zh": "标普期货在周五收盘后持平微跌；纳指合约因科技抛售下跌约 0.5%"
+    },
+    "treasury10Y": {
+      "en": "US 10-year yield falls to ~4.65% after Treasury buyback intervention from intraday high of 4.712%",
+      "zh": "美债 10 年期收益率因财政部干预从日内高点 4.712% 回落至约 4.65%"
+    },
+    "dxy": {
+      "en": "DXY slips below 99.00 on Treasury yields decline and Fed repricing expectations",
+      "zh": "美元指数在国债收益率下降和美联储重新定价预期下跌破 99.00"
+    },
+    "oil": {
+      "en": "WTI/Brent near $88-92 range as Hormuz tensions elevate geopolitical risk premium",
+      "zh": "WTI/Brent 原油受霍尔木兹紧张局势影响在 88-92 美元区间波动"
+    },
+    "keyRisk": {
+      "en": "Stagflation regime with oil-driven inflation undermining rate-cut expectations; tech selloff reflects fundamentals under macro stress",
+      "zh": "油价推升通胀破坏降息预期的滞胀格局；科技股抛售反映宏观压力下基本面受损"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Mixed session with biotech rally (Moderna) offsetting tech/semiconductor weakness. Macro regime challenges (stagflation, yield pressure) limit broad upside despite short-term catalysts.",
+      "zh": "板块分化：生物技术股（Moderna）反弹抵消科技股/半导体疲软。宏观格局挑战（滞胀、收益率压力）限制广泛上行空间，尽管存在短期催化。"
+    }
+  }
+}
