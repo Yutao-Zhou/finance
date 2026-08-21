@@ -1,0 +1,167 @@
+{
+  "date": "2026-08-21",
+  "summary": {
+    "en": "US futures track flat after Friday's close amid stagflation regime concerns; Treasury buybacks support longer end but oil near $90 keeps inflation expectations elevated. Tech sector lags on macro headwinds while biotech and energy provide sectoral divergence.",
+    "zh": "美股期货在周五收盘后持平，滞胀格局担忧弥漫；国债买盘支撑长端但近 90 美元油价令通胀预期居高不下。科技板块受宏观逆风拖累，而生物技术和能源提供板块分化。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Treasury Yield Relief Continues as Fed Watchers Monitor PCE Release Tomorrow",
+        "zh": "国债收益率获支撑，投资者关注明日 PCE 通胀数据"
+      },
+      "impact": "Treasury buybacks stabilize long-end yields but market waits for tomorrow's PCE print; inflation data timing critical for Fed policy expectations.",
+      "bullish": ["TLT", "GLD"],
+      "bearish": ["XLK", "SMH"],
+      "macroRisk": {
+        "en": "Yes - PCE inflation surprise could trigger regime shift via oil/long-end Treasury transmission",
+        "zh": "是 - PCE 通胀意外可能通过油价/长端国债传导引发格局转变"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil Holds Above $89 as Middle East Tensions Remain Elevated Despite Hormuz De-escalation Hopes",
+        "zh": "油价维持在 89 美元上方，中东紧张局势虽见缓和希望但仍处高位"
+      },
+      "impact": "WTI/Brent geopolitical premium persists; any supply disruption scenario near Hormuz directly impacts inflation expectations and rate-sensitive equities.",
+      "bullish": ["XOM", "CVX", "COP", "OXY"],
+      "bearish": ["PSX", "MPC"],
+      "macroRisk": {
+        "en": "Yes - oil-driven stagflation risk continues to weigh on broad equity performance",
+        "zh": "是 - 油价推升的滞胀风险持续压制大盘表现"
+      }
+    },
+    {
+      "title": {
+        "en": "NVIDIA and Big Tech Faces Rate Sensitivity Limits Gains Despite Strong AI Demand Outlook",
+        "zh": "英伟达等科技巨头虽 AI 需求强劲但受利率敏感限制涨幅"
+      },
+      "impact": "Strong earnings expectations offset by yield pressure; rate-sensitive megacap tech underperform relative to small-cap value.",
+      "bullish": ["NVDA", "MSFT", "META"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - fundamental demand but valuation compressed under macro stress",
+        "zh": "否 - 基本面强劲但估值受宏观压力压制"
+      }
+    },
+    {
+      "title": {
+        "en": "Gold Approaches $4,500 as Real Rates Decline and DXY Weakens Below 99",
+        "zh": "金价接近 4500 美元，实际利率下降和美元指数跌破 99"
+      },
+      "impact": "Real yield decline + dollar weakness supports precious metals flight-to-safety narrative; hedging demand elevated amid geopolitical uncertainty.",
+      "bullish": ["GLD", "IAU", "NEM"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - defensive positioning rather than offensive catalyst",
+        "zh": "否 - 防御性配置而非进攻型催化"
+      }
+    },
+    {
+      "title": {
+        "en": "Asian Tech Index Declines Extend Overnight; Inventory Normalization Concerns Persist in Semis",
+        "zh": "隔夜亚洲科技股下跌延续，半导体库存去化担忧持续"
+      },
+      "impact": "Korea/Japan semiconductor index weakness mirrors broader China export slowdown fears; supply chain deleveraging cascades.",
+      "bullish": [],
+      "bearish": ["SMH", "XRT", "SOXX"],
+      "macroRisk": {
+        "en": "Yes - demand deterioration in China region feeds into global inventory concerns",
+        "zh": "是 - 中国地区需求恶化加剧全球库存担忧"
+      }
+    },
+    {
+      "title": {
+        "en": "Auto Sector Underperforms as EV Names Lag on Broader Macro Weakness",
+        "zh": "整车板块跑输大盘，电动车股受宏观疲软拖累"
+      },
+      "impact": "Chip shortage relief insufficient to offset macro headwinds; consumer spending sensitivity elevated in inflationary regime.",
+      "bullish": ["TSLA"],
+      "bearish": ["LUKE", "FSR"],
+      "macroRisk": {
+        "en": "No - sector-specific weakness under stagflation environment",
+        "zh": "否 - 滞胀环境下的板块性疲软"
+      }
+    },
+    {
+      "title": {
+        "en": "Healthcare Rallies Following Biotech Innovation Catalysts; Defensive Sectors Gain Breadth",
+        "zh": "医疗跟随生物技术创新催化剂反弹，防御性板块领涨"
+      },
+      "impact": "Defensive rotation supports broad market stability despite macro uncertainty; institutional flows favor quality over momentum.",
+      "bullish": ["XLV", "JNJ", "UNH"],
+      "bearish": ["XLF", "XLI"],
+      "macroRisk": {
+        "en": "No - defensive positioning in uncertain regime",
+        "zh": "否 - 不确定格局下的防御配置"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI hardware names under pressure from rate sensitivity; strong demand fundamentals offset by valuation compression under stagflation fears. NVDA, AMD slip modestly as yield relief limited.",
+      "zh": "AI 硬件股受利率敏感压制；强劲的需求基本面被滞胀担忧下的估值压缩抵消。英伟达、AMD 小幅下滑，收益率缓解有限。"
+    },
+    "semiconductor": {
+      "en": "Semiconductor equipment and fabless names decline on Asian index weakness; inventory normalization concerns in China export markets limit upside despite AI demand.",
+      "zh": "半导体设备和无晶圆厂股受亚洲指数走弱影响下跌；中国出口市场的库存去化担忧限制上行空间，尽管 AI 需求强劲。"
+    },
+    "bigTech": {
+      "en": "Big Tech megacaps lag as rate sensitivity weighs on multiples; earnings expectations remain strong but yield environment limits alpha generation.",
+      "zh": "科技巨头受利率敏感拖累估值倍数；盈利预期依然强劲但收益率环境限制超额收益生成。"
+    },
+    "energy": {
+      "en": "Energy sector outperforms as oil holds near $90; Hormuz tensions support risk premium. OPEC+ discipline and supply constraints favor producers in inflationary regime.",
+      "zh": "能源板块优于大盘，油价维持在 90 美元附近；霍尔木兹紧张局势支撑风险溢价。OPEC+ 增产纪律和供应限制在通胀环境下利好生产商。"
+    },
+    "ev": {
+      "en": "EV sector underperforms on macro weakness; chip shortage relief insufficient to offset inflation-driven consumer spending caution and rate-sensitive valuations.",
+      "zh": "电动车板块因宏观疲软跑输大盘；芯片短缺缓解不足以抵消通胀驱动的消费者支出谨慎和利率敏感估值。"
+    },
+    "market": {
+      "en": "Mixed breadth with defensive sectors (healthcare, gold) supporting stability despite stagflation regime. Futures flat to slightly lower; sector divergence expected to persist.",
+      "zh": "板块分化，防御性板块（医疗、黄金）在滞胀格局下支撑稳定性。期货持平微跌；板块分化预计持续。"
+    },
+    "preciousMetals": {
+      "en": "Gold rallies toward $4,500 as real yields fall and DXY weakens; silver mirrors precious metals with modest gains ahead of Fed minutes. Flight-to-safety demand elevated.",
+      "zh": "金价反弹至 4500 美元，实际利率下降和美元指数走弱；白银随贵金属小幅上涨，美联储纪要前避险需求走高。"
+    },
+    "oil": {
+      "en": "WTI near $88-92, Brent at $91-93 range as Middle East tensions persist. Hormuz closure scenario keeps supply concerns elevated; geopolitical premium supports prices despite demand slowdown.",
+      "zh": "WTI 在 88-92 美元，Brent 在 91-93 美元区间，中东紧张局势持续。霍尔木兹关闭情景维持供应担忧；地缘风险溢价支撑价格，尽管需求放缓。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 futures flat to slightly lower; Nasdaq contracts down ~0.4% on tech selloff continuation and rate sensitivity",
+      "zh": "标普期货持平微跌；纳指合约下跌约 0.4%，因科技抛售延续和利率敏感"
+    },
+    "treasury10Y": {
+      "en": "US 10-year yield around 4.65-4.70% range as Treasury buybacks stabilize but PCE print tomorrow creates uncertainty",
+      "zh": "美债 10 年期收益率在 4.65-4.70% 区间，国债买盘稳定但明日 PCE 数据引发不确定性"
+    },
+    "dxy": {
+      "en": "DXY near 98.80-99.20 as yield decline and China trade tensions ease dollar slightly",
+      "zh": "美元指数在 98.80-99.20，收益率下降和中国贸易紧张缓和令美元小幅走弱"
+    },
+    "oil": {
+      "en": "WTI $88-91, Brent $91-94 range as Hormuz geopolitical risk premium remains elevated",
+      "zh": "WTI 88-91 美元，Brent 91-94 美元，霍尔木兹地缘风险溢价保持高位"
+    },
+    "keyRisk": {
+      "en": "PCE inflation data tomorrow could trigger regime shift; oil-driven stagflation concerns limit broad equity upside despite sector catalysts",
+      "zh": "明日 PCE 通胀数据可能引发格局转变；油价推升的滞胀担忧限制大盘上行空间，尽管存在板块催化剂"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Mixed session with defensive sectors (healthcare, gold) outperforming despite macro regime challenges. Sector divergence persists between energy/oil rally and tech weakness; PCE inflation print tomorrow creates binary risk event that could shift market direction.",
+      "zh": "板块分化，防御性板块（医疗、黄金）优于大盘，尽管宏观格局面临挑战。能源/油价上涨和科技疲软之间的板块分化持续；明日 PCE 通胀数据制造二元风险事件，可能改变市场方向。"
+    }
+  }
+}
