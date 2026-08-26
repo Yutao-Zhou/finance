@@ -1,0 +1,188 @@
+{
+  "date": "2026-08-25",
+  "summary": {
+    "en": "US stock futures edge higher pre-market as tech stocks rebound from Monday's selloff, led by Nvidia ahead of its high-stakes Wednesday earnings report. Investors are cautiously optimistic despite pending inflation (PCE) and GDP data releases Tuesday.",
+    "zh": "美股期货在科技股反弹周一的抛售后小幅走高，NVIDIA 因周三的财报备受关注。投资者对周二即将发布的通胀（PCE）和 GDP 数据持谨慎乐观态度。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Nvidia Rebounds Pre-earnings as Retail Bullish Sentiment Builds Ahead of High-Stakes Wednesday Report",
+        "zh": "NVIDIA 在周三财报前反弹，零售投资者乐观情绪增强"
+      },
+      "impact": {
+        "en": "Nvidia shares rose nearly 1% in premarket, with over 70% of retail investors expecting a beat and raise. AI chip demand remains strong despite recent volatility.",
+        "zh": "NVIDIA 盘前涨近 1%，超过 70% 的散户投资者期待财报超预期。AI 芯片需求强劲，尽管近期波动较大。"
+      },
+      "bullish": ["NVDA", "AMD", "AVGO"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - Tech rally is earnings-driven, but geopolitical tensions on Iran sanctions could affect global chip trade indirectly via OPEC+ energy pricing.",
+        "zh": "否 - 科技股反弹由财报驱动，但伊朗制裁的地缘政治紧张可能通过 OPEC+ 能源定价间接影响全球芯片贸易。"
+      }
+    },
+    {
+      "title": {
+        "en": "Tech Sector Leads Rebound: AI Infrastructure and Data Center Stocks Rise on Infrastructure Spending Optimism",
+        "zh": "科技板块领涨：AI 基础设施和数据中心股票在基础设施支出乐观情绪中上涨"
+      },
+      "impact": {
+        "en": "Gorilla Technology up nearly 10%, Nebius raises $5.75B debt for data center expansion. Navitas Semiconductor advances with data center power architecture M&A.",
+        "zh": "Gorilla 技术涨近 10%，Nebius 筹资 57.5 亿美元用于数据中心扩张。Navitas 半导体以数据中心电源架构并购推进。"
+      },
+      "bullish": ["GRRR", "NBIS", "NVTS"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - Infrastructure spending supports long-term growth, though rate sensitivity could be an issue if Treasury yields rise on inflation data.",
+        "zh": "否 - 基础设施支出支持长期增长，但如果通胀数据导致美债收益率上升，利率敏感性可能成为一个问题。"
+      }
+    },
+    {
+      "title": {
+        "en": "Bitcoin Breaks $80K Barrier on Renewed ETF Inflows, Boosting Crypto-adjacent Equities",
+        "zh": "比特币在 ETF 流入回升后突破 80K 大关，推动加密相关股票上涨"
+      },
+      "impact": {
+        "en": "Bitcoin surged past $80,000 with renewed spot ETF inflows. MSTR, COIN, BMNR benefit from crypto risk appetite return.",
+        "zh": "比特币在现货 ETF 流入回升后突破 8 万美元。MSTR、COIN、BMNR 从加密风险偏好回升中受益。"
+      },
+      "bullish": ["MSTR", "COIN", "BMNR"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Low - Crypto rally correlates with risk-on sentiment, but Treasury Secretary Bessent's 'zero leakage' strategy on Iran sanctions creates uncertainty for digital assets.",
+        "zh": "低 - 加密货币反弹与风险偏好相关，但美国财长 Bessent 的伊朗制裁'零泄漏'战略给数字资产带来不确定性。"
+      }
+    },
+    {
+      "title": {
+        "en": "Alibaba Completes $10.2B Follow-on Offering Despite Extended Premarket Losses",
+        "zh": "阿里巴巴完成 102 亿美元后续融资，尽管盘前损失扩大"
+      },
+      "impact": {
+        "en": "Alibaba extended premarket losses after $10.2B follow-on offering. CEO Eddie Wu and Chairman Joseph Tsai bought 1M+ shares combined, signaling insider confidence.",
+        "zh": "阿里巴巴在 102 亿美元后续融资后盘前损失扩大。CEO Eddie Wu 和主席 Joseph Tsai 合计买入超过 100 万股，显示内部人信心。"
+      },
+      "bullish": ["BABA"],
+      "bearish": ["BABA"],
+      "macroRisk": {
+        "en": "Low - Insider buying supports confidence, though China equity sentiment remains fragile on geopolitical headwinds.",
+        "zh": "低 - 内部人买入支持信心，但地缘政治逆风使中国股票情绪依然脆弱。"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury Secretary Bessent's Iran Sanctions 'Zero Leakage' Strategy Raises Geopolitical Risk Premium",
+        "zh": "美国财长 Bessent 的伊朗制裁'零泄漏'战略引发地缘政治风险溢价担忧"
+      },
+      "impact": {
+        "en": "Washington pursuing zero-leverage strategy on Iran sanctions could impact global energy and commodity trade. Oil prices may see volatility as OPEC+ adjusts pricing amid geopolitical tension.",
+        "zh": "华盛顿对伊朗制裁追求零泄漏战略可能影响全球能源和商品贸易。随着 OPEC+ 在地缘政治紧张中调整定价，油价可能出现波动。"
+      },
+      "bullish": [],
+      "bearish": ["XLE", "OIL"],
+      "macroRisk": {
+        "en": "Medium-high - Geopolitical tensions on Iran sanctions could trigger oil price spikes, inflation expectations, and potential style shifts toward defensive sectors.",
+        "zh": "中高 - 伊朗制裁的地缘政治紧张可能引发油价飙升、通胀预期和潜在防御性板块的风格切换。"
+      }
+    },
+    {
+      "title": {
+        "en": "Consumer Confidence and New Home Sales Data Due Tuesday: Market Eyes Housing Sector Health",
+        "zh": "周二将公布消费者信心和新屋销售数据：市场关注住房部门健康状况"
+      },
+      "impact": {
+        "en": "Key economic indicators due Tuesday will influence Fed policy expectations and rate-sensitive positioning ahead of PCE inflation data and Wednesday's Nvidia earnings.",
+        "zh": "周二发布的经济指标将影响美联储政策预期和通胀数据发布前及周三 NVIDIA 财报前的利率敏感配置。"
+      },
+      "bullish": [],
+      "bearish": ["XHB", "KAM"],
+      "macroRisk": {
+        "en": "Medium - Housing sector weakness could signal economic slowdown, while strong data may complicate Fed's inflation fight narrative.",
+        "zh": "中等 - 住房部门疲软可能表明经济放缓，而强劲数据可能使美联储对抗通胀的叙事复杂化。"
+      }
+    },
+    {
+      "title": {
+        "en": "Billionaire Stanley Druckenmiller Criticizes Treasury Bond Buyback Policy",
+        "zh": "亿万富豪斯坦利·德鲁肯米勒批评美国财政部债券回购政策"
+      },
+      "impact": {
+        "en": "Druckenmiller called increased bond buybacks a policy mistake, comparing it to suppressing long-term borrowing costs rather than managing liquidity. Could impact Treasury market positioning.",
+        "zh": "德鲁肯米勒称增加债券回购是一项政策失误，认为其更像是抑制长期融资成本而非管理流动性。可能影响美债市场配置。"
+      },
+      "bullish": [],
+      "bearish": ["TLT", "TLHY"],
+      "macroRisk": {
+        "en": "Low - Commentary reflects existing yield curve concerns but unlikely to drive immediate Treasury market moves.",
+        "zh": "低 - 评论反映了现有的收益率曲线担忧，但不太可能立即推动美债市场变动。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector shows strong premarket rally with Nvidia leading tech rebound. Infrastructure spending optimism drives data center names (GRRR, NBIS, NVTS). Retail sentiment remains bullish on AI chips despite volatility.",
+      "zh": "AI 板块盘前强劲反弹，NVIDIA 领涨科技股。基础设施支出乐观情绪推动数据中心股票（GRRR、NBIS、NVTS）。尽管存在波动，散户对 AI 芯片仍持乐观态度。"
+    },
+    "semiconductor": {
+      "en": "Semiconductors rebound alongside tech sector, with NVDA up nearly 1% premarket. AMD, Broadcom, Micron also gain as chip demand remains resilient amid geopolitical headwinds.",
+      "zh": "半导体随科技板块反弹，NVDA 盘前涨近 1%。AMD、Broadcom、Micron 也上涨，芯片需求在地缘政治逆风中保持韧性。"
+    },
+    "bigTech": {
+      "en": "Big tech mixed: META launching consumer AI agent Hatch, GOOGL raising YouTube Premium prices in Europe/Asia. BABA extended losses despite insider buying confidence.",
+      "zh": "大科技股表现不一：META 推出消费者 AI 代理 Hatch，GOOGL 在欧洲/亚洲提高 YouTube Premium 价格。BABA 尽管内部人买入信心仍盘前损失扩大。"
+    },
+    "energy": {
+      "en": "Energy sector cautious on Iran sanctions 'zero leakage' strategy impact on oil prices. OPEC+ may adjust pricing amid geopolitical tension, creating volatility risks for energy producers.",
+      "zh": "能源部门对伊朗制裁'零泄漏'战略对油价影响保持谨慎。OPEC+ 可能因地缘政治紧张调整定价，给能源生产商带来波动风险。"
+    },
+    "ev": {
+      "en": "EV sector tepid despite Tesla Cybertruck price increase. TSLA remains retail favorite but faces sales challenges. Bloom Energy up 5% after Pelosi shares disclosure.",
+      "zh": "电动车板块表现平淡，尽管特斯拉 Cybertruck 涨价。TSLA 仍是散户最爱但面临销售挑战。贝拉克披露股份后 BE 涨 5%。"
+    },
+    "market": {
+      "en": "Market futures edge higher: Nasdaq +0.5%, S&P +0.2%, Dow +0.1%. Tech rebound from Monday's selloff drives broader index recovery, though inflation/GDP data create uncertainty.",
+      "zh": "市场期货小幅走高：纳斯达克涨 0.5%，标普涨 0.2%，道指涨 0.1%。科技股从周一抛售中反弹推动大盘指数恢复，但通胀/GDP 数据造成不确定性。"
+    },
+    "preciousMetals": {
+      "en": "Gold and silver track geopolitical risk premium from Iran tensions. Safe-haven flows may support precious metals if oil price spikes on sanctions news.",
+      "zh": "黄金和白银追踪伊朗紧张局势的风险溢价。如果制裁新闻导致油价飙升，避险资金可能支持贵金属。"
+    },
+    "oil": {
+      "en": "Oil prices face volatility from Iran sanctions 'zero leakage' strategy. OPEC+ pricing adjustments amid geopolitical tensions could create short-term price swings for energy stocks.",
+      "zh": "油价面临伊朗制裁'零泄漏'战略的波动。OPEC+ 在地缘政治紧张中的定价调整可能导致能源股短期价格波动。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "Nasdaq futures up 0.5%, S&P 500 futures +0.2%, Dow futures +0.1% - Tech rebound from Monday's selloff drives index recovery ahead of inflation data.",
+      "zh": "纳斯达克期货涨 0.5%，标普 500 期货涨 0.2%，道指期货涨 0.1% - 科技股从周一抛售中反弹推动指数在通胀数据前恢复。"
+    },
+    "treasury10Y": {
+      "en": "Watch for inflation data impact on 10Y yields. Druckenmiller's bond buyback critique adds policy uncertainty. Expect sensitivity to PCE release Tuesday.",
+      "zh": "关注通胀数据对 10Y 收益率的影响。德鲁肯米勒的债券回购批评增加了政策不确定性。预计周二 PCE 发布将引发敏感性波动。"
+    },
+    "dxy": {
+      "en": "DXY tracking geopolitical risk from Iran tensions. Dollar strength may offset multinationals' earnings, but crypto rally indicates improved risk appetite.",
+      "zh": "DXY 追踪伊朗紧张局势的地缘政治风险。美元走强可能抵消跨国公司的收益，但加密货币反弹表明风险偏好改善。"
+    },
+    "oil": {
+      "en": "WTI/Brent face volatility from Iran sanctions strategy. OPEC+ pricing adjustments may cause short-term swings in oil prices and energy sector.",
+      "zh": "WTI/布伦特原油面临伊朗制裁战略的波动。OPEC+ 定价调整可能导致油价和能源部门短期波动。"
+    },
+    "keyRisk": {
+      "en": "Iran sanctions 'zero leakage' strategy could trigger oil price spikes and inflation expectations, complicating Fed's policy stance ahead of Jackson Hole speech.",
+      "zh": "伊朗制裁'零泄漏'战略可能引发油价飙升和通胀预期，使美联储在杰克逊霍尔讲话前的政策立场复杂化。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Mixed sentiment with tech-led rebound vs. geopolitical caution. AI infrastructure names rally while energy and crypto face uncertainty from Iran sanctions strategy. Monitor inflation data impact on risk-on/off positioning.",
+      "zh": "情绪复杂：科技股反弹与地缘政治谨慎并存。AI 基础设施股票上涨，而能源和加密货币面临伊朗制裁战略的不确定性。关注通胀数据对风险偏好配置的影响。"
+    }
+  }
+}
