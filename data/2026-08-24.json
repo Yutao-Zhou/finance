@@ -1,0 +1,188 @@
+{
+  "date": "2026-08-24",
+  "summary": {
+    "en": "US futures pared losses as Treasury yields moderated following reports that the Treasury could use its General Account for bond buybacks. Markets await Iran sanctions details, with WTI oil dropping to $85.65 amid geopolitical uncertainty.",
+    "zh": "美国期货平盘，因美债收益随着财政部或可使用一般账户回购债券的报道而缓和。市场等待伊朗制裁细节，WTI 原油因地缘政治不确定性跌至 85.65 美元。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Treasury TGA Buyback Plan Could Help Fund Bond Operations Amid Yields",
+        "zh": "美债 TGA 回购计划可能协助为债券操作融资，尽管收益率仍高企"
+      },
+      "impact": {
+        "en": "Potential relief for bond markets if Treasury announces TGA-funded buybacks, though amounts remain unspecified. Could help ease supply pressures on yields.",
+        "zh": "若美债宣布使用 TGA 资金回购债券，债券市场可能缓解，尽管金额未定。或有助于减轻收益率供应压力。"
+      },
+      "bullish": ["TLT", "BND"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - Yield relief is structural policy, not geopolitical. Could support risk assets.",
+        "zh": "否 - 收益率缓解是结构性政策，非地缘政治。或支持风险资产。"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil Prices Dip to $85.65 as Iran Sanctions Drama Builds",
+        "zh": "油价跌至 85.65 美元，伊朗制裁戏剧升级"
+      },
+      "impact": {
+        "en": "WTI down 1.62%, Brent at $93.09 as markets await Trump administration's 'toughest sanctions' announcement against Iran Sept 8 retaliation date looms.",
+        "zh": "WTI 下跌 1.62%，布伦特原油在 93.09 美元，市场等待特朗普政府宣布对伊朗的‘最严厉制裁’，加拿大报复措施于 9 月 8 日生效。"
+      },
+      "bullish": ["USO"],
+      "bearish": ["XLE"],
+      "macroRisk": {
+        "en": "Medium - Iran tension creates volatility but may not sustain rally if sanctions prove effective. Watch for OPEC response.",
+        "zh": "中等 - 伊朗紧张局势造成波动，但若制裁有效则难以维持涨势。关注 OPEC 反应。"
+      }
+    },
+    {
+      "title": {
+        "en": "NVIDIA Warns of 15% AI Server Price Hikes Due to Memory Costs",
+        "zh": "英伟达警告因内存成本上涨，AI 服务器价格将提高 15%"
+      },
+      "impact": {
+        "en": "Memory supply constraints squeezing margins. NVIDIA also exploring $30B deal to fund Perplexity AI, which saw revenue explode to $750M.",
+        "zh": "内存供应约束挤压利润率。英伟达也在探索 300 亿美元协议以资助 Perplexity AI，其收入激增到 7.5 亿美元。"
+      },
+      "bullish": ["NVDA", "SMCI"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Low - Supply-chain issue within AI sector, not macro regime change.",
+        "zh": "低 - 是 AI 行业内的供应链问题，非宏观体制变化。"
+      }
+    },
+    {
+      "title": {
+        "en": "Hugging Face Explored $13B Sale Amid Security Concerns",
+        "zh": "因安全担忧，Hugging Face 被考虑以 130 亿美元出售"
+      },
+      "impact": {
+        "en": "OpenAI breach partner seeks exit. M&A activity in AI infrastructure could reshape the landscape as consolidation accelerates.",
+        "zh": "OpenAI 泄密合作伙伴寻求退出。AI 基础设施的并购活动可能重塑格局，随着整合加速。"
+      },
+      "bullish": ["MSFT", "GOOGL"],
+      "bearish": ["HUGF"],
+      "macroRisk": {
+        "en": "Low - Corporate-level M&A, not macro policy signal.",
+        "zh": "低 - 企业级并购，非宏观政策信号。"
+      }
+    },
+    {
+      "title": {
+        "en": "Canada Confirms Retaliatory Tariffs Effective Sept 8",
+        "zh": "加拿大确认报复性关税于 9 月 8 日生效"
+      },
+      "impact": {
+        "en": "Trade negotiations collapsed. Canada will impose counter-tariffs on US goods, potential inflationary pressure on cross-border trade.",
+        "zh": "贸易谈判破裂。加拿大将对美国商品实施报复性关税，可能对跨境贸易造成通胀压力。"
+      },
+      "bullish": [],
+      "bearish": ["XOM"],
+      "macroRisk": {
+        "en": "Medium - Trade escalation could affect energy, agriculture sectors. Watch for broader tariff spillover.",
+        "zh": "中等 - 贸易升级可能影响能源、农业部门。留意更广泛关税外溢效应。"
+      }
+    },
+    {
+      "title": {
+        "en": "Bitcoin and Gold Surge on Treasury Buyback Backfire",
+        "zh": "比特币和黄金因美债回购受挫而飙升"
+      },
+      "impact": {
+        "en": "Yields stayed elevated despite doubled buyback limit, boosting hard assets. Stablecoin bank Fastet reached $1B valuation.",
+        "zh": "尽管加倍了回购额度，收益率仍维持高位，利好硬资产。稳定币银行 Fastet 估值达到 10 亿美元。"
+      },
+      "bullish": ["BTC", "GLD"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Medium - Inflation hedge demand rising amid fiscal uncertainty.",
+        "zh": "中等 - 财政不确定性推高通胀对冲需求。"
+      }
+    },
+    {
+      "title": {
+        "en": "Morgan Stanley: Quality Stocks Make S&P 500 More Attractive Than Overseas",
+        "zh": "摩根士丹利：优质股票使标普 500 比海外更具吸引力"
+      },
+      "impact": {
+        "en": "US equities outperform global peers despite geopolitics. Quality factor gains support defensive positioning.",
+        "zh": "尽管地缘政治，美股仍跑赢全球同行。质量因子收益支持防御性配置。"
+      },
+      "bullish": ["SPY", "QQQ"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Low - Relative valuation appeal, not macro catalyst.",
+        "zh": "低 - 相对估值吸引力，非宏观催化剂。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Mixed signals: NVIDIA's $30B Perplexity deal and $750M revenue for AI partners suggest demand persists, but memory cost warnings temper enthusiasm. Hugging Face sale talks hint at sector consolidation.",
+      "zh": "信号混杂：NVIDIA 的 300 亿美元 Perplexity 协议和 AI 合作伙伴的 7.5 亿美元收入表明需求持续，但内存成本警告抑制热情。Hugging Face 出售谈判暗示行业整合。"
+    },
+    "semiconductor": {
+      "en": "Memory supply constraints and NVIDIA's 15% price hike warnings create near-term headwinds. Chip stocks trading flat as AI infrastructure investment pace moderates.",
+      "zh": "内存供应约束和英伟达的 15% 涨价警告造成短期阻力。芯片股票交投平淡，AI 基础设施投资速度放缓。"
+    },
+    "bigTech": {
+      "en": "Relatively stable with Hugging Face seeking $13B exit. Consolidation likely accelerates as AI infrastructure M&A continues. US quality factor premium persists.",
+      "zh": "相对稳定，Hugging Face 寻求 130 亿美元退出。随着 AI 基础设施并购继续，整合可能加速。美国质量因子溢价持续。"
+    },
+    "energy": {
+      "en": "Oil volatility tied to Iran sanctions narrative. WTI at $85.65, Brent at $93.09 as geopolitical premium fades if sanctions work. Energy sector faces cross-border trade impact from Canada tariffs.",
+      "zh": "油价波动与伊朗制裁叙事相关。WTI 在 85.65 美元，布伦特在 93.09 美元，地缘溢价在制裁有效时消退。能源部门面临加拿大关税对跨境贸易的影响。"
+    },
+    "ev": {
+      "en": "Auto sector broadly flat, with EV makers feeling mixed pressure from trade escalation and oil price volatility. Supply chain diversification remains priority.",
+      "zh": "汽车板块总体平稳，电动车制造商受到贸易升级和油价波动带来的混合压力。供应链多元化仍是优先事项。"
+    },
+    "market": {
+      "en": "Futures pared losses: SPX -0.18%, NASD -0.54%, DJIA -0.12%. Market awaiting clarity on Treasury policy and Iran sanctions, with risk appetite moderate amid fiscal uncertainty.",
+      "zh": "期货平盘：SPX 下跌 0.18%，纳指下跌 0.54%，道指下跌 0.12%。市场等待美债政策和伊朗制裁的明确信号，财政不确定性下风险偏好温和。"
+    },
+    "preciousMetals": {
+      "en": "Gold surged as Treasury yield relief strategy backfired, with Bitcoin and precious metals gaining hard asset appeal despite elevated yields. Inflation hedge demand rising.",
+      "zh": "黄金因美债收益率缓解策略受挫而飙升，比特币和贵金属尽管收益率高企仍获得硬资产吸引力。通胀对冲需求上升。"
+    },
+    "oil": {
+      "en": "WTI down 1.62% to $85.65, Brent at $93.09 as markets digest Iran sanctions drama. Watch for OPEC response and whether Washington's pressure on Tehran can isolate economy.",
+      "zh": "WTI 下跌 1.62% 至 85.65 美元，布伦特在 93.09 美元，市场消化伊朗制裁戏剧。关注 OPEC 回应和华盛顿能否通过施压孤立德黑兰经济。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "Slightly lower: SPX -0.18%, NASD -0.54%, DJIA -0.12% as investors assess Treasury policy and Iran sanctions impact on risk assets.",
+      "zh": "略微下跌：SPX 下跌 0.18%，纳指下跌 0.54%，道指下跌 0.12%，投资者评估美债政策和伊朗制裁对风险资产的影响。"
+    },
+    "treasury10Y": {
+      "en": "Moderated from previous week's spike as reports emerged that Treasury could use TGA for bond buybacks, though amounts remain unspecified.",
+      "zh": "随着报道出现财政部可使用 TGA 回购债券而从前一周的峰值回落，尽管金额未定。"
+    },
+    "dxy": {
+      "en": "Under pressure from Bessent's hints toward weaker dollar policy. Treasury Secretary's devaluation bets reignited as he suggests policy shifts.",
+      "zh": "受到贝森特对弱势美元政策的暗示而承压。财政部长的贬值赌注因他建议政策转变而被重燃。"
+    },
+    "oil": {
+      "en": "WTI at $85.65, Brent at $93.09 as geopolitical premium fades. Watch for OPEC response and supply chain disruptions in Hormuz Strait closure aftermath.",
+      "zh": "WTI 在 85.65 美元，布伦特在 93.09 美元，地缘溢价消退。关注 OPEC 回应和霍尔木兹海峡关闭后的供应链中断。"
+    },
+    "keyRisk": {
+      "en": "Iran sanctions announcement later today could trigger volatility. Secondary risk: Canada's Sept 8 tariff retaliation affecting energy/agriculture sectors.",
+      "zh": "今天稍后宣布的伊朗制裁可能触发波动。次要风险：加拿大 9 月 8 日的关税报复影响能源/农业部门。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Mixed sentiment: Treasury yield moderation supports risk assets temporarily, but geopolitical Iran sanctions and trade escalation create uncertainty. Gold/BTC hedge demand offsets equity pressure in precious metals sector.",
+      "zh": "混合情绪：美债收益率缓和暂时支持风险资产，但伊朗制裁和贸易升级造成不确定性。黄金/比特币对冲需求抵消贵金属部门的股票压力。"
+    }
+  }
+}
