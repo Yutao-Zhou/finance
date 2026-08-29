@@ -1,0 +1,178 @@
+{
+  "date": "2026-08-28",
+  "summary": {
+    "en": "AI-led buying is still carrying the tape, with Nasdaq futures outperforming as chip momentum rolls through the supply chain. But higher Treasury yields, a firmer dollar, and weaker gold show the market is still pricing a hawkish Jackson Hole backdrop rather than a clean risk-on breakout.",
+    "zh": "AI 仍然是盘面的主导线，纳指期货领涨，资金正沿着芯片和数据中心供应链扩散。但美债收益率更高、美元更强、黄金走弱，说明市场交易的仍是偏鹰的 Jackson Hole 背景，而不是干净利落的 risk-on 突破。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Chipmakers are outshining Big Tech in the AI rally",
+        "zh": "AI 反弹中，芯片股继续跑赢大科技"
+      },
+      "impact": {
+        "en": "The market is still rewarding direct AI capex exposure. That keeps NVDA, MRVL, AVGO, AMD, TSM and the semiconductor ETFs in the leadership bucket and argues for follow-through into networking, memory and server names.",
+        "zh": "市场仍在奖励最直接的 AI 资本开支敞口。这意味着 NVDA、MRVL、AVGO、AMD、TSM 以及半导体 ETF 仍处在领涨位置，并可能继续外溢到网络、存储和服务器链条。"
+      },
+      "bullish": [
+        "NVDA",
+        "MRVL",
+        "AVGO",
+        "AMD",
+        "TSM",
+        "SMH",
+        "SOXX"
+      ],
+      "bearish": [
+        "IWM",
+        "RSP"
+      ],
+      "macroRisk": {
+        "en": "Yes - a crowded AI trade can unwind fast if yields reprice or next-week guidance disappoints.",
+        "zh": "是 - 如果收益率重新定价，或者下周指引不及预期，拥挤的 AI 交易可能会快速回吐。"
+      }
+    },
+    {
+      "title": {
+        "en": "Jackson Hole keeps September rate-cut odds capped",
+        "zh": "Jackson Hole 继续压制 9 月降息预期"
+      },
+      "impact": {
+        "en": "The Fed backdrop is still higher-for-longer enough to keep duration-sensitive assets on the defensive. A 10Y yield near 4.72% and a firmer dollar preserve pressure on REITs, small caps and unprofitable growth.",
+        "zh": "美联储背景仍然偏向 higher-for-longer，足以让久期敏感资产继续承压。10 年期收益率接近 4.72%，同时美元走强，继续压制 REIT、小盘股和未盈利成长股。"
+      },
+      "bullish": [
+        "XLF",
+        "KBE",
+        "UUP"
+      ],
+      "bearish": [
+        "TLT",
+        "XLRE",
+        "IWM",
+        "ARKK"
+      ],
+      "macroRisk": {
+        "en": "Yes - if the market leans harder into a hawkish read, the yield move can broaden weakness beyond tech.",
+        "zh": "是 - 如果市场进一步把讲话解读成偏鹰，收益率上行可能把压力从科技扩散到更广泛的资产。"
+      }
+    },
+    {
+      "title": {
+        "en": "Crude keeps easing as the supply-risk premium compresses",
+        "zh": "原油继续回落，地缘风险溢价收缩"
+      },
+      "impact": {
+        "en": "Lower crude cools headline inflation pressure and helps consumers, airlines and transport. At the same time, it removes support from energy equities and inflation breakevens.",
+        "zh": "原油回落缓解了头条通胀压力，对消费者、航空和运输板块有利；但与此同时，它也削弱了能源股和通胀预期的支撑。"
+      },
+      "bullish": [
+        "JETS",
+        "XLY",
+        "RTH"
+      ],
+      "bearish": [
+        "XLE",
+        "XOP",
+        "USO",
+        "OIH"
+      ],
+      "macroRisk": {
+        "en": "Yes - if the decline persists, energy leadership can fade further and inflation expectations can keep softening.",
+        "zh": "是 - 如果跌势延续，能源板块的相对领导力可能继续减弱，通胀预期也会继续降温。"
+      }
+    },
+    {
+      "title": {
+        "en": "Gold is rolling over as real yields and the dollar firm",
+        "zh": "实际利率和美元走强，黄金明显回落"
+      },
+      "impact": {
+        "en": "A sharp drop in gold futures to roughly $4,504 is a clean signal that the market is repricing rates and not moving into a pure defensive trade. That keeps pressure on precious-metals miners and other long-duration hedges.",
+        "zh": "黄金期货急跌至约 4504 美元，是一个很清晰的信号：市场正在重定价利率，而不是进入单纯的防御交易。这会继续压制贵金属矿企和其他长久期对冲资产。"
+      },
+      "bullish": [
+        "DXY",
+        "XLF",
+        "KBE"
+      ],
+      "bearish": [
+        "GLD",
+        "GDX",
+        "SLV",
+        "TLT"
+      ],
+      "macroRisk": {
+        "en": "Yes - if real yields keep climbing, precious-metals support weakens and the market loses an important hedge.",
+        "zh": "是 - 如果实际利率继续上行，贵金属支撑会继续减弱，市场也会失去一个重要的对冲工具。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI spending remains the cleanest leadership theme. Nvidia-style demand signals keep data-center compute, networking and power names in focus, but the trade is getting crowded.",
+      "zh": "AI 资本开支仍然是最清晰的主线。Nvidia 式的需求信号继续把数据中心算力、网络和电力相关标的推到聚光灯下，但这条交易也越来越拥挤。"
+    },
+    "semiconductor": {
+      "en": "Semis are still the direct beta to AI capex and the strongest read-through from the current tape. Follow-through matters more than the headline, so next-week guidance and equipment names will be the tell.",
+      "zh": "半导体仍是 AI 资本开支最直接的 beta，也是当前盘面里最强的读法。后续是否能延续比单日新闻更重要，下周指引和设备股会是关键验证。"
+    },
+    "bigTech": {
+      "en": "Mega-cap tech remains constructive, but higher yields and a firmer dollar mean leadership can stay narrow. The group looks supportive, not invincible.",
+      "zh": "大科技仍然偏强，但更高的收益率和更强的美元意味着领导力可能保持偏窄。这个板块是有支撑的，但并非无懈可击。"
+    },
+    "energy": {
+      "en": "Energy is under pressure as crude backs off and the geopolitical premium compresses. Lower oil helps the macro consumer backdrop, but it removes near-term support for XLE and XOP.",
+      "zh": "随着原油回落、地缘风险溢价压缩，能源板块承压。更低的油价有利于宏观消费端，但会削弱 XLE 和 XOP 的近端支撑。"
+    },
+    "ev": {
+      "en": "Cheaper oil is only a mild headwind for EV adoption economics, while higher yields still matter more for financing and demand sensitivity. Net view: mixed.",
+      "zh": "更低的油价对电动车渗透率只是温和的逆风，而更高的收益率对融资和需求敏感性的影响更大。整体来看，EV 板块仍是中性偏混合。"
+    },
+    "market": {
+      "en": "The tape is index-level risk-on, but it is still event-driven and concentrated in AI rather than a broad breadth expansion. Breadth confirmation is still missing.",
+      "zh": "从指数层面看市场偏 risk-on，但本质上仍是事件驱动、集中在 AI，而不是广泛扩散的宽度扩张。市场需要更好的 breadth 佐证。"
+    },
+    "preciousMetals": {
+      "en": "Gold and silver are weaker as real yields and the dollar firm. That argues for caution on miners and less defensive support than earlier in the week.",
+      "zh": "随着实际利率和美元同步走强，黄金和白银都在转弱。这意味着矿业股要更谨慎看待，而且防御属性也不如本周早些时候。"
+    },
+    "oil": {
+      "en": "WTI and Brent are sliding, signaling a lower geopolitical risk premium and easier inflation math. If the move persists, consumers should benefit but energy equities are likely to lag.",
+      "zh": "WTI 和 Brent 都在下滑，说明地缘风险溢价在下降，通胀计算也会变得更轻松。如果这波走势持续，消费者会受益，但能源股大概率继续落后。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 futures are about +0.7%, Nasdaq 100 futures about +1.4%, and Dow futures about +0.2%; leadership is clearly tech and AI led.",
+      "zh": "标普 500 期货约 +0.7%，纳指 100 期货约 +1.4%，道指期货约 +0.2%；领涨非常明确地来自科技和 AI。"
+    },
+    "treasury10Y": {
+      "en": "The 10Y yield is around 4.72%, slightly above the prior close, so duration-sensitive assets are not getting a clean rates tailwind.",
+      "zh": "10 年期美债收益率大约在 4.72%，略高于前收，因此久期敏感资产并没有拿到一个干净的利率顺风。"
+    },
+    "dxy": {
+      "en": "DXY is around 99.68, firmer on the session, which supports the hawkish read and pressures multinationals at the margin.",
+      "zh": "DXY 大约在 99.68，盘中走强，这支持偏鹰的解读，也会在边际上压制跨国公司。"
+    },
+    "oil": {
+      "en": "WTI is around $83.44 and Brent around $88.29, both lower on the session; the drop points to less inflation pressure and weaker energy leadership.",
+      "zh": "WTI 约 83.44 美元，Brent 约 88.29 美元，盘中都在走低；这意味着通胀压力更小，但能源板块领导力也更弱。"
+    },
+    "keyRisk": {
+      "en": "Jackson Hole and Fed commentary remain the main macro risk: if the market decides the Fed is still higher-for-longer, yields and the dollar can quickly cap the AI rally.",
+      "zh": "Jackson Hole 和美联储表态仍是最核心的宏观风险：如果市场最终认定 Fed 还是 higher-for-longer，收益率和美元会很快给 AI 反弹设上天花板。"
+    }
+  },
+  "judgment": {
+    "type": "event-driven",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "The move is still led by AI and Nvidia follow-through, but higher yields, a firmer dollar, and weaker gold/oil keep this from being a clean risk-on regime.",
+      "zh": "当前走势仍由 AI 和 Nvidia 的后续扩散主导，但更高的收益率、更强的美元，以及更弱的黄金和原油，都说明这还不是一个干净的 risk-on 环境。"
+    }
+  }
+}
