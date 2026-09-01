@@ -1,0 +1,112 @@
+{
+  "date": "2026-09-01",
+  "summary": {
+    "en": "US-Iran tensions spike oil above $90 and push yields higher, weighing on tech-heavy futures across the board. Weak opening sentiment as investors price-in inflation risks from energy markets before September begins.",
+    "zh": "美伊紧张局势推升油价突破$90、收益率走高，拖累以科技股为主的期货整体走弱。市场在关注能源板块通胀风险的情况下展开9月交易。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Oil Surges Above $90 as US-Iran Tensions Flare Up; Futures Drop",
+        "zh": "油价飙升突破$90，美伊紧张局势升级；期指下跌"
+      },
+      "impact": "Energy crisis drives inflation expectations higher, pressuring rate-sensitive sectors and broadening risk-off sentiment.",
+      "bullish": ["OIL producers", "Transportation companies"],
+      "bearish": ["Big Tech", "Growth stocks"],
+      "macroRisk": {
+        "en": "Oil above $90 + rising yields = valuation compression for duration-sensitive tech; potential stagflation narrative if sustained.",
+        "zh": "油价$90+收益率上行=对久期敏感的科技股估值压缩；若持续将引发滞胀叙事风险"
+      }
+    },
+    {
+      "title": {
+        "en": "Nasdaq-100 Futures Down 0.9%; S&P 500 & Dow Also Off",
+        "zh": "纳指-100期货跌0.9%；标普500与道指亦弱"
+      },
+      "impact": "Rate-sensitive mega-caps under pressure; September starts on a cautious tone as investors reprice risk.",
+      "bullish": [],
+      "bearish": ["AAPL", "NVDA", "MSFT", "AMZN"],
+      "macroRisk": {
+        "en": "Yield-driven repricing of growth valuations could persist if oil remains elevated above $85-90.",
+        "zh": "若油价持续高于$85-90，收益率驱动的估值再定价可能延续"
+      }
+    },
+    {
+      "title": {
+        "en": "Earnings Focus: MDT, DELL, PANW Heading Into Open",
+        "zh": "财报前瞻：MDT、DELL、PANW今日开盘前关注"
+      },
+      "impact": "Medtronic and enterprise IT/AI infra names set to report; outcomes could offset geopolitical noise.",
+      "bullish": ["HEALTH care if beat", "Datacenter infrastructure"],
+      "bearish": ["Laggards in software licensing model"],
+      "macroRisk": {
+        "en": "Earnings can anchor markets if AI/healthtech beat estimates despite broader weakness.",
+        "zh": "若AI/医疗科技超预期，财报可能锚定市场"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI hardware demand remains structural, but short-term pain from elevated rates. Cloud hyperscalers and GPU makers face margin pressure on long-duration models.",
+      "zh": "AI硬件需求仍具结构性，但高利率环境下短期承压。云超大规模数据中心和GPU制造商面临长期模型定价压力"
+    },
+    "semiconductor": {
+      "en": "Chip stocks weak on rate fears; cyclical demand improving but valuations stretched. Watch for guidance from memory leaders.",
+      "zh": "芯片股受利率担忧拖累；周期性需求改善但估值偏高。关注内存龙头指引"
+    },
+    "bigTech": {
+      "en": "FAANG under pressure from yield repricing; cash-rich mega-caps defend but growth multiples compressed below 30x.",
+      "zh": "FAANG受利率再定价承压；现金充裕的巨头防御但成长倍数压缩至30倍以下"
+    },
+    "energy": {
+      "en": "Bullish on geopolitical premium; WTI above $90 with supply concerns from Middle East tensions. Watch for sustained >$85 support.",
+      "zh": "地缘溢价驱动多头；WTI突破$90且中东紧张局势担忧供给。关注>85的支撑"
+    },
+    "ev": {
+      "en": "Mixed; high oil prices help ICE transition but auto stocks lag on rate-driven growth multiple compression.",
+      "zh": "分化；高油价利好ICE转型但汽车股受利率驱动的成长倍数压缩拖累表现"
+    },
+    "market": {
+      "en": "Risk-off tone as broad-based weakness starts September; defensive tilt likely if oil/yields sustain pressure.",
+      "zh": "风险偏好降低，市场整体走弱展开9月；若油/收益率持续施压，防御性板块更受青睐"
+    },
+    "preciousMetals": {
+      "en": "Gold steady as safe-haven demand from tensions balances out rate hike fears; USD strength caps upside near $2,600.",
+      "zh": "黄金在紧张局势避险需求与加息担忧间平衡；美元走强限制$2,600上方上行空间"
+    },
+    "oil": {
+      "en": "WTI surges 2.7% above $90 on Iran escalation; sustained above $85-90 supports energy producers but risks inflation spiral.",
+      "zh": "WTI受伊朗升级催化上涨2.7%突破$90；持续高于85-90支持能源生产商但引发通胀螺旋风险"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "Nasdaq futures -0.9%, S&P 500 -0.5%, Dow -0.45% to open on weak European session amid oil/yield pressure.",
+      "zh": "纳指期货-0.9%，标普500-0.5%，道指-0.45%在油/收益率压力下于欧洲时段走弱开局"
+    },
+    "treasury10Y": {
+      "en": "Yields climb with oil spike; 10Y near 4.15-4.20% as inflation expectations embedded in energy reset.",
+      "zh": "油价攀升带动收益率上行；10年期近4.15%-4.20%，通胀预期在能源重置中嵌入"
+    },
+    "dxy": {
+      "en": "Dollar strengthens marginally on safe-haven flows; DXY holds 97-97.5 range despite mixed economic prints.",
+      "zh": "避险资金推动美元边际走强；DXY持稳97-97.5区间"
+    },
+    "oil": {
+      "en": "WTI at $90+, Brent above $92 on Middle East risks; geopolitical premium dominates near-term oil outlook.",
+      "zh": "WTI在$90+，布油高于$92受中东风险催化；地缘溢价主导近期油价展望"
+    },
+    "keyRisk": {
+      "en": "Oil/yields combination could trap markets if sustained; watch for escalation in Middle East or Fed commentary on inflation.",
+      "zh": "若油/收益率组合持续，可能困住市场；警惕中东升级或美联储通胀评论"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": "medium",
+    "note": {
+      "en": "Geopolitical risk dominates but earnings season provides pockets of alpha; defensive tilt likely until inflation fears ease.",
+      "zh": "地缘政治风险主导但财报季提供局部alpha；通胀担忧缓解前防御性板块更受青睐"
+    }
+  }
+}
