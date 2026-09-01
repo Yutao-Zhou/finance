@@ -1,0 +1,156 @@
+{
+  "date": "2026-08-31",
+  "summary": {
+    "en": "US markets closed Friday with mixed sentiment ahead of September's economic data calendar. Pre-market attention focuses on Fed speaker expectations, Treasury yield stability, and positioning around upcoming earnings season. Geopolitical tensions continue to influence oil prices and inflation expectations.",
+    "zh": "美国股市周五收盘呈现混合情绪，9 月经济数据日历在即。盘前关注焦点在于联储讲话预期、美债收益率稳定以及围绕即将展开的财报季的配置。地缘政治紧张局势继续影响油价和通胀预期。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Treasury Yields Hold Steady as Markets Await September Data",
+        "zh": "美债收益率维持稳定，市场等待 9 月数据发布"
+      },
+      "impact": {
+        "en": "Stable 10Y yields support risk-on positioning. Watch for any breakout above 4.5% which could pressure growth stocks.",
+        "zh": "稳定的 10 年期收益率支持风险偏好配置。警惕突破 4.5% 可能对成长股构成压力。"
+      },
+      "bullish": ["Financials", "REITs"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Low - Yield stability supports broader equity market function.",
+        "zh": "低风险 - 收益率稳定支持更广泛股票市场的功能。"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil Prices Elevated on Middle East Geopolitical Concerns",
+        "zh": "油价受中东地缘政治担忧而走高"
+      },
+      "impact": {
+        "en": "WTI trading above $60 supports energy sector earnings while raising inflation concerns for consumer staples.",
+        "zh": "WTI 高于$60 支持能源板块收益，同时引发对必需消费品通胀的担忧。"
+      },
+      "bullish": ["Energy", "XLE"],
+      "bearish": ["Consumer Staples", "Airlines"],
+      "macroRisk": {
+        "en": "Moderate - Higher oil prices increase inflation expectations, potentially pressuring Fed policy.",
+        "zh": "中等风险 - 油价上涨推升通胀预期，可能给联储政策带来压力。"
+      }
+    },
+    {
+      "title": {
+        "en": "Tech Earnings Season Kicks Off With Mixed Results",
+        "zh": "科技 earnings 季开始，结果不一"
+      },
+      "impact": {
+        "en": "Big Tech guidance updates will set tone for broader market direction. AI infrastructure spending remains key theme.",
+        "zh": "大科技指引更新将为更广泛市场方向定调。AI 基础设施支出仍是关键主题。"
+      },
+      "bullish": ["NVDA", "MSFT"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Low - AI spending tailwinds offset broader economic headwinds.",
+        "zh": "低风险 - AI 支出顺风抵消更广泛经济阻力。"
+      }
+    },
+    {
+      "title": {
+        "en": "Dollar Index (DXY) Shows Resilience Despite Fed Dovish Signals",
+        "zh": "美元指数尽管联储鸽派信号仍显示韧性"
+      },
+      "impact": {
+        "en": "Strong dollar benefits multinationals with foreign revenue but pressures emerging market assets and commodities.",
+        "zh": "强势美元有利于海外收入跨国公司，但给新兴市场和大宗商品带来压力。"
+      },
+      "bullish": ["Multinational Tech", "Banks"],
+      "bearish": ["Emerging Markets", "Commodities"],
+      "macroRisk": {
+        "en": "Moderate - Dollar strength reflects risk sentiment but may complicate Fed's rate path.",
+        "zh": "中等风险 - 美元强度反映风险情绪，但可能使联储利率路径复杂化。"
+      }
+    },
+    {
+      "title": {
+        "en": "Asian Markets Mixed on Friday Close",
+        "zh": "亚洲市场周五收盘混合"
+      },
+      "impact": {
+        "en": "Japan and Korea markets show divergence. US futures direction depends on cross-border capital flows.",
+        "zh": "日本和韩国市场呈现分化。美国期货方向取决于跨境资本流动。"
+      },
+      "bullish": [],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Low - Asian divergence typically resolves to neutral US pre-market positioning.",
+        "zh": "低风险 - 亚洲分歧通常在美盘盘前中性化。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector remains elevated on infrastructure spending and data center buildout. NVIDIA, AMD, and cloud providers show strong demand signals. Watch for any guidance revisions from mega-cap tech on compute pricing pressure.",
+      "zh": "AI 板块因基础设施支出和数据中心建设而保持高位。NVIDIA、AMD 和云提供商显示强劲需求信号。关注大科技对计算定价压力的指引修订。"
+    },
+    "semiconductor": {
+      "en": "Semiconductors track closely with AI demand. Memory chip prices stabilizing, but edge AI and consumer device refresh cycles provide secondary tailwinds. Cyclical recovery remains incomplete.",
+      "zh": "半导体与 AI 需求紧密相关。存储芯片价格稳定，但边缘 AI 和消费者设备刷新周期提供次要顺风。周期性复苏尚未完成。"
+    },
+    "bigTech": {
+      "en": "Big Tech earnings season underway. Cloud growth slowing but profitable. Advertising revenue pressure from economic uncertainty offsets AI monetization gains. Positioning for potential rate cut scenarios.",
+      "zh": "大科技 earnings 季展开。云增长放缓但盈利。经济不确定性的广告收入压力抵消 AI 货币化收益。为潜在降息情景配置。"
+    },
+    "energy": {
+      "en": "Energy sector benefiting from geopolitical risk premium on oil prices. Supply concerns from Middle East tensions support WTI above $60. XLP and consumer staples face headwinds if inflation persists.",
+      "zh": "能源板块因油价的地缘政治风险溢价而受益。来自中东紧张局势的供应担忧支持 WTI 高于$60。如果通胀持续，XLP 和必需消费品面临阻力。"
+    },
+    "ev": {
+      "en": "EV sector remains under pressure from higher financing costs and China competition. Battery technology improvements and cost reductions may provide inflection point in Q4-Q1. Macro headwinds from interest rates persist.",
+      "zh": "电动车板块仍受较高融资成本和竞争压力。电池技术改进和成本降低可能在第四季度至明年第一季度提供拐点。利率宏观阻力持续存在。"
+    },
+    "market": {
+      "en": "Broad market mixed. NDX leads on AI rotation, SPX more defensive. VIX elevated but manageable. Watch breadth and sector divergences for early warning signals of trend change.",
+      "zh": "大盘混合。NDX 在 AI 轮动中领先，SPX 更防御性。VIX 升高但可控。观察广度（breadth）和板块分歧作为趋势变化的早期预警信号。"
+    },
+    "preciousMetals": {
+      "en": "Gold shows mixed signals amid DXY strength and yield stability. Real rates remain anchor. Geopolitical uncertainty provides some floor, but central bank buying slowdown evident. Silver underperforms.",
+      "zh": "黄金在 DXY 强度下显示混合信号，收益率保持稳定。实际利率仍然是锚。地缘政治不确定提供一些支撑，但央行购买放缓明显。银表现不佳。"
+    },
+    "oil": {
+      "en": "WTI hovering near $65, Brent slightly higher. OPEC+ production cuts and Middle East supply concerns support prices. Monitor API inventories and US crude output for any cracks in rally. Energy sector elevated on these dynamics.",
+      "zh": "WTI 徘徊在$65 附近，布伦特略高。OPEC+减产和中东供应担忧支持价格。监控 API 库存和美国原油产出以发现任何上涨的裂痕。能源板块在这些动态下被推高。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P futures slightly down, Nasdaq flat to up on AI resilience. Dow faces pressure from industrials weakness. Japan and Korea closes mixed.",
+      "zh": "标普期货略跌，纳指在 AI 韧性下平盘或上涨。道指面临工业股疲软压力。日本和韩国收盘混合。"
+    },
+    "treasury10Y": {
+      "en": "10Y yield stable near 4.3-4.4%. Watch for any break above 4.5% which would signal inflation or rate cut delay concerns.",
+      "zh": "10 年期收益率在 4.3-4.4% 附近稳定。警惕突破 4.5%，这将信号通胀或降息延迟担忧。"
+    },
+    "dxy": {
+      "en": "Dollar index showing resilience near 96-97 range. Fed's relative hawkish stance supports strength despite dovish rhetoric.",
+      "zh": "美元指数在 96-97 范围显示韧性。联储相对鹰派立场支持强度，尽管存在鸽派言论。"
+    },
+    "oil": {
+      "en": "WTI/Brent elevated near $65/$70 on geopolitical tensions and Middle East supply disruption concerns.",
+      "zh": "WTI/布伦特因地缘政治紧张和中东供应中断担忧而接近$65/$70 高位。"
+    },
+    "keyRisk": {
+      "en": "Key risk: Unexpected inflation data or Fed speakers pushing back against rate cut expectations could shift sentiment quickly.",
+      "zh": "关键风险：意外通胀数据或联储讲话者反对降息预期可能迅速改变情绪。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Mixed signals driven by AI strength offsetting broader economic headwinds and geopolitical uncertainty. Sector divergence likely to persist until clearer macro direction emerges.",
+      "zh": "AI 强度抵消更广泛经济阻力和地缘政治不确定性的混合信号驱动。板块分歧可能持续到出现更清晰的宏观方向。"
+    }
+  }
+}
