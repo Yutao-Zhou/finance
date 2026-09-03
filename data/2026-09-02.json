@@ -1,0 +1,156 @@
+{
+  "date": "2026-09-02",
+  "summary": {
+    "en": "U.S. futures flat after three straight losing sessions, with geopolitical tensions from Iran offsetting AI sector optimism. Oil surges past $90 as yields climb, creating headwinds for rate-sensitive growth stocks.",
+    "zh": "美股期货在连续三天下跌后横盘，伊朗紧张局势抵消了 AI 板块乐观情绪。油价飙升突破$90，收益率攀升对利率敏感的成长股构成压力。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Wall Street futures little changed as Iran tensions lift oil prices to $90+ territory",
+        "zh": "伊朗紧张局势推升油价至$90 以上，美股期货基本未变"
+      },
+      "impact": {
+        "en": "Higher oil prices increase inflation expectations and pressure the Fed, while geopolitical risk premium boosts energy sector but drags on broader sentiment.",
+        "zh": "油价上升推高通胀预期并给美联储施压，地缘政治风险溢价提振能源板块但拖累整体情绪。"
+      },
+      "bullish": ["XLE", "OXY"],
+      "bearish": ["XLF", "XLK"],
+      "macroRisk": {
+        "en": "Yes - Oil price spike → inflation expectations ↑ → Treasury yields ↑ → growth stocks pressured",
+        "zh": "是 - 油价飙升→通胀预期↑→美债收益率↑→成长股承压"
+      }
+    },
+    {
+      "title": {
+        "en": "AI optimism provides partial offset to risk-off sentiment from global tensions",
+        "zh": "AI 乐观情绪部分抵消地缘紧张导致的避险情绪"
+      },
+      "impact": {
+        "en": "NVIDIA, AMD, and AI infrastructure companies show resilience despite broader market caution, driven by strong earnings expectations in the sector.",
+        "zh": "尽管市场谨慎，AI 板块因强劲的盈利预期表现出韧性。"
+      },
+      "bullish": ["NVDA", "AMD", "SMH"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - Sector-specific fundamentals offset macro headwinds",
+        "zh": "否 - 板块基本面抵消宏观逆风"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury yields surge amid oil price spike and recession fears",
+        "zh": "美债收益率飙升，油价冲击和衰退担忧叠加"
+      },
+      "impact": {
+        "en": "Rising 10Y Treasury yield creates headwinds for tech valuations, particularly rate-sensitive mega-cap growth names.",
+        "zh": "升高的 10 年期美债收益率对科技股估值构成逆风，特别是利率敏感的巨头成长股。"
+      },
+      "bullish": [],
+      "bearish": ["QQQ", "XLK", "AAPL"],
+      "macroRisk": {
+        "en": "Yes - Yield curve steepening pressures duration-sensitive portfolios",
+        "zh": "是 - 收益率曲线陡峭化施压久期敏感型投资组合"
+      }
+    },
+    {
+      "title": {
+        "en": "Asian markets mixed following Wall Street's three-day decline",
+        "zh": "亚洲市场表现不一，跟随华尔街连续三日下跌"
+      },
+      "impact": {
+        "en": "Nikkei down nearly 3%, suggesting continuation of risk-off sentiment heading into U.S. open.",
+        "zh": "日经指数近跌 3%，暗示盘前避险情绪持续。"
+      },
+      "bullish": [],
+      "bearish": ["SPY", "DIA"],
+      "macroRisk": {
+        "en": "Moderate - Asian weakness extends to U.S. equity breadth initially",
+        "zh": "中等 - 亚洲疲软最初蔓延至美股广度"
+      }
+    },
+    {
+      "title": {
+        "en": "Fed speakers including New York Fed President Warsh remain on docket for volatility catalysts",
+        "zh": "纽约联储主席 Warsh 等美联储发言人仍存于波动催化剂议程中"
+      },
+      "impact": {
+        "en": "Any dovish shift could ease rate-hike fears and support risk assets, while hawkish comments would exacerbate yields volatility.",
+        "zh": "任何鸽派转向可缓解加息担忧并支撑风险资产，鹰派言论则会加剧收益率波动。"
+      },
+      "bullish": ["SPY"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Event-driven - Fed commentary will dictate near-term market direction",
+        "zh": "事件驱动型 - 美联储评论将决定短期市场方向"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector showing resilience amid broader caution, with earnings-driven optimism in NVIDIA and peers providing partial support.",
+      "zh": "AI 板块在整体谨慎中展现韧性，NVIDIA 及其同业的盈利驱动乐观情绪提供部分支撑。"
+    },
+    "semiconductor": {
+      "en": "Semiconductor stocks mixed as AI demand persists but rate-sensitive mega-caps face headwinds from climbing Treasury yields.",
+      "zh": "半导体股表现不一，AI 需求持续但利率敏感的大盘股面临收益率攀升的逆风。"
+    },
+    "bigTech": {
+      "en": "Big Tech names under pressure from elevated 10Y yields and recession concerns, though fundamentals remain intact.",
+      "zh": "大盘科技股受高企的 10 年期收益率和衰退担忧施压，尽管基本面依然稳固。"
+    },
+    "energy": {
+      "en": "Energy sector outperforming as oil prices surge above $90, benefiting from OPEC+ production cuts and geopolitical risk premium.",
+      "zh": "能源板块跑赢大盘，油价飙升至$90 以上，受益于 OPEC+减产和地缘政治风险溢价。"
+    },
+    "ev": {
+      "en": "EV sector under pressure from higher oil prices which reduce consumer EV adoption incentive, plus rate-sensitive auto manufacturers.",
+      "zh": "电动车板块受高油价施压（降低消费者电动车采用激励），加上市率敏感的制造商。"
+    },
+    "market": {
+      "en": "Broad market cautiously neutral as geopolitical risk and yield climb offset AI sector strength.",
+      "zh": "大盘谨慎中性，地缘风险和收益率攀升抵消了 AI 板块的强势。"
+    },
+    "preciousMetals": {
+      "en": "Gold and silver benefit from safe-haven demand amid Iran tensions, though Fed commentary will be a key driver for price action.",
+      "zh": "金银受益于伊朗紧张局势的安全港需求，尽管美联储评论将是价格行动的关键驱动因素。"
+    },
+    "oil": {
+      "en": "WTI and Brent prices surging past $90 driven by Middle East geopolitical tensions, OPEC+ supply constraints, and demand concerns from China economic slowdown.",
+      "zh": "WTI 和布伦特油价飙升至$90 以上，受中东地缘政治紧张、OPEC+供应约束和中国经济放缓需求担忧驱动。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 futures flat to -0.2%, Nasdaq futures slightly down, Dow futures modestly lower after Friday's close and Asian market weakness.",
+      "zh": "标普 500 期货持平至-0.2%，纳斯达克期货微跌，道指期货小幅走弱，受周五收盘和亚洲市场疲软影响。"
+    },
+    "treasury10Y": {
+      "en": "10Y Treasury yield elevated around 4.2-4.5% amid oil price spike and inflation data expectations.",
+      "zh": "10 年期美债收益率因油价冲击和通胀数据预期高企至 4.2-4.5%。"
+    },
+    "dxy": {
+      "en": "Dollar index stable with no major directional move, awaiting ECB and Fed policy divergence clarity.",
+      "zh": "美元指数稳定，无重大方向性变动，等待欧央行和美联储政策分化明朗。"
+    },
+    "oil": {
+      "en": "WTI crude trading above $90/barrel as geopolitical tensions in the Middle East elevate risk premium.",
+      "zh": "WTI 原油交易于$90/桶以上，中东紧张局势推高风险溢价。"
+    },
+    "keyRisk": {
+      "en": "Geopolitical escalation in Iran could further spike oil prices and Treasury yields, triggering broader market sell-off.",
+      "zh": "伊朗地缘政治升级可能进一步推升油价和美债收益率，引发大盘抛售。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Market split between AI sector strength (earnings-driven) and broader risk-off from geopolitical tensions + yield climb. Mixed sentiment until Fed commentary clarifies rate path.",
+      "zh": "市场在 AI 板块强势（盈利驱动）与地缘紧张加收益率攀升的避险情绪之间分裂。美联储评论澄清利率路径前，情绪维持分歧。"
+    }
+  }
+}
