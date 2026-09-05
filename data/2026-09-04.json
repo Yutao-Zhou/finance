@@ -1,0 +1,124 @@
+{
+  "date": "2026-09-04",
+  "summary": {
+    "en": "Friday pre-market context: External web sources unavailable due to authentication barriers. Key focus remains on Friday's close positioning, weekend risk events, and Monday expectations. Geopolitical developments (Middle East tensions) continue monitoring oil and safe-haven flows.",
+    "zh": "周五盘前背景：因认证障碍外部网络源不可用。重点关注周五收市布局、周末风险事件及周一预期。中东局势持续监控石油与避险流向。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Friday Close Looming: Tech Earnings Season Progression & Rate Sensitivity",
+        "zh": "周五收盘在即：科技股盈利季推进与利率敏感性"
+      },
+      "impact": {
+        "en": "Tech sector positioning ahead of Friday close will influence Monday open breadth. Earnings guidance revisions track inflation and Fed expectations despite limited pre-market data access.",
+        "zh": "周五收盘前科技股布局影响周一开盘广度。盈利指引修订追踪通胀与美联储预期，尽管盘前数据获取有限。"
+      },
+      "bullish": ["NASDAQ futures", "Tech dividend growers"],
+      "bearish": ["Rate-sensitive small caps"],
+      "macroRisk": {
+        "en": "Pending weekend geopolitical developments may trigger Monday open volatility via oil price and inflation repricing.",
+        "zh": "周末地缘政治发展可能通过油价和通胀重定价引发周一开盘波动。"
+      }
+    },
+    {
+      "title": {
+        "en": "Weekend Event Risk Assessment: Central Bank Speakers & Economic Data Schedule",
+        "zh": "周末事件风险评估：央行讲话与经济数据日程"
+      },
+      "impact": {
+        "en": "Monitor Fed speakers including Warsh and other policymakers; economic data calendar light but geopolitical headlines could spill into Monday trading.",
+        "zh": "监测包括 Warsh 在内的美联储讲话人；经济数据日历清淡但地缘政治头条可能溢出至周一交易。"
+      },
+      "bullish": [],
+      "bearish": ["Event-driven uncertainty", "EM currencies"],
+      "macroRisk": {
+        "en": "Weekend headlines from Middle East or global markets create event-driven Monday volatility risk.",
+        "zh": "中东或全球市场的周末头条构成事件驱动周一波动风险。"
+      }
+    },
+    {
+      "title": {
+        "en": "Geopolitical Tensions: Middle East Oil Spillover and Safe-Haven Flows",
+        "zh": "地缘政治紧张局势：中东油价溢出与避险流向"
+      },
+      "impact": {
+        "en": "Middle East tensions influence oil price expectations which transmit to inflation dynamics, Treasury yields, and equity positioning. Premium on crude persists in risk-on environments but spooks on geopolitical spikes.",
+        "zh": "中东局势影响油价预期并传导至通胀动态、美债收益率和股票定位。原油溢价在风险偏好环境中持续但在地缘政治飙升时受惊。"
+      },
+      "bullish": ["Oil", "Energy stocks"],
+      "bearish": ["Growth stocks", "Consumer discretionary"],
+      "macroRisk": {
+        "en": "Oil price spikes → inflation repricing → 10Y yield rises → growth stock pressure.",
+        "zh": "油价飙升→通胀重定价→10Y 收益率上升→成长股承压。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector awaiting Friday close positioning; hardware demand fundamentals intact but limited pre-market clarity without live market access. NVIDIA ecosystem remains resilient but needs Monday data confirmation.",
+      "zh": "AI 板块等待周五收盘定位；硬件需求基本面 intact 但缺乏盘前实时市场数据，AMD/NVIDIA 生态组仍具韧性但需周一数据确认。"
+    },
+    "semiconductor": {
+      "en": "Semiconductors track broader tech positioning; memory and logic chip demand mixed with China trade tensions. Equipment makers awaiting AI capex guidance clarity before Friday close.",
+      "zh": "半导体追踪广义科技定位；存储和逻辑芯片需求受中国贸易紧张影响。设备商等待周五收盘前 AI 资本支出指引澄清。"
+    },
+    "bigTech": {
+      "en": "Magnificent Seven positioning ahead of Friday close matters for Monday breadth. Cloud growth rates and AI monetization remain key themes despite limited pre-market visibility into earnings surprises.",
+      "zh": "七巨头周五收盘前定位影响周一广度。云增长率和 AI 变现仍是关键主题，尽管缺乏盘前盈利惊喜能见度。"
+    },
+    "energy": {
+      "en": "Energy sector supported by geopolitical risk premium on Middle East tensions. OPEC+ production discipline and inventory dynamics provide underlying support despite demand concerns.",
+      "zh": "能源板块受中东局势地缘风险溢价支撑。OPEC+ 生产纪律和库存动态提供底层支持，尽管存在需求担忧。"
+    },
+    "ev": {
+      "en": "EV sector reflects broader auto manufacturing regime; China EV policy uncertainty and trade tensions limit rally breadth. Tesla earnings season impacts but lacks clear pre-market direction.",
+      "zh": "电动车板块反映广义汽车制造格局；中国电动车政策不确定性和贸易紧张限制上涨广度。特斯拉盈利季产生影响但缺乏明确盘前方向。"
+    },
+    "market": {
+      "en": "Broad market awaits Friday close positioning with limited Friday pre-market clarity. Rate-sensitive sectors (small caps, duration-heavy portfolios) face headwinds from potential yield increases on geopolitical pricing.",
+      "zh": "广义市场等待周五收盘定位，缺乏周五盘前清晰度。利率敏感板块（小盘股、久期组合）面临地缘政治定价导致收益率上升的阻力。"
+    },
+    "preciousMetals": {
+      "en": "Gold/silver as safe-haven hedges for geopolitical uncertainty. Weekend Middle East tensions may drive Monday safe-haven flows if headlines intensify, though current premium is moderate.",
+      "zh": "金银作为地缘政治不确定性的避险对冲。若周末中东头条强化，可能驱动周一避险流向，尽管当前溢价适中。"
+    },
+    "oil": {
+      "en": "WTI/Brent pricing influenced by Middle East geopolitical risk premium. Weekend developments could extend volatility into Monday trading; supply constraints and demand concerns create mixed fundamentals.",
+      "zh": "WTI/布伦特定价受中东地缘政治风险溢价影响。周末发展可能将波动延续至周一交易；供应约束和需求担忧造成混合基本面。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500/Nasdaq/Dow futures direction pending Friday close; Asian/European markets unavailable for real-time data. Expect neutral to modestly negative positioning ahead of weekend events.",
+      "zh": "标普/纳斯达克/道指期货方向待周五收盘；亚洲/欧洲市场无法获取实时数据。预期周末事件前中性至温和负向定位。"
+    },
+    "treasury10Y": {
+      "en": "10Y Treasury yield tracking geopolitical risk premium and inflation expectations; weekend headlines could cause Monday repricing. No live data available - status: uncertain.",
+      "zh": "10Y 美债收益率追踪地缘政治风险溢价和通胀预期；周末头条可能引发周一重定价。无实时数据可得—状态：不确定。"
+    },
+    "dxy": {
+      "en": "Dollar strength impacting EM assets and multinational earnings. Limited pre-market visibility; weekend geopolitical risks could weaken DXY on Monday if headlines escalate.",
+      "zh": "美元强度影响新兴市场资产和多国企业盈利。盘前能见度有限；若周末地缘政治风险升级，周一可能弱化美元指数。"
+    },
+    "oil": {
+      "en": "WTI/Brent pricing with geopolitical risk premium. Weekend Middle East tensions create event-driven volatility risk for Monday open.",
+      "zh": "WTI/布伦特定价含地缘政治风险溢价。中东周末紧张局势为周一开盘创造事件驱动波动风险。"
+    },
+    "keyRisk": {
+      "en": "Primary weekend risk: geopolitical headlines from Middle East or global events could trigger Monday market volatility via oil and inflation channels.",
+      "zh": "主要周末风险：来自中东或全球事件的头条可能通过石油和通胀渠道引发周一市场波动。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "low",
+      "zh": "低"
+    },
+    "note": {
+      "en": "Mixed sentiment due to limited market data access and weekend event risk premium. Geopolitical tensions create cross-asset uncertainty (oil→inflation→bonds→equities) without clear directional signal. Recommend monitoring Friday close positioning and Asian overnight moves on Monday.",
+      "zh": "因市场数据获取有限和周末事件风险溢价，情绪混合。地缘政治紧张创造跨资产不确定性（石油→通胀→债券→股票），无明确方向信号。建议关注周五收盘定位和周一亚洲夜间走势。"
+    }
+  }
+}
