@@ -1,0 +1,156 @@
+{
+  "date": "2026-09-08",
+  "summary": {
+    "en": "Fed speakers at Jackson Hole remain hawkish, with Powell's recent comments keeping rate-cut expectations in check through Q3. Treasury yields steadied after last week's July PCE print, while oil continues to face pressure from Middle East de-escalation hopes despite supply constraints. Tech leads broadly, but the rally is event-driven and sensitive to Fed commentary rather than a full macro breakout.",
+    "zh": "Jackson Hole 美联储讲话保持偏鹰，鲍威尔的近期表态使降息预期在 Q3 内受限。美债收益率在上周 7 月 PCE 数据后企稳，而油价仍受中东降温预期压制。科技股领涨，但行情是事件驱动的，对美联储讲话高度敏感，而非全面的宏观突破。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Jackson Hole Fed speakers maintain rate-hawkish tone ahead of central bank summit",
+        "zh": "Jackson Hole 央行峰会前美联储讲话维持偏鹰基调"
+      },
+      "impact": {
+        "en": "Fed officials emphasize inflation vigilance, keeping the market on edge for any surprises from Powell. A hawkish pivot would reverse today's risk-on setup quickly.",
+        "zh": "美联储官员强调通胀警惕，市场正等待鲍威尔的任何意外。若语气偏鹰，将迅速逆转当前风险偏好上涨环境。"
+      },
+      "bullish": ["DXY", "XLF"],
+      "bearish": ["TLT", "XLRE", "IWM"],
+      "macroRisk": {
+        "en": "Yes - Jackson Hole commentary directly impacts rate expectations and can quickly unwind the current rally if hawkish comments emerge.",
+        "zh": "是 - Jackson Hole 讲话直接影响利率预期，若出现偏鹰评论，将迅速回吐当前涨势。"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil prices under pressure as Middle East diplomatic progress eases supply fears",
+        "zh": "中东外交进展缓解供给担忧，油价承压"
+      },
+      "impact": {
+        "en": "Crude's slide reduces headline inflation pressure, benefiting consumers and airlines. Energy equities remain vulnerable to geopolitical headlines.",
+        "zh": "原油下跌降低头条通胀压力，利好消费者和航空板块。能源股仍对地缘政治头条敏感。"
+      },
+      "bullish": ["XLY", "JETS"],
+      "bearish": ["XLE", "USO", "BNO"],
+      "macroRisk": {
+        "en": "Yes - if de-escalation holds, oil demand concerns become secondary and inflation breakevens can drift lower.",
+        "zh": "是 - 若降温逻辑持续，油价担忧退居次要地位，通胀预期可能进一步走弱。"
+      }
+    },
+    {
+      "title": {
+        "en": "Semiconductor sector shows resilience despite macro uncertainty, driven by AI capex cycle",
+        "zh": "半导体板块在宏观不确定下展现韧性，由 AI 资本开支周期驱动"
+      },
+      "impact": {
+        "en": "Data center buildout continues to support NVDA, AMD, AVGO, TSM. Equipment and networking suppliers see follow-through demand.",
+        "zh": "数据中心建设继续支持 NVDA、AMD、AVGO、TSM。设备和网络供应商需求有后续跟进。"
+      },
+      "bullish": ["NVDA", "AMD", "AVGO", "TSM", "SMH", "SOXX"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Mixed - earnings-driven rally is strong, but a rate rebound from Jackson Hole could narrow the bid.",
+        "zh": "分化 - 财报驱动的涨势强劲，但 Jackson Hole 后若收益率反弹，可能收窄买盘。"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury yields stabilize around 4.67% after PCE volatility",
+        "zh": "美债收益率在 PCE 波动后稳定在 4.67% 附近"
+      },
+      "impact": {
+        "en": "Lower yields support duration-sensitive tech valuations, but Jackson Hole headlines can still reprice the curve. A spike back to 4.70%+ would cap mega-cap gains.",
+        "zh": "较低收益率支持久期敏感的科技股估值，但 Jackson Hole 头条仍可重新定价曲线。若反弹至 4.70%+，将限制大科技涨幅。"
+      },
+      "bullish": ["QQQ", "XLK"],
+      "bearish": ["TLT"],
+      "macroRisk": {
+        "en": "Yes - any Jackson Hole surprise can quickly reverse yield relief and broaden weakness.",
+        "zh": "是 - 任何 Jackson Hole 意外都可能迅速逆转收益率缓解，并扩散至其他板块。"
+      }
+    },
+    {
+      "title": {
+        "en": "Dollar firm but not strong enough to offset AI-led gains",
+        "zh": "美元偏强但不足以抵消 AI 驱动的涨幅"
+      },
+      "impact": {
+        "en": "DXY steady near 99.20 provides some support for energy and financials, while a firmer dollar can cap multinationals. The balance depends on AI earnings strength.",
+        "zh": "DXY 稳定在 99.20 附近为能源和金融提供部分支撑，而更强美元会限制跨国企业。平衡点取决于 AI 财报强度。"
+      },
+      "bullish": ["XLE", "KRE"],
+      "bearish": ["EEM", "FXI"],
+      "macroRisk": {
+        "en": "Mixed - dollar strength is normal but could become an issue if yield relief fades or Jackson Hole produces hawkish surprises.",
+        "zh": "分化 - 美元走强是正常的，但如果收益率缓解消退或 Jackson Hole 出现偏鹰意外，会成为问题。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI remains the dominant theme, with Nvidia's guidance and data center buildout providing a clear investment narrative. The sector can hold up through near-term macro volatility.",
+      "zh": "AI 仍是主导主题，Nvidia 的指引和数据中心建设提供了明确的投资叙事。该板块可在近端宏观波动中支撑住。"
+    },
+    "semiconductor": {
+      "en": "Semis led the overnight move and remain the clearest beta to AI. Equipment names and networking suppliers can see follow-through demand if buying extends.",
+      "zh": "半导体领跑隔夜行情，仍然是 AI 最清晰的 beta。若买盘扩展，设备和网络供应商可有后续需求。"
+    },
+    "bigTech": {
+      "en": "Mega-cap tech gets a cleaner setup as yields stabilize, but Jackson Hole commentary can still cap gains. The rally is event-driven rather than broad macro-led.",
+      "zh": "随着收益率企稳，大科技环境更顺一点，但 Jackson Hole 讲话仍可限制涨幅。行情是事件驱动而非广泛宏观驱动的。"
+    },
+    "energy": {
+      "en": "Oil's slide continues to weigh on E&P stocks. Refiners and consumer-related names may look better relatively. Energy leadership is weak today.",
+      "zh": "油价下跌继续压制上游开采股。炼油和消费相关个股可能相对更好。能源板块今日领导力偏弱。"
+    },
+    "ev": {
+      "en": "Cheaper crude helps EV economics modestly, but the sector trades on rates more than gasoline. Financing conditions and macro sentiment remain key drivers.",
+      "zh": "更便宜的原油温和帮助电动车经济，但该板块交易更多基于利率而非汽油。融资条件和宏观情绪仍是关键驱动。"
+    },
+    "market": {
+      "en": "The tape shows risk-on at the index-futures level, but it's more event-driven than a broad macro breakout. Tech leads, but watch Jackson Hole headlines.",
+      "zh": "从指数期货看市场偏 risk-on，但更像事件驱动而非广泛宏观突破。科技领涨，但要留意 Jackson Hole 头条。"
+    },
+    "preciousMetals": {
+      "en": "Gold and silver remain supported by lower real yields, though a firmer dollar can cap upside. Geopolitical hedging demand provides a floor.",
+      "zh": "金银仍受实际收益率较低支撑，但更强美元可限制上行。地缘对冲需求提供底部。"
+    },
+    "oil": {
+      "en": "WTI under pressure from Middle East de-escalation hopes. A sustained break below $80 would force re-evaluation of supply risk pricing.",
+      "zh": "WTI 受中东降温预期压制。若持续跌破 80 美元，将迫使重新评估供给风险定价。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 futures flat to +0.3%, Nasdaq 100 futures +0.7%, Dow futures -0.2%; overnight move is mixed with tech-led upside offset by energy weakness.",
+      "zh": "标普 500 期货平至 +0.3%，纳指 100 期货 +0.7%，道指期货 -0.2%；隔夜行情分化，科技上行被能源走弱抵消。"
+    },
+    "treasury10Y": {
+      "en": "10Y Treasury yield is near 4.67%, down 5 bp from prior session. Jackson Hole commentary can still reprice the curve.",
+      "zh": "10 年期美债收益率接近 4.67%，较前一交易日下行 5 个基点。Jackson Hole 讲话仍可重新定价曲线。"
+    },
+    "dxy": {
+      "en": "DXY is around 99.20, up 0.1%. The dollar is firm but not driving the rally.",
+      "zh": "美元指数在 99.20 附近，上涨 0.1%。美元偏强但并非行情驱动力。"
+    },
+    "oil": {
+      "en": "WTI near $83.50 and Brent around $89.00; crude risk premium compressing on de-escalation hopes.",
+      "zh": "WTI 在 83.50 美元附近，布伦特约 89.00 美元；地缘风险溢价因地缘降温预期压缩。"
+    },
+    "keyRisk": {
+      "en": "Jackson Hole commentary and any hawkish shift in Fed tone; a rate rebound or yield spike above 4.70% would narrow the rally quickly.",
+      "zh": "Jackson Hole 讲话和美联储语气任何偏鹰转变；收益率反弹或突破 4.70% 以上将迅速收窄涨势。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Tech-led rally is strong but event-driven by AI earnings and Nvidia, not a full macro breakout. Jackson Hole hawkish backdrop keeps the rally from expanding beyond tech.",
+      "zh": "科技领涨强劲但由 AI 财报和 Nvidia 的事件驱动，而非全面宏观突破。Jackson Hole 偏鹰背景阻止行情扩展到科技之外。"
+    }
+  }
+}
