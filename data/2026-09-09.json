@@ -1,0 +1,160 @@
+{
+  "date": "2026-09-09",
+  "summary": {
+    "en": "U.S. stocks fell sharply amid escalating Middle East tensions, with oil prices surging toward $100/barrel following attacks on Saudi energy infrastructure and Iranian tanker by Houthi rebels. The Dow Jones slid ~550 points while inflation concerns pushed Treasury yields higher.",
+    "zh": "美国股市大幅下跌，中东紧张局势升级。油价受也门胡塞武装袭击沙特能源设施及伊朗油轮事件影响飙升至 100 美元/桶附近。道琼斯指数下跌约 550 点，通胀担忧推动美债收益率上升。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Oil Nears $100/barrel as Middle East Conflict Intensifies with Houthi Attacks on Saudi Facilities",
+        "zh": "油价接近 100 美元/桶，中东冲突因胡塞武装袭击沙特设施而升级"
+      },
+      "impact": {
+        "en": "Geopolitical supply shock driving energy prices to inflation-sensitive thresholds. WTI oil approaching key $100 resistance triggers rate hike fears, weighing on growth stocks.",
+        "zh": "地缘政治供应冲击将能源价格推向通胀敏感阈值。WTI 原油接近关键阻力位$100，引发加息担忧，拖累成长股。"
+      },
+      "bullish": ["XLE", "OXY", "CVX", "COP"],
+      "bearish": ["AAPL", "MSFT", "GOOGL", "TSLA", "NVDA"],
+      "macroRisk": {
+        "en": "YES - Oil at $98-100 triggers persistent inflation expectations, pushing 10Y Treasury yields above 4.5%. Risk-on capital flows to defensive sectors.",
+        "zh": "是 - 油价 98-100 美元触发持续的通胀预期，推动 10 年期美债收益率高于 4.5%。风险偏好资金流向防御性板块。"
+      }
+    },
+    {
+      "title": {
+        "en": "Dow Falls ~600 Points in Holiday-Shortened Session as US-Iran Tensions Rise",
+        "zh": "道指在节日缩短的交易时段下跌约 600 点，美伊紧张局势升级"
+      },
+      "impact": {
+        "en": "Market sentiment deteriorated significantly on geopolitical risks. Risk-off rotation favored defensive stocks over cyclicals as rate hike odds jumped to ~60%.",
+        "zh": "市场因地缘政治风险情绪显著恶化。避险旋转偏好防御股而非周期股，加息概率跳升至约 60%。"
+      },
+      "bullish": ["JPM", "GS", "V", "MA"],
+      "bearish": ["SPY", "QQQ", "IWM", "SMH"],
+      "macroRisk": {
+        "en": "YES - Market risk premium elevated by conflict escalation. VIX implied volatility expanding, broad-based weakness across growth names.",
+        "zh": "是 - 冲突升级推高市场风险溢价。VIX 隐含波动率扩大，成长股普遍走弱。"
+      }
+    },
+    {
+      "title": {
+        "en": "Intel Surges 9% Despite Broader Tech Weakness, Chip Sector Defies Market Trend",
+        "zh": "英特尔逆势上涨 9%，芯片板块违背大盘趋势"
+      },
+      "impact": {
+        "en": "Intel military/defense contracting with US and its strategic positioning in advanced chips provide resilience. Sector divergence highlights defense-tech overlap importance.",
+        "zh": "英特尔在国防合同及先进芯片战略布局提供韧性。板块分化突显防务科技重叠领域重要性。"
+      },
+      "bullish": ["INTC"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "NO - Intel defense contracts insulated it from geopolitical oil risk. Standout performer in a broadly negative environment.",
+        "zh": "否 - 英特尔国防合同使其免受地缘政治油价风险影响。在普遍负面环境中表现突出。"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury Yields Jump as Inflation Recession Fears Resurface from Middle East Oil Shock",
+        "zh": "美债收益率跳升，中东油价冲击引发通胀衰退担忧重燃"
+      },
+      "impact": {
+        "en": "10Y Treasury yield moved above 4.5% amid oil price shock. Bond market priced higher-for-longer Fed policy given supply-driven inflation risks.",
+        "zh": "油价冲击下 10 年期美债收益率突破 4.5%。债券市场因供给驱动通胀风险定价更高更长的美联储政策。"
+      },
+      "bullish": ["TLT", "BND"],
+      "bearish": ["XLF", "XLE", "XLK"],
+      "macroRisk": {
+        "en": "YES - Yields rise compresses equities duration. Risk-sensitive portfolios rotate to short-duration bonds and high-dividend stocks.",
+        "zh": "是 - 收益率上升压缩股票久期。风险敏感组合转向短久期债券和高股息股。"
+      }
+    },
+    {
+      "title": {
+        "en": "Brent Crude Approaches $100/barrel as War Risk Premium Enters Oil Markets",
+        "zh": "布伦特原油接近 100 美元/桶，油价市场计入战争风险溢价"
+      },
+      "impact": {
+        "en": "OPEC+ likely to defend production amid supply disruption fears. Energy sector outperforming as geopolitical premium sustains above $95 levels.",
+        "zh": "OPEC+可能在供应中断担忧下维持产量。能源板块因地缘政治溢价维持 95 美元以上水平而表现优于大盘。"
+      },
+      "bullish": ["XLE", "VLO", "PXD", "MPC"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "YES - Energy inflation feedthrough to CPI raises Fed policy uncertainty. Real assets oil/gas stocks outperform bonds.",
+        "zh": "是 - 能源通胀传导至 CPI 提升美联储政策不确定性。实物资产油气股表现优于债券。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector broadly negative as tech giants drag down broader market. Concerns over rate sensitivity and geopolitical tech supply chain disruptions offset AI earnings optimism.",
+      "zh": "AI 板块整体负面，科技巨头拖累大盘。利率敏感性和地缘政治技术供应链中断担忧抵消 AI 盈利乐观情绪。"
+    },
+    "semiconductor": {
+      "en": "Semis diverged: Intel +9% on defense contracts, NVIDIA/AMD mixed. Defense computing demand provides sector hedge against oil risk.",
+      "zh": "半导体分化：英特尔因国防合同上涨 9%，NVIDIA/AMD 表现不一。国防计算需求为抵御油价风险提供板块对冲。"
+    },
+    "bigTech": {
+      "en": "Big Tech AAPL, MSFT, GOOGL declined with broader market. Geopolitical risks to China/AI supply chains and cloud spending slowdowns create headwinds.",
+      "zh": "大科技股随大盘下跌。地缘政治对中国/AI 供应链及云服务支出放缓构成逆风。"
+    },
+    "energy": {
+      "en": "Energy sector leading rally as oil nears $100. XLE ETF up significantly, with producers like OXY, CVX, COP benefiting from geopolitical supply shock.",
+      "zh": "能源板块领涨，油价接近 100 美元。XLE ETF 显著上涨，OXY、CVX、COP 等生产商受益于地缘政治供应冲击。"
+    },
+    "ev": {
+      "en": "EV sector faces headwinds as higher oil prices reduce demand for alternative fuel vehicles. Range anxiety less relevant when gas costs rise significantly.",
+      "zh": "电动车面临逆风，油价上涨降低替代燃料车辆需求。当汽油成本显著上升时，里程焦虑变得不那么相关。"
+    },
+    "market": {
+      "en": "Broad market weakness amid geopolitical escalation. S&P 500 down ~0.6%, Nasdaq -0.7%, Dow -0.9%. Breadth deterioration with defensive rotation ongoing.",
+      "zh": "地缘政治升级下大盘走弱。标普 500 下跌约 0.6%，纳斯达克-0.7%，道指-0.9%。广度恶化，防御股轮换持续。"
+    },
+    "preciousMetals": {
+      "en": "Gold and silver benefiting from safe-haven flows amid geopolitical uncertainty. XAU rising on risk-off sentiment and real rate decline.",
+      "zh": "金银受益于地缘政治不确定性下的避险资金流入。XAU 因避险情绪和实际利率下降而上涨。"
+    },
+    "oil": {
+      "en": "WTI crude at $98-100, Brent near $100 as Houthi attacks and Iran conflict escalate. OPEC+ supply discipline likely to support prices despite global demand slowdown.",
+      "zh": "WTI 原油在$98-100，布伦特接近$100，也门和伊朗冲突升级。尽管全球需求放缓，OPEC+ 供应纪律可能支持油价。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "Nasdaq futures down ~0.6%, S&P 500 futures -0.5%, Dow -0.9% heading into US open after overnight Asia/Europe losses.",
+      "zh": "纳斯达克期货下跌约 0.6%，标普 500 期货-0.5%，道指-0.9%，亚洲欧洲盘后美股开盘前。"
+    },
+    "treasury10Y": {
+      "en": "10Y Treasury yield at 4.55% after oil shock, up from ~4.3% earlier. Fed rate hike odds now ~60% as inflation fears persist.",
+      "zh": "10 年期美债收益率在油价冲击后为 4.55%，较早前的约 4.3% 上升。通胀担忧持续，美联储加息概率升至约 60%。"
+    },
+    "dxy": {
+      "en": "DXY slightly elevated around 97.5-98 as oil and geopolitical risks weaken EM currencies, supporting dollar strength.",
+      "zh": "美元指数因油价和地缘政治风险削弱新兴市场货币，支撑美元走强而略高于 97.5-98。"
+    },
+    "oil": {
+      "en": "WTI crude $98.50-100, Brent $102+ with war risk premium adding to baseline levels from supply disruptions.",
+      "zh": "WTI 原油$98.50-100，布伦特$102+，战争风险溢价因供应中断添加到基准水平。"
+    },
+    "keyRisk": {
+      "en": "Ongoing Middle East military escalation could push oil above $100 sustainably, locking in higher inflation expectations and forcing Fed into hawkish positioning.",
+      "zh": "中东军事升级持续，可能将油价推高至$100 以上并维持，锁定更高的通胀预期，迫使美联储采取鹰派立场。"
+    }
+  },
+  "judgment": {
+    "type": "risk-off",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Risk-off rotation driven by Middle East geopolitical escalation. Oil supply shock creates inflation uncertainty, pushing Treasury yields higher and compressing equity valuations.",
+      "zh": "避险轮换由中东地缘政治升级驱动。油价供应冲击造成通胀不确定性，推动美债收益率上升并压缩股票估值。"
+    }
+  },
+  "disclaimer": {
+    "en": "YUCLAW signals are research classifications, NOT investment recommendations. Past performance is no guarantee of future results.",
+    "zh": "YUCLAW 信号是研究分类，非投资建议。过去表现不保证未来结果。"
+  }
+}
