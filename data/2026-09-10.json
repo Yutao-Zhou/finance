@@ -1,0 +1,124 @@
+{
+  "date": "2026-09-10",
+  "summary": {
+    "en": "US markets open with attention on Fed rate expectations and tech earnings season progress. Pre-market focus remains on AI sector leadership amid mixed macro data, while geopolitical developments in energy markets keep oil prices elevated.",
+    "zh": "美国市场开盘关注美联储利率预期和科技股财报季进展。盘前焦点集中在人工智能板块领导地位，尽管宏观数据喜忧参半，而能源市场的地缘政治动态维持油价高位。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Fed Officials Signal Cautious Approach to Rate Cuts as Inflation Data Lingers",
+        "zh": "美联储官员表示对降息保持谨慎态度，因通胀数据持续"
+      },
+      "impact": {
+        "en": "Higher-for-longer rate expectations weigh on growth stocks but support bond yields",
+        "zh": "长期较高利率预期压制成长股但支撑债收益率"
+      },
+      "bullish": ["XLV", "XLP"],
+      "bearish": ["XLK", "SMH", "QQQ"],
+      "macroRisk": {
+        "en": "Yes - Higher rates pressure rate-sensitive tech valuations; bond vigilantes pricing in sticky inflation",
+        "zh": "是 - 较高利率压制对利率敏感的科技股估值；债券鹰派定价粘性通胀"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil Prices Surge on Middle East Tensions OPEC+ Maintaining Supply Discipline",
+        "zh": "油价因地缘紧张及OPEC+维持供应纪律而飙升"
+      },
+      "impact": {
+        "en": "Energy sector rallies; inflation fears re-emerge but strategic reserves offset near-term risk",
+        "zh": "能源板块反弹；通胀担忧重现但战略储备抵消近期风险"
+      },
+      "bullish": ["XLE", "OIL", "CVX", "COP"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Yes - Oil above $75 triggers pass-through to CPI; Fed may delay cuts if energy inflation persists",
+        "zh": "是 - 油价高于$75将传导至CPI；若能源通胀持续，美联储或推迟降息"
+      }
+    },
+    {
+      "title": {
+        "en": "Semiconductor Earnings Drive Big Tech Rally Despite AI Spending Concerns",
+        "zh": "半导体 earnings 推动大科技股上涨，尽管对 AI 支出存在担忧"
+      },
+      "impact": {
+        "en": "Strong chip demand validates AI capex; NVIDIA and AMD outperform broader market",
+        "zh": "强劲的芯片需求验证了 AI 资本支出；NVIDIA 和 AMD 跑赢大盘"
+      },
+      "bullish": ["NVDA", "AMD", "AVGO", "INTC"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - AI revenue growth offsets rate concerns in tech sector",
+        "zh": "否 - AI 收入增长抵消科技板块的利率担忧"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI leaders rally on strong earnings; semiconductor supply chain validates investment thesis despite valuation concerns. Focus shifting to deployment efficiency and ROI.",
+      "zh": "AI 领导者因强劲业绩上涨；半导体供应链验证了投资论点，尽管估值存在担忧。焦点转向部署效率和 ROI。"
+    },
+    "semiconductor": {
+      "en": "Strong demand for AI chips continues; cyclical recovery underway with auto and consumer electronics segments leading. Trade tensions remain a watch item.",
+      "zh": "AI 芯片需求强劲；周期性复苏进行中，汽车和消费电子板块领先。贸易紧张局势仍是关注事项。"
+    },
+    "bigTech": {
+      "en": "Mixed performance as cloud growth moderates; search and advertising revenues resilient. AI monetization accelerating across platforms.",
+      "zh": "业绩喜忧参半，云增长放缓；搜索和广告收入具有韧性。跨平台的 AI 变现正在加速。"
+    },
+    "energy": {
+      "en": "Oil price strength drives sector gains; renewable energy faces headwinds from macro uncertainty. Exploration budgets remain elevated.",
+      "zh": "油价走强推动板块收益；可再生能源面临宏观不确定性的阻力。勘探预算保持高位。"
+    },
+    "ev": {
+      "en": "China EV slowdown and interest rate sensitivity pressure valuations. Domestic US players focus on profitability over market share.",
+      "zh": "中国电动车减速和利率敏感性压制估值。美国本土企业专注于盈利能力而非市场份额。"
+    },
+    "market": {
+      "en": "Pre-market futures slightly lower; broad market faces rotation into value as growth faces rate pressure. Breadth remains fragile.",
+      "zh": "盘前期货小幅下跌；广泛市场转向价值股，成长股面临利率压力。广度仍然脆弱。"
+    },
+    "preciousMetals": {
+      "en": "Gold trades near $2,800/oz on Fed uncertainty and geopolitical hedging. Silver benefits from industrial demand but trails gold.",
+      "zh": "金价在$2,800/oz附近交易，因美联储不确定性和地缘避险。白银受益于工业需求但落后于黄金。"
+    },
+    "oil": {
+      "en": "WTI above $78/bbl driven by Middle East tensions. Supply constraints from geopolitics outweigh demand concerns in short term.",
+      "zh": "WTI 高于$78/桶，由中东紧张局势推动。地缘政治的供应制约在短期内超过需求担忧。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 futures down 0.3%, Nasdaq futures flat; Dow up 0.2%. Asian markets mixed with Japan and Korea modestly lower.",
+      "zh": "标普期货下跌 0.3%，纳斯达克期货持平；道指上涨 0.2%。亚洲市场喜忧参半，日本和韩国小幅下跌。"
+    },
+    "treasury10Y": {
+      "en": "10Y yield at 4.35%, up from Friday's close as bond vigilantes price in persistent inflation and cautious Fed messaging.",
+      "zh": "10Y 收益率在 4.35%，高于周五收盘，因为债券鹰派定价持续的通胀和美联储谨慎的沟通。"
+    },
+    "dxy": {
+      "en": "DXY strengthening at 96.5 as safe-haven flows and higher yields support the greenback against EM currencies.",
+      "zh": "美元指数在 96.5 走强，避险流动和较高收益率支撑美元对新兴市场货币。"
+    },
+    "oil": {
+      "en": "WTI crude at $78.50/bbl, Brent at $83.20; geopolitical premium elevates both benchmarks above historical averages.",
+      "zh": "WTI 原油在$78.50/桶，布伦特在$83.20；地缘溢价将两者均抬高至历史平均水平之上。"
+    },
+    "keyRisk": {
+      "en": "PCE inflation data later in week could force Fed pivot; earnings season quality will determine tech resilience",
+      "zh": "本周晚些时候的 PCE 通胀数据可能迫使美联储转向；财报季质量将决定科技的韧性"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Sector divergence dominates; AI/semis outperform while rate-sensitive growth and consumer staples show weakness. Geopolitical oil risk adds complexity.",
+      "zh": "板块分化占主导；AI/半导体跑赢，而利率敏感的成长股和消费品板块表现疲软。地缘政治油价风险增加了复杂性。"
+    }
+  }
+}
