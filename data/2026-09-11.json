@@ -1,0 +1,156 @@
+{
+	"date": "2026-09-11",
+	"summary": {
+		"en": "Friday morning markets focus on weekly economic data releases and earnings season mid-point, with investors watching for inflation implications ahead of potential Fed policy guidance. Energy sector gains from OPEC+ discussions while tech faces volatility on AI regulatory concerns.",
+		"zh": "周五盘前市场关注每周经济数据发布及财报季中段，投资者观望通胀对美联储政策指引的影响。能源股因 OPEC+ 讨论获利，科技股受 AI 监管担忧而波动。"
+	},
+	"topNews": [
+		{
+			"title": {
+				"en": "Oil Prices Rise on OPEC+ Production Cut Hopes Boosting Energy Stocks",
+				"zh": "油价因 OPEC+ 减产预期上涨，提振能源股"
+			},
+			"impact": {
+				"en": "Rising oil prices benefit upstream energy producers while increasing transportation and manufacturing costs. Higher energy prices may trigger inflation concerns affecting Fed policy stance.",
+				"zh": "油价上涨利好上游能源生产商，同时增加交通和制造成本。能源价格升高可能引发通胀担忧，影响美联储政策立场。"
+			},
+			"bullish": ["energy sector", "oil producers", "transportation costs hedge"],
+			"bearish": ["consumer spending", "airline profits", "retail margins"],
+			"macroRisk": {
+				"en": "Potential inflation spike could constrain Fed policy, limiting risk-on flows to growth names.",
+				"zh": "通胀可能飙升，制约美联储政策，限制成长股的风险偏好资金流入。"
+			}
+		},
+		{
+			"title": {
+				"en": "Tech Sector Faces AI Regulatory Uncertainty Ahead of Senate Hearing",
+				"zh": "科技股面临参议院听证会前的 AI 监管不确定性"
+			},
+			"impact": {
+				"en": "Antitrust concerns around AI models and potential regulatory frameworks could impact big tech earnings guidance. Investors remain cautious on capex plans for generative AI infrastructure.",
+				"zh": "围绕 AI 模型的反垄断担忧及潜在监管框架可能影响科技巨头盈利指引。投资者对生成式 AI 基础设施资本开支计划保持谨慎。"
+			},
+			"bullish": ["established players with moats", "regulatory-compliant AI vendors"],
+			"bearish": ["mid-cap tech", "capex-heavy AI startups", "advertising platforms"],
+			"macroRisk": {
+				"en": "Policy uncertainty around AI regulation could delay capex plans and impact earnings growth expectations for semiconductor and software sectors.",
+				"zh": "AI 监管政策的不确定性可能推迟资本开支计划，影响半导体和软件板块的盈利增长预期。"
+			}
+		},
+		{
+			"title": {
+				"en": "China Economic Data Shows Mixed Signals, Impacting US-China Tech Chain",
+				"zh": "中国经济数据信号不一，影响中美科技供应链"
+			},
+			"impact": {
+				"en": "Weaker-than-expected Chinese consumer data raises concerns about global demand for US tech exports. Semiconductor manufacturers serving China face potential volume challenges in the coming quarter.",
+				"zh": "中国消费者数据不及预期，引发对美国科技出口需求的担忧。为华供货的半导体制造商面临下个季度的潜在销量挑战。"
+			},
+			"bullish": ["companies with non-China revenue", "domestic-focused tech"],
+			"bearish": ["China-exposed hardware", "export-dependent software", "EV supply chain"],
+			"macroRisk": {
+				"en": "Geopolitical tensions combined with weak Chinese demand create headwinds for global tech growth, particularly for companies with significant China exposure.",
+				"zh": "地缘政治紧张与疲软的中国需求叠加，为全球科技增长带来逆风，尤其是对中国有重大敞口的公司。"
+			}
+		},
+		{
+			"title": {
+				"en": "Treasury Yields Stable After Recent Volatility, Supporting Equities",
+				"zh": "美债收益率在近期波动后稳定，利好股市"
+			},
+			"impact": {
+				"en": "The 10Y Treasury yield holding near key levels provides support for equity valuations. Stable yields reduce financing costs for companies while limiting rate-sensitive growth stock pressure.",
+				"zh": "10 年期美债收益率在关键水平附近支撑股市估值。稳定的收益率降低了公司融资成本，同时限制了对利率敏感的成长股压力。"
+			},
+			"bullish": ["growth stocks", "tech names", "duration-sensitive portfolios"],
+			"bearish": ["fixed income alternatives", "leveraged loans"],
+			"macroRisk": {
+				"en": "Any sudden yield spike could pressure growth equities; conversely, yields falling too low might signal recession fears.",
+				"zh": "收益率突然飙升可能压制成长股；反之，收益率过低可能信号衰退担忧。"
+			}
+		},
+		{
+			"title": {
+				"en": "Dollar Index (DXY) Consolidates Near Support Levels",
+				"zh": "美元指数在支撑位附近盘整"
+			},
+			"impact": {
+				"en": "A stabilizing DXY benefits multinational earnings visibility while limiting pressure on commodity prices. Weakness could open opportunities for emerging market exposure.",
+				"zh": "稳定的美元利好跨国盈利可见性，同时限制商品价格压力。美元疲软可能为新兴市场敞口创造机会。"
+			},
+			"bullish": ["international companies", "multinational earnings", "emerging markets"],
+			"bearish": ["US exporters", "foreign assets in dollar terms", "travel-related revenue"],
+			"macroRisk": {
+				"en": "Dollar strength or weakness is closely tied to Fed policy divergence, creating cross-asset correlations that could impact risk sentiment.",
+				"zh": "美元强弱与美联储政策分化紧密相关，创造跨资产相关性，可能影响风险情绪。"
+			}
+		}
+	],
+	"sectorRadar": {
+		"ai": {
+			"en": "Selective strength in AI infrastructure components while application-layer development software faces scrutiny. Hardware vendors with proven deployments outperform; pure-play AI software lags on near-term catalysts.",
+			"zh": "AI 基础设施组件选择性走强，而应用层开发软件面临审查。硬件供应商在已验证部署方面表现优异；纯 AI 软件缺乏近期催化剂而落后。"
+		},
+		"semiconductor": {
+			"en": "Mixed sentiment as chip demand stabilizes but geopolitical tensions persist. Memory and process nodes benefit from datacenter demand; automotive chips face EV slowdown headwinds.",
+			"zh": "芯片需求稳定但地缘政治紧张持续，情绪分化。存储和工艺节点受益于数据中心需求；汽车芯片面临电动车放缓的逆风。"
+		},
+		"bigTech": {
+			"en": "Earnings season mid-point shows resilient ad and cloud revenues but growing margin pressure. Investors watch for guidance on AI capex and advertising effectiveness metrics amid regulatory overhang.",
+			"zh": "财报季中段显示广告和云收入具有韧性，但利润率压力增长。投资者在监管担忧背景下关注 AI 资本开支和广告效果指标指引。"
+		},
+		"energy": {
+			"en": "Strongest sector today on OPEC+ production cut discussions and rising crude prices. Upstream producers see margin expansion; downstream refiners benefit from higher margins despite demand concerns.",
+			"zh": "今日最强板块，因 OPEC+ 减产讨论和原油价格上涨。上游生产商扩大利润率；下游炼油商受益于较高利润率，尽管需求担忧仍然存在。"
+		},
+		"ev": {
+			"en": "Weakest performance amid EV sales slowdown and pricing pressure. Chinese battery makers face inventory challenges; Western OEMs benefit from trade policy clarity but volume growth remains challenged.",
+			"zh": "电动车销售放缓和价格压力导致表现最差。中国电池制造商面临库存挑战；西方原始设备制造商受益于贸易政策明确，但销量增长仍受挑战。"
+		},
+		"market": {
+			"en": "S&P 500 futures near support levels with mixed sentiment ahead of key economic prints. Tech sector provides drag while financials and energy offer support. VIX elevated on geopolitical uncertainties.",
+			"zh": "标普 500 期货在支撑位附近，关键经济数据发布前情绪分化。科技板块拖累指数，而金融和能源提供支撑。VIX 在地缘政治不确定性下 elevated。"
+		},
+		"preciousMetals": {
+			"en": "Gold and silver rally on yield decline and safe-haven demand. Central bank buying continues as geopolitical tensions persist. Industrial demand for silver remains subdued in economic slowdown backdrop.",
+			"zh": "黄金和白银在收益率下降和避险需求下上涨。央行持续购金，地缘政治紧张局势持续。在经济增长放缓背景下，白银工业需求仍然疲软。"
+		},
+		"oil": {
+			"en": "Crude prices supported by OPEC+ supply discipline and Middle East tension. Oil services sector shows strength; upstream production continues to expand despite higher costs.",
+			"zh": "原油价格受 OPEC+ 供应纪律和中东紧张局势支持。石油服务板块表现强劲；上游生产继续扩张，尽管成本上升。"
+		}
+	},
+	"premarketFocus": {
+		"futures": {
+			"en": "S&P 500 futures: Neutral to -0.2%, NASDAQ futures: -0.3%, Dow futures: Flat sentiment",
+			"zh": "标普 500 期货：中性至-0.2%，纳斯达克期货：-0.3%，道指期货：平静情绪"
+		},
+		"treasury10Y": {
+			"en": "~4.15%, stable after recent volatility, providing equity support",
+			"zh": "约 4.15%，在近期波动后稳定，为股市提供支撑"
+		},
+		"dxy": {
+			"en": "Near 96.50-97.00 range, consolidating after recent strength",
+			"zh": "接近 96.50-97.00 区间，在近期强劲后盘整"
+		},
+		"oil": {
+			"en": "WTI crude ~$78.50-80.00 per barrel, supported by Middle East tension",
+			"zh": "WTI 原油~78.50-80.00 美元/桶，受中东紧张局势支持"
+		},
+		"keyRisk": {
+			"en": "Geopolitical escalation in Middle East and US-China tensions remain primary concerns; Fed policy stance clarity expected later this week",
+			"zh": "中东和美国中国地缘政治升级仍是主要担忧；预计美联储政策立场本周稍后明确"
+		}
+	},
+	"judgment": {
+		"type": "mixed",
+		"confidence": {
+			"en": "medium",
+			"zh": "中"
+		},
+		"note": {
+			"en": "Mixed sentiment due to OPEC+ energy gains offsetting AI regulatory concerns. Tech sector selective opportunities; defensive positioning advised for uncertain macro environment.",
+			"zh": "情绪分化，因 OPEC+ 能源收益抵消 AI 监管担忧。科技板块选择性机会；建议在不确定宏观环境中采取防御性定位。"
+		}
+	}
+}
