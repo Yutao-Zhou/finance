@@ -1,0 +1,171 @@
+{
+  "date": "2026-09-14",
+  "summary": {
+    "en": "Markets close after Friday with mixed signals as investors digest weekend geopolitical developments and wait for September jobs data on Tuesday. AI chip sector shows resilience despite broader tech slowdown concerns, while energy prices remain elevated amid OPEC+ supply constraints.",
+    "zh": "周五收盘后市场呈现混合信号，投资者正在消化周末的地缘政治动态并等待周二的九月就业数据。AI 芯片板块在更广泛的科技放缓担忧中显示出韧性，而能源价格在 OPEC+供应约束下保持高位。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "NVIDIA and AMD maintain AI chip momentum ahead of broader tech earnings",
+        "zh": "NVIDIA 和 AMD 在更广泛的科技财报前保持 AI 芯片动量"
+      },
+      "impact": "Strong demand for AI chips suggests continued enterprise digital transformation. Potential risk from semiconductor supply chain constraints.",
+      "bullish": ["NVDA", "AMD", "AVGO"],
+      "bearish": ["Intel"],
+      "macroRisk": {
+        "en": "Supply chain dependencies on Asian fabrication may face geopolitical headwinds if tensions escalate.",
+        "zh": "对亚洲制造环节的供应链依赖可能因地缘政治紧张加剧而受到打击。"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil prices stabilize above $70/bbl as geopolitical tensions in Middle East persist",
+        "zh": "油价在中东地缘政治持续下稳定在 70 美元/桶以上"
+      },
+      "impact": "Higher oil prices support energy sector but raise inflation concerns. WTI-Brent spread narrowing indicates balanced global supply outlook.",
+      "bullish": ["XOM", "CVX"],
+      "bearish": ["USO"],
+      "macroRisk": {
+        "en": "Persistent regional conflict risks premium pricing but also fuels recession fears if sustained beyond 2026Q4.",
+        "zh": "持续的区域冲突风险溢价定价，但如果超过 2026 年第四季度则助长衰退担忧。"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury yields edge higher on inflation stickiness data ahead of Fed speaker Warsh this week",
+        "zh": "通胀粘性数据推动下美债收益率小幅走高，本周末将有美联储官员沃什发表讲话"
+      },
+      "impact": "10Y yield above 4.2% tests rate-sensitive sectors. Potential headwind for growth stocks until clarity on Fed pivot timing.",
+      "bullish": [],
+      "bearish": ["TLT", "JNK"],
+      "macroRisk": {
+        "en": "Fed policy uncertainty could lead to increased bond volatility and margin compression in leveraged portfolios.",
+        "zh": "美联储政策不确定性可能导致债券波动性增加，并压缩杠杆投资组合的保证金。"
+      }
+    },
+    {
+      "title": {
+        "en": "DXY dollar index strengthens as Asian markets rally amid safe-haven flows",
+        "zh": "亚洲市场在避險资金流入中上涨时美元指数走强"
+      },
+      "impact": "Stronger dollar pressures emerging market assets and multinational earnings. Tech companies with significant China exposure face currency headwinds.",
+      "bullish": [],
+      "bearish": ["FXI", "EWJ", "MCHI"],
+      "macroRisk": {
+        "en": "USD strength correlates inversely with risk appetite; elevated DXY may limit small-cap and EM equity upside.",
+        "zh": "美元指数强度与风险偏好呈负相关；高美元指数可能限制小盘股和新兴市场股票的上涨空间。"
+      }
+    },
+    {
+      "title": {
+        "en": "Gold futures near record highs as real yields decline",
+        "zh": "黄金期货在真实收益率下降时接近历史新高"
+      },
+      "impact": "Safe-haven demand supports precious metals. Gold miners may face margin pressure from operational costs but remain attractive on reserve diversification thesis.",
+      "bullish": ["GLD", "NEM"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Geopolitical uncertainty drives safe-haven flows; opportunity cost diminishes as bond yields stabilize near 4-4.5% range.",
+        "zh": "地缘政治不确定性推动避險资金流入；随着债券收益率稳定在 4-4.5% 区间，机会成本降低。"
+      }
+    },
+    {
+      "title": {
+        "en": "EV sector consolidates as consumer preference shifts to traditional ICE vehicles",
+        "zh": "电动车板块整合，消费者偏好向传统内燃机汽车转变"
+      },
+      "impact": "Range and charging infrastructure concerns persist. Regulatory tailwinds from IRA remain but execution challenges mount for legacy automakers.",
+      "bullish": ["RIVN"],
+      "bearish": ["TSLA", "F"],
+      "macroRisk": {
+        "en": "Consumer discretionary weakness and interest rate sensitivity weigh on premium EV demand. Price competition intensifying across segment.",
+        "zh": "消费疲软和利率敏感性拖累高端电动车需求。跨细分市场价格竞争加剧。"
+      }
+    },
+    {
+      "title": {
+        "en": "Semiconductor equipment vendors see backlog expansion ahead of 5nm capacity ramp",
+        "zh": "半导体设备供应商在 5nm 产能扩张前看到积压订单增长"
+      },
+      "impact": "Capex cycles suggest sustained demand through 2026H2. Trade restrictions on China semiconductor imports remain key headwind for top-line growth.",
+      "bullish": ["LRCX", "AMAT", "KLAC"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Export control tightening could impact revenue recognition and supply chain logistics for US equipment vendors selling to Asian markets.",
+        "zh": "出口管制收紧可能影响向亚洲市场销售设备的美国设备供应商的收入确认和供应链物流。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI chip demand remains robust despite macro headwinds. NVIDIA and AMD benefiting from enterprise AI adoption. Cloud hyperscalers capex guidance stable.",
+      "zh": "尽管宏观逆风，人工智能芯片需求依然强劲。NVIDIA 和 AMD 受益于企业 AI 采用。云超大规模计算公司资本支出指引保持稳定。"
+    },
+    "semiconductor": {
+      "en": "Mixed sector with leadership gaining on AI, while memory faces cyclical pressure. Equipment backlog strong. Consumer chip demand softening.",
+      "zh": "板块分化，龙头因 AI 受益，而内存面临周期性压力。设备积压订单强劲。消费电子芯片需求放缓。"
+    },
+    "bigTech": {
+      "en": "Big tech earnings cloud hovering. Cloud revenue growth remains resilient. AI infrastructure investment steady but efficiency measures ramping up.",
+      "zh": "大型科技公司的收入多云笼罩。云收入增长保持韧性。AI 基础设施投资保持稳定，但效率措施正在加强。"
+    },
+    "energy": {
+      "en": "Energy sector benefits from oil price support and dividend yields. Production growth tempered by geopolitical constraints. Transition investments lag.",
+      "zh": "能源板块受益于油价支持和股息收益率。生产增长受到地缘政治约束的抑制。转型投资滞后。"
+    },
+    "ev": {
+      "en": "EV sector under pressure from consumer discretionary weakness and competitive pricing. Premium brands showing resilience but volume growth challenged.",
+      "zh": "电动车板块在消费疲软和竞争性定价的压力下受到打击。高端品牌显示出韧性，但销量增长面临挑战。"
+    },
+    "market": {
+      "en": "Broad market cautious near year-end. Defensive positioning favored by institutional investors. Rotation into value and energy from tech continues.",
+      "zh": "大盘在年末附近保持谨慎。机构投资者偏爱防御性头寸。从科技股转向价值和能源的轮动持续进行。"
+    },
+    "preciousMetals": {
+      "en": "Gold and silver near multi-year highs on safe-haven demand and real yield dynamics. Mining stocks volatile but attractive for portfolio diversification.",
+      "zh": "黄金和白银在避險需求和真实收益率动态下接近多年新高。矿业股波动但具有投资组合多元化的吸引力。"
+    },
+    "oil": {
+      "en": "WTI-Brent trade balanced. Middle East tensions provide price floor but also recession risk premium if prolonged. OPEC+ discipline holding.",
+      "zh": "WTI-Brent 交易保持平衡。中东紧张局势提供价格地板，但如果持续则也构成衰退风险溢价。OPEC+纪律得以维持。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 futures slightly lower (-0.3%); Nasdaq neutral; Dow mixed as earnings season approaches",
+      "zh": "标普 500 期货小幅下跌（-0.3%）；纳斯达克中性；道琼斯在财报季临近时呈现混合走势"
+    },
+    "treasury10Y": {
+      "en": "10Y yield hovering near 4.25%, testing rate-sensitive valuations",
+      "zh": "10年期收益率在 4.25% 附近徘徊，测试利率敏感型估值"
+    },
+    "dxy": {
+      "en": "Dollar index elevated at 103.5, pressuring EM assets and multinationals",
+      "zh": "美元指数升至 103.5 的高位，对新兴市场和跨国企业构成压力"
+    },
+    "oil": {
+      "en": "Crude trading around $72/bbl with geopolitical premium intact",
+      "zh": "原油在 72 美元/桶左右交易，地缘政治溢价保持完整"
+    },
+    "keyRisk": {
+      "en": "September jobs report on Tuesday and Fed official Warsh's comments could drive volatility. Election uncertainty looms over markets.",
+      "zh": "周二九月就业报告和美联储官员沃什的评论可能引发波动。市场笼罩着选举不确定性。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Mixed sentiment due to AI strength vs. broader tech slowdown concerns, oil inflation risks, and policy uncertainty near election period.",
+      "zh": "由于 AI 强势与更广泛科技放缓担忧、油价通胀风险以及选举临近的政策不确定性，市场情绪呈现混合状态。"
+    }
+  },
+  "disclaimer": {
+    "en": "YUCLAW signals are research classifications, NOT investment recommendations. This brief is for informational purposes only.",
+    "zh": "YUCLAW 信号是研究分类，不构成投资建议。本简报仅供信息用途。"
+  }
+}
