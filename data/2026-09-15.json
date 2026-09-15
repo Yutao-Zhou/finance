@@ -1,0 +1,124 @@
+{
+  "date": "2026-09-15",
+  "summary": {
+    "en": "Pre-market focus centers on earnings expectations ahead of earnings season and broader macro positioning as markets digest Fed commentary. Asian market close showed modest gains while futures track cautiously upward.",
+    "zh": "盘前焦点集中在财报季预期及宏观配置，市场消化美联储言论。亚洲收市表现温和，期货谨慎上行。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Wall Street futures gain on resilient Asian markets ahead of earnings surge",
+        "zh": "美股期指在业绩季前因亚洲市场稳健而上涨"
+      },
+      "impact": {
+        "en": "Futures track higher as Japan and Korea show strength; tech earnings season typically drives rotation into AI leaders and growth names with resilient fundamentals.",
+        "zh": "日/韩表现强劲带动期指上行；科技财报季通常推动资金流向 AI 龙头及基本面稳健的成长股。"
+      },
+      "bullish": ["AAPL", "NVDA", "MSFT", "META"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - earnings-driven rally supported by fundamentals, not rate-sensitive positioning",
+        "zh": "否 - 业绩驱动上涨由基本面支持，非利率敏感配置"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil stabilizes as Middle East tensions remain contained",
+        "zh": "油价因中东局势受控而企稳"
+      },
+      "impact": {
+        "en": "WTI/Brent consolidation limits immediate inflation repricing impact; oil companies see neutral sentiment while energy transition plays face structural headwinds.",
+        "zh": "WTI/布伦特盘整限制通胀重定价影响；油企情绪中性，能源转型概念面临结构性阻力。"
+      },
+      "bullish": ["COP", "CVX"],
+      "bearish": ["SLB", "HAL"],
+      "macroRisk": {
+        "en": "Yes - geopolitical stability reduces inflation risk premium, easing pressure on 10Y yields and duration-sensitive names",
+        "zh": "是 - 地缘政治稳定降低通胀风险溢价，缓解对美债收益率及久期敏感标的压力"
+      }
+    },
+    {
+      "title": {
+        "en": "Semiconductor supply chain shows signs of recovery in Q4 demand forecasts",
+        "zh": "半导体供应链第四季度需求前景显示复苏迹象"
+      },
+      "impact": {
+        "en": "Design and fabless names gain as inventory levels normalize; equipment makers see order visibility improve, while memory sector watches consumer electronics refresh cycles.",
+        "zh": "设计与无厂设计股因库存正常化而上涨；设备商订单能见度改善，内存股关注消费电子换机周期。"
+      },
+      "bullish": ["AVGO", "LRCX", "AMAT"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - sector-specific fundamentals, not rate-dependent",
+        "zh": "否 - 板块基本面驱动，非利率依赖"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI leaders trade on strong earnings expectations; NVIDIA and AMD benefit from data center demand while smaller caps watch AI infrastructure spending.",
+      "zh": "AI 龙头基于强劲业绩预期交易；NVIDIA/AMD 受益于数据中心需求，小型股关注 AI 基础设施支出。"
+    },
+    "semiconductor": {
+      "en": "Mixed sector outlook; memory names gain on consumer refresh while logic chips wait for client demand recovery. Equipment makers remain supported by capex cycles.",
+      "zh": "板块分化；内存因消费电子换机上涨，逻辑芯片等待客户需求复苏。设备商受资本支出周期支撑。"
+    },
+    "bigTech": {
+      "en": "Magnificent Seven show defensive positioning ahead of earnings; cloud revenue growth and AI monetization remain key valuation drivers.",
+      "zh": "七巨头在财报前采取防御姿态；云收入增长和 AI 变现仍是估值关键驱动。"
+    },
+    "energy": {
+      "en": "Oil stabilizes amid geopolitical calm; refiners face margin pressure while upstream producers trade rangebound. Renewable plays lag on valuation concerns.",
+      "zh": "地缘政治平静下油价企稳；炼油厂面临利润率压力，上游生产商区间震荡。可再生概念因估值担忧而落后。"
+    },
+    "ev": {
+      "en": "EV sector under pressure from broader auto cycle weakness and charging infrastructure delays. Battery names consolidate after earnings disappointments.",
+      "zh": "电动车板块受汽车周期疲软及充电基础设施延误压制。电池股在业绩不及预期后盘整。"
+    },
+    "market": {
+      "en": "S&P 500 futures up modestly ahead of open; breadth neutral with sector divergence on earnings. Nasdaq shows strength in tech names while Dow lags.",
+      "zh": "标普期货小幅上涨；广度中性，板块因业绩分歧。纳斯达克科技股强势，道指落后。"
+    },
+    "preciousMetals": {
+      "en": "Gold and silver hold near recent highs on safe-haven flows from Middle East tensions; miners face margin compression from higher operating costs.",
+      "zh": "金/银因地缘避险流持守近期高位；矿商面临高运营成本挤压利润率。"
+    },
+    "oil": {
+      "en": "WTI consolidates near \$78-80 range; OPEC+ discipline holds while non-OPEC production increases supply. Prices support energy sector earnings but limit upside.",
+      "zh": "WTI 在\$78-80 区间盘整；OPEC+纪律保持，非 OPEC 增产供应。油价支撑能源盈利但限制上行空间。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 futures +0.3%, Nasdaq futures +0.5%, Dow futures flat; Japan and Korea markets close higher providing modest Asian support.",
+      "zh": "标普期指+0.3%，纳斯达克期指+0.5%，道指期货持平；日/韩上涨提供温和亚洲支撑。"
+    },
+    "treasury10Y": {
+      "en": "10Y Treasury yield holds near 4.2%; stable with muted inflation data; rate-sensitive names see neutral positioning ahead of any CPI print.",
+      "zh": "10Y 美债收益率持守 4.2% 附近；通胀数据平淡保持稳定；利率敏感标的在 CPI 公布前配置中性。"
+    },
+    "dxy": {
+      "en": "DXY tests key resistance levels; dollar strength pressures EM assets while multinational earnings supported by FX headwinds.",
+      "zh": "美元指数测试关键阻力位；美元强势压制新兴市场资产，但跨国公司业绩受汇兑逆风支持。"
+    },
+    "oil": {
+      "en": "WTI \$79.50, Brent \$83.20; consolidation pattern limits volatility; energy sector earnings remain supported but upside capped.",
+      "zh": "WTI $79.50，布伦特$83.20；盘整模式限制波动；能源盈利仍受支撑但上行受限。"
+    },
+    "keyRisk": {
+      "en": "Earnings surprise on major tech names could spark sector rotation; Middle East escalation would trigger safe-haven flows and inflation repricing.",
+      "zh": "重大科技股业绩意外可能引发板块轮动；中东局势升级将触发避险流和通胀重定价。"
+    }
+  },
+  "judgment": {
+    "type": "risk-on",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Mixed signals from earnings and macro; fundamentals support growth while rate stability allows duration extension. Watch for geopolitical escalation.",
+      "zh": "业绩和宏观发出混合信号；基本面支持成长，利率稳定允许久期延长。警惕地缘升级风险。"
+    }
+  }
+}
