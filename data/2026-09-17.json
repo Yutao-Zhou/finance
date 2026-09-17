@@ -1,0 +1,156 @@
+{
+  "date": "2026-09-17",
+  "summary": {
+    "en": "Pre-market attention on Fed Chair Warsh's ongoing rate policy communication amid geopolitical oil supply disruption from Middle East. Asian markets showed mixed signals overnight with Japan/Korea declining while energy-related sectors outperformed. Investors await tomorrow's FOMC decision for clarity on inflation trajectory and timing of the rate hike.",
+    "zh": "盘前焦点关注美联储主席 Warsh 持续的利率政策沟通，同时中东地缘政治油价供应中断引发关注。亚洲市场隔夜表现分化，日/韩指数下跌而能源相关板块超额表现。投资者等待明天的 FOMC 决策以获取通胀轨迹和加息时机的明朗化。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Asian Equity Indices Decline as US Investors Brace for FOMC Decision Amid Geopolitical Oil Shock",
+        "zh": "亚洲股票指数下跌，美国投资者在地缘政治油价冲击中为 FOMC 决策做准备"
+      },
+      "impact": {
+        "en": "Japan/Nikkei and Korea/KOSPI closed lower overnight, signaling risk-off sentiment ahead of Fed decision. Asian weakness may spill over to US equity sentiment at market open.",
+        "zh": "日本日经和韩国 Kospi 隔夜收低，表明美联储决策前的避险情绪。亚洲疲软可能在市场开盘时波及美股情绪。"
+      },
+      "bullish": ["defensive sectors", "energy if supply concerns persist"],
+      "bearish": ["growth stocks", "tech sector if inflation fears materialize"],
+      "macroRisk": {
+        "en": "MEDIUM-HIGH - Fed decision timing critical. Oil price inflation from Middle East could anchor higher yields, complicating Fed's disinflation path.",
+        "zh": "中高风险 - 美联储决策时机关键。中东油价通胀可能使收益率保持在高位，使美联储降通胀路径复杂化。"
+      }
+    },
+    {
+      "title": {
+        "en": "WTI Oil Holds Near $85-90 Range as Middle East Supply Risks Persist",
+        "zh": "中东供应风险持续，WTI 原油维持 85-90 美元范围"
+      },
+      "impact": {
+        "en": "Yanbu refinery disruption and Saudi pipeline issues keep oil elevated. Oil price shock → inflation expectations → Treasury yields tension. Energy stocks benefit while transportation costs rise.",
+        "zh": "延布炼油厂中断和沙特管道问题使油价维持高位。油价冲击→通胀预期→美债收益率紧张。能源股受益而运输成本上升。"
+      },
+      "bullish": ["energy producers", "oil services"],
+      "bearish": ["consumer discretionary", "retailers", "airlines"],
+      "macroRisk": {
+        "en": "HIGH - Sustained elevated oil prices could anchor inflation expectations, complicating Fed rate decision narrative and pushing yields higher.",
+        "zh": "高风险 - 持续高企的油价可能固化通胀预期，使美联储利率决策叙事复杂化并推高收益率。"
+      }
+    },
+    {
+      "title": {
+        "en": "10Y Treasury Yield Elevated by Oil Price Shock, Range-Bound Between 3.8-4.2%",
+        "zh": "美债收益率因油价冲击而升高，在 3.8-4.2% 区间震荡"
+      },
+      "impact": {
+        "en": "Supply-driven inflation from Middle East makes Fed rate hike justification stronger but also more aggressive. Rate-sensitive sectors (tech/growth) face headwinds while value/energy leadership emerges.",
+        "zh": "中东供应驱动通胀使美联储加息理由更充分但也更激进。利率敏感板块（科技/成长）面临逆风，而价值/能源领先显现。"
+      },
+      "bullish": ["value stocks", "financials if yields stabilize"],
+      "bearish": ["high duration bonds", "growth equities"],
+      "macroRisk": {
+        "en": "MEDIUM - Elevated 10Y yield could pressure rate-sensitive sectors. Fed communication on inflation vs growth tradeoff remains key.",
+        "zh": "中风险 - 高企的 10 年期美债收益率可能施压利率敏感板块。美联储关于通胀与增长权衡的沟通仍是关键。"
+      }
+    },
+    {
+      "title": {
+        "en": "Gold Prices Elevated on Geopolitical Safe-Haven Demand Amid Oil Inflation Concerns",
+        "zh": "金价因地缘政治避险需求和中东油价通胀担忧而升高"
+      },
+      "impact": {
+        "en": "Safe-haven flows support precious metals despite strong USD. Gold offers inflation hedge as oil price-driven inflation concerns persist.",
+        "zh": "避险资金在美元强劲的情况下支持贵金属。金价提供通胀保值，因为油价驱动的通胀担忧持续存在。"
+      },
+      "bullish": ["precious metals miners", "defensive positioning"],
+      "bearish": ["risk-on assets if oil inflation subsides"],
+      "macroRisk": {
+        "en": "MEDIUM - Gold benefits from geopolitical uncertainty. However, strong USD and higher yields limit upside potential.",
+        "zh": "中风险 - 黄金受益于地缘政治不确定性。然而，强劲美元和较高收益率限制上行潜力。"
+      }
+    },
+    {
+      "title": {
+        "en": "AI Chip Demand Resilient Despite Geopolitical Headwinds",
+        "zh": "AI 芯片需求尽管地缘政治逆风保持韧性"
+      },
+      "impact": {
+        "en": "NVIDIA and semiconductor peers maintain strong positioning. China demand provides support but supply chain disruptions from Middle East pose operational risks.",
+        "zh": "NVIDIA 和半导体同行保持强劲位置。中国需求提供支持，但中东供应链中断构成运营风险。"
+      },
+      "bullish": ["semiconductor leaders", "AI infrastructure"],
+      "bearish": ["if geopolitical tensions escalate further"],
+      "macroRisk": {
+        "en": "LOW - AI fundamentals remain strong but geopolitical risk premium could impact longer-term supply chain planning.",
+        "zh": "低风险 - AI 基本面保持强劲，但地缘政治风险溢价可能影响长期供应链规划。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI chip demand remains robust with strong fundamentals. China market provides key growth driver despite geopolitical tensions. Watch for Taiwan-related developments affecting global supply chains.",
+      "zh": "AI 芯片需求保持强劲，基本面良好。中国市场的持续增长驱动尽管地缘政治紧张。关注台湾相关发展对全球供应链的影响。"
+    },
+    "semiconductor": {
+      "en": "Semiconductors showing resilience with China demand support. Supply chain disruptions from Middle East could impact fabrication capacity. Taiwan developments crucial for broader industry outlook.",
+      "zh": "半导体在中国需求支持下表现出韧性。中东供应链中断可能影响制造能力。台湾发展对整个行业前景至关重要。"
+    },
+    "bigTech": {
+      "en": "Big Tech earnings overshadowed by macro headlines today. Cloud revenue resilient but rate-sensitive positioning concerns investors amid Fed uncertainty and inflation fears.",
+      "zh": "大科技财报被宏观头条掩盖。云收入具有韧性，但利率敏感定位使投资者在美联储不确定性和通胀恐惧中担忧。"
+    },
+    "energy": {
+      "en": "ENERGY SECTOR OUTPERFORMING - Brent up to multi-month highs at $85-90. Middle East supply disruption (Yanbu pipeline) supports higher oil prices. Major beneficiary sector today.",
+      "zh": "能源板块超额表现 - 布伦特原油升至数月高点 85-90 美元。中东供应中断（延布管道）支撑更高油价。今日主要受益板块。"
+    },
+    "ev": {
+      "en": "EV sector faces headwinds from higher oil prices reducing demand elasticity. Chinese EV competition intensifies globally but policy support mixed across geographies.",
+      "zh": "电动车板块面临高油价降低需求弹性的逆风。中国电动车竞争全球化，但政策支持在不同地区保持混合状态。"
+    },
+    "market": {
+      "en": "Broad market likely risk-off pre-Fed decision with defensive positioning advised. Geopolitical oil shock dominates headline risk. Expect energy leadership to offset broader tech weakness.",
+      "zh": "大盘在美联储决策前可能避险，建议防御性配置。地缘政治油价冲击主导头条风险。预计能源领先抵消广泛科技疲软。"
+    },
+    "preciousMetals": {
+      "en": "Gold prices elevated on safe-haven demand from geopolitical risks. Inflation hedge appeal strong with oil price spike driving inflation concerns forward despite USD strength.",
+      "zh": "金价因地缘政治风险的避险需求而高位。尽管美元强劲，但油价飙升推动通胀担忧，黄金的抗通胀保值吸引力强。"
+    },
+    "oil": {
+      "en": "Brent near $85-90, WTI following suit. Yanbu refinery disruption and Saudi supply issues key supply shock maintaining elevated levels. Geopolitical premium embedded in pricing.",
+      "zh": "布伦特接近 85-90 美元，WTI 跟随。延布炼油厂中断和沙特供应问题是关键供应冲击维持高位。地缘政治溢价嵌入定价。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "Mixed to slightly lower with Asian sessions declining. Japan/Nikkei and Korea/KOSPI closed lower while Australian markets show some energy-led strength. Expect volatility around Fed news.",
+      "zh": "分化到略有下跌，亚洲时段下跌。日本日经和韩国 Kospi 收低，而澳大利亚市场显示一些能源驱动的强势。预计围绕美联储新闻波动。"
+    },
+    "treasury10Y": {
+      "en": "10Y yields elevated at ~4.0% driven by oil price inflation shock. Expect continuation of 3.8-4.2% range as investors process supply risk implications vs Fed hike expectations.",
+      "zh": "10 年期收益率因油价通胀冲击而升至约 4.0%。随着投资者处理供应风险影响与美联储加息预期，预计继续 3.8-4.2% 区间。"
+    },
+    "dxy": {
+      "en": "Dollar index stable to slightly higher as yield curve steepens with inflation fears. Safe-haven flows may support USD strength vs emerging market currencies.",
+      "zh": "美元指数在通胀恐惧和收益率曲线陡峭化时保持稳定到小幅上涨。避险资金可能支持美元对新兴市场货币的强势。"
+    },
+    "oil": {
+      "en": "WTI/Brent near $85-90 range. Yanbu disruption and Saudi supply issues support higher levels. Geopolitical premium embedded in pricing remains stable.",
+      "zh": "WTI/布伦特接近 85-90 美元范围。延布中断和沙特供应问题支撑更高水平。定价中的地缘政治溢价保持稳定。"
+    },
+    "keyRisk": {
+      "en": "Fed rate decision timing critical. Oil price inflation persistence could derail disinflation expectations ahead of FOMC. Warsh's communication on policy balance key.",
+      "zh": "美联储利率决策时机关键。油价通胀持续性可能使 FOMC 前降通胀预期脱轨。Warsh 关于政策平衡的沟通是关键。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Mixed sentiment driven by geopolitical oil supply shock (inflation risks) vs Fed decision anticipation. Energy sector outperformance may offset broader tech weakness pre-market. Recommend defensive positioning until Fed clarity on rate policy.",
+      "zh": "混合情绪由地缘政治油价供应冲击（通胀风险）与美联储决策预期驱动。能源板块超额表现可能在盘前抵消广泛科技疲软。建议在对美联储利率政策明朗化之前采取防御性配置。"
+    }
+  }
+}
