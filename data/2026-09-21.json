@@ -1,0 +1,156 @@
+{
+  "date": "2026-09-21",
+  "summary": {
+    "en": "US pre-market shows mixed sentiment ahead of week's close with sector rotation continuing between growth and value stocks. Treasury yields remain elevated while oil prices stabilize, creating uncertainty for rate-sensitive sectors. No major geopolitical developments overnight; focus remains on Fed policy positioning and earnings expectations.",
+    "zh": "美盘前呈现混合情绪，临近周末交易期间成长股和价值股轮动持续。美债收益率保持高位而油价稳定，造成利率敏感型板块的不确定性。隔夜无重大地缘政治发展；焦点仍集中在美联储政策定位和盈利预期上。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Sector Rotation Continues Between Growth and Value Stocks",
+        "zh": "成长股与价值股之间的板块轮动持续"
+      },
+      "impact": {
+        "en": "Investors shifting capital from high-multiple growth names to value sectors as earnings season approaches, creating divergence in market breadth despite overall strength.",
+        "zh": "随着盈利季临近，投资者从高倍数成长股转向价值板块，在市场整体走强背景下造成广度分化。"
+      },
+      "bullish": ["value stocks", "small caps"],
+      "bearish": ["high-multiple growth", "tech mega-caps"],
+      "macroRisk": {
+        "en": "No - rotation reflects normal market dynamics; sector divergence healthy but watch for breadth deterioration if continuation becomes excessive.",
+        "zh": "否——轮动反映正常市场动态；板块分化健康但需关注若持续过度导致广度恶化。"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury Yields Hold Elevated as Fed Policy Uncertainty Persists",
+        "zh": "美债收益率保持高位，美联储政策不确定性持续"
+      },
+      "impact": {
+        "en": "10Y yield remains above key technical levels as markets price in gradual Fed pivot path rather than immediate cuts, impacting duration-sensitive equities and loan growth prospects.",
+        "zh": "10年期收益率保持在关键技术之上，市场计价的是渐进式美联储转向路径而非立即降息，影响久期敏感型股票和贷款增长前景。"
+      },
+      "bullish": [],
+      "bearish": ["growth stocks", "REITs", "utilities"],
+      "macroRisk": {
+        "en": "Yes - elevated yields compress bond-equity correlation risks, while yield volatility creates uncertainty for rate-dependent sectors.",
+        "zh": "是——高收益率压缩债券股票相关风险，而收益率波动造成利率依赖型板块的不确定性。"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil Prices Stabilize Amid Middle East Supply Constraints",
+        "zh": "中东供应限制下油价稳定"
+      },
+      "impact": {
+        "en": "WTI and Brent stabilizing at elevated levels, signaling demand resilience but also inflation transmission risks that could complicate Fed's dual mandate.",
+        "zh": "WTI 和布伦特原油在高位稳定，显示需求韧性但同时也暗示通胀传导风险，可能使美联储的双重使命复杂化。"
+      },
+      "bullish": ["energy sector", "oil services"],
+      "bearish": ["consumer discretionary", "airlines"],
+      "macroRisk": {
+        "en": "Partial - stable prices support inflation moderation but sustained high levels keep recession risk premium elevated and complicate monetary policy.",
+        "zh": "部分——稳定价格支持通胀缓和但持续高位保持衰退风险溢价并复杂化货币政策。"
+      }
+    },
+    {
+      "title": {
+        "en": "AI Chip Demand Remains Robust Despite Macroeconomic Uncertainty",
+        "zh": "AI 芯片需求保持强劲，尽管宏观经济存在不确定性"
+      },
+      "impact": {
+        "en": "Semiconductor sector shows resilience with cloud capex supporting demand, though supply chain constraints and valuation concerns create selective strength.",
+        "zh": "半导体板块显示韧性，云资本开支支撑需求，但供应链限制和估值担忧造成选择性强劲。"
+      },
+      "bullish": ["semiconductors", "cloud infrastructure"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - sector-specific AI investment cycle insulates from broader macro weakness; supply chain exposure remains key risk factor.",
+        "zh": "否——板块特定的 AI 投资周期隔离于整体宏观疲软；供应链暴露仍是关键风险因素。"
+      }
+    },
+    {
+      "title": {
+        "en": "Dollar Strength Pressures EM Assets Despite US Economic Data",
+        "zh": "美元走强压制新兴市场资产，尽管美国经济数据强劲"
+      },
+      "impact": {
+        "en": "DXY remains above 100.50 as strong USD supports yield-capped equities but pressures emerging market currencies and debt servicing for multinationals.",
+        "zh": "美元指数保持在 100.50 之上，强美元支持收益率封顶股票但给新兴市场货币和跨国公司的债务偿付带来压力。"
+      },
+      "bullish": ["USD-denominated bonds"],
+      "bearish": ["emerging market currencies", "international equities"],
+      "macroRisk": {
+        "en": "Partial - strong dollar creates headwinds for global growth while supporting US rate-sensitive sectors; mixed signal for overall market breadth.",
+        "zh": "部分——强美元为全球增长带来逆风但支持美国利率敏感型板块；对整体市场广度发出混合信号。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector demonstrates continued strength with cloud AI infrastructure companies leading gains. Semiconductor demand remains robust, though selective buying reflects elevated valuations and supply chain constraints.",
+      "zh": "AI 板块持续强劲，云 AI 基础设施公司领涨。半导体需求保持强劲，但选择性买入反映高估值和供应链限制。"
+    },
+    "semiconductor": {
+      "en": "Semiconductor stocks show selective strength as AI chip demand persists. Trade-weighted names benefit from strong international demand, while domestic content faces yield-related pressure.",
+      "zh": "半导体股票因 AI 芯片需求持续而显示选择性强劲。贸易加权名称受益于强劲的海外需求，而国内内容面临与收益率相关的压力。"
+    },
+    "bigTech": {
+      "en": "Big tech firms navigate between strong earnings growth and valuation pressures. Cloud services revenue continues expanding, though growth deceleration concerns persist.",
+      "zh": "大型科技公司在高额盈利增长和估值压力之间周旋。云服务收入继续扩张，但增长减速担忧持续存在。"
+    },
+    "energy": {
+      "en": "Energy sector benefits from stable oil prices amid geopolitical supply constraints. Exploration and production companies show resilience while refining margins compress.",
+      "zh": "能源板块受益于地缘政治供应限制下稳定的油价。勘探和生产公司显示韧性，而炼化利润压缩。"
+    },
+    "ev": {
+      "en": "EV sector faces challenges from elevated energy costs and economic uncertainty. Consumer demand softens in expensive environment, creating headwinds for OEMs and battery producers.",
+      "zh": "电动车板块面临高能源成本和经济不确定性的挑战。消费者在昂贵环境下需求疲软，对汽车制造商和电池生产商造成逆风。"
+    },
+    "market": {
+      "en": "Broad market sentiment remains mixed with sector divergence. Growth stocks face pressure from elevated yields while value sectors outperform on relative valuation basis.",
+      "zh": "整体市场情绪保持混合，板块分化明显。成长股面临高收益率压力，而价值板块在相对估值基础上跑赢大盘。"
+    },
+    "preciousMetals": {
+      "en": "Gold and silver hold defensive appeal amid yield volatility and geopolitical uncertainty. Precious metals continue gaining safe-haven flows as inflation concerns persist despite easing regional tensions.",
+      "zh": "金银在收益率波动和地缘政治不确定性下保持防御吸引力。贵金属持续获得安全港流入，尽管区域紧张局势缓和但通胀担忧仍然存在。"
+    },
+    "oil": {
+      "en": "Crude oil prices stabilize at elevated levels, reflecting supply constraints from Middle East tensions. WTI around $70-$75 and Brent higher, supporting energy sector earnings but raising inflation concerns.",
+      "zh": "原油价格稳定在高位，反映中东紧张局势下的供应限制。WTI 约$70-75，Brent 更高，支持能源板块盈利但引发通胀担忧。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "US stock futures show neutral to slightly positive bias ahead of Monday open, with E-mini S&P pointing flat and Nasdaq E-mini marginally higher.",
+      "zh": "美股期货在周一开盘前呈现中性至略微偏多倾向，E-mini 标普持平，纳指 E-mini 微幅走高。"
+    },
+    "treasury10Y": {
+      "en": "10-year Treasury yield trades elevated around 4.30%-4.40% as markets price in gradual Fed pivot without immediate rate cuts, impacting duration-sensitive positions.",
+      "zh": "美债收益率在 4.3%-4.4% 附近交易，市场计价的是没有立即降息的渐进式美联储转向，影响久期敏感型头寸。"
+    },
+    "dxy": {
+      "en": "Dollar Index (DXY) remains above 100.50 support level, with euro and yen extending losses as strong US data supports greenback amid elevated global yields.",
+      "zh": "美元指数（DXY）保持在 100.50 支撑水平之上，欧元和日元扩大损失，强劲的美国数据在高全球收益率下支持美元。"
+    },
+    "oil": {
+      "en": "WTI crude trading around $72-$75, Brent near$78-$80 with Middle East supply constraints supporting prices. Oil-price inflation transmission remains a key concern.",
+      "zh": "WTI 原油在$72-75交易，布伦特近$78-80，中东供应限制支撑价格。油价通胀传导仍是主要担忧。"
+    },
+    "keyRisk": {
+      "en": "Key risks include Fed policy communication uncertainty, potential yield curve steepening, and geopolitical developments in Middle East affecting oil supply and inflation expectations.",
+      "zh": "关键风险包括美联储政策沟通的不确定性、收益率曲线变陡的可能性，以及中东地缘政治发展影响石油供应和通胀预期。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Mixed sentiment driven by sector rotation and macro uncertainty. Growth stocks face yield headwinds while value and energy sectors benefit from relative valuation support. No dominant market theme emerges before earnings season intensifies.",
+      "zh": "混合情绪受板块轮动和宏观不确定性驱动。成长股面临收益率逆风，而价值和能源板块受益于相对估值支持。盈利季强化前没有出现主导性市场主题。"
+    }
+  }
+}
