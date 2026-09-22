@@ -1,0 +1,156 @@
+{
+  "date": "2026-09-22",
+  "summary": {
+    "en": "Pre-market focus remains on geopolitical developments affecting energy markets, with Treasury yields tracking inflation expectations amid limited major corporate earnings. Asian markets showed mixed activity following Friday's close, while futures suggest a neutral to slightly positive opening sentiment.",
+    "zh": "盘前焦点集中在影响能源市场的地缘政治动态，美债收益率追踪通胀预期。亚洲市场在周五收盘后表现分化，而期货预示中性至略微偏多的开盘情绪。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Treasury Yields Stabilize as Market Waits for Fed Commentary",
+        "zh": "美债收益率企稳，市场等待美联储评论"
+      },
+      "impact": {
+        "en": "10Y Treasury yield hovering near key resistance levels; stabilization could provide relief to growth stocks sensitive to rate expectations.",
+        "zh": "10 年期美债收益率在关键阻力位附近徘徊；企稳可能为对利率预期敏感的成长股提供支撑。"
+      },
+      "bullish": ["XLV", "XLP", "JNJ"],
+      "bearish": ["XLF", "XLK"],
+      "macroRisk": {
+        "en": "No - yields stabilizing reduces volatility risk for rate-sensitive sectors.",
+        "zh": "无 - 收益率企稳降低了利率敏感型部门的波动风险。"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil Prices Fluctuate on Geopolitical Tensions and Supply Concerns",
+        "zh": "油价因地缘政治紧张和供应担忧而波动"
+      },
+      "impact": {
+        "en": "WTI and Brent crude trading with elevated volatility; geopolitical risks in energy-producing regions may support prices while inflation concerns cap upside.",
+        "zh": "WTI 和布伦特原油交易波动性较高；能源产区的地缘政治风险可能支撑价格，而通胀担忧限制上行空间。"
+      },
+      "bullish": ["XLE"],
+      "bearish": ["XLF", "XLP"],
+      "macroRisk": {
+        "en": "Yes - elevated oil prices could transmit to inflation expectations and Fed policy stance, impacting broader equity valuations.",
+        "zh": "是 - 高油价可能传导至通胀预期和美联储政策立场，影响整体股票估值。"
+      }
+    },
+    {
+      "title": {
+        "en": "Asian Markets Mixed with Japan and Korea Leading, Australia Lagging",
+        "zh": "亚洲市场分化，日本和韩国领先，澳大利亚滞后"
+      },
+      "impact": {
+        "en": "Nikkei 225 and Hang Seng showing resilience despite global uncertainty; Chinese A-shares remain under pressure from domestic policy debates.",
+        "zh": "日经 225 指数和恒指尽管全球不确定性仍显示韧性；中国 A 股因国内政策辩论而持续承压。"
+      },
+      "bullish": ["ASHR", "FXI"],
+      "bearish": ["MCHI"],
+      "macroRisk": {
+        "en": "No - Asian performance indicates selective capital flows rather than broad macro shift.",
+        "zh": "无 - 亚洲表现表明是选择性资本流动而非广泛宏观转变。"
+      }
+    },
+    {
+      "title": {
+        "en": "China's Property Sector Uncertainty Looms Over A-share Markets",
+        "zh": "中国房地产部门不确定性笼罩 A 股"
+      },
+      "impact": {
+        "en": "Real estate sector weakness continues to drag on broader Chinese equities; policy support measures awaiting effectiveness.",
+        "zh": "房地产部门疲软继续拖累中国整体股票；等待政策支持措施见效。"
+      },
+      "bullish": [],
+      "bearish": ["MCHI", "FXI"],
+      "macroRisk": {
+        "en": "No - primarily regional concern limiting impact on US equities beyond EM exposure.",
+        "zh": "无 - 主要是区域性担忧，限制对美股的影响超过新兴市场敞口。"
+      }
+    },
+    {
+      "title": {
+        "en": "Dollar Strength Persists as Safe-Haven Demand Increases",
+        "zh": "美元走强，避险需求增加"
+      },
+      "impact": {
+        "en": "DXY climbing on risk-off sentiment from geopolitical concerns; impacts multinationals and EM asset performance.",
+        "zh": "在因地缘政治担忧导致的避险情绪下 DXY 攀升；影响跨国公司和新兴市场资产表现。"
+      },
+      "bullish": ["UUTY", "XLU"],
+      "bearish": ["XLK", "FXI"],
+      "macroRisk": {
+        "en": "No - dollar strength is a symptom rather than driver of broader market stress.",
+        "zh": "无 - 美元走强是对市场压力而非更广泛市场压力的症状。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector remains under scrutiny as valuation pressures persist. Large cap names continue to benefit from institutional flows despite broader market volatility.",
+      "zh": "人工智能板块继续受到审查，估值压力持续。尽管市场波动加剧，大盘股继续受益于机构资金流入。"
+    },
+    "semiconductor": {
+      "en": "Semiconductor stocks show mixed performance. China exposure remains a drag on the sector; domestic demand recovery in chip manufacturing provides some support.",
+      "zh": "半导体股票表现分化。中国敞口仍然是该部门的拖累；芯片制造国内需求复苏提供了一定支撑。"
+    },
+    "bigTech": {
+      "en": "Big Tech names track earnings expectations closely. Cloud revenue growth and AI infrastructure spending remain key drivers for the mega-cap leaders.",
+      "zh": "大型科技股密切跟踪盈利预期。云计算收入增长和人工智能基础设施支出仍是超大型龙头的主要驱动力。"
+    },
+    "energy": {
+      "en": "Energy sector elevated on geopolitical risks. Oil and gas producers benefit from higher commodity prices, but regulatory headwinds persist.",
+      "zh": "能源部门因地缘政治风险而走高。石油和天然气生产商受益于较高的商品价格，但监管逆风持续。"
+    },
+    "ev": {
+      "en": "EV sector faces headwinds from interest rate sensitivity and Chinese competitive pressure. Domestic demand recovery remains key catalyst.",
+      "zh": "电动车部门面临利率敏感性和中国竞争压力的阻力。国内需求复苏是关键催化剂。"
+    },
+    "market": {
+      "en": "Broad market sentiment neutral to slightly positive. VIX levels contained; futures suggest cautious optimism heading into the week.",
+      "zh": "大盘情绪中性至略微偏多。VIX 水平受到限制；期货表明对本周的谨慎乐观。"
+    },
+    "preciousMetals": {
+      "en": "Gold and silver showing strength as safe-haven demand increases from geopolitical concerns. Real yields remain below key resistance levels.",
+      "zh": "金银因地缘政治担忧导致的避险需求增加而走强。实际收益率仍然低于关键阻力水平。"
+    },
+    "oil": {
+      "en": "Crude oil prices elevated on supply constraints and geopolitical risk premium. OPEC+ production discipline provides underlying support despite demand concerns.",
+      "zh": "原油价格因地缘政治风险溢价和供应限制而走高。尽管需求担忧，但石油输出国组织的生产纪律提供内在支持。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 futures slightly up; Nasdaq futures neutral; Dow futures mixed. Overall bias remains cautious.",
+      "zh": "标普 500 期货小幅上涨；纳斯达克期货中性；道琼斯期货分化。整体偏向谨慎。"
+    },
+    "treasury10Y": {
+      "en": "10Y Treasury yield near key technical levels. Watch for any breakout below/above that could signal broader market direction.",
+      "zh": "10 年期美债收益率接近关键技术水平。关注任何突破以表明更广泛市场方向。"
+    },
+    "dxy": {
+      "en": "Dollar Index climbing on risk-off sentiment. Multinational exposure may impact earnings estimates for large-cap tech.",
+      "zh": "美元指数因地缘政治风险偏好下降而攀升。跨国敞口可能影响大型科技股的盈利预测。"
+    },
+    "oil": {
+      "en": "WTI crude hovering around key price levels. Geopolitical tensions in energy regions providing support; demand concerns cap upside.",
+      "zh": "WTI 原油在关键价格水平附近徘徊。能源地区的地缘政治紧张局势提供支持；需求担忧限制上行空间。"
+    },
+    "keyRisk": {
+      "en": "Geopolitical developments affecting global energy supply chains and Fed policy communications remain the primary risk to monitor.",
+      "zh": "影响全球能源供应链和美联储政策沟通的地缘政治动态仍然是需要监控的主要风险。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Market showing sector divergence with energy/oil benefiting from geopolitical backdrop while growth names under pressure from dollar strength. Mixed sentiment appropriate given geopolitical uncertainty.",
+      "zh": "市场显示部门分化，能源/石油从地缘政治背景下受益，而成长股因美元走强而承压。鉴于地缘政治不确定性，混合情绪是恰当的。"
+    }
+  }
+}
