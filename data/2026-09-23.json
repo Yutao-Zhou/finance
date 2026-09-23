@@ -1,0 +1,188 @@
+{
+  "date": "2026-09-23",
+  "summary": {
+    "en": "U.S. index futures flat to slightly down as geopolitical de-escalation hopes (Iran talks, Mideast summit) offset AI sector optimism. Oil retreats below $95 with Gulf supply increase and pipeline repair reducing crisis premium. Pre-market focus on Trump-Xi summit preparation alongside Fed rate decision anticipation for Thursday.",
+    "zh": "美国指数期货基本持平至轻微下跌，地缘政治缓和希望（伊朗谈话、中东峰会）抵消 AI 板块乐观情绪。油价回落至 95 美元以下，海湾供应增加和管道维修减少了危机溢价。盘前焦点为特朗普与习近平峰会准备，以及周四美联储利率决策预期。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "U.S. Stock Futures Flat as Geopolitical Talks Offset AI Rally",
+        "zh": "美国股票期货持平，地缘政治谈话抵消 AI 上涨"
+      },
+      "impact": {
+        "en": "Overnight index futures showed little movement (S&P flat at 7,831.50, Nasdaq up 0.06%, Dow near unchanged) as Middle East diplomacy and US-China summit preparation dominate headlines, overshadowing tech sector gains.",
+        "zh": "隔夜指数期货表现平淡（标普在 7,831.50 持平，纳斯达克上涨 0.06%，道指接近不变），因为中东外交和中美峰会准备主导头条，掩盖了科技板块的斩获。"
+      },
+      "bullish": ["AI equities", "semiconductors"],
+      "bearish": ["broad market momentum"],
+      "macroRisk": {
+        "en": "LOW-MEDIUM - Diplomatic de-escalation reduces geopolitical risk premium. Market can rotate back to growth/tech if no new escalation.",
+        "zh": "低中风险 - 外交缓和降低地缘政治风险溢价。若无新升级，市场可轮回到成长股/科技股。"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil Retreats Below $95: Gulf Supply Increases and Pipeline Repair Ease Crisis",
+        "zh": "油价回落至 95 美元以下：海湾供应增加和管道维修缓解危机"
+      },
+      "impact": {
+        "en": "Brent holds below $100 with Saudi pipeline repair boosting supply and Iraq exports increasing. Yanbu refinery disruption resolved. Reduced oil inflation pressure tests Fed rate cut timeline.",
+        "zh": "布伦特保持在 100 美元以下，沙特管道维修增加供应，伊拉克出口增加。延布炼油厂中断已解决。降低的油价通胀压力考验美联储降息时间表。"
+      },
+      "bullish": ["energy stocks if stable", "growth sectors"],
+      "bearish": ["oil producers", "pump-investors"],
+      "macroRisk": {
+        "en": "MEDIUM - Sustained oil relief could lower inflation expectations, supporting Fed rate cut bets. But relapse risk remains from Middle East fragility.",
+        "zh": "中风险 - 持续的油价缓解可能降低通胀预期，支持美联储降息赌注。但中东脆弱性仍存在复发风险。"
+      }
+    },
+    {
+      "title": {
+        "en": "Trump-Russia Summit Success Reduces Oil Shock Premium",
+        "zh": "特朗普俄罗斯峰会成功减少油价冲击溢价"
+      },
+      "impact": {
+        "en": "President Trump's Russia visit concludes with agreement on Ukrainian wheat corridor, helping stabilize Black Sea supply. Commodity markets react positively to reduced geopolitical uncertainty in energy sector.",
+        "zh": "特朗普总统对俄罗斯的访问以关于乌克兰小麦走廊的协议结束，有助于稳定黑海供应。大宗商品市场对能源部门减少的地缘政治不确定性反应积极。"
+      },
+      "bullish": ["agriculture", "global trading", "energy logistics"],
+      "bearish": ["hedge funds betting on oil spike"],
+      "macroRisk": {
+        "en": "MEDIUM - Reduced energy geopolitical tension supports global growth. But Middle East remains volatile with Iran tensions unresolved.",
+        "zh": "中风险 - 减少的能源地缘政治紧张关系支持全球增长。但中东仍然具有挥发性，伊朗紧张局势未解决。"
+      }
+    },
+    {
+      "title": {
+        "en": "AI Sector Rallies Pre-Market: IONQ +11%, RGTI +5% Despite Broader Market Mutedness",
+        "zh": "AI 板块盘前上涨：IONQ +11%，RGTI +5%，尽管大盘平淡"
+      },
+      "impact": {
+        "en": "Quantum computing and AI chip companies show strength on product optimism. IONQ gains from quantum computer partnership announcements. RGTI advances on autonomous driving progress. Geopolitical noise limits breadth.",
+        "zh": "量子计算和 AI 芯片公司在产品乐观情绪下表现强劲。IONQ 因量子计算机合作伙伴关系公告而获利。RGTI 因自动驾驶技术进步而推进。地缘政治噪音限制了广度。"
+      },
+      "bullish": ["quantum computing", "AI chips", "autonomous driving"],
+      "bearish": ["none significant"],
+      "macroRisk": {
+        "en": "LOW - Company-specific drivers dominate. Macro environment neutral but supportive for tech earnings.",
+        "zh": "低风险 - 公司特定驱动占主导。宏观环境中性但对科技收益有利。"
+      }
+    },
+    {
+      "title": {
+        "en": "Market Eyeing Trump-Xi Summit This Week: China Relations Uncertainty Lingers",
+        "zh": "市场观望本周美中峰会：中关关系不确定性持续"
+      },
+      "impact": {
+        "en": "Diplomatic talks in Beijing expected to cover trade, tariffs, and tech restrictions. Markets cautious on escalation risks but relieved if de-escalation prevails. Export-dependent sectors watch closely.",
+        "zh": "预计北京外交谈话将涵盖贸易、关税和科技限制。市场对升级风险保持谨慎，但缓解了对缓和占上风的情况。出口依赖型部门密切观望。"
+      },
+      "bullish": ["exporters if de-escalation", "consumer discretionary"],
+      "bearish": ["export-heavy industrials", "tech with China revenue"],
+      "macroRisk": {
+        "en": "MEDIUM-HIGH - Trade tensions can rapidly escalate or ease. Tech sector most vulnerable due to supply chain and market exposure.",
+        "zh": "中高风险 - 贸易紧张关系可能迅速升级或缓和。由于供应链和市场敞口，科技部门最容易受伤害。"
+      }
+    },
+    {
+      "title": {
+        "en": "FOMC Rate Decision Tomorrow: Market Prices in Cautious Pause with Inflation Data Pending",
+        "zh": "明天 FOMC 利率决策：市场押注谨慎暂停，通胀数据待定"
+      },
+      "impact": {
+        "en": "Fed holds rate steady if CPI/PCE confirm disinflation trend. Yields muted at ~4.0% as oil shock premium fades. Market positioning for potential pivot to more aggressive rate cuts if inflation stabilizes.",
+        "zh": "若 CPI/PCE 确认降通胀趋势，美联储将维持利率稳定。随着油价冲击溢价消失，收益率在约 4.0% 处表现 muted。市场为潜在转向更激进的降息做准备，前提是通胀稳定。"
+      },
+      "bullish": ["value stocks", "financials"],
+      "bearish": ["high-duration bonds", "rate-sensitive growth"],
+      "macroRisk": {
+        "en": "MEDIUM - Fed must balance inflation fight with economic stability. Any signal of policy shift moves markets significantly.",
+        "zh": "中风险 - 美联储必须平衡通胀战斗与经济稳定。任何政策转变信号都会使市场大幅变动。"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury Yields Muted as Oil Inflation Concerns Fade",
+        "zh": "美债收益率表现 muted，因油价通胀担忧消退"
+      },
+      "impact": {
+        "en": "10Y yields range-bound at ~4.0% as geopolitical oil shock premium diminishes. Curve control maintained with reduced rate hike fears. Financials benefit from stable yield environment.",
+        "zh": "随着地缘政治油价冲击溢价减少，10 年期收益率在约 4.0% 区间震荡。曲线控制维持，加息恐惧减少。金融股受益于稳定的收益率环境。"
+      },
+      "bullish": ["financials", "value stocks"],
+      "bearish": ["bond traders betting on yield spike"],
+      "macroRisk": {
+        "en": "LOW - Yields stabilized without inflation spike. But relapse from Middle East escalation possible.",
+        "zh": "低风险 - 收益率稳定，没有通胀飙升。但中东升级复发可能。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Strong pre-market performance with quantum computing (IONQ +11%) and AI chips (RGTI +5%) leading. Product optimism overshadows geopolitical noise, but broader rally limited to selective winners.",
+      "zh": "盘前表现强劲，量子计算（IONQ+11%）和 AI 芯片（RGTI+5%）领先。产品乐观情绪盖过地缘政治噪音，但更广泛的上涨仅限于选择性赢家。"
+    },
+    "semiconductor": {
+      "en": "Mixed signals. AI chip demand remains strong, but China trade uncertainty adds headwinds. Semiconductor equipment makers watch export restrictions closely. Short-term cautious optimism on U.S. domestic demand.",
+      "zh": "混合信号。AI 芯片需求保持强劲，但中国贸易不确定性增加了逆风。半导体设备制造商密切观察出口限制。对美国国内需求的短期谨慎乐观。"
+    },
+    "bigTech": {
+      "en": "Large tech names steady but muted. Cloud revenue growth and AI product monetization support earnings, but macro uncertainty limits breadth. Focus on companies with domestic revenue concentration.",
+      "zh": "大型科技股票稳定但 muted。云收入增长和 AI 产品变现支持收益，但宏观不确定性限制了广度。专注于国内收入集中的公司。"
+    },
+    "energy": {
+      "en": "Oversold bounce potential as oil falls below $95. Saudi pipeline repair and Gulf supply increase reduce crisis premium. Integrated majors benefit from lower input costs, but independent producers face margin pressure.",
+      "zh": "油价回落至 95 美元以下后，超卖反弹潜力。沙特管道维修和海湾供应增加减少危机溢价。综合大型公司从较低投入成本中受益，但独立生产商面临利润率压力。"
+    },
+    "ev": {
+      "en": "Cautiously optimistic. Chinese EV companies eye potential tariff relief from summit. U.S. buyers show demand for domestic alternatives. Supply chain remains intact but trade policy uncertainty weighs on sentiment.",
+      "zh": "谨慎乐观。中国电动汽车公司观望峰会潜在的关税缓解。美国买家显示对国内替代品的需求。供应链保持完整，但贸易政策不确定性影响情绪。"
+    },
+    "market": {
+      "en": "Mixed to slightly negative pre-market as geopolitical de-escalation hopes offset AI sector gains. Futures flat with S&P 500 at 7,831.50 and Nasdaq 100 up minimal 0.06%. Breadth limited by China trade uncertainty.",
+      "zh": "大盘混合至轻微负面，因为地缘政治缓和希望抵消 AI 板块斩获。期货持平，标普 500 在 7,831.50，纳斯达克 100 仅上涨微不足道的 0.06%。广度受中国贸易不确定性限制。"
+    },
+    "preciousMetals": {
+      "en": "Gold and silver steady with reduced geopolitical risk premium from Middle East de-escalation hopes. Safe-haven demand diminishes as oil shock fades but central bank buying continues supporting prices.",
+      "zh": "黄金和白银平稳，因中东缓和希望减少的地缘政治风险溢价。随着油价冲击消退，避险需求减少，但央行购买继续支持价格。"
+    },
+    "oil": {
+      "en": "Brent below $100, falling on Gulf supply increase (Saudi pipeline repair) and Iraq export growth. Yanbu refinery disruption resolved. Crisis premium fading but Middle East volatility remains elevated.",
+      "zh": "布伦特低于 100 美元，因海湾供应增加（沙特管道维修）和伊拉克出口增长而下跌。延布炼油厂中断已解决。危机溢价消退，但中东波动性仍然升高。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 futures flat at 7,831.50, Nasdaq 100 up 0.06%, Dow near unchanged. Broad market muted with selective AI gains.",
+      "zh": "标普 500 期货在 7,831.50 持平，纳斯达克 100 上涨 0.06%，道指接近不变。大盘 muted，选择性 AI 斩获。"
+    },
+    "treasury10Y": {
+      "en": "10Y yields range-bound at ~4.0% as oil inflation premium fades and Fed rate cut expectations stabilize. Curve control maintained.",
+      "zh": "10 年期收益率在约 4.0% 区间震荡，因油价通胀溢价消退和美联储降息预期稳定。曲线控制维持。"
+    },
+    "dxy": {
+      "en": "DXY steady around 96-97, reflecting neutral macro environment with reduced oil shock and cautious Fed stance.",
+      "zh": "DXY 在 96-97 附近稳定，反映中性宏观环境，油价冲击减少和美联储谨慎立场。"
+    },
+    "oil": {
+      "en": "Brent crude below $95-$100, falling on Saudi pipeline repair boosting supply and Iraq export increases. Crisis premium fading.",
+      "zh": "布伦特原油低于 95-100 美元，因沙特管道维修增加供应和伊拉克出口增加而下跌。危机溢价消退。"
+    },
+    "keyRisk": {
+      "en": "Middle East geopolitical escalation could resume, reigniting oil price shock and Treasury yield volatility. Trump-Xi summit outcomes critical for trade/tariff policy clarity.",
+      "zh": "中东地缘政治升级可能重新燃起，重燃油价冲击和国债收益率波动。特朗普与习近平峰会结果对贸易/关税政策清晰度至关重要。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Geopolitical de-escalation (Iran talks, Russia-Ukraine wheat corridor) supports oil decline and reduces inflation risk, but China trade uncertainty limits broad risk-on. AI sector selective strength offsets broader market mutedness, suggesting event-driven mixed environment ahead of Thursday's FOMC.",
+      "zh": "地缘政治缓和（伊朗谈话、俄罗斯 - 乌克兰小麦走廊）支持油价下降并减少通胀风险，但中国贸易不确定性限制广泛风险开启。AI 部门选择性强度抵消更广泛市场 muted，表明周四 FOMC 前的事件驱动混合环境。"
+    }
+  }
+}
