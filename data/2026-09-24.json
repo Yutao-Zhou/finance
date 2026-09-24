@@ -1,0 +1,172 @@
+{
+  "date": "2026-09-24",
+  "summary": {
+    "en": "Markets declined amid Middle East uncertainties ahead of Trump-Xi talks, with US Treasury yields surging and DXY strengthening on better-than-expected PMI data. Geopolitical risks dominate sentiment as investors worry about trade tensions and broader economic overheating fears.",
+    "zh": "受中东不确定性影响，特朗普与习近平会谈在即，美股下跌，美债收益率飙升，美元指数在 PMI 数据好于预期的情况下走强。地缘政治风险主导市场情绪，投资者担忧贸易紧张局势和更广泛的经济过热担忧。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Wall St futures fall on Middle East uncertainties ahead of Trump-Xi talks",
+        "zh": "特朗普与习近平会谈前，中东不确定性导致华尔街期货下跌"
+      },
+      "impact": {
+        "en": "Geopolitical tensions in Middle East raise oil price risks and trade disruption concerns, directly impacting energy stocks and broader market risk appetite.",
+        "zh": "中东地缘政治紧张局势推高油价风险和贸易中断担忧，直接影响能源股票和更广泛市场的风险偏好。"
+      },
+      "bullish": [],
+      "bearish": ["XLK", "QQQ", "XLE"],
+      "macroRisk": {
+        "en": "YES - Middle East tensions → oil volatility → inflation expectations → Treasury yields up → growth stocks pressured",
+        "zh": "是 - 中东紧张局势→油价波动→通胀预期上升→美债收益率走高→成长股承压"
+      }
+    },
+    {
+      "title": {
+        "en": "UST yields and DXY jump on positive US PMI surprise; sell-off in equities",
+        "zh": "美债收益率和美元因美国 PMI 意外转好而上涨，股市抛售"
+      },
+      "impact": {
+        "en": "Strong US economic data reinforces rate-sensitive positioning concerns, pressuring rate-sensitive sectors and growth stocks.",
+        "zh": "美国经济数据强劲强化了利率敏感定位担忧，压制对利率敏感的板块和成长股。"
+      },
+      "bullish": [],
+      "bearish": ["GLD", "XLU", "IWM"],
+      "macroRisk": {
+        "en": "YES - PMI surprise → yield spike → bond-driven rate risk → growth sector weakness",
+        "zh": "是-PMI 惊喜→收益率飙升→债券驱动利率风险→成长板块疲软"
+      }
+    },
+    {
+      "title": {
+        "en": "Global bond sell-off deepens amid fears US economy may be running too hot",
+        "zh": "全球经济担忧美国经济增长过快，全球债券抛售加剧"
+      },
+      "impact": {
+        "en": "Fed rate cut expectations compressed as hot economic data challenges dovish pivot narrative, impacting duration-sensitive portfolios.",
+        "zh": "经济数据过热压缩了美联储降息预期，挑战鸽派转向叙事，影响期限敏感型组合。"
+      },
+      "bullish": [],
+      "bearish": ["TLT", "IEFA", "BNDX"],
+      "macroRisk": {
+        "en": "YES - Hot economy data → yield spike → duration sensitivity → bond-heavy portfolios under pressure",
+        "zh": "是-经济数据过热→收益率飙升→期限敏感性→重仓债券组合承压"
+      }
+    },
+    {
+      "title": {
+        "en": "AI and semiconductor sectors face headwinds from broader market risk-off sentiment",
+        "zh": "人工智能和半导体板块受更广泛市场避险情绪影响面临逆风"
+      },
+      "impact": {
+        "en": "Risk aversion extends to high-valuation tech names, though fundamentals remain strong. Supply chain concerns and geopolitical overhang add volatility.",
+        "zh": "避险情绪蔓延至高估值科技股，尽管基本面强劲。供应链担忧和地缘政治悬云增加波动性。"
+      },
+      "bullish": [],
+      "bearish": ["NVDA", "AMD", "SMH"],
+      "macroRisk": {
+        "en": "PARTIAL - Geopolitical risk spillover to supply chain-dependent sectors; not economy-driven weakness but sentiment overhang",
+        "zh": "部分-地缘政治风险溢出至供应链依赖型板块；非经济驱动的疲软而是情绪悬云"
+      }
+    },
+    {
+      "title": {
+        "en": "EV and auto sector pressured by macro uncertainty and higher rate environment",
+        "zh": "电动车和汽车板块受宏观不确定性和高利率环境压制"
+      },
+      "impact": {
+        "en": "Rate-sensitive consumer discretionary names face headwinds as financing costs remain elevated; demand concerns persist.",
+        "zh": "利率敏感的可选消费股面临逆风，因为融资成本居高不下；需求担忧持续存在。"
+      },
+      "bullish": [],
+      "bearish": ["TSLA", "RIVN", "LCID"],
+      "macroRisk": {
+        "en": "YES - Higher yields → consumer financing costs up → auto demand concerns; macro overhang on EV sector",
+        "zh": "是-收益率走高→消费者融资成本上升→汽车需求担忧；宏观悬云对电动车板块"
+      }
+    },
+    {
+      "title": {
+        "en": "Precious metals rally as investors seek safe-haven assets amid geopolitical risks",
+        "zh": "贵金属在投资者寻求避险资产中上涨，地缘政治风险加剧"
+      },
+      "impact": {
+        "en": "Gold and silver benefit from dollar weakness fears, though DXY is actually strengthening on strong US data. Mixed sentiment.",
+        "zh": "黄金和白银从美元疲软担忧中受益，尽管美国数据强劲，DXY 实际上走强。情绪混合。"
+      },
+      "bullish": ["GLD", "SLV"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "PARTIAL - Geopolitical safe-haven flows partially offset by strong DXY from US data",
+        "zh": "部分-地缘政治避险流动部分被美国数据驱动的强劲美元所抵消"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector faces headwinds from broader market risk-off sentiment. High valuation tech names pressured, though fundamentals remain intact. Supply chain concerns and geopolitical overhang add volatility to semiconductor-dependent AI infrastructure.",
+      "zh": "人工智能板块受更广泛市场避险情绪影响面临逆风。高估值科技股承压，尽管基本面保持完好。供应链担忧和地缘政治悬云增加对半导体依赖的人工智能基础设施的波动性。"
+    },
+    "semiconductor": {
+      "en": "Semiconductors under pressure from risk-off sentiment and Middle East concerns affecting supply chains. Geopolitical tensions create uncertainty around chip production and logistics in Asia-Pacific region. Valuation compression continues despite strong fundamentals.",
+      "zh": "半导体受避险情绪和中东对供应链影响压力。地缘政治紧张局势造成亚太地区芯片生产和物流的不确定性。尽管基本面强劲，估值压缩持续。"
+    },
+    "bigTech": {
+      "en": "Big tech faces headwinds from higher rates and risk aversion. Earnings quality remains strong, but market sentiment compressed valuations. Cloud and AI segments more resilient than consumer-facing names in current macro regime.",
+      "zh": "大科技面临高利率和避险情绪逆风。盈利质量保持强劲，但市场情绪压缩了估值。云计算和人工智能板块在当前宏观体制下比面向消费者的名称更具韧性。"
+    },
+    "energy": {
+      "en": "Energy sector under pressure from Middle East uncertainty and oil price volatility. OPEC+ decisions and production cuts remain key drivers. Geopolitical risk premium supports prices but supply disruptions create unpredictable upside risks.",
+      "zh": "能源板块受中东不确定性和油价波动压力。OPEC+ 决策和生产削减保持关键驱动因素。地缘政治风险溢价支持价格，但供应中断造成不可预测的上行风险。"
+    },
+    "ev": {
+      "en": "EV sector remains challenged by higher rates, demand concerns, and macro uncertainty. China production issues and trade tensions create overhang. Traditional automakers with EV ambitions face margin pressure as competition intensifies.",
+      "zh": "电动车板块继续受到高利率、需求担忧和宏观不确定性的挑战。中国生产问题和贸易紧张局势造成悬云。具有电动车雄心的传统汽车制造商面临利润率压力，因为竞争加剧。"
+    },
+    "market": {
+      "en": "Broad market under pressure from geopolitical risks and economic overheating fears. Middle East tensions and Fed rate cut expectations create mixed sentiment. Defensive sectors outperforming, though overall breadth remains challenged by macro regime.",
+      "zh": "大盘受地缘政治风险和经济过热担忧压力。中东紧张局势和美联储降息预期造成混合情绪。防御性板块表现优于，尽管整体广度仍然受到宏观体制挑战。"
+    },
+    "preciousMetals": {
+      "en": "Gold and silver benefit from safe-haven flows amid geopolitical risks, though DXY strength on strong US data partially offsets gains. Gold near all-time highs as investors seek alternative assets against currency volatility.",
+      "zh": "黄金和白银从中东地缘政治风险的避险流动中受益，尽管美国数据强劲的美元部分抵消了收益。黄金接近历史新高，因为投资者寻求替代资产以对抗货币波动性。"
+    },
+    "oil": {
+      "en": "Oil prices volatile amid Middle East tensions and OPEC+ supply discipline. Geopolitical risk premium supports WTI/Brent but supply disruptions create unpredictable swings. Energy companies benefit from price support but operational risks increase.",
+      "zh": "油价在中东紧张局势和 OPEC+ 供应纪律下波动。地缘政治风险溢价支持 WTI/布伦特，但供应中断造成不可预测的波动。能源公司从价格支持下受益，但运营风险增加。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 futures down, Nasdaq futures down, Dow futures mixed. Overseas markets including Japan/Korea/Australia declined on geopolitical risks.",
+      "zh": "标普 500 期货下跌，纳斯达克期货下跌，道琼斯期货混合。海外市场包括日本/韩国/澳大利亚受地缘政治风险影响下跌。"
+    },
+    "treasury10Y": {
+      "en": "10Y Treasury yield rising amid hot economy data and geopolitical risks. Investors priced in less aggressive Fed easing as PMIs came in better than expected.",
+      "zh": "美债 10 年期收益率在经济数据过热和地缘政治风险下上涨。投资者在 PMI 好于预期情况下对美联储温和放松定价。"
+    },
+    "dxy": {
+      "en": "US Dollar strengthened on positive surprise to US PMI data. DXY up as investors reassess Fed rate cut timing amid strong economic prints.",
+      "zh": "美元在美国 PMI 数据意外转好情况下走强。美元指数上涨，因为投资者在强劲经济数据下重新评估美联储降息时机。"
+    },
+    "oil": {
+      "en": "Crude oil volatile on Middle East tensions. WTI/Brent benefiting from geopolitical risk premium but supply uncertainty creates volatility.",
+      "zh": "原油受中东紧张局势影响波动。WTI/布伦特从中东地缘政治风险溢价中受益，但供应不确定造成波动。"
+    },
+    "keyRisk": {
+      "en": "Middle East tensions spillover to oil prices and global growth concerns. Trump-Xi talks outcome critical for near-term market direction. Fed speakers including Warsh will influence rate cut expectations.",
+      "zh": "中东紧张局势溢出到油价和全球增长担忧。特朗普-习近平会谈结果对近期内盘方向至关重要。包括 Warsh 在内的美联储演讲者将影响降息预期。"
+    }
+  },
+  "judgment": {
+    "type": "risk-off",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Geopolitical risks and economic data surprise drive risk-off sentiment. Middle East tensions, hot US economy data, and Trump-Xi talks create uncertainty for equities. Defensive positioning likely.",
+      "zh": "地缘政治风险和经济数据惊喜驱动避险情绪。中东紧张局势、美国经济过热数据和特朗普-习近平会谈为股市造成不确定性。防御性定位可能。"
+    }
+  }
+}
