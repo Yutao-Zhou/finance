@@ -1,0 +1,188 @@
+{
+  "date": "2026-09-28",
+  "summary": {
+    "en": "Asian markets close mixed with Japan and Korea indexes slightly lower amid ongoing trade tension concerns. Pre-market futures indicate modest downside pressure on U.S. equities as investors digest geopolitical developments in the Middle East and assess their impact on oil prices, inflation expectations, and Fed policy timing. Key focus remains on whether supply chain disruptions will anchor inflation above the Fed's 2% target.",
+    "zh": "亚洲市场收市分化，日本和韩国指数小幅下跌，贸易紧张局势持续引发担忧。美股盘前期货暗示适度下行压力，投资者正在消化中东地缘政治发展及其对油价、通胀预期和美联储政策时机的影响。重点关注供应链中断是否会迫使通胀锚定在美联储 2% 目标之上。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Asian Markets Decline on Trade Tension Concerns",
+        "zh": "亚洲市场因贸易紧张担忧而下跌"
+      },
+      "impact": {
+        "en": "Regional risk-off sentiment transmits to U.S. markets via overnight trading links. Japan's Nikkei and Korea's KOSPI underperform as investors rotate out of cyclical stocks amid geopolitical uncertainty affecting export-dependent economies.",
+        "zh": "区域风险厌恶情绪通过隔夜交易传导至美国市场。日本日经和韩国综合指数表现疲软，投资者在地缘政治不确定性下从周期性股票中切换，影响依赖出口的经济体。"
+      },
+      "bullish": [],
+      "bearish": ["NKY", "KS11", "XLK"],
+      "macroRisk": {
+        "en": "MIXED - Export-dependent Asia faces headwinds but domestic policy support may cushion impact. Trade tensions could escalate if protectionist measures intensify.",
+        "zh": "复杂——依赖出口的亚洲面临阻力，但国内政策支持可能缓冲影响。如果保护主义措施加剧，贸易紧张局势可能升级。"
+      }
+    },
+    {
+      "title": {
+        "en": "U.S. Treasury Yields Edge Higher Ahead of Fed Speaker",
+        "zh": "美国国债收益率在美联储演讲前微升"
+      },
+      "impact": {
+        "en": "10Y Treasury yields stabilize near 4.35-4.40% as markets price in cautious rate cut expectations given Middle East supply shock risks. Higher yields create headwinds for duration-sensitive tech and biotech stocks.",
+        "zh": "随着市场谨慎定价降息预期，十年期美债收益率在 4.35-4.40%附近企稳，考虑到中东供应冲击风险。较高收益率给久期敏感的科技和生物科技股票带来阻力。"
+      },
+      "bullish": ["GLD", "TLT"],
+      "bearish": ["XLK", "XBI"],
+      "macroRisk": {
+        "en": "MIXED - Yield stability suggests market accepts current inflation trajectory but supply shocks remain a wildcard that could re-anchor expectations higher.",
+        "zh": "复杂——收益率稳定表明市场接受当前通胀路径，但供应冲击仍然是可能重新锚定预期更高的未知数。"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil Prices Stabilize Despite Middle East Tensions",
+        "zh": "尽管中东紧张局势，油价企稳"
+      },
+      "impact": {
+        "en": "WTI crude holds near $72-74/bbl, Brent around $78-80 as OPEC+ production cuts offset some geopolitical premium. Energy sector rally benefits from supply constraints but broader market remains sensitive to inflation re-acceleration risks.",
+        "zh": "WTI 原油维持在每桶 72-74 美元，布伦特油在 78-80 美元左右，OPEC+ 产量削减抵消了一些地缘政治溢价。能源股因供应约束而上涨，但整个市场仍对通胀重新加速风险敏感。"
+      },
+      "bullish": ["XLE", "CVX", "XOM"],
+      "bearish": ["DAL", "UAL", "AAL"],
+      "macroRisk": {
+        "en": "YES - Persistent supply constraints in Middle East region could keep oil elevated, complicating Fed's disinflation narrative and supporting stagflation fears.",
+        "zh": "是——中东地区持续的供应约束可能使油价维持高位，使美联储抑制通胀的叙事复杂化，并支持停滞通胀担忧。"
+      }
+    },
+    {
+      "title": {
+        "en": "Tech Earnings Season Concludes with Mixed Results",
+        "zh": "科技财报季结束，结果喜忧参半"
+      },
+      "impact": {
+        "en": "Magnificent Seven stocks show divergence in valuations as growth deceleration concerns outweigh AI investment optimism for near term. Cloud spending and capex discipline remain key themes influencing big tech positioning.",
+        "zh": "七巨头股票估值出现分化，增长放缓担忧超过人工智能投资乐观情绪影响近况。云计算支出和资本支出纪律仍然是影响大科技定位的关键主题。"
+      },
+      "bullish": ["AAPL", "MSFT", "NVDA"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "MIXED - AI demand remains strong but macro headwinds from higher rates and consumer spending concerns weigh on sentiment. Cloud revenue growth continues at healthy pace.",
+        "zh": "复杂——人工智能需求仍然强劲，但来自较高利率和消费者支出担忧的宏观阻力影响情绪。云收入增长继续以健康速度前进。"
+      }
+    },
+    {
+      "title": {
+        "en": "Dollar Strengthens on Relative Economic Resilience",
+        "zh": "美元因相对经济韧性而走强"
+      },
+      "impact": {
+        "en": "DXY edges higher as U.S. economic data beats expectations while Eurozone growth concerns and UK political uncertainty weigh on alternative currencies. Multinationals face FX headwinds but benefit from reduced import costs.",
+        "zh": "随着美国经济数据好于预期，而欧元区增长担忧和英国政治不确定性拖累替代货币，美元走高。跨国公司的外汇面临阻力，但受益于进口成本降低。"
+      },
+      "bullish": ["FDXY", "Currencies ETF"],
+      "bearish": ["EWY", "EURS", "GBPY"],
+      "macroRisk": {
+        "en": "YES - Strong dollar supports commodity-importing sectors but pressures emerging market assets and multinationals with overseas revenue.",
+        "zh": "是——强劲的美元支持进口大宗商品部门，但给拥有海外收入的新兴市场资产和跨国公司带来压力。"
+      }
+    },
+    {
+      "title": {
+        "en": "China's Manufacturing Data Shows Modest Recovery",
+        "zh": "中国制造业数据显示出适度复苏"
+      },
+      "impact": {
+        "en": "PMBI and PMI manufacturing indices rebound slightly after prior month's weakness, offering hope for global growth recovery. China stimulus measures provide tailwinds for cyclical sectors including materials and industrials.",
+        "zh": "在先前月份的疲软之后，PMBI 和制造业 PMI 指数略有回升，为全球增长复苏提供希望。中国刺激措施为包括材料和工业在内的周期性部门提供顺风。"
+      },
+      "bullish": ["XLI", "VAW", "PP"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "POSITIVE - China growth recovery supports global trade outlook and reduces recession risks for export-dependent U.S. sectors.",
+        "zh": "积极——中国增长复苏支持全球贸易前景，并降低对出口依赖的美国部门面临衰退的风险。"
+      }
+    },
+    {
+      "title": {
+        "en": "Gold Prices Consolidate Above $2,400/oz",
+        "zh": "金价在 2,400/盎司以上整理"
+      },
+      "impact": {
+        "en": "Precious metals hold strong as investors hedge against geopolitical uncertainty and persistent inflation. Gold's safe-haven appeal offsets some equity market pressure but broader risk-on dynamics dominate trading.",
+        "zh": "贵金属在投资者对冲地缘政治不确定性和持续通胀的情况下保持强劲。黄金的避险吸引力抵消了一些股市压力，但更广泛的风险偏好动态主导交易。"
+      },
+      "bullish": ["GLD", "GDXJ"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "NEUTRAL - Gold's strength reflects flight-to-safety dynamics but doesn't fundamentally alter broader market direction. Real yields and central bank buying remain key drivers.",
+        "zh": "中性——黄金的强劲反映避险动态，但不根本改变市场整体方向。实际收益率和央行购金仍然是关键驱动因素。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI chip demand remains robust with NVIDIA, AMD leading sector rally despite macro headwinds. Infrastructure buildout continues but valuations compressed by higher yields and growth slowdown concerns near term.",
+      "zh": "尽管宏观阻力，人工智能芯片需求仍然强劲，英伟达、AMD 引领板块上涨。基础设施建设继续，但估值因较高收益率和增长放缓担忧而压缩近况。"
+    },
+    "semiconductor": {
+      "en": "Semiconductor stocks under mixed pressure with memory chip makers outperforming logic chips. Cyclical recovery supports fundamentals but rate sensitivity and China trade tensions create volatility.",
+      "zh": "半导体股票面临混合压力，内存芯片制造商优于逻辑芯片。周期性复苏支持基本面，但利率敏感性和中国贸易紧张局势造成波动。"
+    },
+    "bigTech": {
+      "en": "Magnificent Seven stocks show resilience with AI cloud revenues offsetting consumer spending concerns. Microsoft and Google benefit from enterprise digitalization while Apple faces China exposure risks.",
+      "zh": "七巨头股票显示出韧性，人工智能云收入抵消了消费者支出担忧。微软和谷歌受益于企业数字化，而苹果面临中国敞口风险。"
+    },
+    "energy": {
+      "en": "Energy sector rallies on oil price support despite geopolitical risks. OPEC+ discipline and supply constraints offset some Middle East disruption fears. E&P stocks lead sector outperformance.",
+      "zh": "尽管地缘政治风险，能源板块在油价支持下上涨。OPEC+ 纪律和供应约束抵消了一些中东中断担忧。勘探与生产股票引领板块超额表现。"
+    },
+    "ev": {
+      "en": "Electric vehicle stocks face headwinds from higher financing costs and China EV competition. Tesla maintains pricing power but growth deceleration concerns weigh on sentiment across sector.",
+      "zh": "电动汽车股票面临来自较高融资成本和中国电动汽车竞争的压力。特斯拉保持定价能力，但增长放缓担忧对板块情绪产生影响。"
+    },
+    "market": {
+      "en": "Broad market shows muted sentiment as investors balance geopolitical risks against Fed dovishness expectations. S&P 500 futures indicate slightly lower open while Nasdaq faces yield sensitivity.",
+      "zh": "大盘显示平淡情绪，因为投资者在平衡地缘政治风险和美联储鸽派预期之间。标普 500 期货暗示开盘稍低，而纳斯达克面临收益率敏感。"
+    },
+    "preciousMetals": {
+      "en": "Gold and silver consolidate near recent highs as investors hedge geopolitical uncertainty. Real yield dynamics and central bank purchases support prices but excessive valuation limits upside potential.",
+      "zh": "随着投资者对冲地缘政治不确定性，黄金和白银在最近的高点附近整理。实际收益率动态和央行购金支持价格，但过高估值限制上涨潜力。"
+    },
+    "oil": {
+      "en": "Oil prices stabilize as OPEC+ supply cuts offset geopolitical premium. WTI around $72-74/bbl, Brent near $78-80. Supply constraints in Middle East region provide support but inflation implications remain a concern.",
+      "zh": "随着 OPEC+ 供应削减抵消地缘政治溢价，油价稳定。WTI 在每桶 72-74 美元，布伦特油近 78-80 美元。中东地区的供应约束提供支持，但通胀影响仍然是一个担忧。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 futures point to lower open (-0.3%), Nasdaq futures slightly down (-0.2%), Dow Industrials flat or modestly higher (+0.1%). Asian market weakness and Treasury yield stability suggest cautious start.",
+      "zh": "标普 500 期货指向低开（-0.3%），纳斯达克期货稍低（-0.2%），工业平均指数持平或适度更高（+0.1%）。亚洲市场疲软和国债收益率稳定表明谨慎开始。"
+    },
+    "treasury10Y": {
+      "en": "10-Year Treasury yield hovers near 4.38%, up slightly from Friday's close. Yield curve remains inverted but not steepening, suggesting market pricing in slow disinflation path with potential pauses.",
+      "zh": "十年期国债收益率在 4.38%附近徘徊，略高于周五收盘。收益率曲线保持倒挂但未变陡，表明市场正在定价缓慢抑制通胀路径并可能暂停。"
+    },
+    "dxy": {
+      "en": "Dollar Index (DXY) edges higher at 97.80, supported by strong U.S. economic data and relative rate differentials. Multinationals may face FX headwinds but import cost benefits could offset some pressures.",
+      "zh": "美元指数（DXY）在 97.80略高，支持强劲的美国经济数据和相对利率差异。跨国公司可能面临外汇阻力，但进口成本好处可能抵消一些压力。"
+    },
+    "oil": {
+      "en": "WTI crude futures settle near $73/bbl, Brent around $79. Oil price support from OPEC+ cuts balances Middle East supply disruption fears. Energy sector remains a key inflation hedge but elevated prices complicate Fed narrative.",
+      "zh": "WTI 原油期货在每桶 73 美元附近结算，布伦特油约 79 美元。OPEC+ 削减的油价支持平衡中东供应中断担忧。能源部门仍然是关键通胀避险工具，但高价格使美联储叙事复杂化。"
+    },
+    "keyRisk": {
+      "en": "Primary concern: Escalating Middle East tensions could push oil above $85/bbl, re-anchoring inflation expectations and forcing Fed to delay rate cuts. Secondary risk: China growth data proving weaker than expected.",
+      "zh": "主要担忧：升级的中东紧张局势可能将油价推高至每桶 85 美元以上，重新锚定通胀预期并迫使美联储推迟降息。次要风险：中国增长数据比预期更弱。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Market exhibits sector divergence with energy and precious metals rallying on inflation hedge dynamics while tech faces yield sensitivity. Geopolitical tensions create uncertainty but don't fundamentally alter market direction. Recommend cautious positioning with selective opportunities in defensive sectors and AI infrastructure.",
+      "zh": "市场表现出部门分化，能源和贵金属在通胀避险动态下上涨，而科技面临收益率敏感。地缘政治紧张局势造成不确定性，但不根本改变市场方向。建议在防御性部门和人工智能基础设施中谨慎配置并选择机会。"
+    }
+  }
+}
