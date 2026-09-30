@@ -1,0 +1,156 @@
+{
+  "date": "2026-09-29",
+  "summary": {
+    "en": "US stock futures are mixed ahead of open, with Nasdaq futures leading gains while broader market faces headwinds from elevated 10Y Treasury yields. Iran tensions keep oil prices elevated despite recent pullbacks, and investors await key economic data including consumer confidence.",
+    "zh": "美股期货早盘表现分化，纳斯达克期指领涨而大盘受制于高位美债收益率。伊朗紧张局势支撑油价尽管近期有所回落，投资者等待包括消费者信心在内的关键经济数据。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "S&P Futures Flat as Higher Yields Counter Tech Optimism; Iran Tensions Support Oil",
+        "zh": "美债收益率上升抑制科技股乐观情绪导致标普期货持平；伊朗紧张局势支撑油价"
+      },
+      "impact": {
+        "en": "Elevated 10Y Treasury yields around 4.2% cap rate-sensitive growth stocks despite AI sector strength. Geopolitical risk premium keeps WTI near $65 while investors worry about inflation implications.",
+        "zh": "高位美债收益率抑制利率敏感型成长股尽管 AI 板块强劲。地缘政治风险溢价支撑 WTI 油价近$65，投资者担忧通胀影响。"
+      },
+      "bullish": ["XLK", "QQQ"],
+      "bearish": ["JNK", "XLE"],
+      "macroRisk": {
+        "en": "Yes - higher yields → pressure on rate-sensitive growth; geopolitical instability → persistent oil premium; Iran factor limits downside but no catalyst for major move.",
+        "zh": "是-收益率上升→抑制利率敏感型成长股；地缘政治不稳定→持续油价溢价；伊朗因素限制下行但未引发大幅变动。"
+      }
+    },
+    {
+      "title": {
+        "en": "Consumer Confidence Data Due Mid-Morning; JOLTS Job Market Report Expected",
+        "zh": "上午中段将公布消费者信心数据；预计将有 JOLTS 就业市场报告"
+      },
+      "impact": {
+        "en": "Key soft data catalysts ahead: weak consumer sentiment could trigger dovish Fed pivot expectations; strong job market supports wage inflation concerns despite cooling labor demand.",
+        "zh": "关键软数据催化剂：疲软消费者情绪可能引发鹰派美联储转向预期；强劲就业市场支持工资通胀担忧尽管劳动力需求降温。"
+      },
+      "bullish": ["KRO", "XOM"],
+      "bearish": ["CSCO", "INTC", "NVDA"],
+      "macroRisk": {
+        "en": "Yes - soft consumer data → lower rates expected → tech rally; strong jobs → rate hike fears resume. Watch for mixed signal interpretation.",
+        "zh": "是-消费者疲软→预期降息→科技股上涨；强劲就业→加息担忧重燃。关注混合信号解读。"
+      }
+    },
+    {
+      "title": {
+        "en": "FICO Scores Fall 8 Points to Lowest Level in Months Amid Credit Card Delinquencies",
+        "zh": "FICO 评分下跌 8 点至数月来最低水平信用卡违约增加"
+      },
+      "impact": {
+        "en": "Credit quality deterioration signals broader economic stress. FICO decline reflects auto and credit card delinquency trends, potentially pressuring rate-sensitive financials while offering credit card/risk hedge plays.",
+        "zh": "信贷质量恶化反映广泛经济压力。FICO 下滑反映汽车和信用卡违约趋势，可能施压利率敏感型金融机构同时提供信用卡/风险对冲交易机会。"
+      },
+      "bullish": ["V", "MA"],
+      "bearish": ["COF", "DFS", "ALLY"],
+      "macroRisk": {
+        "en": "No direct macro transmission but confirms household stress amid elevated rate environment. Consumer debt overhang limiting discretionary spending power.",
+        "zh": "无直接宏观传导但确认高利率环境下家庭压力。消费者债务负担限制 discretionary 支出能力。"
+      }
+    },
+    {
+      "title": {
+        "en": "AMD, SpaceX in Focus After AI Hardware Demand Concerns and Satellite Launches",
+        "zh": "AMD、SpaceX 受 AI 硬件需求担忧和卫星发射关注"
+      },
+      "impact": {
+        "en": "Semiconductor sector divergence: broad chip demand softening vs. AI server buildout momentum. Space launches maintain defense contractor tailwinds despite macro headwinds.",
+        "zh": "半导体板块分化：整体芯片需求疲软对比 AI 服务器建设势头。太空发射维持国防承包商顺风尽管宏观逆风。"
+      },
+      "bullish": ["AMD", "SpaceX"],
+      "bearish": ["AVGO", "AMAT", "LRCX"],
+      "macroRisk": {
+        "en": "Mixed - semiconductor demand concerns vs. AI infrastructure buildout; geopolitical tech tensions affecting supply chains.",
+        "zh": "分化-半导体需求担忧对比 AI 基础设施建设；地缘政治技术紧张影响供应链。"
+      }
+    },
+    {
+      "title": {
+        "en": "Summit.ai Shares Rise on Enterprise AI Adoption Momentum Despite Sector Valuation Compression",
+        "zh": "Summit.ai 股价上涨企业 AI 采用动量尽管板块估值压缩"
+      },
+      "impact": {
+        "en": "Smaller cap AI firms outperforming as large tech consolidates earnings. Enterprise adoption realigns expectations from growth-at-all-costs to profitability-focused deployment.",
+        "zh": "小市值 AI 公司表现优于大科技整合收入。企业采用重新调整预期从不惜成本增长转向盈利关注部署。"
+      },
+      "bullish": ["SUMM"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - company-specific fundamental strength driving performance independent of macro conditions.",
+        "zh": "否-公司特定基本面力量驱动业绩独立于宏观条件。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector showing relative strength as enterprise adoption shifts to profitability-focused deployment. Smaller caps like Summit.ai outperform while mega-cap giants face consolidation pressure. Hardware supply chain concerns (TSMC capacity, advanced packaging) creating divergence from software-led AI narrative.",
+      "zh": "AI 板块显示相对强势因企业采用转向盈利关注部署。小市值公司如 Summit.ai 表现优于巨无霸巨头面临整合压力。硬件供应链担忧（台积电产能、先进封装）创造从软件主导 AI 叙事分化。"
+    },
+    "semiconductor": {
+      "en": "Semiconductor sector diverging on demand signals. Broad chipsoftening vs. AI server buildout creating mixed performance pattern. AMD faces pricing pressure while NVIDIA maintains enterprise moat. Supply chain constraints easing but geopolitical tensions persist.",
+      "zh": "半导体板块因需求信号分化。整体芯片疲软对比 AI 服务器建设创造混合表现模式。AMD 面临价格压力而 NVIDIA 维持企业护城河。供应链约束缓解但地缘政治紧张持续。"
+    },
+    "bigTech": {
+      "en": "Big Tech under pressure from rate-sensitive growth expectations. Cloud spending normalization continues as enterprises optimize post-pandemic investments. Earnings quality improving but stock multiples remain compressed amid yield environment.",
+      "zh": "大科技受制于利率敏感型增长预期。企业支出正常化继续因企业优化疫情后投资。盈利质量改善但股票倍数在收益率环境下保持压缩。"
+    },
+    "energy": {
+      "en": "Energy sector elevated as Iran tensions and OPEC+ supply discipline support prices above $70/bbl. Oil majors benefit from sustained demand while transition investments lag traditional production cash flows.",
+      "zh": "能源板块因伊朗紧张和 OPEC+ 供应纪律支撑价格高于$70/桶而升高。石油巨头受益于持续需求而转型投资落后传统生产现金流。"
+    },
+    "ev": {
+      "en": "EV sector faces headwinds as consumer credit tightening and charging infrastructure gaps limit adoption rate. Chinese manufacturer price competition eroding margins while interest rates impact financing-dependent buyers.",
+      "zh": "电动车板块面临逆风因消费者信贷收紧和充电基础设施差距限制采用率。中国制造商价格竞争侵蚀利润率而利率影响融资依赖型买家。"
+    },
+    "market": {
+      "en": "Broad market showing mixed sentiment ahead of open. Nasdaq futures leading while broader S&P faces resistance from 10Y Treasury yields. Sector rotation favoring energy materials over rate-sensitive growth names.",
+      "zh": "大盘开盘前显示混合情绪。纳斯达克期货领涨而更广泛的标普受到 10Y 美债收益率阻力。行业轮动偏向能源材料而非利率敏感型增长股票。"
+    },
+    "preciousMetals": {
+      "en": "Precious metals mixed as gold trades near historic highs on geopolitical hedging while real yield expectations limit further upside. Silver underperforms as industrial demand concerns offset precious metal appeal.",
+      "zh": "贵金属分化因黄金在地缘政治避险交易近历史新高而银因实际收益率预期限制进一步上涨空间。白银表现不及因工业需求担忧抵消贵金属吸引力。"
+    },
+    "oil": {
+      "en": "Oil prices elevated near $65-67 range supported by Iran tensions and OPEC+ discipline. Geopolitical risk premium persists despite consumption concerns from recession fears limiting major upside catalysts.",
+      "zh": "油价在$65-67范围高位受伊朗紧张和 OPEC+ 纪律支撑。尽管消费担忧因衰退恐惧限制主要上涨催化剂地缘政治风险溢价持续存在。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "Nasdaq futures ▲ +200.50 (+0.66%), S&P futures ▲ +27.75 (+0.36%), Dow futures mixed; overall gap-up open expected despite yield headwinds",
+      "zh": "纳指期货▲+200.50 (+0.66%)，标普期货▲+27.75 (+0.36%)，道指期货分化；尽管收益率逆风整体预期上涨开盘"
+    },
+    "treasury10Y": {
+      "en": "10Y Treasury yield hovering around 4.2-4.3%, elevated but stable near recent highs; watch for soft consumer data impact on rate expectations",
+      "zh": "10Y 美债收益率在 4.2-4.3% 附近徘徊，高位但稳定在近高点附近；关注软消费者数据对利率预期的影响"
+    },
+    "dxy": {
+      "en": "DXY dollar index hovering near 98-99, stable amid mixed commodity performance and Fed commentary; stronger dollar pressures EM assets while supporting bond yields",
+      "zh": "美元指数 DXY 在 98-99附近徘徊，混合商品表现和美联储评论下稳定；更强美元施压新兴市场资产同时支持债券收益率"
+    },
+    "oil": {
+      "en": "WTI crude around $65-67, Brent near $68-70; Iran tensions providing floor while US production growth and inventory data limit upside catalysts",
+      "zh": "WTI 原油在$65-67附近，布伦特近$68-70；伊朗紧张提供底部而美国生产增长和库存数据限制上涨催化剂"
+    },
+    "keyRisk": {
+      "en": "Consumer confidence and JOLTS data due mid-morning could trigger rate expectations volatility; also watch for Iran escalation developments affecting oil prices broadly.",
+      "zh": "消费者信心和 JOLTS 数据上午中段公布可能引发利率预期波动；也关注伊朗升级发展影响油价整体。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Market shows sector divergence with AI/tech leading while rate-sensitive growth lags. Geopolitical factors creating oil floor but no major catalysts yet. Soft data risk remains key uncertainty ahead of Fed policy considerations.",
+      "zh": "市场显示行业分化AI/科技领涨而利率敏感型成长滞后。地缘政治因素创造油价底部但未出现主要催化剂。软数据风险仍是美联储政策考虑前主要不确定性。"
+    }
+  }
+}
