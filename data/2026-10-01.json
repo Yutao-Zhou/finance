@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-01",
+  "summary": {
+    "en": "Pre-market outlook remains cautious ahead of key macro data releases including CPI expectations and Fed policy discussions. Sector divergence expected with AI/semiconductors resilient while energy trades on geopolitical developments.",
+    "zh": "盘前谨慎观望，等待关键宏观数据发布包括通胀预期和美联储政策讨论。板块分化，AI 半导体表现稳健而能源受地缘政治影响交易活跃。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Fed Officials Signal Patience on Rate Cuts Amid Sticky Inflation Concerns",
+        "zh": "美联储官员暗示在通胀粘性担忧下对降息保持耐心"
+      },
+      "impact": {
+        "en": "Markets digest dovish rhetoric but remain attentive to data-dependent policy path. Treasury yields stabilize as investors price in slower pivot timing.",
+        "zh": "市场消化鸽派言论但仍关注数据依赖的政策路径。美债收益率稳定，投资者定价较慢的转向时机。"
+      },
+      "bullish": ["financials", "banks"],
+      "bearish": ["small-cap_value"],
+      "macroRisk": {
+        "en": "Yes - Yield curve dynamics could pressure rate-sensitive sectors including REITs and utilities.",
+        "zh": "是 - 收益率曲线动态可能对利率敏感板块包括 REITs 和公用事业构成压力。"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil Prices Stabilize Near Key Support as Geopolitical Risks Weigh on Supply",
+        "zh": "油价在关键支撑附近企稳，地缘政治风险压制供应"
+      },
+      "impact": {
+        "en": "WTI/Brent consolidation limits broad-based inflation surge concerns but creates sector-specific headwinds for energy-intensive industries.",
+        "zh": "WTI/布伦特盘整限制了广泛通胀激增担忧但对能源密集型行业造成特定不利因素。"
+      },
+      "bullish": ["energy_producers"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Yes - Oil price volatility transmits to service inflation expectations and wage pressures.",
+        "zh": "是 - 油价波动传导至服务业通胀预期和工资压力。"
+      }
+    },
+    {
+      "title": {
+        "en": "Nvidia Earnings Preview: AI Chip Demand Remains Strong Despite China Headwinds",
+        "zh": "英伟达财报预览：AI 芯片需求强劲尽管面临中国逆风"
+      },
+      "impact": {
+        "en": "Expectations elevated for guidance on next-gen chip capacity. Cloud hyperscalers' capex allocation critical for sector sentiment.",
+        "zh": "对下一代芯片产能指引预期高涨。云超大规模数据中心的资本支出配置对板块情绪至关重要。"
+      },
+      "bullish": ["nvidia", "semiconductors"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - Earnings-driven rally isolated from macro environment.",
+        "zh": "否 - 财报驱动的上涨独立于宏观环境。"
+      }
+    },
+    {
+      "title": {
+        "en": "Dollar Strengthens on Safe- Haven Flows as US Treasury Auction Proceeds Smoothly",
+        "zh": "美元因避险资金流加强，美国国债拍卖顺利进行"
+      },
+      "impact": {
+        "en": "DXY upside pressure affects multinational earnings and EM asset exposure. Multinational tech stocks monitor FX headwinds.",
+        "zh": "DXY 上行压力影响跨国企业收益和新兴资产敞口。跨国科技股票监控外汇逆风。"
+      },
+      "bullish": [],
+      "bearish": ["em_equities", "multinationals"],
+      "macroRisk": {
+        "en": "Yes - DXY strength correlates with weaker growth prospects for FX-sensitive sectors.",
+        "zh": "是 - DXY 走强与外汇敏感板块增长前景较弱相关。"
+      }
+    },
+    {
+      "title": {
+        "en": "European Markets Mixed as ECB Policy Debate Continues",
+        "zh": "欧洲市场分化，欧洲央行政策辩论继续"
+      },
+      "impact": {
+        "en": "ECB commentary on inflation trajectory influences global bond market sentiment and cross-asset positioning.",
+        "zh": "ECB 对通胀轨迹的评论影响全球债券市场情绪和跨资产配置。"
+      },
+      "bullish": [],
+      "bearish": ["euro_bond"],
+      "macroRisk": {
+        "en": "Yes - ECB dovishness could spill over to yield curve flattening concerns.",
+        "zh": "是 - ECB 鸽派言论可能蔓延至收益率曲线平坦化担忧。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Strong sentiment driven by enterprise AI adoption and hyperscaler capital expenditure plans. Cloud providers' data center build-out supports semiconductor demand chain.",
+      "zh": "企业 AI 采用和超大规模数据中心资本支出计划推动强劲情绪。云提供商的数据中心建设支持半导体需求链。"
+    },
+    "semiconductor": {
+      "en": "Mixed signals with advanced nodes pricing in while legacy node exposure remains pressured. Inventory normalization progressing but pace varies by vertical.",
+      "zh": "信号混杂，先进节点定价预期而传统节点敞口仍受压制。库存正常化进行中但各垂直领域节奏不同。"
+    },
+    "bigTech": {
+      "en": "Resilient earnings profile supported by AI infrastructure investments. Cloud margin expansion offsetting macro headwinds on consumer spending.",
+      "zh": "AI 基础设施投资支持强劲收益表现。云计算利润率扩张抵消消费者支出宏观逆风。"
+    },
+    "energy": {
+      "en": "Trading range-bound with OPEC+ production discipline providing downside support. Transition plays lag on policy uncertainty but core producers benefit from sustained demand.",
+      "zh": "区间交易，OPEC+ 生产纪律提供下行支撑。转型表现因政策不确定性滞后但核心生产者受益于持续需求。"
+    },
+    "ev": {
+      "en": "Valuation pressure persists amid consumer preference shift to traditional ICE vehicles. China production slowdown impacts global EV supply chain outlook.",
+      "zh": "消费者偏好向传统内燃机车辆转变导致估值压力。中国生产放缓影响全球 EV 供应链前景。"
+    },
+    "market": {
+      "en": "Broad market cautious ahead of earnings season. Quality factor premium expected as investors favor large-cap growth with visibility on AI monetization.",
+      "zh": "大盘在财报季前谨慎。质量因子溢价预期，投资者偏好具有 AI 变现确定性的超大型成长股。"
+    },
+    "preciousMetals": {
+      "en": "Gold holds support near key technical levels despite strong dollar. Central bank buying and geopolitical uncertainty provide floor to prices.",
+      "zh": "黄金在美元强劲下维持关键技术水平支撑。央行购买和地缘政治不确定性为金价提供底部。"
+    },
+    "oil": {
+      "en": "WTI consolidating as supply constraints moderate but geopolitical tensions maintain risk premium. OPEC+ policy framework provides stability but limits upside.",
+      "zh": "WTI 盘整供应约束缓和但地缘政治紧张维持风险溢价。OPEC+ 政策框架提供稳定性但限制上行空间。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P futures slightly higher, Nasdaq mixed on tech divergence. Dow under pressure from industrials sector weakness.",
+      "zh": "标普期货微幅上涨，纳指因科技股分化混杂。道指受制于工业股板块疲软承压。"
+    },
+    "treasury10Y": {
+      "en": "10Y Treasury yield hovering near key support zone. Policy expectations drive volatility with yields declining on dovish Fed rhetoric.",
+      "zh": "10 年期美债收益率徘徊在关键支撑区域附近。政策预期驱动波动，收益率因鸽派美联储言论下降。"
+    },
+    "dxy": {
+      "en": "Dollar Index strengthening amid safe-haven flows. European central bank commentary influences cross-asset positioning for multinational exposure.",
+      "zh": "美元指数在避险资金流中走强。欧洲央行评论影响跨国企业敞口的跨资产配置。"
+    },
+    "oil": {
+      "en": "WTI crude trading near recent lows with supply concerns limiting downside. Brent tracking closely as international benchmark for European exposure.",
+      "zh": "WTI 原油交易于近期低点附近供应担忧限制下行。布伦特紧密跟踪作为欧洲敞口的国际基准。"
+    },
+    "keyRisk": {
+      "en": "Economic data releases this week including CPI and PPI readings could trigger market volatility. Monitor Fed speakers for policy direction signals.",
+      "zh": "本周经济数据发布包括 CPI 和 PPI 读数可能引发市场波动。监测美联储演讲者获取政策方向信号。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Market sentiment cautious with sector divergence. AI leaders resilient while rate-sensitive and emerging markets face headwinds. Macro data dependency elevates uncertainty.",
+      "zh": "市场情绪谨慎板块分化。AI 领导者表现稳健而利率敏感和新兴市场面临逆风。宏观数据依赖提升不确定性。"
+    }
+  }
+}
