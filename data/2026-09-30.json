@@ -1,0 +1,156 @@
+{
+  "date": "2026-09-30",
+  "summary": {
+    "en": "Soft inflation data and strong PCE/ADP reports eased rate-hike fears, pushing Wall Street futures higher overnight. Focus remains on AI chip supply chains (Micron earnings catalyst) and broader tech sector positioning ahead of Fed speakers.",
+    "zh": "软通胀数据和强劲的 PCE/ADP 报告缓解了加息担忧，推动美股期货隔夜走高。焦点集中在 AI 芯片供应链（美光业绩催化剂）和大盘科技板块在美联储发言前的大盘配置。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Soft PCE Inflation Data Eases Fed Rate Hike Fears; Markets Rally Overnight",
+        "zh": "软 PCE 通胀数据缓解美联储加息担忧；市场隔夜反弹"
+      },
+      "impact": {
+        "en": "Lower inflation expectations reduce rate hike bets, benefiting growth stocks and reducing Treasury yield pressure.",
+        "zh": "较低的通胀预期降低加息押注，利好成长股并减轻美债收益率压力。"
+      },
+      "bullish": ["XLK", "QQQ", "AI"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - inflation cooling supports rate stability narrative",
+        "zh": "否 - 通胀降温支持利率稳定叙事"
+      }
+    },
+    {
+      "title": {
+        "en": "Micron (MU) in Focus as AI Memory Demand Persists; Earnings Anticipation",
+        "zh": "美光 (MU) 受关注，AI 内存需求持续；业绩预期升温"
+      },
+      "impact": {
+        "en": "Micron's AI memory product line benefits from strong demand in data centers and consumer devices.",
+        "zh": "美光的 AI 内存产品线受益于数据中心和消费设备强劲需求。"
+      },
+      "bullish": ["MU", "XLS", "NVDA"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - sector-specific supply/demand dynamics",
+        "zh": "否 - 板块特定供需动态"
+      }
+    },
+    {
+      "title": {
+        "en": "Boeing Rises, Moderna Slides in Premarket Trading Sessions",
+        "zh": "波音隔夜上涨，Moderna 下滑"
+      },
+      "impact": {
+        "en": "Sector divergence evident: aviation recovery optimism vs biotech valuation compression.",
+        "zh": "板块分化明显：航空业复苏乐观情绪与生物科技估值压缩形成对比。"
+      },
+      "bullish": ["BA"],
+      "bearish": ["MRNA"],
+      "macroRisk": {
+        "en": "No - company-specific events dominate",
+        "zh": "否 - 公司特定事件主导"
+      }
+    },
+    {
+      "title": {
+        "en": "ADP Employment Data Beats Expectations; Labor Market Resilience Supports Economic Growth Outlook",
+        "zh": "ADP 就业数据超预期；劳动力市场韧性支持经济增长前景"
+      },
+      "impact": {
+        "en": "Strong job creation eases recession fears and supports growth-stock valuations.",
+        "zh": "强劲就业创造缓解衰退担忧，支持成长股估值。"
+      },
+      "bullish": ["SPY", "QQQ", "XLV"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - pro-growth signal outweighs inflationary concerns",
+        "zh": "否 - 利好增长信号压倒通胀担忧"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury Yields Edge Lower as Investors Price in Dovish Fed Stance Ahead of October FOMC",
+        "zh": "美债收益率小幅回落，投资者押注 10 月美联储会议偏鸽派"
+      },
+      "impact": {
+        "en": "Yield decline reduces cost-of-capital for growth stocks and boosts rate-sensitive sectors.",
+        "zh": "收益率下降降低成长股资本成本并提振利率敏感板块。"
+      },
+      "bullish": ["GLD", "JPM", "XLF"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - yields below historical norms reduce systemic risk",
+        "zh": "否 - 收益率低于历史水平降低系统性风险"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI chip sector strong on persistent demand; Micron catalyst amid memory supply tightness. NVIDIA, AMD, and related suppliers positioned for continued gains.",
+      "zh": "AI 芯片板块需求持续强劲；美光催化剂叠加内存供应紧张。NVIDIA、AMD 及相关供应商有望继续获益。"
+    },
+    "semiconductor": {
+      "en": "Semis benefit from AI tailwinds and PC recovery. Memory segment (Micron) particularly strong; logic/advanced packaging sectors steady.",
+      "zh": "半导体受益于 AI 顺风与 PC 复苏。内存板块（美光）尤为强劲；逻辑/先进封装板块企稳。"
+    },
+    "bigTech": {
+      "en": "Magnificent Seven stocks hold strength on cloud demand and AI monetization. Cloud services remain resilient amid enterprise IT spending.",
+      "zh": "七巨头股票在云需求和 AI 变现中保持强势。企业服务 IT 支出强劲支撑云服务。"
+    },
+    "energy": {
+      "en": "Oil prices stable but below recent highs; OPEC+ production discipline provides floor. Renewable energy transition gains traction amid policy shifts.",
+      "zh": "油价企稳但低于近期高点；OPEC+ 生产纪律提供底部支撑。能源转型因政策调整而加速。"
+    },
+    "ev": {
+      "en": "EV sector faces headwinds from higher rates and consumer sentiment softness. Traditional OEMs (Ford, GM) repositioning; pure-play EV makers under pressure.",
+      "zh": "电动车板块面临利率上升和消费者情绪疲软逆风。传统车企重新配置；纯电动车企承压。"
+    },
+    "market": {
+      "en": "Broad market sentiment risk-on with tech leading breadth. Volume elevated on economic data flow; breadth improving as earnings season progresses.",
+      "zh": "大盘风险偏好回升，科技股领先广度。经济数据流动下成交量放大；随着财报季推进，广度改善。"
+    },
+    "preciousMetals": {
+      "en": "Gold holds near all-time highs on safe-haven demand and rate stability narrative. Silver follows industrial/commodity backdrop.",
+      "zh": "黄金在避险需求和利率稳定叙事下维持近历史新高。白银跟随工业/大宗商品背景。"
+    },
+    "oil": {
+      "en": "WTI/Brent in equilibrium; geopolitical tensions provide modest premium. Demand outlook stable but constrained by economic uncertainty.",
+      "zh": "WTI/布伦特油价平衡；地缘政治紧张提供适度溢价。需求前景稳定但受经济不确定性制约。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 futures +0.2%, Nasdaq futures +0.4%, Dow futures flat; tech-led rally expected at open",
+      "zh": "标普 500 期货 +0.2%，纳指期货 +0.4%，道指期货持平；开盘科技股领涨"
+    },
+    "treasury10Y": {
+      "en": "~3.75-3.80% expected; yield decline from soft PCE data supports lower-end range",
+      "zh": "预期 3.75-3.80%；软 PCE 数据推动收益率处于区间低段"
+    },
+    "dxy": {
+      "en": "DXY around 97.5-98.0; dollar stability amid inflation data, EUR/USD range-bound",
+      "zh": "美元指数约 97.5-98.0；通胀数据下美元稳定，欧元/美元区间震荡"
+    },
+    "oil": {
+      "en": "WTI ~$63-65/bbl; Brent ~$67-69/bbl; OPEC+ cuts providing support",
+      "zh": "WTI 约$63-65/桶；布伦特约$67-69/桶；OPEC+减产提供支撑"
+    },
+    "keyRisk": {
+      "en": "Watch October FOMC meeting for rate decision; monitor inflation data release timing",
+      "zh": "关注 10 月美联储会议利率决议；注意通胀数据发布时间"
+    }
+  },
+  "judgment": {
+    "type": "risk-on",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Soft inflation + strong economy = balanced risk environment. Tech leading but avoid overconfidence on rate bets.",
+      "zh": "通胀放缓 + 经济强劲=平衡风险环境。科技股领先但不宜对利率押注过于自信。"
+    }
+  }
+}
