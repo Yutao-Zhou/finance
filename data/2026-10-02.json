@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-02",
+  "summary": {
+    "en": "Friday pre-market shows mixed sentiment as investors weigh year-end positioning and upcoming earnings announcements. Geopolitical developments in the Middle East continue to support oil prices while Fed policy expectations remain data-dependent.",
+    "zh": "周五盘前情绪分化，投资者权衡年末配置和即将发布的财报。中东地缘政治发展继续支撑油价，美联储政策预期仍取决于数据。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Tech Earnings Season Accelerates with AI Chip Leaders Delivering Above Expectations",
+        "zh": "科技财报季加速，AI 芯片龙头表现超出预期"
+      },
+      "impact": {
+        "en": "Strong demand for advanced AI chips validates capex strategy across hyperscalers. Sector leadership positions reinforced while traditional semiconductor exposure lags.",
+        "zh": "先进 AI 芯片强劲需求验证超大规模数据中心资本支出策略。板块领导地位巩固而传统半导体敞口滞后。"
+      },
+      "bullish": ["nvidia", "amd", "advanced_semiconductors"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - Earnings-driven rally independent of macro environment.",
+        "zh": "否 - 财报驱动的上涨独立于宏观环境。"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil Prices Benefit from Middle East Tensions Despite OPEC+ Discipline",
+        "zh": "油价从中东紧张局势受益尽管 OPEC+ 保持纪律"
+      },
+      "impact": {
+        "en": "Geopolitical risk premium sustains WTI near key resistance levels. Supply disruption concerns limit downside but cap upside given global recession fears.",
+        "zh": "地缘政治风险溢价使 WTI 维持在关键阻力位附近。供应中断担忧限制下行但全球衰退恐惧抑制上行空间。"
+      },
+      "bullish": ["energy_producers"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Yes - Oil volatility transmits to inflation expectations with implications for Fed policy stance.",
+        "zh": "是 - 油价波动传导至通胀预期并对美联储政策立场产生影响。"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury Yields Stabilize as Year-End Positioning Normalizes Market Dynamics",
+        "zh": "美债收益率稳定，年末配置正常化市场动态"
+      },
+      "impact": {
+        "en": "10Y yield consolidation reflects balanced positioning between inflation concerns and dovish policy expectations. Rate-sensitive sectors find support.",
+        "zh": "10 年期收益率盘整反映通胀担忧和鸽派政策预期之间的平衡配置。利率敏感板块获得支撑。"
+      },
+      "bullish": ["utilities", "reits"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Medium - Yield direction sensitive to economic data releases and Fed commentary.",
+        "zh": "中等 - 收益率方向对经济数据发布和美联储评论敏感。"
+      }
+    },
+    {
+      "title": {
+        "en": "Dollar Index Modulates on Mixed Economic Signals from Global Partners",
+        "zh": "美元指数在对全球伙伴的混合经济信号中调整"
+      },
+      "impact": {
+        "en": "DXY consolidates as safe-haven flows balance with EM asset outflows. Multinational earnings visibility improves but currency headwinds persist.",
+        "zh": "DXY 盘整避险资金流与新兴资产流出相互制衡。跨国企业收益能见度改善但货币逆风持续。"
+      },
+      "bullish": [],
+      "bearish": ["em_equities", "multinationals"],
+      "macroRisk": {
+        "en": "Yes - DXY strength impacts growth prospects for FX-sensitive sectors.",
+        "zh": "是 - DXY 强度影响外汇敏感板块增长前景。"
+      }
+    },
+    {
+      "title": {
+        "en": "Gold Maintains Support Levels Amid Uncertain Macro Environment",
+        "zh": "黄金在不确定宏观环境下维持支撑位"
+      },
+      "impact": {
+        "en": "Precious metals hold technical levels despite dollar strength. Central bank purchases and geopolitical uncertainty provide demand floor.",
+        "zh": "贵金属尽管美元强劲维持技术水平。央行购买和地缘政治不确定性提供需求底部。"
+      },
+      "bullish": ["gold", "silver"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Yes - Gold-pricing mechanism links dollar strength inversely to precious metal prices.",
+        "zh": "是 - 黄金定价机制将美元强度与贵金属价格反向关联。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Leadership remains robust with hyperscaler AI infrastructure investments supporting demand pipeline. Cloud providers' data center build-out reinforces semiconductor exposure chain.",
+      "zh": "领导地位保持强劲，超大规模数据中心 AI 基础设施投资支持需求管道。云提供商的数据中心建设加强半导体敞口链。"
+    },
+    "semiconductor": {
+      "en": "Advanced node leaders outperform on chip demand fundamentals. Legacy node exposure faces inventory headwinds but normalization progressing at moderate pace.",
+      "zh": "先进节点领导者在芯片需求基本面方面表现优异。传统节点敞口面临库存逆风但正常化以中等节奏推进。"
+    },
+    "bigTech": {
+      "en": "Resilient earnings profiles supported by AI monetization progress and cloud margin expansion. Consumer spending concerns offset but quality factor premium intact.",
+      "zh": "AI 变现进展和云计算利润率扩张支持强劲收益表现。消费者支出担忧抵消但质量因子溢价保持完整。"
+    },
+    "energy": {
+      "en": "Trading higher on geopolitical risk premium with OPEC+ production discipline providing floor. Supply constraint concerns balanced against recession risks limit upside.",
+      "zh": "地缘政治风险溢价推动上涨，OPEC+ 生产纪律提供底部。供应约束担忧与衰退风险平衡限制上行空间。"
+    },
+    "ev": {
+      "en": "Valuation pressure persists as consumer preference shifts toward traditional ICE vehicles. China production challenges impact global EV supply chain outlook negatively.",
+      "zh": "估值压力持续，消费者偏好转向传统内燃机车辆。中国生产挑战对全球 EV 供应链前景产生负面影响。"
+    },
+    "market": {
+      "en": "Broad market cautious ahead of earnings season close. Year-end positioning drives sector rotation while AI leaders provide growth anchor amid macro uncertainty.",
+      "zh": "大盘谨慎等待财报季结束。年末配置推动板块轮动而 AI 领导者在不确定的宏观环境中提供增长锚点。"
+    },
+    "preciousMetals": {
+      "en": "Gold and silver maintain technical support levels. Safe-haven demand balances with dollar strength creating range-bound trading dynamics with upside potential if geopolitical tensions escalate.",
+      "zh": "黄金和白银维持关键技术支撑水平。避险需求与美元强度平衡创造区间交易动态，地缘政治紧张升级时具备上行潜力。"
+    },
+    "oil": {
+      "en": "WTI consolidating near recent highs with geopolitical risk premium supporting levels. Supply disruption concerns from Middle East tensions balanced against recession fears capping upside.",
+      "zh": "WTI 在最近高点附近盘整，地缘政治风险溢价支撑水平。中东紧张局势的供应中断担忧与衰退恐惧平衡限制上行空间。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P futures neutral to slightly higher, Nasdaq mixed on tech divergence, Dow under pressure from industrials. Year-end positioning drives cautious sentiment.",
+      "zh": "标普期货中性至微幅上涨，纳指因科技股分化混杂，道指受制于工业股承压。年末配置推动谨慎情绪。"
+    },
+    "treasury10Y": {
+      "en": "10Y Treasury yield stabilizing around recent levels with year-end positioning normalizing market dynamics. Expectations for Fed policy remain data-dependent.",
+      "zh": "10 年期美债收益率在最近水平附近稳定，年末配置正常化市场动态。对美联储政策的预期仍取决于数据。"
+    },
+    "dxy": {
+      "en": "Dollar Index consolidating as safe-haven flows balance with EM asset outflows. Cross-asset positioning adjusts on mixed global economic signals.",
+      "zh": "美元指数盘整避险资金流与新兴资产流出相互平衡。跨资产配置在对全球混合经济信号的调整下适应。"
+    },
+    "oil": {
+      "en": "WTI crude trading near key resistance with geopolitical risk premium supporting levels. Supply concerns from Middle East tensions limit downside potential.",
+      "zh": "WTI 原油在关键阻力附近交易，地缘政治风险溢价支撑水平。中东紧张的供应担忧限制下行潜力。"
+    },
+    "keyRisk": {
+      "en": "Economic data releases this week including earnings surprises and inflation readings could trigger volatility. Monitor Fed speakers for policy direction signals amid year-end positioning uncertainty.",
+      "zh": "本周经济数据发布包括财报意外和通胀读数可能引发波动。在年末配置不确定性中监测美联储演讲者获取政策方向信号。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Market sentiment divided with AI leaders resilient while rate-sensitive and emerging market sectors face headwinds. Geopolitical developments dominate oil and precious metals pricing. Year-end positioning adds uncertainty to breadth.",
+      "zh": "市场情绪分化，AI 领导者表现稳健而利率敏感和新兴市场板块面临逆风。地缘政治发展主导油价和贵金属定价。年末配置为广度增加不确定性。"
+    }
+  }
+}
