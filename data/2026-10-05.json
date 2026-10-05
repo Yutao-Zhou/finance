@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-05",
+  "summary": {
+    "en": "Wall Street futures slip amid stubbornly high Treasury yields, with investors weighing elevated rates against ongoing AI sector momentum. Key market data shows Dow Jones futures -0.14%, Nasdaq 100 futures -0.24% while oil prices dip to ~$90-105 on G7 reserve releases. DXY strengthens as Fed rate-cut bets unwind.",
+    "zh": "美股期货在国债收益率保持坚挺的背景下小幅走弱，投资者在高利率与持续 AI 板块动量之间权衡。关键市场数据显示道琼斯期货下跌 0.14%，纳斯达克 100 期货下跌 0.24%，油价因 G7 释放战略储备而跌至约 90-105 美元区间。美元指数在美联储降息预期退潮后走强。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Wall Street futures slip as tech stocks take a breather amid elevated Treasury yields",
+        "zh": "科技股休整期叠加高国债收益率，美股期货走低"
+      },
+      "impact": {
+        "en": "Elevated 10Y Treasury yields near historic highs pressure rate-sensitive mega-cap tech growth. The unwinding of aggressive Fed rate-cut bets has led to dollar strength (DXY up), creating headwinds for multinational earnings and EM assets.",
+        "zh": "接近历史高位的 10 年期美债收益率对利率敏感型大型科技成长股构成压力。美联储激进降息预期的消退导致美元走强（DXY 上升），给跨国企业盈利和新兴市场资产带来逆风。"
+      },
+      "bullish": ["AI infrastructure demand remains structural"],
+      "bearish": ["Mega-cap growth valuations under yield pressure", "Dollar strength hurts EM exposure"],
+      "macroRisk": {
+        "en": "Yes - high yields → duration risk for tech; DXY up → cross-holdings revaluation risk. Transmission: Treasury supply-demand disequilibrium → yields elevated → duration-sensitive sectors suffer.",
+        "zh": "是——高收益率→科技股久期风险；美元走强→交叉持仓重估风险。传导路径：国债供需失衡→收益率高位→久期敏感板块承压。"
+      }
+    },
+    {
+      "title": {
+        "en": "NVIDIA rallies to record highs on $150B buyback; AI hardware demand remains robust",
+        "zh": "英伟达因 150 亿美元回购飙升至历史高点，AI 硬件需求依然强劲"
+      },
+      "impact": {
+        "en": "NVIDIA's massive buyback program and record chip demand signal sustained AI capital expenditure cycles. However, elevated rates could compress margins on capex-heavy clients despite strong product demand.",
+        "zh": "英伟达大规模回购计划和芯片需求的记录级强度表明 AI 资本支出周期持续。然而，高利率可能压缩那些依赖资本支出的客户利润，尽管产品需求强劲。"
+      },
+      "bullish": ["NVDA", "AMD", "Intel", "Broadcom"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Moderate - strong demand offset by rate-sensitive valuation multiple compression in the broader tech sector.",
+        "zh": "中等——强劲需求被更广泛科技板块的利率敏感估值倍数压缩所抵消。"
+      }
+    },
+    {
+      "title": {
+        "en": "G7 releases 100M barrels of oil reserves; crude prices dip despite Middle East tensions",
+        "zh": "G7 释放 1 亿桶石油储备；尽管中东局势紧张，原油价格下跌"
+      },
+      "impact": {
+        "en": "Coordinated strategic reserve releases ease short-term supply fears, offsetting geopolitical premiums. This suggests a softer oil price environment near $90-105 WTI range, pressuring energy earnings but supporting growth portfolios.",
+        "zh": "协调释放战略储备缓解了短期供应担忧，抵消了地缘政治溢价。这表明原油价格环境较软（WTI 约 90-105 美元区间），压制能源收益但利好成长组合。"
+      },
+      "bullish": ["XOM", "CVX", "COP"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Yes - lower oil prices reduce inflation hedge but provide support for broader economic growth. Transmission: OPEC+ discipline + G7 releases → WTI/Brent near $90-105 → stagflation fears recede.",
+        "zh": "是——油价降低削弱通胀对冲但支持更广泛经济增长。传导：OPEC+ 纪律性配合 G7 释放→WTI/布伦特接近 90-105 美元→滞胀恐惧消退。"
+      }
+    },
+    {
+      "title": {
+        "en": "Gold prices stabilize; safe-haven demand from geopolitical tensions remains intact",
+        "zh": "金价企稳；地缘政治紧张局势下的避险需求依然完整"
+      },
+      "impact": {
+        "en": "Precious metals hold gains despite DXY strength, reflecting dual drivers: geopolitical premiums and real yield dynamics. Gold's non-utility status provides portfolio diversification as monetary regimes shift.",
+        "zh": "尽管美元指数走强，贵金属仍保持收益，反映双重驱动：地缘政治溢价和实际收益率动态。黄金的非实用性质为投资组合提供多元化配置，因为货币制度正在转变。"
+      },
+      "bullish": ["GLD", "IAU"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Moderate - gold's performance as portfolio diversifier during regime uncertainty; real yields still relevant but geopolitical premiums provide floor.",
+        "zh": "中等——黄金作为制度不确定性期间投资组合多元化配置的表现；实际收益率仍然相关但地缘政治溢价提供底部。"
+      }
+    },
+    {
+      "title": {
+        "en": "Market Player Pro neutral briefing suggests cautious optimism amid sector divergence",
+        "zh": "市场玩家 PRO 中性简报在板块分化背景下表示谨慎乐观"
+      },
+      "impact": {
+        "en": "Sector divergence between AI tech giants and broader market indicates selective positioning. Growth stocks benefit from AI capex while traditional industrials face margin pressure from persistent elevated rates.",
+        "zh": "AI 科技巨头与更广泛市场之间的板块分化表明选择性配置。成长股从 AI 资本支出中受益，而传统工业面临持续高利率对利润率的压力。"
+      },
+      "bullish": ["Big Tech selective names"],
+      "bearish": ["Traditional cyclical industrials", "Small-cap growth"],
+      "macroRisk": {
+        "en": "Moderate - sector rotation driven by capital allocation shifts rather than broad macro regime changes.",
+        "zh": "中等——行业轮动由资本配置转变驱动而非广泛的宏观制度变化。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector remains the primary growth driver. NVIDIA's record buyback and sustained demand for H100/H200 data center GPUs indicate multi-year infrastructure buildout cycles. However, elevated Treasury yields constrain valuation multiples for non-utility AI plays.",
+      "zh": "AI 板块仍是主要增长动力。英伟达创纪录的回购和持续的数据中心 GPU（H100/H200）需求表明多 year 基础设施扩建周期。然而，高美债收益率限制了非公用事业 AI 投资的估值倍数。"
+    },
+    "semiconductor": {
+      "en": "Semiconductors benefit from strong AI capex but face margin pressure from inventory normalization and rate-sensitive consumer demand. Memory chip makers (Micron, Samsung) see mixed signals as enterprise data centers upgrade while consumer electronics demand moderates.",
+      "zh": "半导体受益于强劲的 AI 资本支出，但面临库存正常化和利率敏感型消费者需求对利润率的压力。存储器芯片制造商（美光、三星）信号不一，因为企业数据中心升级而消费电子需求温和化。"
+    },
+    "bigTech": {
+      "en": "Big Tech mega-caps (MSFT, AAPL, GOOGL) trade selectively. Cloud computing and AI infrastructure investments remain structural growth drivers. However, elevated rates pressure valuation multiples relative to free cash flow generation.",
+      "zh": "大型科技巨头（微软、苹果、谷歌）选择性交易。云计算和 AI 基础设施投资仍是结构性增长动力。然而，高收益率相对于自由现金流生成压制估值倍数。"
+    },
+    "energy": {
+      "en": "Energy sector underperforming as oil prices dip near $90-105 WTI range. Strategic reserve releases ease supply concerns, but OPEC+ production discipline remains intact. Refining margins in focus with geopolitical stability reducing crude volatility premiums.",
+      "zh": "能源板块表现不佳，因为油价跌至 WTI 约 90-105 美元区间。战略储备释放缓解了供应担忧，但 OPEC+ 生产纪律保持完整。炼油利润率是关键焦点，地缘政治稳定减少了原油波动溢价。"
+    },
+    "ev": {
+      "en": "EV sector reflects broader auto/manufacturing macro regime rather than pure technology dynamics. Higher interest rates increase cost of capital for new model launches and infrastructure buildout. Traditional OEMs face margin pressure while Chinese EV exporters seek US market access.",
+      "zh": "电动车板块反映更广泛的汽车/制造业宏观制度而非纯技术动态。较高的利率增加了新车型推出和基础设施建设资本成本。传统原始设备制造商面临利润率压力，而中国电动车出口商寻求美国市场准入。"
+    },
+    "market": {
+      "en": "Broader market in neutral-to-mixedsentiment. Sector divergence indicates selective positioning with AI leaders outperforming while traditional industrials lag. Futures indicate slight weakness as Treasury yields remain near elevated levels.",
+      "zh": "更广泛的市场处于中性到混合情绪。板块分化表明选择性配置，AI 领导者表现优于传统工业。期货显示轻微走弱，因为国债收益率保持在较高水平附近。"
+    },
+    "preciousMetals": {
+      "en": "Precious metals hold gains despite DXY strength, reflecting dual drivers: geopolitical premiums and real yield dynamics. Gold's non-utility status provides portfolio diversification as monetary regimes shift toward digital currencies.",
+      "zh": "尽管美元指数走强，贵金属仍保持收益，反映双重驱动：地缘政治溢价和实际收益率动态。黄金的非实用性质为投资组合提供多元化配置，因为货币制度向数字货币转变。"
+    },
+    "oil": {
+      "en": "WTI crude near $90-105; Brent around $101.64. G7 reserve releases ease short-term supply fears, offsetting Middle East geopolitical premiums. OPEC+ production discipline remains intact despite softer oil environment.",
+      "zh": "WTI 原油接近 90-105 美元；布伦特约 101.64 美元。G7 储备释放缓解了短期供应担忧，抵消了中东地缘政治溢价。尽管油价环境较软，但 OPEC+ 生产纪律保持完整。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "DOW JONES Futures -73.00 (-0.14%), NASDAQ 100 Futures -75.75 (-0.24%), S&P 500 futures neutral. Japan/Korea/Australia markets show mixed performance ahead of US open.",
+      "zh": "道琼斯期货 -73.00（-0.14%），纳斯达克 100 期货 -75.75（-0.24%），标普 500 期货中性。美盘前日本/韩国/澳大利亚市场表现不一。"
+    },
+    "treasury10Y": {
+      "en": "10Y Treasury yields elevated near historic highs; FOMC minutes suggest investors unwinding aggressive rate-cut bets. Yield curve dynamics remain complex with duration risk for fixed income portfolios.",
+      "zh": "10 年期美债收益率接近历史高位；FOMC 会议纪要表明投资者正在平仓激进的降息赌注。收益率曲线动态仍然复杂，固定收益组合面临久期风险。"
+    },
+    "dxy": {
+      "en": "US Dollar (DXY) strengthens as Fed pricing stays firm; European fiscal risks and French sovereign debt concerns provide support. ING analysts note dollar remains supported by unwinding of rate-cut expectations.",
+      "zh": "美国美元（DXY）走强，因为美联储定价保持坚定；欧洲财政风险和法国主权债务担忧提供支持。ING 分析师指出，美元在降息预期平仓中仍然受到支持。"
+    },
+    "oil": {
+      "en": "WTI crude prices dip to ~$90-105; Brent around $101.64. G7 releases 100M barrels ease supply fears, while Middle East exports offset geopolitical risk premiums in oil markets.",
+      "zh": "WTI 原油价格跌至约 90-105 美元；布伦特约 101.64 美元。G7 释放 1 亿桶缓解供应担忧，同时中东出口抵消石油市场的地缘政治风险溢价。"
+    },
+    "keyRisk": {
+      "en": "Stubbornly high Treasury yields creating duration risk for growth stocks; unwinding Fed rate-cut bets fuel dollar strength pressuring EM assets and multinational earnings. AI sector remains resilient despite macro headwinds.",
+      "zh": "坚挺的高美债收益率为成长股创造久期风险；平仓美联储降息赌注推动美元走强，压制新兴市场资产和跨国企业盈利。AI 板块尽管面临宏观逆风仍保持弹性。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Mixed sentiment driven by sector divergence: AI mega-caps rally on buyback news while broader market underperforms amid elevated Treasury yields. Geopolitical tensions provide safe-haven flows to gold but G7 oil releases ease energy concerns.",
+      "zh": "混合情绪由板块分化驱动：AI 巨头因回购消息而上涨，而更广泛市场在较高国债收益率下表现不佳。地缘政治紧张局势为黄金提供避险资金流，但 G7 石油释放缓解了能源担忧。"
+    }
+  }
+}
