@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-06",
+  "summary": {
+    "en": "US stock futures edge higher premarket as oil prices dip below $100 and Treasury yields ease, with tech-driven gains leading the way. Markets await key earnings announcements while geopolitical developments continue to influence cross-asset flows.",
+    "zh": "美股期指盘前小幅走强，油价跌破 100 美元、美债收益率回落支撑市场情绪。科技股领涨大盘，投资者正密切关注即将公布的财报以及地缘政治对跨资产流动的影响。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Oil Falls Below $100, Boosting Stock Futures",
+        "zh": "油价跌破 100 美元，提振股市期指"
+      },
+      "impact": {
+        "en": "Declining WTI oil prices ease inflation concerns and benefit energy-intensive sectors while pressuring airlines and transportation stocks.",
+        "zh": "WTI 油价下跌缓解通胀担忧，利好能源密集型板块，但对航空和交通股构成压力。"
+      },
+      "bullish": ["XLE", "OXY"],
+      "bearish": ["UAL", "DAL"],
+      "macroRisk": {
+        "en": "No - falling oil supports growth narrative and dovish inflation expectations",
+        "zh": "否 - 油价下跌支持增长叙事和鸽派通胀预期"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury Yields Dip as Rate Cut Expectations Remain Intact",
+        "zh": "美债收益率回落，降息预期依然完整"
+      },
+      "impact": {
+        "en": "10Y Treasury yield weakness supports growth stocks and reduces duration risk in portfolios.",
+        "zh": "10 年期美债收益率走弱利好成长股，降低组合中的久期风险。"
+      },
+      "bullish": ["QQQ", "XLK"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - yield decline supports equity valuations without triggering flight-to-safety",
+        "zh": "否 - 收益率下降支持股票估值，未引发避险"
+      }
+    },
+    {
+      "title": {
+        "en": "Tech Rally Continues as AI Momentum Persists",
+        "zh": "科技股涨势持续，AI 势头不减"
+      },
+      "impact": {
+        "en": "Strong earnings season combined with persistent AI capex spending drives semiconductor and cloud infrastructure growth.",
+        "zh": "强劲的财报季结合持续的 AI 资本支出推动半导体和云计算基础设施增长。"
+      },
+      "bullish": ["NVDA", "AMD", "AVGO"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - positive earnings momentum outweighs macro concerns",
+        "zh": "否 - 积极的盈利势头超越宏观担忧"
+      }
+    },
+    {
+      "title": {
+        "en": "DXY Dollar Index Holds Near Support Levels",
+        "zh": "美元指数维持支持位附近"
+      },
+      "impact": {
+        "en": "Moderate dollar strength provides balance for multinational earnings while not stressing EM assets significantly.",
+        "zh": "适度的美元强势平衡了跨国企业业绩，未显著压力新兴市场资产。"
+      },
+      "bullish": ["FXI"],
+      "bearish": ["EEM", "VWO"],
+      "macroRisk": {
+        "en": "Low - dollar remains in equilibrium without extreme moves",
+        "zh": "低 - 美元处于平衡状态，无极端波动"
+      }
+    },
+    {
+      "title": {
+        "en": "Precious Metals Gain on Safe-Haven Flows",
+        "zh": "贵金属获避险资金青睐上涨"
+      },
+      "impact": {
+        "en": "Gold and silver rise amid geopolitical uncertainty, supporting precious metals miners but offering mixed signals for industrials.",
+        "zh": "黄金白银在地缘政治不确定性中上涨，利好贵金属矿商，但对工业股发出混合信号。"
+      },
+      "bullish": ["GOLD", "NEM"],
+      "bearish": ["COP", "FCX"],
+      "macroRisk": {
+        "en": "Medium - safe haven demand limits upside given rate cut narrative",
+        "zh": "中等 - 避险需求限制上涨空间，因降息叙事存在"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector remains the primary growth engine with sustained capital expenditure and strong earnings visibility through Q4. Semiconductor equipment providers see increased order books.",
+      "zh": "AI 板块仍是主要增长引擎，资本支出持续且第四季度盈利可见性强。半导体设备供应商订单量增加。"
+    },
+    "semiconductor": {
+      "en": "Chip designers benefit from AI demand while foundry capacity constraints ease. Memory and storage subsectors show recovery signs with cyclical inventory normalization.",
+      "zh": "芯片设计公司受益于 AI 需求，晶圆厂产能约束缓解。存储子板块显示复苏迹象，周期性库存正常化。"
+    },
+    "bigTech": {
+      "en": "Big tech continues rally on AI product launches and cloud growth. Cloud margins expanding as enterprise adoption accelerates, providing solid earnings support.",
+      "zh": "大型科技股因 AI 产品发布和云业务增长持续上涨。企业采用加速推动云利润率扩张，提供坚实的盈利支撑。"
+    },
+    "energy": {
+      "en": "Oil prices below $100 support energy majors and production-focused names. Renewable transition investments receive modest capital while traditional upstream operations remain profitable.",
+      "zh": "油价低于 100 美元支持能源巨头和生产型股票。可再生能源转型投资获得适度资本，传统上游运营保持盈利。"
+    },
+    "ev": {
+      "en": "EV sector faces margin compression from pricing pressure and supply chain costs. Consumer preference for traditional ICE vehicles tempers near-term demand growth expectations.",
+      "zh": "电动车板块面临定价压力和供应链成本导致的利润率压缩。消费者对传统内燃机汽车的偏好抑制了近期的需求增长预期。"
+    },
+    "market": {
+      "en": "Broad market advances with tech leading. Volume remains elevated on earnings season. Breadth improves as smaller caps participate in AI-driven rotation.",
+      "zh": "大盘上涨，科技股领涨。财报季成交量保持高位。随着小盘股参与 AI 驱动的轮动，广度改善。"
+    },
+    "preciousMetals": {
+      "en": "Gold and silver advance on safe-haven demand from geopolitical tensions. Central bank buying provides structural support despite rate cut expectations.",
+      "zh": "黄金白银因地缘政治紧张局势的避险需求上涨。尽管有降息预期，央行购金提供结构性支撑。"
+    },
+    "oil": {
+      "en": "WTI oil trading below $100/barrel as geopolitical premium fades. OPEC+ production discipline provides floor while US shale supply responds to price signals.",
+      "zh": "WTI 油价低于 100 美元/桶，地缘政治溢价消退。OPEC+ 生产纪律提供支撑，美国页岩油供应对价格信号做出反应。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 futures up +0.1%, Nasdaq +0.3%, Dow +0.2% as premarket trading opens. Tech strength drives index divergence.",
+      "zh": "标普 500 期货上涨 0.1%，纳斯达克涨 0.3%，道指涨 0.2%，盘前交易开启。科技股强势推动指数分化。"
+    },
+    "treasury10Y": {
+      "en": "10Y Treasury yield near 4.25%, down from Friday's close. Rate-sensitive sectors benefit from yield decline.",
+      "zh": "10 年期美债收益率接近 4.25%，低于周五收盘价。利率敏感型板块受益于收益率下降。"
+    },
+    "dxy": {
+      "en": "Dollar index holding at 98.5-99.0 range, showing moderate strength without threatening EM assets or multinationals significantly.",
+      "zh": "美元指数维持在 98.5-99.0 区间，显示适度强势，未对新兴市场资产或跨国企业构成显著威胁。"
+    },
+    "oil": {
+      "en": "WTI oil at $97-98/barrel, Brent $102-103. Fall below psychological levels supports risk appetite.",
+      "zh": "WTI 油价在 97-98 美元/桶，布伦特 102-103 美元。跌破心理价位支持风险偏好。"
+    },
+    "keyRisk": {
+      "en": "Geopolitical developments in Middle East could quickly reverse sentiment. Fed speakers today may influence rate path expectations.",
+      "zh": "中东地缘政治发展可能迅速扭转市场情绪。今日美联储官员讲话可能影响利率路径预期。"
+    }
+  },
+  "judgment": {
+    "type": "risk-on",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Positive fundamentals (falling oil, stable yields) support broad market gains, though geopolitical overhang keeps risk premium elevated. Tech rally provides breadth without excessive valuation concerns.",
+      "zh": "基本面利好（油价回落、收益率稳定）支撑大盘上涨，尽管地缘政治悬案维持风险溢价偏高。科技股涨势提供广度，估值担忧不过分。"
+    }
+  }
+}
