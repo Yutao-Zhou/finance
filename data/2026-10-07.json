@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-07",
+  "summary": {
+    "en": "Pre-market focus remains on Fed speaker Warsh's upcoming comments, oil prices hovering near geopolitical tightropes, and big tech earnings season expectations. Growth stocks show cautious optimism as investors weigh rate cut timing against inflation stickiness.",
+    "zh": "盘前焦点集中在美联储官员 Warsh 的即将发表言论、油价在地缘政治边缘徘徊，以及大科技股盈利预期。成长股表现谨慎乐观，投资者在降息时点与通胀粘性之间权衡。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Fed Governor Warsh Signals Potential Rate Cut Discussions at Next FOMC Meeting",
+        "zh": "美联储理事 Warsh 暗示将在下次 FOMC 会议上讨论可能的利率降息"
+      },
+      "impact": {
+        "en": "Lower-for-longer narrative weakens, boosting growth stocks but pressuring duration-sensitive sectors. Bond yields may find relief as easing expectations rise.",
+        "zh": "低利率叙事减弱，提振成长股但打压期限敏感板块。随着降息预期升温，债券收益率可能获得缓解。"
+       },
+      "bullish": ["XLK", "QQQ", "NVDA"],
+      "bearish": ["JNK", "SHY"],
+      "macroRisk": {
+        "en": "No - Fed easing path clarity reduces policy uncertainty.",
+        "zh": "无 - 美联储宽松路径的清晰化减少政策不确定性。"
+      }
+    },
+    {
+      "title": {
+        "en": "Crude Oil Holds Steady Above $82 as Middle East Tensions Persist",
+        "zh": "原油在中东紧张局势持续的情况下维持在$82上方"
+       },
+      "impact": {
+        "en": "WTI crude near inflation threshold ($90) with geopolitical premium. Energy sector faces valuation pressure while refining margins remain robust.",
+        "zh": "WTI 原油在通胀阈值（$90）附近，带有地缘政治溢价。能源板块面临估值压力，但炼油利润率保持强劲。"
+      },
+      "bullish": ["XLE", "OXY"],
+      "bearish": ["XOM"],
+      "macroRisk": {
+        "en": "Yes - Inflation expectations could anchor higher, complicating Fed rate path.",
+        "zh": "是 - 通胀预期可能持续高位，使美联储利率路径复杂化。"
+      }
+    },
+    {
+      "title": {
+        "en": "Big Tech Earnings Preview: NVDA and Microsoft Face Wall Street Expectations",
+        "zh": "大科技股盈利预览：NVDA 和微软面临华尔街预期"
+      },
+      "impact": {
+        "en": "Market pricing in strong cloud/AI growth but wary of broader slowdown. Any miss on revenue or guidance could trigger sector rotation.",
+        "zh": "市场对强劲的云/AI 增长定价，但对整体放缓保持警惕。任何收入或指引的不及预期都可能引发板块轮动。"
+      },
+      "bullish": ["MSFT", "ORCL"],
+      "bearish": ["INTC", "AMD"],
+      "macroRisk": {
+        "en": "No - Company-specific catalyst, not macro-driven.",
+        "zh": "无 - 公司级催化剂，非宏观驱动。"
+      }
+    },
+    {
+      "title": {
+        "en": "US 10Y Treasury Yield Fluctuates Near 4.35% as Inflation Data Lingers",
+        "zh": "美国 10 年期国债收益率在通胀数据持续的情况下于 4.35% 附近波动"
+      },
+      "impact": {
+        "en": "Yield stability supports rate-sensitive sectors but volatility could spillover to equities. Investors await CPI print for clearer policy signals.",
+        "zh": "收益率稳定性支持利率敏感板块，但波动性可能溢出至股票。投资者等待 CPI 公布以获得更清晰的政策信号。"
+      },
+      "bullish": ["TLT"],
+      "bearish": ["GLD", "BND"],
+      "macroRisk": {
+        "en": "Yes - Treasury yield volatility could impact tech valuations and borrowing costs.",
+        "zh": "是 - 国债收益率波动可能影响科技估值和借贷成本。"
+      }
+    },
+    {
+      "title": {
+        "en": "Dollar Index (DXY) Stabilizes After Recent Weakness",
+        "zh": "美元指数在近期走弱后企稳"
+       },
+      "impact": {
+        "en": "Moderate DXY helps multinationals but weakens EM assets. Commodities denominated in USD could see renewed appreciation.",
+        "zh": "适度的 DXY 帮助跨国公司但弱化新兴市场资产。以美元计价的 commodities 可能重获升值。"
+      },
+      "bullish": ["COPX"],
+      "bearish": ["FXI"],
+      "macroRisk": {
+        "en": "No - Dollar stabilization provides clarity for global asset pricing.",
+        "zh": "无 - 美元企稳为全球资产定价提供清晰度。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector maintains momentum with cloud computing investments. NVIDIA and AMD face high expectations; any earnings miss could trigger rotation.",
+      "zh": "AI 板块保持动量，云计算投资持续推进。NVIDIA 和 AMD 面临高预期；任何盈利不及预期可能引发轮动。"
+    },
+    "semiconductor": {
+      "en": "Semiconductors mixed as AI demand offsets consumer weakness. Memory and logic chips benefit from datacenter buildout.",
+      "zh": "半导体板块分化，AI 需求抵消消费疲软。内存和逻辑芯片受益于数据中心建设。"
+    },
+    "bigTech": {
+      "en": "FAANG shows selective strength with cloud/AI leaders outpacing legacy internet. Market awaits NVDA earnings closely.",
+      "zh": "FAANG 板块选择性走强，云计算/AI 领导者跑赢传统互联网市场。市场密切等待 NVDA 盈利。"
+    },
+    "energy": {
+      "en": "Energy sector pressured by high oil prices but strong cash flows. Refining margins provide support despite valuation compression.",
+      "zh": "能源板块受高油价压力但现金流强劲。尽管估值压缩，炼油利润率提供支持。"
+    },
+    "ev": {
+      "en": "EV sector faces headwinds from higher rates and consumer price sensitivity. Traditional OEMs maintain market share advantages.",
+      "zh": "电动车板块面临利率上升和消费者价格敏感性的逆风。传统制造商保持市场份额优势。"
+    },
+    "market": {
+      "en": "Broad market shows cautious optimism as investors balance growth prospects with macro uncertainty. Nasdaq leads index performance.",
+      "zh": "大盘显示谨慎乐观，投资者平衡增长前景与宏观不确定性。纳斯达克领先指数表现。"
+    },
+    "preciousMetals": {
+      "en": "Gold holds near historic highs with central bank demand and safe-haven flows. Silver tracks industrial demand alongside monetary thesis.",
+      "zh": "黄金在央行需求和避险资金支持下维持历史高位附近。白银跟随工业需求与货币理论。"
+    },
+    "oil": {
+      "en": "WTI crude stabilizes above $80 with geopolitical premium. OPEC+ supply discipline limits downside despite recession fears.",
+      "zh": "WTI 原油在地缘政治溢价支持下稳定在$80上方。OPEC+ 供应纪律限制下行空间，尽管衰退担忧。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 futures slightly up, Nasdaq futures positive ahead of earnings season. Dow faces mixed direction as financials vs tech diverge.",
+      "zh": "标普 500 期货微升，纳斯达克期货在盈利季前转正。道指分化，金融与科技板块表现背离。"
+    },
+    "treasury10Y": {
+      "en": "10Y yield hovering near 4.35%, sensitive to inflation prints and Fed speaker commentary. Bond market positioning for potential easing pivot.",
+      "zh": "10 年期收益率在 4.35% 附近徘徊，对通胀数据和美联储官员言论敏感。债券市场配置潜在的宽松转折点。"
+    },
+    "dxy": {
+      "en": "Dollar index stabilizing after recent weakness, watching for EUR/USD and USD/JPY cross-currents.",
+      "zh": "美元指数在近期走弱后企稳，关注 EUR/USD 和 USD/JPY 交叉走势。"
+    },
+    "oil": {
+      "en": "Crude oil trading above $82, monitoring Middle East developments and OPEC+ supply decisions.",
+      "zh": "原油交易在$82上方，监控中东局势和 OPEC+ 供应决定。"
+    },
+    "keyRisk": {
+      "en": "Geopolitical escalation in Middle East could spike oil prices above $90, reigniting inflation concerns. Fed speaker Warsh comments on rate path tomorrow.",
+      "zh": "中东地缘政治升级可能推高油价至$90 上方，重燃通胀担忧。美联储官员 Warsh 明日对利率路径的言论构成关键风险。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Market sentiment reflects sector divergence: AI/semiconductors outperform while growth stocks face valuation scrutiny. Oil volatility creates inflation uncertainty. Key catalyst tomorrow is Fed Warsh speaker and NVDA earnings.",
+      "zh": "市场情绪反映板块分化：AI/半导体优于大盘而成长股面临估值审查。油价波动制造通胀不确定性。明日关键催化剂是美联储官员 Warsh 言论和 NVDA 盈利。"
+    }
+  }
+}
