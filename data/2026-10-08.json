@@ -1,0 +1,124 @@
+{
+  "date": "2026-10-08",
+  "summary": {
+    "en": "US markets remain neutral amid mixed earnings signals ahead of key FOMC meeting later this month. Investors wait for Q3 guidance from mega-cap tech names while monitoring inflation data releases that could shift Fed expectations.",
+    "zh": "美国股市在重要 FOMC 会议本月稍后举行之际保持中立态度。投资者等待大型科技公司的第三季度指引，同时监测可能改变美联储预期的通胀数据发布。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Mixed Q3 earnings guidance from mega-cap tech firms weighing on Nasdaq sentiment",
+        "zh": "大型科技公司的混合第三季度指引抑制了纳斯达克情绪"
+      },
+      "impact": {
+        "en": "Selective profit-taking in AI-exposed names despite strong cloud growth reports, with some citing macro headwinds as primary concern.",
+        "zh": "尽管云计算增长强劲，但人工智能概念股出现选择性获利了结，部分公司将以宏观逆风为主要关注点。"
+      },
+      "bullish": ["MSFT", "ORCL", "CSCO"],
+      "bearish": ["NVDA", "AMD", "AVGO", "INTC"],
+      "macroRisk": {
+        "en": "Yes - Macroeconomic uncertainty regarding Fed policy pivot timing creates selective rotation between growth/tech sectors.",
+        "zh": "是 - 美联储政策转向时间的宏观经济不确定性造成了成长股/科技股之间的选择性轮动。"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil prices stabilize near $73 as Middle East tensions ease slightly",
+        "zh": "油价在中东紧张局势稍有缓解后稳定在 73 美元附近"
+      },
+      "impact": {
+        "en": "WTI crude settles within range that limits energy sector volatility while maintaining OPEC+ production discipline credibility.",
+        "zh": "WTI 原油在限制能源板块波动的范围内结算，同时维持了欧佩克+生产纪律的可信度。"
+      },
+      "bullish": ["XOM", "CVX", "COP"],
+      "bearish": ["OXY", "HAL"],
+      "macroRisk": {
+        "en": "No - Oil market fundamentals remain stable with supply-demand balance supporting current pricing framework.",
+        "zh": "否 - 原油市场基本面保持稳定，供需平衡支持当前的定价框架。"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury yields hover near 4.1% as inflation data shows persistent services-sector pressures",
+        "zh": "美债收益率在通胀数据显示服务业压力持续时徘徊在 4.1% 附近"
+      },
+      "impact": {
+        "en": "Yield stability above 4% limits rate-sensitive positioning while providing floor for growth stock valuations.",
+        "zh": "收益率稳定在 4% 以上限制了利率敏感型配置，同时为成长股估值提供了支撑。"
+      },
+      "bullish": ["BAC", "WFC"],
+      "bearish": ["PYPL", "SQ"],
+      "macroRisk": {
+        "en": "Yes - Sticky services inflation keeps Fed pivot timeline uncertain, affecting duration-heavy portfolios.",
+        "zh": "是 - 持续的服务通胀使美联储转向时间表不确定，影响长期投资组合。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Mixed sentiment across AI chip leaders as some cite supply constraints while others report inventory build completion. Expect selective strength in software platform names with diversified revenue streams.",
+      "zh": "AI 芯片领导企业情绪分化，部分公司引用供应限制，而其他公司报告库存补充完成。预期拥有多元化收入流的软件平台名称将选择性走强。"
+    },
+    "semiconductor": {
+      "en": "Semiconductors show sectoral divergence with automotive names outperforming consumer electronics. Memory chip makers face mixed demand signals from China amid geopolitical tensions.",
+      "zh": "半导体板块分化，汽车股表现优于消费电子。内存芯片制造商面临来自中国的混合需求信号，地缘政治紧张局势加剧。"
+    },
+    "bigTech": {
+      "en": "Big Tech remains resilient on cloud fundamentals, though cloud growth deceleration is priced in. AI investment continues to drive capex plans despite yield volatility.",
+      "zh": "大型科技股在云计算基本面方面保持韧性，尽管云增长减速已计入其中。人工智能投资继续推动资本支出计划，尽管收益率波动。"
+    },
+    "energy": {
+      "en": "Oil majors benefit from stabilizing prices, with discipline from OPEC+ limiting downside while production expansion continues. Renewable energy names underperform amid oil price stability.",
+      "zh": "石油巨头从稳定油价中受益，欧佩克 + 的纪律限制了下行风险，同时生产扩张继续。可再生能源股票在油价稳定期间表现疲软。"
+    },
+    "ev": {
+      "en": "EV sector faces macro headwinds from higher interest rates and charging infrastructure concerns. Tesla and competitors navigate price competition while establishing profitability pathways.",
+      "zh": "电动车板块面临高利率和充电基础设施问题的宏观逆风。特斯拉和竞争对手在价格竞争中导航，同时建立盈利路径。"
+    },
+    "market": {
+      "en": "Broad market shows neutral breadth with S&P 500 tracking near 5,500 and Nasdaq recovering from tech profit-taking. Volume suggests institutional consolidation ahead of FOMC.",
+      "zh": "大盘显示中性广度，标普 500 在 5,500 点附近跟踪，纳斯达克从科技股获利了结中恢复。成交量表明机构在 FOMC 之前进行整合。"
+    },
+    "preciousMetals": {
+      "en": "Gold and silver trade in consolidation ranges as yield stability provides competing signals with dollar. Physical demand remains elevated but spot prices lack directional catalyst.",
+      "zh": "黄金和白银在收益稳定期与美元产生竞争信号时盘整。实物需求保持强劲，但现货价格缺乏方向性催化剂。"
+    },
+    "oil": {
+      "en": "WTI crude stabilizes near $73 with Brent tracking higher on European supply constraints. Geopolitical risk premium remains muted while OPEC+ production discipline provides price floor.",
+      "zh": "WTI 原油在布伦特跟踪欧洲供应限制的更高水平时稳定在 73 美元附近。地缘政治风险溢价保持低调，欧佩克 + 生产纪律提供价格底线。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 futures up slightly, Nasdaq futures neutral with mixed tech guidance, Dow futures flat. Asian markets show limited gains on earnings caution.",
+      "zh": "标普 500 期货小幅上涨，纳斯达克期货因混合科技指引呈中性，道琼斯期货持平。亚洲市场在盈利谨慎方面显示出有限收益。"
+    },
+    "treasury10Y": {
+      "en": "10Y Treasury yield holds near 4.10-4.15% amid persistent services inflation data, limiting rate-sensitive positioning opportunities.",
+      "zh": "10 年期美债收益率在持续的服务通胀数据中保持在 4.10%-4.15%，限制了利率敏感型投资机会。"
+    },
+    "dxy": {
+      "en": "DXY remains stable near 98-99 range as yield differential with European bonds supports USD without aggressive repricing.",
+      "zh": "美元指数在收益率与欧洲债券的差异支持美元时保持稳定在 98-99 范围内，无需激进重新定价。"
+    },
+    "oil": {
+      "en": "WTI settles around $73, Brent near $76 with supply-demand balance supporting current levels. Middle East developments provide limited additional volatility.",
+      "zh": "WTI 稳定在 73 美元，布伦特在 76 美元附近，供需平衡支持当前水平。中东事态发展提供了有限的额外波动性。"
+    },
+    "keyRisk": {
+      "en": "FOMC meeting this week and inflation data releases creating uncertainty about Fed pivot timeline. Geopolitical developments in Middle East could impact oil prices and risk sentiment.",
+      "zh": "本周 FOMC 会议和通胀数据发布造成对美联储转向时间表的不确定性。中东的地缘政治发展可能影响油价和风险情绪。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Market shows sector divergence with tech selective strength offset by macro uncertainty. Oil stabilizing provides support while yield stability limits aggressive positioning.",
+      "zh": "市场显示板块分化，科技选择性走强被宏观不确定性所抵消。油价稳定提供支持，而收益率稳定性限制了激进取向配置。"
+    }
+  }
+}
