@@ -1,0 +1,167 @@
+{
+  "date": "2026-10-09",
+  "summary": {
+    "en": "US stock futures rose pre-market as AI-related stocks recovered despite semiconductor concerns, while oil prices slipped from recent geopolitical-driven highs. The dollar showed mixed strength and Treasury yields declined amid Middle East tensions affecting energy markets.",
+    "zh": "美股期货盘前上涨，AI 相关股票在半导体担忧中企稳，油价从地缘政治推高的水平回落。美元走势分化，美债收益率因中东局势影响能源市场而下降。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Semiconductor stocks pressured on AI revenue concerns despite broader market rally",
+        "zh": "半导体股票受 AI 营收担忧压制，尽管大盘整体反弹"
+      },
+      "impact": "AI sector profitability questions creating headwinds for chip designers while hardware beneficiaries (NVIDIA) may outperform.",
+      "bullish": ["NVIDIA", "AMD"],
+      "bearish": ["Intel", "TSM"],
+      "macroRisk": {
+        "en": "Geopolitical AI supply chain constraints could limit growth potential if China restrictions tighten further",
+        "zh": "地缘政治 AI 供应链约束可能限制增长潜力，若中国限制进一步收紧"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil prices retreat from $104 as Hormuz tensions ease slightly but remain elevated",
+        "zh": "油价从 104 美元水平回落，尽管霍尔木兹局势略有缓解但仍维持高位"
+      },
+      "impact": "WTI/Brent volatility creating opportunity for energy sector defensive positioning; geopolitical premium persisting above OPEC+ supply cuts.",
+      "bullish": ["XOM", "CVX"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Oil price weakness could compress energy margins but provides relief to transportation-cost sensitive sectors",
+        "zh": "油价疲软可能压缩能源利润率，但为运输成本敏感型板块提供缓解"
+      }
+    },
+    {
+      "title": {
+        "en": "10Y Treasury yields decline amid Middle East oil supply concerns, dollar mixed on risk sentiment",
+        "zh": "10 年期美债收益率在中东石油供应担忧中下降，美元因风险情绪走势分化"
+      },
+      "impact": "Flight-to-quality flows into bonds while equity markets maintain rally; DXY stability supports multinationals.",
+      "bullish": ["GLD", "SLV"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Yield decline reduces borrowing costs but signals Fed pause in hiking cycle, limiting duration extension trade",
+        "zh": "收益率下降降低借贷成本，但表明美联储加息周期暂停，限制久期延伸交易"
+      }
+    },
+    {
+      "title": {
+        "en": "Telecom stocks pressured by SpaceX spectrum deal; wireless infrastructure competition intensifies",
+        "zh": "电信股受 SpaceX 频谱协议压制，无线基础设施竞争加剧"
+      },
+      "impact": "Spectrum reallocation creates uncertainty for traditional carriers while benefiting satellite/5G leaders.",
+      "bullish": ["VZ", "T"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Regulatory spectrum decisions could reshape wireless competitive landscape over 6-12 months",
+        "zh": "监管频谱决策可能在未来 6-12 个月内重塑无线竞争格局"
+      }
+    },
+    {
+      "title": {
+        "en": "OpenAI revenue expectations support AI chip demand despite profitability questions in broader semiconductor sector",
+        "zh": "OpenAI 营收预期支持 AI 芯片需求，尽管半导体板块更广泛的盈利问题"
+      },
+      "impact": "AI infrastructure spending accelerating while margins remain under pressure; hardware vendors benefit more than pure-play software.",
+      "bullish": ["AVGO"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Cyclical AI capex cycles could rotate to efficiency-focused solutions as marginal returns diminish",
+        "zh": "周期性 AI 资本支出周期可能转向效率导向型解决方案，当边际收益减弱时"
+      }
+    },
+    {
+      "title": {
+        "en": "Asian markets climb ahead of US open, reflecting global risk-on sentiment amid declining yield curve",
+        "zh": "亚洲市场在美股开盘前上涨，反映收益率曲线下降背景下的全球风险偏好情绪"
+      },
+      "impact": "Futures positioning suggests positive US open; international earnings season providing additional catalysts.",
+      "bullish": ["AAPL", "MSFT"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Dollar stability reduces pressure on emerging market exports while facilitating cross-border M&A activity",
+        "zh": "美元稳定性减轻对新兴市场出口的压力，同时促进跨境并购活动"
+      }
+    },
+    {
+      "title": {
+        "en": "EV sector underperforming broadly as traditional auto manufacturers report margin compression from higher energy costs",
+        "zh": "电动车板块普遍跑输，传统汽车制造商报告能源成本上升导致利润率压缩"
+      },
+      "impact": "Transition to electrification facing headwinds while EV-specific companies with differentiated technology remain resilient.",
+      "bullish": ["RIVN"],
+      "bearish": ["TSLA", "F"],
+      "macroRisk": {
+        "en": "EV demand elasticity sensitive to energy price volatility and charging infrastructure deployment pace",
+        "zh": "电动车需求弹性对能源价格波动和充电基础设施部署速度敏感"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Mixed: AI chip demand remains strong driven by hyperscalers, but semiconductor profitability concerns create rotation opportunities. NVIDIA and AMD positioned to benefit from continued infrastructure spending despite broader sector headwinds.",
+      "zh": "分化：超大规模云厂商驱动 AI 芯片需求保持强劲，但半导体盈利担忧创造轮动机会。NVIDIA 和 AMD 在更广泛的行业逆风下有望受益于持续的基础设施支出。"
+    },
+    "semiconductor": {
+      "en": "Under pressure: Hardware-focused chipmakers outperforming on AI revenue while pure-play designers face margin compression concerns. Taiwan Semiconductor and Intel facing geopolitical supply chain constraints.",
+      "zh": "承受压力：硬件导向的芯片商在 AI 营收方面表现优于纯软件设计商面临利润率压缩担忧。台积电和中联科面临地缘政治供应链约束。"
+    },
+    "bigTech": {
+      "en": "Resilient: Major technology companies maintaining strong cash flows and AI investment programs. Cloud infrastructure spending providing steady revenue while search advertising remains cyclical.",
+      "zh": "稳健：主要科技公司保持强劲现金流和 AI 投资计划。云基础设施支出提供稳定收入，而搜索广告保持周期性。"
+    },
+    "energy": {
+      "en": "Mixed: Oil price volatility creating trading opportunities. Major producers with low break-even costs positioned to benefit from geopolitical premium despite WTI slip from $104 levels. Renewable energy investments remain under capital pressure.",
+      "zh": "分化：油价波动创造交易机会。低盈亏平衡成本的主要生产商在地缘政治溢价下处于有利地位，尽管 WTI 从 104 美元水平下滑。可再生能源投资面临资本压力。"
+    },
+    "ev": {
+      "en": "Underperforming: Traditional automakers facing margin compression from higher energy costs and competitive EV market. Companies with differentiated technology stacks maintaining resilience.",
+      "zh": "跑输：传统汽车制造商面临能源成本上升和竞争激烈的电动车市场导致利润率压缩。拥有差异化技术栈的公司保持韧性。"
+    },
+    "market": {
+      "en": "Positive: S&P futures rising, Nasdaq showing strength in AI leaders. Risk-on sentiment prevailing as Treasury yields decline and dollar remains stable. Sector rotation expected into defensive positions.",
+      "zh": "积极：标普期货上涨，纳斯达克在 AI 领导者方面显示强劲。风险偏好情绪主导，因美债收益率下降和美元保持稳定。预期向防御性板块轮动。"
+    },
+    "preciousMetals": {
+      "en": "Supportive: Gold and silver prices elevated amid Middle East geopolitical tensions and bond yield declines. Safe-haven demand providing floor while industrial use for precious metals creates upside potential.",
+      "zh": "支撑：中东地缘政治紧张和债券收益率下降使金价处于高位。避险需求提供底部，贵金属工业用途创造上涨潜力。"
+    },
+    "oil": {
+      "en": "Volatile: Brent topped $104/bbl on Hormuz security concerns but retreating from peaks. Geopolitical risk premium sustaining oil prices above OPEC+ supply cut levels while WTI faces margin compression from transportation costs.",
+      "zh": "波动：布伦特原油因霍尔木兹安全担忧突破 104/桶，但从高点回落。地缘政治风险溢价维持油价高于欧佩克+减产水平，而 WTI 面临运输成本导致利润率压缩。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 futures up, Nasdaq leading gains in AI sector. Dow showing stability while tech-heavy index rallies on chip demand.",
+      "zh": "标普 500 期货上涨，纳斯达克在 AI 板块领涨。道指表现稳定，而科技股指数在芯片需求带动下反弹。"
+    },
+    "treasury10Y": {
+      "en": "10Y Treasury yields declined amid Middle East oil supply concerns and flight-to-quality flows into bonds.",
+      "zh": "10 年期美债收益率在中东石油供应担忧和债券避险资金流入中下降。"
+    },
+    "dxy": {
+      "en": "Dollar index mixed with stable euro and weakening yen. Multinational earnings unaffected by currency volatility at current levels.",
+      "zh": "美元指数分化，欧元稳定而日元走弱。当前水平下的货币波动不影响跨国公司收益。"
+    },
+    "oil": {
+      "en": "WTI retreating from $104 with Brent holding above supply cut levels. Geopolitical premium sustaining prices while oil producers position defensively.",
+      "zh": "WTI 从 104 美元回落，布伦特保持在减产水平之上。地缘政治溢价维持价格，而石油生产商防守性布局。"
+    },
+    "keyRisk": {
+      "en": "Further tightening of AI export restrictions to China and escalation in Middle East conflicts affecting global oil supply chains.",
+      "zh": "对中国的 AI 出口限制进一步收紧和中东冲突升级影响全球石油供应链。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Market showing sector divergence: AI/tech rallying while energy/oil volatile due to geopolitics. Risk-on sentiment offset by semiconductor profitability concerns and oil price weakness.",
+      "zh": "市场显示板块分化：AI/科技反弹，而能源/石油因地缘政治波动。风险偏好情绪被半导体盈利担忧和油价疲软抵消。"
+    }
+  }
+}
