@@ -1,0 +1,167 @@
+{
+  "date": "2026-10-12",
+  "summary": {
+    "en": "U.S. stock futures were mixed ahead of Monday's open as investors assessed geopolitical developments, with oil prices fluctuating amid ceasefire claims and Iran tensions. The market is positioning for an earnings-heavy week led by large banks, while AI chip stocks remain under pressure from OpenAI revenue concerns but show signs of recovery.",
+    "zh": "美股期货在周一开盘前表现分化，投资者正在评估地缘政治发展，油价在停火声明与伊朗紧张局势间波动。市场正布局以大型银行为主的业绩周，而受 OpenAI 收入担忧打压的 AI 芯片股显示复苏迹象。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "US Stock Futures Mixed on Geopolitical Uncertainty and Oil Price Fluctuations",
+        "zh": "美股期货因地缘政治不确定性和油价波动而表现分化"
+      },
+      "impact": "Investors are weighing mixed signals from geopolitical headlines, with Trump's ceasefire claims dampening oil prices while Middle East tensions provide support. This creates a choppy premarket environment for equities.",
+      "bullish": ["Energy sectors hedged against oil price volatility", "Large banks ahead of earnings"],
+      "bearish": ["Technology stocks amid chip revenue concerns", "Consumer discretionary sensitive to inflation/oil costs"],
+      "macroRisk": {
+        "en": "Geopolitical uncertainty creates mixed market sentiment. Oil supply risks from Middle East tensions support prices, while ceasefire claims create downward pressure.",
+        "zh": "地缘政治不确定性造成市场情绪分化。中东紧张的油价供应风险支撑价格，而停火声明制造下行压力。"
+      }
+    },
+    {
+      "title": {
+        "en": "OpenAI Revenue Miss Rattles Chip Stocks as Nvidia Eyes HBM4 Technology",
+        "zh": "OpenAI 收入未达标冲击芯片股，Nvidia 聚焦 HBM4 技术"
+      },
+      "impact": "Chip stocks fell on OpenAI revenue concerns, but sector remains supported by AI infrastructure demand. Nvidia is pursuing HBM4 and partnerships with SpaceX.",
+      "bullish": ["Nvidia (NVDA) on new product roadmap", "Semiconductor equipment suppliers"],
+      "bearish": ["Advanced Micro Devices (AMD)", "Broad semiconductor index"],
+      "macroRisk": {
+        "en": "AI sector-specific risk as company-level revenue misses create stock weakness despite broader AI infrastructure demand.",
+        "zh": "AI 板块特定风险，公司级收入未达标造成股价疲软，尽管更广泛的 AI 基础设施需求依然强劲。"
+      }
+    },
+    {
+      "title": {
+        "en": "Brent Crude Dips to $103.50 on Energy Ceasefire Claims Amid Middle East Tensions",
+        "zh": "布伦特原油因中东紧张局势下的能源停火声明跌至 103.50 美元"
+      },
+      "impact": "Oil price volatility driven by geopolitical headlines creates uncertainty for energy sector earnings and consumer costs. Trump's diesel deal aims to provide relief.",
+      "bullish": ["WTI crude holding key support levels", "Energy companies with international exposure"],
+      "bearish": ["Oil refiners on margin compression", "Retail consumers sensitive to fuel costs"],
+      "macroRisk": {
+        "en": "Oil price sensitivity affects inflation expectations, Treasury yields, and broader market risk appetite. Supply disruption risks from Middle East remain.",
+        "zh": "油价敏感度影响通胀预期、美债收益率和更广泛的风险偏好。中东供应中断风险依然存在。"
+      }
+    },
+    {
+      "title": {
+        "en": "US 10-Year Treasury Yield Fluctuates Around 5.24-5.31% Ahead of CPI",
+        "zh": "美债收益率在 CPI 数据前于 5.24%-5.31% 区间波动"
+      },
+      "impact": "Bond yields in this range reflect persistent inflation concerns. Higher yields pressure growth stocks and increase borrowing costs for corporations.",
+      "bullish": ["Value stocks, financials on stable rates"],
+      "bearish": ["Growth stocks on rate sensitivity", "Real estate sensitive to yield environment"],
+      "macroRisk": {
+        "en": "Elevated 10Y yields indicate inflation persistence, which affects equity valuations and Fed policy trajectory. Higher yields also strengthen USD.",
+        "zh": "高企的 10Y 收益率表明通胀持续性，影响股票估值和美联储政策路径。高收益率也支撑美元。"
+      }
+    },
+    {
+      "title": {
+        "en": "Microsoft Gains on Software Strength Despite OpenAI Revenue Jitters",
+        "zh": "微软因软件强势获利，尽管 OpenAI 收入波动"
+      },
+      "impact": "Big Tech showing divergence: software leaders holding up while AI-specific ventures face headwinds. Microsoft's diversified revenue stream provides resilience.",
+      "bullish": ["Microsoft (MSFT)", "Cloud infrastructure companies"],
+      "bearish": ["Pure-play AI startups", "Software vendors dependent on AI spend slowdown"],
+      "macroRisk": {
+        "en": "Big Tech performance reflects broader market health. Divergence within sector shows selectivity amid AI investment questions.",
+        "zh": "大科技表现反映更广泛的市场健康。板块内分化显示 AI 投资问题下的选择性。"
+      }
+    },
+    {
+      "title": {
+        "en": "Trump's Russian Diesel Deal Sparks Criticism Over War Finance Aid",
+        "zh": "特朗普俄罗斯柴油协议引发对援助战争资金的批评"
+      },
+      "impact": "Energy policy decisions create regulatory uncertainty. European buyers facing criticism may affect trade relationships and energy security premiums.",
+      "bullish": ["U.S. oil producers with strategic reserves"],
+      "bearish": ["European-exposed U.S. companies", "Companies reliant on clean energy transition amid geopolitical friction"],
+      "macroRisk": {
+        "en": "Energy geopolitics directly impact commodity prices and inflation expectations. Trade policy decisions affect global supply chains and market sentiment.",
+        "zh": "能源地缘政治直接影响商品价格、通胀预期和贸易政策决策对全球供应链及市场情绪的影响。"
+      }
+    },
+    {
+      "title": {
+        "en": "Bank Earnings Week Ahead as Large Financial Institutions Report Q3 Results",
+        "zh": "大银行业绩周到来，大型金融机构发布第三季度财报"
+      },
+      "impact": "Major banks start third-quarter earnings cycle. Credit quality and net interest margin trends will be closely watched ahead of FOMC.",
+      "bullish": ["Large bank stocks (JPM, BAC, WFC)", "Regional banks on stable deposits"],
+      "bearish": ["Smaller lenders on credit concerns", "Financials sensitive to yield curve changes"],
+      "macroRisk": {
+        "en": "Bank earnings provide insights into economic health and credit conditions. Mixed signals from geopolitical events add uncertainty to financial sector outlook.",
+        "zh": "银行业绩提供经济健康和信贷状况的洞见。地缘政治事件的混合信号给金融板块前景带来不确定性。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Mixed sentiment. Nvidia pursuing HBM4 technology and SpaceX partnerships shows innovation focus, but OpenAI revenue miss creates sector-wide caution. Chip stocks under pressure though long-term AI infrastructure demand remains intact.",
+      "zh": "情绪分化。Nvidia 聚焦 HBM4 技术和 SpaceX 合作显示创新方向，但 OpenAI 收入未达标造成板块谨慎。芯片股受压，但长期 AI 基础设施需求依然稳固。"
+    },
+    "semiconductor": {
+      "en": "Under pressure from AI-specific revenue concerns. AMD slipped on S&P 500 while sector equipment suppliers face margin compression risks. However, memory chip demand and server segment support prices.",
+      "zh": "受 AI 特定收入担忧打压。AMD 在标普 500 中下跌，板块设备供应商面临利润率压缩风险。但内存芯片需求和服务器部门支撑价格。"
+    },
+    "bigTech": {
+      "en": "Showing divergence. Microsoft holds on software strength despite OpenAI concerns. Cloud leaders (AWS, Azure) providing revenue stability amid AI investment debates.",
+      "zh": "显示分化。微软在软件强势下尽管 OpenAI 担忧依然持有。云领导者（AWS、Azure）在 AI 投资辩论中提供收入稳定性。"
+    },
+    "energy": {
+      "en": "Mixed on geopolitical headlines. Oil prices volatile with Brent at $103-104 range after ceasefire claims and Iran tensions. Energy companies hedged against supply risks benefit, while refiners face margin pressures.",
+      "zh": "受地缘政治头条影响表现分化。油价波动，布伦特在停火声明和伊朗紧张后于 103-104 美元区间。对冲供应风险的能量公司受益，而炼油厂面临利润率压力。"
+    },
+    "ev": {
+      "en": "Neutral to cautiously optimistic. EV sector not directly tied to current geopolitical headlines except through oil price impacts on consumer costs and Tesla's global operations.",
+      "zh": "中性到谨慎乐观。电动车板块除油价对消费者成本和特斯拉全球运营影响外，未直接受当前地缘头条影响。"
+    },
+    "market": {
+      "en": "Mixed premarket environment. Futures struggling for direction ahead of earnings-heavy week with large banks leading. Treasury yields elevated but stable, suggesting market pricing in persistent inflation without panic.",
+      "zh": "盘前分化环境。期货在业绩周（以大型银行为主）到来前方向不明朗。美债收益率高企但稳定，表明市场定价了持续通胀而非恐慌。"
+    },
+    "preciousMetals": {
+      "en": "Gold and silver benefiting from geopolitical uncertainty and elevated yields on supply-demand dynamics. Safe-haven demand supports prices as inflation expectations remain sticky amid Middle East tensions.",
+      "zh": "金银受益于地缘不确定性和供需动态下的高企收益率。避险需求在中东紧张和通胀粘性预期下支撑价格。"
+    },
+    "oil": {
+      "en": "Volatile on geopolitical headlines. Brent crude at $103-104 range, WTI holding support levels. Supply disruption fears from Middle East create bid, but ceasefire claims provide downside pressure. Net effect: choppy trade.",
+      "zh": "受地缘头条影响波动。布伦特原油在 103-104 美元区间，WTI 守住支撑水平。中东供应中断担忧提供买盘，但停火声明造成下行压力。净效应：震荡交易。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "Mixed direction. S&P futures struggling ahead of large bank earnings, Nasdaq showing resilience on AI infrastructure but under chip revenue pressure.",
+      "zh": "方向分化。标普期货在大银行业绩前挣扎，纳斯达克在 AI 基础设施上显示韧性但受芯片收入压力影响。"
+    },
+    "treasury10Y": {
+      "en": "Around 5.24-5.31%, elevated but stable. Reflects persistent inflation concerns and Fed policy path uncertainty. Notably high compared to historical averages.",
+      "zh": "约 5.24%-5.31%，高企但稳定。反映持续通胀担忧和美联储政策路径不确定性。与历史平均水平相比显著偏高。"
+    },
+    "dxy": {
+      "en": "Stable to slightly strengthening on elevated yields. USD benefits from high Treasury rates but geopolitical risks and energy price sensitivity may limit gains.",
+      "zh": "稳定到轻微走强，因高收益率。美元受益于高美债利率，但地缘风险和油价敏感度可能限制涨幅。"
+    },
+    "oil": {
+      "en": "WTI $60-65, Brent $103-104 after geopolitical headlines. Volatile on ceasefire claims vs. Middle East tensions.",
+      "zh": "WTI 60-65 美元，布伦特在头条新闻后 103-104 美元。停火声明与中东紧张造成波动。"
+    },
+    "keyRisk": {
+      "en": "Geopolitical uncertainty and mixed oil price signals. Market needs to digest both supply disruption fears and ceasefire hopes, creating choppy premarket trading.",
+      "zh": "地缘不确定性和混合油价信号。市场需要消化供应中断担忧和停火希望，造成盘前震荡交易。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Mixed sentiment reflects geopolitics-driven uncertainty. Geopolitical factors creating sector-specific impacts outweigh broad market direction signals.",
+      "zh": "分化情绪反映地缘政治驱动的不确定性。板块特定影响超越广泛市场方向信号的地缘因素。"
+    }
+  }
+}
