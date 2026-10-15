@@ -1,0 +1,188 @@
+{
+  "date": "2026-10-15",
+  "summary": {
+    "en": "Premarket sentiment cautious as investors await key CPI inflation data at 8:30 AM ET. Oil prices elevated near $106 from geopolitical supply concerns, while tech sector shows mixed signals ahead of earnings season. Market positioning defensive with growth stocks waiting for inflation clarity before directional moves.",
+    "zh": "盘前情绪谨慎，投资者等待上午 8:30 ET 的关键 CPI 通胀数据。受地缘政治供应担忧影响，油价维持在近 106 美元的高位，而科技板块在财报季前呈现混合信号。市场采取防御性定位，成长股在获取通胀清晰度前等待方向性变动。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "CPI Inflation Report at 8:30 AM ET Remains Day's Primary Focus",
+        "zh": "上午 8:30 ET 的 CPI 通胀报告仍是今天的主要焦点"
+      },
+      "impact": {
+        "en": "Critical data point for Fed policy calibration. Soft print supports risk assets and growth stocks; sticky inflation triggers defensive rotation and yield sensitivity.",
+        "zh": "对美联储政策校准的关键数据点。软着陆读数支持风险资产和成长股；粘性通胀触发防御性轮动和收益率敏感性。"
+      },
+      "bullish": ["XLK", "QQQ", "Technology"],
+      "bearish": ["Financial", "Real Estate", "Utilities"],
+      "macroRisk": {
+        "en": "Critical - All macro positioning hinges on this release. Could trigger broad market rotation depending on inflation vs. growth dynamics.",
+        "zh": "关键 - 所有宏观定位都取决于此发布。可能根据通胀与增长动态触发广泛市场轮动。"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil Prices Near $106 Following Middle East Supply Concerns",
+        "zh": "受中东供应担忧影响，油价接近 106 美元"
+      },
+      "impact": {
+        "en": "Geopolitical supply shocks create inflation hedge demand. Higher oil prices pressure consumer discretionary but support energy sector profitability and margins.",
+        "zh": "地缘政治供应冲击创造了对通胀对冲的需求。较高的油价压制消费者可选，但支持能源板块的盈利和利润边际。"
+      },
+      "bullish": ["XLE", "CVX", "COP", "OXY"],
+      "bearish": ["Consumer Discretionary", "Travel"],
+      "macroRisk": {
+        "en": "Yes - Supply shock dynamics → inflation expectations → Fed policy calibration chain. Oil prices directly impact PCE and CPI components.",
+        "zh": "是 - 供应冲击动态→通胀预期→美联储政策校准链条。油价直接影响 PCE 和 CPI 组成部分。"
+      }
+    },
+    {
+      "title": {
+        "en": "AI Chip Demand Remains Strong Despite Supply Chain Caution",
+        "zh": "尽管供应链谨慎，AI 芯片需求仍然强劲"
+      },
+      "impact": {
+        "en": "NVIDIA and AMD hold steady on product momentum while broader semiconductor sector shows selective positioning. Geopolitical supply chain risks remain secondary to AI build-out fundamentals.",
+        "zh": "NVIDIA 和 AMD 在产品动量下保持稳定，而更广泛的半导体板块显示选择性定位。地缘政治供应链风险仍然次要于 AI 建设基本面。"
+      },
+      "bullish": ["NVDA", "AMD", "AVGO", "MRVL"],
+      "bearish": ["SMH - selective positioning"],
+      "macroRisk": {
+        "en": "No - AI demand fundamentals dominate; geopolitical supply concerns are manageable within product momentum framework.",
+        "zh": "否-AI 需求基本面占主导地位；地缘政治供应担忧在产品和动量框架内是可以管理的。"
+      }
+    },
+    {
+      "title": {
+        "en": "Big Tech Cloud Growth Steady Amid Macro Uncertainty",
+        "zh": "大科技云增长在中宏观不确定性下保持稳定"
+      },
+      "impact": {
+        "en": "Microsoft and Google maintain stable cloud trajectory while Amazon faces consumer spending pressure. META adjusts ad spend cautiously. AI infrastructure investment continues despite rate concerns.",
+        "zh": "微软和谷歌在稳定的云轨迹上，而亚马逊面临消费支出压力。Meta 谨慎调整广告支出。尽管利率担忧，AI 基础设施投资仍在继续。"
+      },
+      "bullish": ["MSFT", "GOOGL", "META"],
+      "bearish": ["Consumer Staples", "Travel"],
+      "macroRisk": {
+        "en": "Moderate - Rate sensitivity affects valuations but AI cloud fundamentals provide buffer. Defensive positioning may emerge on inflation confirmation.",
+        "zh": "中等 - 利率敏感性影响估值，但 AI 云基本面提供缓冲。通胀确认可能出现防御性定位。"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury Yields Await CPI Clarity Before Directional Moves",
+        "zh": "国债收益率在 CPI 澄清前等待方向性变动"
+      },
+      "impact": {
+        "en": "10Y yields hovering near 4.1-4.2% as market awaits inflation print. Higher readings support higher-for-longer Fed stance, lower prints enable rate-sensitive rally.",
+        "zh": "随着市场等待通胀数据，10Y 收益率在 4.1-4.2% 附近徘徊。较高的读数支持更高利率的美联储立场，较低的打印启用利率敏感型反弹。"
+      },
+      "bullish": ["TLT", "Bond ETFs"],
+      "bearish": ["Financial", "Real Estate"],
+      "macroRisk": {
+        "en": "Critical - Yield moves directly impact equity valuations and rate-sensitive sectors. Inflation print determines yield trajectory.",
+        "zh": "关键 - 收益率变动直接影响股票估值和利率敏感型板块。通胀打印决定收益率轨迹。"
+      }
+    },
+    {
+      "title": {
+        "en": "Gold Benefits from Safe-Haven and Inflation Hedge Demand",
+        "zh": "黄金受益于避风港和对冲需求的通胀"
+      },
+      "impact": {
+        "en": "Precious metals rally on geopolitical tensions and inflation concerns. XAU maintains defensive positioning despite Fed hawkish rhetoric, as investors seek portfolio diversification.",
+        "zh": "贵金属在中东紧张局势和通胀担忧中反弹。尽管美联储鹰派言论，XAU 保持防御性定位，因为投资者寻求投资组合多样化。"
+      },
+      "bullish": ["XAU", "GLD", "IAU"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Yes - Safe-haven flows and inflation hedge demand support precious metals. Central bank buying provides structural floor.",
+        "zh": "是 - 避风港流动性和通胀对冲需求支持贵金属。央行购买提供结构性支撑。"
+      }
+    },
+    {
+      "title": {
+        "en": "EV Sector Faces Headwinds from Higher Input Costs and Competition",
+        "zh": "电动车板块面临较高的投入成本和竞争的逆风"
+      },
+      "impact": {
+        "en": "TSLA holds ground despite macro uncertainty but supply chain constraints and higher input costs pressure margins. Chinese EV competition intensifying globally creates pricing pressure.",
+        "zh": "尽管宏观不确定性，TSLA 仍保持地位，但供应链约束和较高的投入成本压力利润边际。中国电动车竞争在全球范围内加剧创造定价压力。"
+      },
+      "bullish": ["TSLA", "RIVN"],
+      "bearish": ["Consumer Discretionary EV"],
+      "macroRisk": {
+        "en": "Moderate - Higher interest rates and input costs pressure margins. Geopolitical risks to Chinese supply chain are secondary to margin dynamics.",
+        "zh": "中等 - 较高的利率和投入成本压力利润边际。中国供应链的地缘政治风险是次要于利润率动态的。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector showing strength on product momentum. NVIDIA and AMD maintain market leadership while AI infrastructure build-out continues. Valuation compression risks for smaller cap AI plays, but fundamentals remain solid.",
+      "zh": "AI 板块在产品动量下显示实力。NVIDIA 和 AMD 维持市场领导地位，而 AI 基础设施建设仍在继续。小型资本 AI 投资的估值压缩风险，但基本面仍然稳固。"
+    },
+    "semiconductor": {
+      "en": "Semiconductor sector cautious. ASML and TSMH under observation for geopolitical supply chain implications. Demand remains robust but inventory caution prevails. Watch for earnings season guidance.",
+      "zh": "半导体板块谨慎。观察 ASML 和台积电的地缘政治供应链影响。需求仍然强劲，但库存谨慎占主导地位。关注财报季指导。"
+    },
+    "bigTech": {
+      "en": "Big Tech holding steady with selective positioning. Microsoft and Google on stable cloud growth trajectory, while Amazon faces consumer spending pressure. META adjusting ad spend amid macro uncertainty.",
+      "zh": "大科技保持稳定，选择性布局。微软和谷歌在稳定的云增长轨迹上，而亚马逊面临消费支出压力。Meta 在中宏观不确定性中调整广告支出。"
+    },
+    "energy": {
+      "en": "Energy sector rally driven by geopolitical supply shocks. Oil near $106 provides profit-taking opportunities but supply constraints support prices. XLE, CVX, COP positioned favorably on inflation hedge demand.",
+      "zh": "能源板块上涨由地缘政治供应冲击驱动。油价接近 106 美元提供获利了结机会，但供应约束支持价格。在通胀对冲需求上，XLE、CVX、COP 定位有利。"
+    },
+    "ev": {
+      "en": "EV sector faces mixed headwinds. TSLA holds ground despite macro uncertainty, but supply chain constraints and higher input costs pressure margins. Chinese EV competition intensifying globally.",
+      "zh": "电动车板块面临混合逆风。TSLA 尽管宏观不确定性仍保持地位，但供应链约束和较高的投入成本压力利润边际。中国电动汽车竞争在全球范围内加剧。"
+    },
+    "market": {
+      "en": "Broad market positioning cautious before inflation report. Defensive sectors attract capital flows while growth stocks await clarity on rate trajectory. Mixed sentiment with sector divergence likely.",
+      "zh": "在通胀报告前，整体市场定位谨慎。防御性板块吸引资本流动，而成长股等待利率轨迹的清晰度。情绪混合且板块分化可能。"
+    },
+    "preciousMetals": {
+      "en": "Gold and silver benefiting from safe-haven demand amid geopolitical tensions. Inflation hedge positioning supports precious metals even as Fed maintains higher-for-longer rhetoric. XAU maintaining defensive positioning.",
+      "zh": "金银从中东紧张局势中的避风港需求中受益。即使美联储维持更高利率的言论，通胀对冲定位仍支持贵金属。XAU 保持防御性定位。"
+    },
+    "oil": {
+      "en": "WTI/Brent elevated near $106-$112 following Aramco strike news. Supply constraints from geopolitical tensions dominate pricing dynamics. Higher oil prices create inflation expectations impacting Fed policy.",
+      "zh": "WTI/布伦特原油在沙特阿美罢工新闻后维持在 106-112 美元附近。地缘政治紧张关系造成的供应约束主导定价动态。较高的油价创造通胀预期影响美联储政策。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P/Nasdaq/Dow futures positioning cautious before inflation print. Asia markets showed mixed-to-positive heading into US session. Expect steady open with direction dependent on CPI release.",
+      "zh": "标普/纳斯达克/道指期货在通胀打印前定位谨慎。亚洲市场在进入美国交易时段时显示混合至正面。预期稳定的开盘，方向取决于 CPI 发布。"
+    },
+    "treasury10Y": {
+      "en": "10Y Treasury yields near 4.1-4.2% awaiting CPI inflation print. Higher readings support higher-for-longer stance, lower prints enable rally. Yield moves will impact rate-sensitive equities.",
+      "zh": "10 年期国债收益率在 4.1-4.2% 附近等待 CPI 通胀打印。较高的读数支持更高利率立场，较低的打印启用反弹。收益率变动将影响利率敏感型股票。"
+    },
+    "dxy": {
+      "en": "DXY steady near 99-100 range with inflation concerns providing some weakness. Fed policy expectations support USD but commodity-linked sectors face headwinds from dollar strength.",
+      "zh": "美元指数稳定在 99-100 范围附近，通胀担忧造成一些弱势。美联储政策预期支持美元，但与商品挂钩的板块面临来自美元强势的压力。"
+    },
+    "oil": {
+      "en": "WTI climbing toward $106-$110 post-Aramco strike. Brent near $112. Supply constraints from geopolitical tensions create supply shock premium. OPEC+ monitoring capacity levels.",
+      "zh": "WTI 在沙特阿美罢工后向 106-110 美元上涨。布伦特原油近 112 美元。地缘政治紧张关系造成的供应约束创造供应冲击溢价。OPEC+ 正在监测产能水平。"
+    },
+    "keyRisk": {
+      "en": "CPI inflation print at 8:30 AM ET is the defining event. Market direction hinges on whether data supports soft-landing narrative or confirms inflation stickiness affecting Fed policy calibration.",
+      "zh": "上午 8:30 ET 的 CPI 通胀打印是关键事件。市场方向取决于数据是否支持软着陆叙事或证实影响美联储政策校准的通胀粘性。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Mixed sentiment before critical inflation data. Risk-on if CPI prints soft supporting growth; defensive positioning if inflation stickiness confirmed. Oil supply shocks and geopolitical tensions create sector divergence with energy leading while technology waits for rate clarity.",
+      "zh": "在关键通胀数据发布前，情绪混合。如果 CPI 打印软着陆支持增长，风险偏好上升；如果证实通胀粘性，防御性定位。石油供应冲击和地缘政治紧张关系造成板块分化，能源领先而技术等待利率清晰。"
+    }
+  }
+}
