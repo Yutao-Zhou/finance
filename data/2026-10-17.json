@@ -1,0 +1,140 @@
+{
+  "date": "2026-10-17",
+  "summary": {
+    "en": "Friday's selloff left the AI trade and expensive technology shares under pressure, while oil above $110 per barrel reinforced an inflation and geopolitical-risk overlay. US cash markets are closed Saturday, so this brief frames the weekend setup rather than implying live premarket pricing; the next tradable catalysts are Middle East supply headlines, oil, rates, and the coming earnings slate.",
+    "zh": "周五的抛售令 AI 交易和高估值科技股承压，油价突破每桶 110 美元则叠加了通胀与地缘风险。周六美股现货市场休市，本文聚焦周末后的交易框架，不把它表述为实时盘前报价；下一轮可交易催化剂是中东供应消息、油价、利率以及即将到来的财报。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Nasdaq slides 2% as AI selling and expensive oil weigh on risk appetite",
+        "zh": "AI 抛售与高油价压制风险偏好，纳斯达克周五下跌 2%"
+      },
+      "impact": {
+        "en": "Reuters and CNBC reported a broad Friday decline led by the AI trade; Nasdaq posted its worst week since June. The move matters because a valuation reset in the most rate- and growth-sensitive cohort can spill into semiconductors, cloud infrastructure, and the S&P 500's index-heavy mega caps.",
+        "zh": "路透和 CNBC 报道称，周五市场普跌，AI 交易领跌，纳斯达克录得自 6 月以来最差单周表现。高估值、对利率和增长最敏感的板块若继续重估，可能外溢至半导体、云基础设施和在指数中权重很高的大型科技股。"
+      },
+      "bullish": ["XLE", "XOM", "CVX", "USO"],
+      "bearish": ["QQQ", "NVDA", "AMD", "SOXX"],
+      "macroRisk": {
+        "en": "Yes — AI/tech de-rating plus higher energy costs can tighten financial conditions and raise inflation expectations, pressuring long-duration equities.",
+        "zh": "是——AI/科技估值下调叠加能源成本上升，可能收紧金融条件并抬高通胀预期，对长久期成长股不利。"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil reaches $110 on Middle East and Russia supply fears",
+        "zh": "中东与俄罗斯供应担忧推动油价触及 110 美元"
+      },
+      "impact": {
+        "en": "Reuters reported oil touching $110 as supply fears centered on the Middle East and Russia; CNBC also highlighted escalation around Hormuz. This is a cross-asset risk: sustained crude strength supports producers but can revive headline inflation, challenge lower-yield positioning, and squeeze consumer and transport margins.",
+        "zh": "路透报道称，中东和俄罗斯供应担忧令油价触及 110 美元；CNBC 也关注到霍尔木兹附近局势升级。这是典型的跨资产风险：持续高油价利好生产商，但会推高通胀预期、挑战低收益率交易，并挤压消费和运输行业利润率。"
+      },
+      "bullish": ["XLE", "XOM", "CVX", "OXY"],
+      "bearish": ["XLY", "DAL", "UAL", "IYT"],
+      "macroRisk": {
+        "en": "Yes — supply disruption risk → crude and fuel prices → inflation expectations and Treasury yields → pressure on growth multiples.",
+        "zh": "是——供应中断风险→原油与燃料价格→通胀预期和美债收益率→成长股估值承压。"
+      }
+    },
+    {
+      "title": {
+        "en": "AI rally wobbles as investors turn toward earnings quality",
+        "zh": "AI 行情摇摆，投资者转向检验财报质量"
+      },
+      "impact": {
+        "en": "Reuters' week-ahead coverage says the market's focus is turning to earnings while the AI rally wobbles; separate Reuters reporting says AI-related companies are expected to drive much of third-quarter US earnings growth. That sets a higher bar for guidance, capital-spending discipline, and monetization rather than simply AI exposure.",
+        "zh": "路透的下周前瞻称，在 AI 行情摇摆之际，市场焦点正转向财报；另一篇路透报道指出，AI 相关公司预计将贡献美国第三季度盈利增长的大部分。因此，市场对业绩指引、资本开支纪律和变现能力的要求会更高，不能只靠“AI 概念”。"
+      },
+      "bullish": ["MSFT", "GOOGL", "AVGO"],
+      "bearish": ["ARKK", "IGV", "SOXX"],
+      "macroRisk": {
+        "en": "Mixed — a weak earnings read-through would deepen the equity-specific de-rating; a resilient print could stabilize risk appetite despite oil-driven macro pressure.",
+        "zh": "混合——若财报传导偏弱，可能加深股票层面的估值下调；若业绩韧性较强，则有望在油价驱动的宏观压力下稳定风险偏好。"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury yields ease and the dollar heads for a weekly loss",
+        "zh": "美债收益率回落，美元迈向单周下跌"
+      },
+      "impact": {
+        "en": "Reuters reported easing Treasury yields alongside a softer dollar into Friday. Lower yields can cushion long-duration assets, but the relief is fragile while oil is elevated: a further energy shock could quickly reverse the rates move and restore pressure on growth shares.",
+        "zh": "路透报道称，周五美债收益率回落、美元走软。较低收益率可缓冲长久期资产的压力，但在油价高企时这种缓冲仍很脆弱：若能源冲击加剧，利率走势可能迅速反转，再度压制成长股。"
+      },
+      "bullish": ["TLT", "GLD", "QQQ"],
+      "bearish": ["UUP"],
+      "macroRisk": {
+        "en": "Yes — the interaction between oil-led inflation expectations and Treasury yields remains the main regime-switch risk for both bonds and equities.",
+        "zh": "是——油价驱动的通胀预期与美债收益率的互动，仍是债券和股票共同面临的主要风格切换风险。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Risk is concentrated in AI-linked valuation and monetization expectations after Friday's selloff. Treat upcoming guidance and capex commentary as the next proof point; broad AI exposure is less defensible than companies with visible cash flow and disciplined investment.",
+      "zh": "周五抛售后，风险集中在 AI 相关估值与变现预期。下一轮验证点是即将公布的业绩指引和资本开支评论；相较于泛 AI 曝光，现金流可见、投资纪律更强的公司更具防御性。"
+    },
+    "semiconductor": {
+      "en": "Chip shares remain exposed to the AI de-rating because they sit at the high-beta end of the capex chain. Watch whether earnings commentary differentiates demand visibility from speculative infrastructure spending.",
+      "zh": "半导体处于 AI 资本开支链条的高 beta 端，因此仍暴露于 AI 估值下调。关注财报评论能否把需求能见度与投机性基础设施支出区分开。"
+    },
+    "bigTech": {
+      "en": "Mega-cap technology is caught between softer yields, which help duration, and a higher bar for AI returns. Index concentration means any guidance disappointment can affect the broad market disproportionately.",
+      "zh": "大型科技一方面受益于收益率走低，另一方面面临更高的 AI 回报验证门槛。指数集中度很高，任何业绩指引失望都可能放大对大盘的影响。"
+    },
+    "energy": {
+      "en": "Energy is the clearest relative beneficiary of the supply-risk backdrop, but it is not a clean market-wide bullish signal: higher crude also raises inflation and demand-destruction risks.",
+      "zh": "在供应风险背景下，能源是最直接的相对受益板块，但这并不等于全市场利好：更高油价也会抬升通胀并增加需求破坏风险。"
+    },
+    "ev": {
+      "en": "The EV group faces a difficult mix of high-beta technology sentiment and potential consumer pressure from higher fuel and inflation costs. No sector-wide fresh catalyst was independently verified over the weekend.",
+      "zh": "电动车板块同时面临高 beta 科技情绪和高燃料/通胀成本可能压制消费者的双重压力。周末未能独立核实到板块层面的新催化剂。"
+    },
+    "market": {
+      "en": "Friday's close favored a defensive, event-sensitive posture: the Dow held up better for the week while the S&P 500 and Nasdaq posted weekly losses. Direction on reopening will depend more on oil and rates than on Saturday's inactive cash session.",
+      "zh": "周五收盘更支持防御且事件敏感的仓位：道指单周相对更稳，标普 500 和纳斯达克则录得单周下跌。下次开盘方向更取决于油价和利率，而非周六休市期间的现货交易。"
+    },
+    "preciousMetals": {
+      "en": "A softer dollar and geopolitical uncertainty are supportive for precious metals, but a renewed rise in real yields from oil-led inflation would complicate that support. Watch both gold and the 10-year rather than extrapolating one-day moves.",
+      "zh": "美元走软和地缘不确定性对贵金属有支撑，但若油价引发实际收益率再度上行，这种支撑会变得复杂。应同时观察黄金与 10 年期美债，而非外推单日行情。"
+    },
+    "oil": {
+      "en": "The $110 area is the key macro threshold in the current narrative. Confirm Sunday-night futures liquidity and fresh supply headlines before treating the level as a sustained breakout.",
+      "zh": "当前叙事中，110 美元附近是关键宏观阈值。应在周日晚间期货恢复流动性后，结合新的供应消息确认该水平是否构成持续突破。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "US cash markets are closed Saturday; no live US index-futures direction is presented here. Use Sunday-night futures as the first price discovery after Friday's technology-led decline.",
+      "zh": "周六美股现货市场休市；本文不提供实时美股指数期货方向。周日晚间期货将是周五科技股领跌后首个价格发现窗口。"
+    },
+    "treasury10Y": {
+      "en": "Yields eased into Friday, providing partial relief to duration-sensitive equities. The reported direction—not an unverified Saturday quote—is the relevant input; oil-driven inflation expectations can reverse it quickly.",
+      "zh": "美债收益率在周五走低，部分缓解了久期敏感型股票的压力。这里关注的是已报道的方向而非未经核实的周六报价；油价驱动的通胀预期可能迅速令其反转。"
+    },
+    "dxy": {
+      "en": "Reuters reported the dollar heading for a weekly loss. A softer dollar is supportive for commodities and gold, but this signal must be reassessed if crude-driven inflation pushes Treasury yields higher.",
+      "zh": "路透报道称美元正迈向单周下跌。美元走软有利于大宗商品和黄金，但若原油驱动通胀并推高美债收益率，需重新评估这一信号。"
+    },
+    "oil": {
+      "en": "Oil touched $110 on Friday on Middle East and Russia supply fears. This is the most important cross-asset input for the next session, not a reason to infer a uniform equity direction.",
+      "zh": "周五中东与俄罗斯供应担忧推动油价触及 110 美元。这是下一交易日最重要的跨资产变量，但不能据此推断股票会呈现单一方向。"
+    },
+    "keyRisk": {
+      "en": "A fresh supply disruption headline could lift crude, inflation expectations, and yields together, extending the rotation out of long-duration tech. Conversely, oil de-escalation plus credible earnings guidance would be the clearest route to stabilizing the AI complex.",
+      "zh": "若出现新的供应中断消息，原油、通胀预期和收益率可能同步上行，进一步推动资金撤离长久期科技股。反之，油价风险降温加上可信的财报指引，是稳定 AI 板块最清晰的路径。"
+    }
+  },
+  "judgment": {
+    "type": "event-driven",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "The setup is event-driven rather than a clean risk-on or risk-off call: oil supply risk argues for inflation sensitivity and defensive leadership, while softer yields offer a partial counterweight. Confidence is medium because US cash markets are closed and weekend headlines can materially alter the reopening signal.",
+      "zh": "当前格局更偏事件驱动，而非明确的 risk-on 或 risk-off：石油供应风险指向通胀敏感与防御板块占优，收益率回落则构成部分对冲。由于美股现货市场休市且周末消息可能显著改变开盘信号，判断置信度为中。"
+    }
+  }
+}
