@@ -1,0 +1,188 @@
+{
+  "date": "2026-10-21",
+  "summary": {
+    "en": "SpaceX's stellar earnings report (+9%) and Super Micro Computer surge (+12.7%) drive AI sector rally, with Nasdaq futures climbing ahead of opening bell. Chipmakers NVIDIA, AMD, and Micron jump 3% on upbeat AI sentiment despite Meta's $25B penalty headline.",
+    "zh": "SpaceX 强劲财报（+9%）和超微电脑大涨（+12.7%）带动 AI 板块反弹，盘前纳斯达克期货上涨。芯片股 NVIDIA、AMD 和 Micron 受积极 AI 情绪推动涨 3%，尽管 Meta 面临 250 亿美元罚款消息影响。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "SpaceX earnings beat expectations, stock surges 9% in premarket",
+        "zh": "SpaceX 财报超预期，盘前股价大涨 9%"
+      },
+      "impact": {
+        "en": "Strong revenue growth and AI mission profitability signal SPCX as viable investment, lifting broader space/AI hardware ecosystem including SMCI.",
+        "zh": "强劲营收增长和 AI 任务盈利表明 SPCX 是可行投资，带动更广泛的航天/AI 硬件生态，包括 SMCI。"
+      },
+      "bullish": ["SPCX", "SMCI", "TSLA", "META"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - company-level story; isolated from macro regime.",
+        "zh": "否 - 公司级故事，与宏观体制隔离。"
+      }
+    },
+    {
+      "title": {
+        "en": "Chipmakers rally on AI demand as NVIDIA, AMD, Micron surge 3%",
+        "zh": "芯片股因 AI 需求上涨，NVIDIA、AMD、Micron 大涨 3%"
+      },
+      "impact": {
+        "en": "AI infrastructure buildout continues despite valuation concerns; semiconductor supply chain benefits cascade to design tools (Cadence) and software platforms.",
+        "zh": "AI 基础设施建设持续进行，尽管估值担忧；半导体供应链利益传导至设计工具（Cadence）和软件平台。"
+      },
+      "bullish": ["NVDA", "AMD", "MU", "AVGO"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - sector-specific strength from demand, not policy-driven.",
+        "zh": "否 - 需求驱动的板块特定强势，非政策驱动。"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil prices stabilize after $2 jump amid Iran diplomatic tensions",
+        "zh": "油价在中伊外交紧张后从上涨$2 企稳"
+      },
+      "impact": {
+        "en": "Geopolitical risk premium weighs on energy sector; OPEC+ discipline may sustain price floor around $80/barrel despite US inventory drawdown.",
+        "zh": "地缘政治风险溢价拖累能源板块；OPEC+ 纪律可能在美库存下降时维持约 80 美元/桶的价格底线。"
+      },
+      "bullish": ["XOM", "CVX"],
+      "bearish": ["OXY", "COP"],
+      "macroRisk": {
+        "en": "Yes - geopolitical escalation could lift oil to $90+, feeding inflation expectations and Fed rate path uncertainty.",
+        "zh": "是 - 地缘政治升级可能将油价推至 90+美元，推高通胀预期和美联储利率路径不确定性。"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury yields steady ahead of jobless claims data",
+        "zh": "美债收益率在失业金数据前保持稳定"
+      },
+      "impact": {
+        "en": "10Y yield holds near key technical level; rate-sensitive sectors await employment data for direction on growth vs. inflation trade-off.",
+        "zh": "10 年期收益率维持在关键技术水平附近；利率敏感板块等待就业数据确定增长与通胀权衡的方向。"
+      },
+      "bullish": [],
+      "bearish": ["TLT", "JNK"],
+      "macroRisk": {
+        "en": "Medium - yield spike could pressure growth stocks; decline would benefit duration-sensitive portfolios.",
+        "zh": "中等 - 收益率飙升可能打压成长股；下降将利好久期敏感组合。"
+      }
+    },
+    {
+      "title": {
+        "en": "DXY mixed as dollar balances oil swings and RBA hawkish commentary",
+        "zh": "美元指数在油价波动和澳大利亚联储鹰派评论影响下震荡"
+      },
+      "impact": {
+        "en": "Dollar strength pressures EM assets but supports US multinationals; currency volatility creates hedging opportunities in FX-exposed sectors.",
+        "zh": "美元强势压制新兴市场资产但支持美国跨国企业；货币波动为外汇敏感板块提供对冲机会。"
+      },
+      "bullish": ["JPM", "GS"],
+      "bearish": ["FXE"],
+      "macroRisk": {
+        "en": "Low - short-term currency noise; structural USD strength from Treasury demand persists.",
+        "zh": "低 - 短期货币噪音；国债需求支撑的结构性美元强势持续。"
+      }
+    },
+    {
+      "title": {
+        "en": "Nasdaq futures rise on AI sentiment boost from overnight Asian markets",
+        "zh": "隔夜亚洲市场提振 AI 情绪带动纳斯达克期货上涨"
+      },
+      "impact": {
+        "en": "Japan/Korea/Australia gains spill over to US tech leaders; TSLA included in S&P index rebalancing benefits alongside META.",
+        "zh": "日/韩/澳收益溢出至美国科技龙头；TSLA 在纳入标普指数再平衡中受益，META 亦是如此。"
+      },
+      "bullish": ["NASDAQ", "TSLA", "META", "GOOGL"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "No - regional flow pattern, not macro regime shift.",
+        "zh": "否 - 区域流动模式，非宏观体制转变。"
+      }
+    },
+    {
+      "title": {
+        "en": "EV sector awaits policy clarity amid broader market rally",
+        "zh": "电动车板块在市场普涨中等待政策明朗"
+      },
+      "impact": {
+        "en": "Auto manufacturing macro regime dominates; Tesla included in semiconductor rally via chip demand but lacks independent catalyst.",
+        "zh": "汽车制造宏观体制主导；Tesla 通过芯片需求纳入半导体 Rally，但缺乏独立催化剂。"
+      },
+      "bullish": ["TSLA", "RIVN"],
+      "bearish": ["LCID", "NIO"],
+      "macroRisk": {
+        "en": "Medium - regulatory uncertainty and trade tariffs could dampen growth story despite sector rotation.",
+        "zh": "中等 - 监管不确定性和贸易关税可能抑制增长故事，尽管板块轮动持续。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI hardware rally extends with SMCI +12.7%, NVDA/AMD/MU +3%. SpaceX profitability validates AI infrastructure investment thesis beyond traditional hyperscalers.",
+      "zh": "AI 硬件 Rally 持续，SMCI +12.7%，NVDA/AMD/MU +3%。SpaceX 盈利验证了 AI 基础设施投资论点超越传统超大规模数据中心。"
+    },
+    "semiconductor": {
+      "en": "Chip sector surges on AI buildout; supply constraints easing but demand remains robust. Semiconductor equipment and design tools benefit from capital-intensive expansion.",
+      "zh": "芯片板块因 AI 建设上涨；供应约束缓解但需求仍然强劲。半导体设备和设计工具受益于资本密集型扩张。"
+    },
+    "bigTech": {
+      "en": "META ahead of earnings despite penalty; TSLA rallies on AI autonomy and index rebalancing. Big Tech benefits from AI monetization but faces regulation scrutiny.",
+      "zh": "META 尽管面临罚款仍领先收益；TSLA 因 AI 自主权和指数再平衡而反弹。大科技受益于 AI 货币化但面临监管审查。"
+    },
+    "energy": {
+      "en": "Oil prices at $80+ with geopolitical premium; OPEC+ discipline provides floor. Energy sector shows resilience amid macro uncertainty but faces transition costs.",
+      "zh": "油价在 80+美元带地缘政治溢价；OPEC+纪律提供底线。能源板块在宏观不确定性中显示韧性但面临转型成本。"
+    },
+    "ev": {
+      "en": "EV sector lags broader market; Tesla included in chip rally but lacks standalone catalyst. Policy uncertainty (China trade, tariffs) weighs on growth narrative.",
+      "zh": "EV 板块落后大盘；Tesla 纳入芯片 Rally 但缺乏独立催化剂。政策不确定性（中国贸易、关税）拖累增长叙事。"
+    },
+    "market": {
+      "en": "Nasdaq futures up as tech leads rally; S&P 500 extends 3-day winning streak. Risk-on sentiment from AI earnings but watch inflation data for regime persistence signals.",
+      "zh": "纳斯达克期货上涨，科技股引领反弹；标普 500 延续三连胜。AI 收益风险偏好上升，但需观察通胀数据确定体制持续性。"
+    },
+    "preciousMetals": {
+      "en": "Gold holds near key support as geopolitical risk premium sustains floor; inflation hedging demand persists despite strong dollar. Silver tracks industrial metals demand.",
+      "zh": "黄金在关键支撑附近，地缘政治风险溢价维持底线；尽管美元强势，通胀对冲需求持续。白银跟随工业金属需求。"
+    },
+    "oil": {
+      "en": "WTI/Brent stabilize after $2 geopolitical jump; OPEC+ production discipline maintains price floor. Middle East tensions could lift to $90+ with escalation.",
+      "zh": "WTI/布伦特在$2地缘政治跳跃后企稳；OPEC+ 生产纪律维持价格底线。中东紧张局势升级可能推升至 90+美元。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "Nasdaq futures rise, S&P up marginally, Dow mixed; Japan/Korea/Australia gains spill over to US tech leaders ahead of opening bell.",
+      "zh": "纳斯达克期货上涨，标普微涨，道指震荡；日/韩/澳收益溢出至美国科技龙头。"
+    },
+    "treasury10Y": {
+      "en": "10Y yield steady near key level; rate-sensitive sectors await jobless claims for growth/inflation trade-off direction.",
+      "zh": "10 年期收益率在关键水平附近平稳；利率敏感板块等待失业金确定增长/通胀权衡方向。"
+    },
+    "dxy": {
+      "en": "DXY mixed as dollar balances oil swings and RBA commentary; EM assets pressured but US multinationals supported.",
+      "zh": "美元指数在油价波动和 RBA 评论影响下震荡；新兴市场资产受压但美国跨国企业受到支持。"
+    },
+    "oil": {
+      "en": "Oil stabilizes after $2 geopolitical jump; geopolitical risk premium sustains price floor around $80/barrel.",
+      "zh": "油价在$2地缘政治跳跃后企稳；地缘政治风险溢价维持约 80 美元/桶的价格底线。"
+    },
+    "keyRisk": {
+      "en": "Inflation data persistence could pressure Fed rate path; geopolitical escalation in Middle East risks lifting oil to $90+.",
+      "zh": "通胀数据持续可能打压美联储利率路径；中东地缘政治升级风险将油价推升至 90+美元。"
+    }
+  },
+  "judgment": {
+    "type": "risk-on",
+    "confidence": {
+      "en": "high",
+      "zh": "高"
+    },
+    "note": {
+      "en": "AI earnings and chip demand drive broad-based gains despite macro headwinds. Monitor inflation data for regime persistence signals.",
+      "zh": "AI 收益和芯片需求驱动广泛收益，尽管宏观逆风。监控通胀数据观察体制持续性信号。"
+    }
+  }
+}
