@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-26",
+  "summary": {
+    "en": "US markets closed mixed as investors weighed ongoing rate cut expectations against lingering recession fears. Tech stocks showed resilience while energy sector faced headwinds from elevated oil prices.",
+    "zh": "美股收市表现分化，投资者在持续降息预期与衰退担忧间权衡。科技股表现稳健，而能源板块受到高油价影响承压。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Fed Officials Signal Cautious Approach to Additional Rate Cuts in Q4",
+        "zh": "美联储官员暗示对第四季度进一步降息持谨慎态度"
+      },
+      "impact": {
+        "en": "Markets reacted with caution as some Fed policymakers emphasized data-dependency before committing to more aggressive easing. Bond yields rose slightly on the news.",
+        "zh": "部分美联储政策制定者强调在承诺更积极宽松前需数据依赖，市场谨慎反应。债券收益率小幅回升。"
+      },
+      "bullish": ["yields normalization", "inflation credibility"],
+      "bearish": ["equity valuations pressure", "dollar strength"],
+      "macroRisk": {
+        "en": "Prolonged elevated rates could slow growth more than expected, potentially triggering a softer landing scenario.",
+        "zh": "较长时间的高利率可能比预期更大地减缓增长，潜在触发软着陆情景。"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil Prices Stabilize After Geopolitical Spike",
+        "zh": "油价在地缘政治飙升后趋于稳定"
+      },
+      "impact": {
+        "en": "WTI crude held above $72/bbl as Middle East tensions eased slightly. Energy sector stocks showed mixed performance.",
+        "zh": "中东紧张局势有所缓和，WTI 原油保持在$72/桶以上。能源板块股票表现不一。"
+      },
+      "bullish": ["energy dividend yield", "transportation costs contained"],
+      "bearish": ["inflation re-ignition", "recession risk"],
+      "macroRisk": {
+        "en": "Sustained high oil prices could re-inflate consumer price pressures and impact profit margins.",
+        "zh": "持续高油价可能重新点燃消费者物价压力并影响利润幅度。"
+      }
+    },
+    {
+      "title": {
+        "en": "AI Chip Demand Remains Strong Despite Near-Term Headwinds",
+        "zh": "AI 芯片需求保持强劲，尽管面临近期逆风"
+      },
+      "impact": {
+        "en": "Major semiconductor manufacturers reported robust order books. However, inventory build concerns persist in mid-tier chip companies.",
+        "zh": "主要半导体制造商报告订单簿稳健。但中级芯片公司仍存在库存积累担忧。"
+      },
+      "bullish": ["cloud capex", "generative AI adoption"],
+      "bearish": ["inventory correction", "valuation compression"],
+      "macroRisk": {
+        "en": "Customer spending restraint could delay some product launches and impact Q4 guidance.",
+        "zh": "客户支出克制可能推迟一些产品发布并影响第四季度指引。"
+      }
+    },
+    {
+      "title": {
+        "en": "10-Year Treasury Yields Rise to 3.85%",
+        "zh": "10 年期美债收益率升至 3.85%"
+      },
+      "impact": {
+        "en": "Yield curve remains inverted, signaling recession concerns. Equities faced pressure from higher duration risk.",
+        "zh": "收益率曲线保持倒挂，发出衰退担忧信号。股票面临更高久期风险压力。"
+      },
+      "bullish": ["banking sector credit spreads", "bond prices stability"],
+      "bearish": ["small caps valuation compression", "growth stocks under pressure"],
+      "macroRisk": {
+        "en": "Elevated yields may constrain mortgage rates and slow home sales, impacting regional banks.",
+        "zh": "较高收益率可能约束抵押贷款利率并减缓房屋销售，影响地区银行。"
+      }
+    },
+    {
+      "title": {
+        "en": "Dollar Strengthens on Risk-Off Sentiment",
+        "zh": "美元因避险情绪走强"
+      },
+      "impact": {
+        "en": "DXY climbed to 106.2 as investors rotated into safe-haven assets amid geopolitical uncertainty.",
+        "zh": "地缘政治不确定性驱使投资者转向避险资产，DXY 升至 106.2。"
+      },
+      "bullish": ["international commodity sellers", "import relief for US consumers"],
+      "bearish": ["US multinationals with overseas earnings", "emerging markets"],
+      "macroRisk": {
+        "en": "Strong dollar exacerbates headwinds for multinational corporations with significant foreign revenue.",
+        "zh": "强势美元加剧了有大量海外收入的跨国公司的逆风。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "AI sector remains the primary growth driver. Cloud compute demand continues to accelerate with new large model deployments.",
+      "zh": "AI 板块仍是主要增长驱动力。云计算需求随着新大型模型部署而持续加速。"
+    },
+    "semiconductor": {
+      "en": "Mixed outlook. AI-related chips see strong orders while consumer electronics segment faces inventory normalization.",
+      "zh": "前景不一。AI 相关芯片订单强劲，而消费电子板块面临库存正常化压力。"
+    },
+    "bigTech": {
+      "en": "Mega-cap tech stocks showed resilience as cost-cutting measures offset revenue concerns from AI investment cycles.",
+      "zh": "大型科技公司股票表现稳健，成本削减措施抵消了 AI 投资周期的收入担忧。"
+    },
+    "energy": {
+      "en": "Pressure persists despite stabilization. High inventory levels in crude oil sector create near-term supply overhang.",
+      "zh": "尽管趋于稳定压力持续存在。原油板块高库存水平造成近期供应负担。"
+    },
+    "ev": {
+      "en": "EV demand continues to grow but at a slower pace. Margin compression from pricing wars remains a concern for manufacturers.",
+      "zh": "电动车需求继续增长但节奏放缓。定价战争导致的利润幅度压缩仍是制造商的担忧。"
+    },
+    "market": {
+      "en": "Mixed signals with defensive sectors outperforming cyclical names. Investors remain cautious amid economic data uncertainty.",
+      "zh": "信号不一，防御性板块跑赢周期性股票。在经济数据不确定性下投资者保持谨慎。"
+    },
+    "preciousMetals": {
+      "en": "Gold and silver held steady with safe-haven demand balancing central bank buying against recession fears.",
+      "zh": "金银表现稳定，避险需求平衡央行政策购买与衰退担忧。"
+    },
+    "oil": {
+      "en": "WTI crude stabilized near $72-73/bbl. OPEC+ production cuts remain in effect despite geopolitical easing.",
+      "zh": "WTI 原油稳定在$72-73/桶附近。尽管地缘政治缓和，OPEC+减产政策仍生效。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 futures up 0.2%, Nasdaq up 0.4%, Dow flat as Asian markets showed strength.",
+      "zh": "标普 500 期货上涨 0.2%，纳斯达克上涨 0.4%，道指持平，亚洲市场表现强劲。"
+    },
+    "treasury10Y": {
+      "en": "10Y yields at 3.85-3.90% range, slightly elevated from recent session lows.",
+      "zh": "10 年期收益率在 3.85-3.90% 区间，略高于近期低点。"
+    },
+    "dxy": {
+      "en": "DXY around 106.0-106.2 after last session's gains from geopolitical headlines.",
+      "zh": "DXY 在 106.0-106.2 左右，受益于前一日地缘政治头条。"
+    },
+    "oil": {
+      "en": "WTI crude in $72-73/bbl range, Brent near $77/bbl amid Middle East developments.",
+      "zh": "WTI 原油在$72-73/桶，布伦特原油在地缘政治影响下接近$77/桶。"
+    },
+    "keyRisk": {
+      "en": "Elevated Treasury yields and inversion persistence pose continued pressure on growth stocks and small caps.",
+      "zh": "较高美债收益率和倒挂持续对成长股和小盘股构成压力。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Markets are navigating a complex environment with rate cut expectations balanced against inflation persistence and recession concerns. Tech-led rally continues but faces headwinds from yield curve dynamics.",
+      "zh": "市场在复杂环境中航行，降息预期与通胀持续性和衰退担忧相互平衡。科技股领涨但面临收益率曲线动态的逆风。"
+    }
+  }
+}
