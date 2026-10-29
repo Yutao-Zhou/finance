@@ -1,0 +1,140 @@
+{
+  "date": "2026-10-29",
+  "summary": {
+    "en": "US equity futures pared losses as Alphabet's earnings report stirs AI sector jitters. Fed held rates steady at 3.75%-4.00%, but strong GDP and rising inflation data keep yields near 5%. DXY strengthened while oil prices surged on geopolitical tensions. Mixed signals ahead for the open with growth names under pressure.",
+    "zh": "美股期货收跌，Alphabet  earnings引发AI板块担忧。美联储维持利率在3.75%-4.00%不变，但强劲 GDP 和通胀数据使收益率徘徊在 5%附近。美元指数走强，油价在地缘政治紧张中上涨。开盘信号混合，成长股承压。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "US Stock Index Futures Drop After Alphabet Earnings Shake AI Trade",
+        "zh": "美股期指下跌，Alphabet 财报引发AI交易担忧"
+      },
+      "impact": {
+        "en": "Alphabet's mixed results in cloud and AI sectors are spooking growth stocks. S&P futures down ~0.6%, Nasdaq futures fall over 1% as investors reassess big tech valuations.",
+        "zh": "Alphabet在云和AI领域的混合表现令成长股受惊。标普期货跌约0.6%，纳指期货下跌超1%，投资者重新评估大科技股估值。"
+      },
+      "bullish": ["MSFT", "GOOGL"],
+      "bearish": ["NVDA", "META", "AMD"],
+      "macroRisk": {
+        "en": "No - Company-specific earnings event driving sector rotation within tech.",
+        "zh": "否 - 个股财报事件驱动科技板块内部轮动。"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury Yields Stabilize Near 5% After Strong Economic Data",
+        "zh": "美债收益率在强劲经济数据后稳定在 5% 附近"
+      },
+      "impact": {
+        "en": "10Y Treasury yield hovers at 5.00% following solid GDP and PCE inflation prints. Rate-sensitive sectors like real estate and utilities under pressure. Fed's hold vote suggests patience until inflation proves sustained.",
+        "zh": "强劲的GDP和PCE通胀数据后，10Y美债收益率徘徊在5.00%附近。利率敏感板块如房地产和公用事业承压。美联储维持投票表明将等待通胀得到证实后再行动。"
+      },
+      "bullish": [],
+      "bearish": ["XLRE", "XLU"],
+      "macroRisk": {
+        "en": "Yes - Sticky inflation keeping yields elevated increases funding costs and pressure on rate-sensitive assets.",
+        "zh": "是 - 粘性通胀使收益率居高不下，增加融资成本并对利率敏感资产构成压力。"
+      }
+    },
+    {
+      "title": {
+        "en": "Oil Surges 4% as Geopolitical Tensions and Demand Outlook Drive Prices",
+        "zh": "油价上涨 4%，地缘政治紧张和需求前景推升价格"
+      },
+      "impact": {
+        "en": "WTI crude at ~$102/barrel, up 4%. Energy sector benefits while consumer inflation concerns remain. Transportation costs rise, potentially complicating Fed's inflation-fighting mandate.",
+        "zh": "WTI原油约102美元/桶，上涨4%。能源板块受益，但通胀担忧仍在。运输成本上升，可能使美联储抗击通胀的任务复杂化。"
+      },
+      "bullish": ["XLE", "XOM", "COP"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Yes - High oil prices feed into CPI, potentially limiting Fed rate cut timeline.",
+        "zh": "是 - 高油价推升CPI，可能限制美联储降息时间表。"
+      }
+    },
+    {
+      "title": {
+        "en": "Dollar Index Gains as Risk-Off Sentiment and Strong US Data Support Greenback",
+        "zh": "美元指数上涨，避险情绪和强劲的美国数据支撑美债"
+      },
+      "impact": {
+        "en": "DXY at 102, +1% from prior session. Multinational earnings may face headwinds from currency strength while EM assets and gold see pressure.",
+        "zh": "美元指数在102，较上一交易日上涨1%。跨国盈利可能面临货币走强的阻力，而新兴市场和黄金承压。"
+      },
+      "bullish": ["UUP"],
+      "bearish": ["EEM", "GLD"],
+      "macroRisk": {
+        "en": "Yes - Strong dollar pressures non-dollar denominated assets and emerging market debt.",
+        "zh": "是 - 强劲美元压制非美元计价资产和新兴市场债务。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Mixed sentiment on AI names after Alphabet's results. Cloud growth concerns offsetting generative AI revenue optimism. NVDA, META under pressure; MSFT showing relative strength.",
+      "zh": "Alphabet 结果后AI名称情绪混合。云增长担忧抵消生成式AI收入乐观情绪。NVDA、META承压；MSFT显示相对强势。"
+    },
+    "semiconductor": {
+      "en": "Semiconductors under pressure as AI investment cycle questions emerge. Design tools and compute infrastructure face scrutiny following Alphabet's disclosure.",
+      "zh": "半导体承压，AI投资周期问题浮现。Alphabet披露后，设计工具和计算基础设施受到审查。"
+    },
+    "bigTech": {
+      "en": "Big Tech mixed: MSFT resilient, GOOGL volatile post-earnings, META and Amazon facing ad revenue scrutiny. Valuation compression continues for growth-heavy names.",
+      "zh": "大科技股混合：MSFT稳健，GOOGL 财报后波动，META和亚马逊面临广告收入审查。成长型名称的估值压缩继续。"
+    },
+    "energy": {
+      "en": "Energy sector surging on geopolitical premium and supply concerns. XLE ETF beneficiaries as crude stabilizes above $100/barrel.",
+      "zh": "能源板块因地缘政治溢价和供应担忧而飙升。XETF受益者，因为原油稳定在 100美元/桶以上。"
+    },
+    "ev": {
+      "en": "EV sector cautious as macro headwinds (high rates, inflation) persist. Consumer demand for EVs tempered by broader auto market slowdown.",
+      "zh": "EV部门谨慎，因为宏观阻力（高利率、通胀）持续。消费者对电动汽车的需求因整体汽车市场放缓而减弱。"
+    },
+    "market": {
+      "en": "Mixed pre-market sentiment with futures down modestly. Growth vs. value rotation likely as rate sensitivity weighs on tech.",
+      "zh": "期指小幅下跌，盘前情绪混合。鉴于利率敏感性压垮科技股，成长与价值轮动可能继续。"
+    },
+    "preciousMetals": {
+      "en": "Gold under pressure at ~$4,060/oz as dollar strength and rising yields offset safe-haven appeal. Silver and platinum follow similar weakness.",
+      "zh": "金价在~4,060美元/盎司承压，美元走强和收益率上升抵消避险吸引力。白银和铂金类似疲软。"
+    },
+    "oil": {
+      "en": "Oil prices elevated at ~$102/barrel with geopolitical risk premium intact. Supply constraints and OPEC+ discipline supporting higher prices.",
+      "zh": "油价在~102美元/桶附近，地缘政治风险溢价完好。供应约束和支持OPEC+纪律支持更高价格。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "S&P 500 futures down ~0.6%, Nasdaq 100 futures falling over 1% as Asia closes lower. Dow futures mixed.",
+      "zh": "标普500期货下跌约0.6%，纳斯达克100期货下跌超1%，因为亚洲收盘较低。道指期货混合。"
+    },
+    "treasury10Y": {
+      "en": "10-Year Treasury yield at 5.00%, stable after strong GDP and inflation data. Rate cuts now priced for late 2027.",
+      "zh": "10年期国债收益率在 5.00%，强劲的GDP和通胀数据后稳定。降息现已定价为 2027年下半年。"
+    },
+    "dxy": {
+      "en": "DXY at 102, up +1%. Greenback supported by strong US economy and Fed hold vote.",
+      "zh": "美元指数在 102，上涨+1%。美债由强劲的美国经济和美联储维持票支持。"
+    },
+    "oil": {
+      "en": "WTI crude at $102/barrel, +4%. Brent at ~$110. Energy sector leading gains.",
+      "zh": "WTI原油在102美元/桶，+4%。布伦特约 110美元。能源板块领涨。"
+    },
+    "keyRisk": {
+      "en": "Elevated Treasury yields and sticky inflation risks to central bank policy. AI sector volatility from big tech earnings.",
+      "zh": "较高的美债收益率和通胀粘性风险对央行政策。AI 部门波动来自大科技公司财报。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Mixed sentiment with growth names under pressure from rate sensitivity, while energy and commodities benefit. Watch AI sector rotation following Alphabet.",
+      "zh": "混合情绪，成长股因利率敏感性承压，而能源和商品受益。关注Alphabet后的AI板块轮动。"
+    }
+  }
+}
