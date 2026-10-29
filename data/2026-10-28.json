@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-28",
+  "summary": {
+    "en": "Markets face a pivotal day ahead of the Federal Reserve's rate decision with expectations for a hawkish hold. Tech earnings from Alphabet and Microsoft will provide key AI debt tests, while European bank earnings show strength. SK Hynix's strong results may lift semiconductors. Inflation concerns persist with AI-driven demand pushing prices higher.",
+    "zh": "市场对美联储利率决议前的关键交易日充满关注，预计将采取鹰派维持立场。Alphabet 和微软的技术财报将对 AI 债务进行测试，欧洲银行表现强劲。SK Hynix 的强劲业绩或提振半导体板块。通胀担忧持续存在，AI 驱动的需求推高物价。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Fed to hold rates as investors await hawkish pivot amid inflation concerns",
+        "zh": "美联储将维持利率，投资者在通胀担忧中等待鹰派转向"
+      },
+      "impact": {
+        "en": "The Fed's expected rate hold signals continued tight monetary policy despite easing inflation. This could pressure rates-sensitive sectors like real estate and growth stocks while supporting the dollar.",
+        "zh": "美联储预计维持利率，显示尽管通胀降温但货币紧缩政策仍在持续。这可能给利率敏感型板块（如房地产和成长股）带来压力，同时支持美元。"
+      },
+      "bullish": ["USD strength", "Bonds stability"],
+      "bearish": ["Rate-sensitive sectors", "Growth stocks"],
+      "macroRisk": {
+        "en": "Hawkish hold could disappoint if inflation proves stickier than expected, triggering sell-offs in high-duration assets.",
+        "zh": "若通胀比预期更顽固，鹰派维持可能令投资者失望，引发高久期资产抛售。"
+      }
+    },
+    {
+      "title": {
+        "en": "Alphabet and Microsoft earnings to test AI spending durability",
+        "zh": "Alphabet 和微软财报将测试 AI 支出可持续性"
+      },
+      "impact": {
+        "en": "Big Tech earnings are crucial for validating continued investment in artificial intelligence. Positive reports would ease AI debt fears, while misses could trigger sector rotation into value.",
+        "zh": "大科技股财报对于验证持续的人工智能投资至关重要。正面报告将缓解 AI 债务担忧，而不及预期可能引发板块轮动向价值股。"
+      },
+      "bullish": ["AI stocks if positive", "Cloud computing"],
+      "bearish": ["AI debt fears if negative", "Tech valuations"],
+      "macroRisk": {
+        "en": "Negative earnings could signal AI investment saturation or spending cuts, affecting entire tech sector.",
+        "zh": "负面业绩可能显示 AI 投资饱和或支出削减，影响整个科技板块。"
+      }
+    },
+    {
+      "title": {
+        "en": "European banks shine: UBS surges on profits, Deutsche Bank sets records",
+        "zh": "欧洲银行表现亮眼：UBS 业绩飙升，德银创纪录"
+      },
+      "impact": {
+        "en": "Strong European bank earnings reflect resilient consumer spending and improved net interest margins. This signals broader economic stability despite US inflation concerns.",
+        "zh": "强劲的欧洲银行业绩反映消费者支出韧性和净息差改善。这显示尽管美国通胀担忧，但整体经济保持稳定。"
+      },
+      "bullish": ["Banks", "Financials sector"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Regional divergence could complicate global risk appetite as European strength contrasts with US caution.",
+        "zh": "区域分化可能复杂化全球风险偏好，欧洲强劲表现与美国谨慎形成对比。"
+      }
+    },
+    {
+      "title": {
+        "en": "SK Hynix earnings boost semiconductor sentiment ahead of Broadcom deal",
+        "zh": "SK Hynix 财报提振半导体情绪，Broadcom 协议在即"
+      },
+      "impact": {
+        "en": "SK Hynix's triple-digit operating profit growth demonstrates strong AI chip demand. The Broadcom banking financing announcement further validates enterprise AI infrastructure spending.",
+        "zh": "SK Hynix 三位数运营利润增长显示强劲 AI 芯片需求。Broadcom 银行融资公告进一步证实企业级 AI 基础设施支出。"
+      },
+      "bullish": ["Semiconductors", "Micron", "Chip stocks"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Geopolitical tensions over chip manufacturing could offset earnings gains.",
+        "zh": "芯片制造的 geopolitics 紧张可能抵消业绩收益。"
+      }
+    },
+    {
+      "title": {
+        "en": "Robinhood struggles as crypto slump weighs on retail trading",
+        "zh": "Robinhood 陷入困境，加密货币低迷拖累零售交易"
+      },
+      "impact": {
+        "en": "Robinhood's miss highlights risks in fintech business models dependent on volatile assets and commission-based revenue. The broader crypto downturn may extend to other digital asset platforms.",
+        "zh": "Robinhood 不及预期凸显了依赖波动性资产和佣金收入的风投业务模型风险。更广泛的加密货币下滑可能延伸到其他数字资产平台。"
+      },
+      "bullish": [],
+      "bearish": ["Fintech", "Crypto-exposed stocks"],
+      "macroRisk": {
+        "en": "Crypto-related volatility could spill over to fintech earnings and consumer sentiment.",
+        "zh": "加密货币相关波动可能蔓延至风投业绩和消费者情绪。"
+      }
+    },
+    {
+      "title": {
+        "en": "Treasury Secretary Bessent weighs in on AI policy amid fiscal focus",
+        "zh": "财政部部长 Bessent 在财政关注下评论 AI 政策"
+      },
+      "impact": {
+        "en": "Treasury Secretary Scott Bessent's upcoming interview will address AI liability concerns and fiscal priorities. Policy clarity could boost infrastructure spending.",
+        "zh": "财政部部长 Scott Bessent 即将接受的采访将讨论 AI 责任担忧和财政优先事项。政策清晰度可能提振基础设施支出。"
+      },
+      "bullish": ["Government tech programs", "Infrastructure stocks"],
+      "bearish": [],
+      "macroRisk": {
+        "en": "Unresolved policy tensions could create uncertainty around government AI initiatives.",
+        "zh": "未解决的政策紧张可能在政府 AI 计划周围制造不确定性。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Mixed sentiment ahead of Alphabet and Microsoft earnings. Broadcom's $63B financing deal validates enterprise AI spending, but fears of AI debt remain. Positive earnings should ease concerns; misses could trigger rotation into value.",
+      "zh": "Alphabet 和微软财报前情绪混杂。Broadcom 的 630 亿美元融资协议证实企业级 AI 支出，但对 AI 债务的担忧依然存在。正面业绩应缓解担忧；不及预期可能引发向价值股轮动。"
+    },
+    "semiconductor": {
+      "en": "Strong with SK Hynix's triple-digit profit growth boosting sector sentiment. Expect continued strength through the Broadcom deal. Watch for geopolitical risks in chip supply chains.",
+      "zh": "强劲，SK Hynix 三位数利润增长提振板块情绪。Broadcom 协议将带来持续强势。关注芯片供应链中的地缘政治风险。"
+    },
+    "bigTech": {
+      "en": "Critical earnings day for Alphabet and Microsoft. Earnings will determine if AI-driven growth can justify current valuations amidst broader economic caution.",
+      "zh": "Alphabet 和微软的关键财报日。业绩将决定在整体经济谨慎的情况下，AI 驱动增长是否能证明当前估值合理。"
+    },
+    "energy": {
+      "en": "Moderate volatility as inflation data and AI-driven demand impact oil prices. Fed policy stance affects capital-intensive sectors like energy.",
+      "zh": "随着通胀数据和 AI 需求影响油价，能源板块波动适中。美联储政策立场影响资本密集型如能源板块。"
+    },
+    "ev": {
+      "en": "Cautious amid broader tech uncertainty and inflation concerns. EV demand dependent on interest rates and consumer spending power.",
+      "zh": "在更广泛技术不确定性和通胀担忧中谨慎。电动汽车需求取决于利率和消费者购买力。"
+    },
+    "market": {
+      "en": "Mixed pre-market with Dow futures falling while S&P and Nasdaq futures climb. Fed decision at 2pm ET will set intraday tone. Expect cautious open given key events.",
+      "zh": "盘前表现混杂，道指期货下跌而标普和纳指期货上涨。美联储 2 点决议将决定日内基调。鉴于重大事件，预期谨慎开盘。"
+    },
+    "preciousMetals": {
+      "en": "Gold acting as inflation hedge remains attractive. Hawkish Fed stance may limit upside but real yield dynamics support prices.",
+      "zh": "黄金作为通胀对冲仍具吸引力。鹰派美联储立场可能限制上行空间，但实际收益率动态支持价格。"
+    },
+    "oil": {
+      "en": "Moderate pressure from US inflation concerns despite AI-driven demand. Monitor geopolitical developments in key producing regions.",
+      "zh": "尽管 AI 驱动需求，美国通胀担忧带来中等压力。监控关键产区地缘政治发展。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "Dow futures down ~0.1%, S&P 500 futures up ~0.2%, Nasdaq futures up ~0.3%. Mixed sentiment ahead of Fed decision and tech earnings.",
+      "zh": "道指期货下跌约 0.1%，标普 500 期货上涨约 0.2%，纳指期货上涨约 0.3%。美联储决策和技术财报前的情绪混杂。"
+    },
+    "treasury10Y": {
+      "en": "Watch for real yields near 4.0%. Hawkish Fed hold should cap upside, but inflation data could push yields higher if sticky.",
+      "zh": "关注实际收益率接近 4.0%。鹰派美联储维持应限制上行空间，但通胀数据若顽固可能推高收益率。"
+    },
+    "dxy": {
+      "en": "Dollar expected to strengthen on rate hold and potential for further hikes if inflation surprises. Geopolitical tensions provide support.",
+      "zh": "美元预期因利率维持而在通胀意外时走强。地缘政治紧张提供支持。"
+    },
+    "oil": {
+      "en": "Brent around $80-85 range, impacted by US inflation and demand concerns. AI infrastructure spending should provide floor.",
+      "zh": "布伦特原油在 80-85 美元区间，受美国通胀和需求担忧影响。AI 基础设施支出应提供支撑。"
+    },
+    "keyRisk": {
+      "en": "Fed rate decision at 2pm ET is pivotal. Hawkish hold with tighter commentary could trigger broad market sell-off.",
+      "zh": "美联储下午 2 点利率决议至关重要。鹰派维持配合更紧的评论可能触发广泛市场抛售。"
+    }
+  },
+  "judgment": {
+    "type": "mixed",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Markets await Fed decision and tech earnings with caution. Inflation data remains the dominant theme, creating sector divergence. Risk-on if inflation eases further; risk-off if hawkish commentary disappoints.",
+      "zh": "市场谨慎等待美联储决策和技术财报。通胀数据仍是主导主题，造成板块分化。若通胀进一步降温则风险偏好上升；鹰派评论令失望则风险厌恶。"
+    }
+  }
+}
