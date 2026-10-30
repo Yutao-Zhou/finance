@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-30",
+  "summary": {
+    "en": "US stocks face pressure ahead of opening as Amazon and Intel miss earnings expectations, dragging Nasdaq futures down 2%. The crypto sector faces additional headwinds after Binance suffered a historic $6.3 billion hack. Oil prices firm up on Middle East tensions while treasury yields decline amid mixed economic data outlook.",
+    "zh": "美股盘前承压，Amazon 和 Intel 财报不及预期拖累纳指期货下跌 2%。加密板块受 Binance 遭创纪录 63 亿美元黑客攻击影响进一步承压。油价因中东紧张局势走强，美债收益率在经济数据展望混杂中下跌。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Amazon Falls 7%, Intel Plunges 25% After Earnings Disappointment",
+        "zh": "亚马逊跌 7%，英特尔暴跌 25%，财报遭投资者失望"
+      },
+      "impact": {
+        "en": "Major tech earnings miss with Amazon missing revenue/EPS and negative free cash flow. Intel cut guidance citing PC market softness expected to continue through H1 2027.",
+        "zh": "主要科技股业绩不及预期，亚马逊营收和 EPS 均未达标且自由现金流为负。英特尔下调指引，预计 PC 市场疲软将持续至 2027 年上半年。"
+      },
+      "bullish": [],
+      "bearish": [
+        "Amazon Q3 revenue/EPS miss",
+        "Intel weak fourth quarter guidance",
+        "Negative free cash flow for consecutive quarters",
+        "PC market weakness extending into next year"
+      ],
+      "macroRisk": {
+        "en": "Tech sector valuations under pressure amid AI capex concerns and negative cash flow trends.",
+        "zh": "科技板块估值受 AI 资本支出担忧和持续负现金流趋势压力。"
+      }
+    },
+    {
+      "title": {
+        "en": "Binance Hit by Largest Crypto Hack Ever at $6.3 Billion Loss",
+        "zh": "币安遭遇史上最大加密货币盗窃案损失达 63 亿美元"
+      },
+      "impact": {
+        "en": "Crypto sector faces massive uncertainty as world's largest exchange halted trading and froze assets. Related stocks including Circle, Coinbase likely to be pressured.",
+        "zh": "全球最大交易所暂停交易并冻结资产，加密板块面临巨大不确定性。相关股票包括 Circle、Coinbase 等可能受压。"
+      },
+      "bullish": [],
+      "bearish": [
+        "Historic security breach undermines crypto trust",
+        "$6.3B frozen by Binance, Circle and Tether",
+        "Bitcoin dropped below $78K amid fears",
+        "State-backed hack speculation (North Korea links)"
+      ],
+      "macroRisk": {
+        "en": "Regulatory overhang could expand post-incident; systemic crypto market stability questioned.",
+        "zh": "事件后监管压力可能扩大，加密市场系统稳定性遭质疑。"
+      }
+    },
+    {
+      "title": {
+        "en": "Nasdaq Futures Drop 2% as Tech Sell-Off Continues Worst Week",
+        "zh": "纳指期货跌 2%，科技股持续下跌本周最坏表现"
+      },
+      "impact": {
+        "en": "Weakest session of week for Nasdaq with Alphabet down another ~13%, NVDA/MU/ARM also pressured by chip sector concerns.",
+        "zh": "纳指本周最弱交易日，Alphabet 再跌约 13%，NVIDIA、Micron 和 ARM 也因芯片板块担忧受压。"
+      },
+      "bullish": [
+        "Microsoft cash flow positive",
+        "Raymond James strategists still see AI beneficiaries as fundamentally strong"
+      ],
+      "bearish": [
+        "Tech positioning crowded despite fundamentals",
+        "Nasdaq could enter negative territory this week",
+        "Alphabet worst single-day drop in history"
+      ],
+      "macroRisk": {
+        "en": "Potential market correction if Nasdaq enters prolonged downtrend with no clear catalyst.",
+        "zh": "若纳指陷入无明确催化剂的长期下跌，可能出现市场回调风险。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Under pressure: NVDA, ARM, MU lower on chip demand concerns; investor questions if AI capex will pay off.",
+      "zh": "承压：NVIDIA、ARM、Micron 因芯片需求担忧下跌；投资者质疑 AI 资本支出回报。"
+    },
+    "semiconductor": {
+      "en": "Mixed: INTC down 25% on weak guidance, while ASML also saw sharp European declines; PC market slowdown key risk.",
+      "zh": "分化：英特尔跌 25%，ASML 在欧洲也大幅下跌；PC 市场放缓是关键风险。"
+    },
+    "bigTech": {
+      "en": "Pressure: AMZN -7%, GOOGL flat after Thursday's losses, RDDT down 20% on growth concerns.",
+      "zh": "承压：亚马逊跌 7%，谷歌周四亏损后持平，Reddit 因增长担忧跌 20%。"
+    },
+    "energy": {
+      "en": "Oil prices firm ~1% amid Middle East tensions (Qatar delegation in Tehran); Chevron and energy names likely elevated.",
+      "zh": "油价约涨 1%，中东紧张局势（卡塔尔代表团访问德黑兰）支撑；雪佛龙等能源股可能走强。"
+    },
+    "ev": {
+      "en": "Unavailable: No specific EV sector headlines verified within cutoff window.",
+      "zh": "暂无数据：截至时间窗口内未发现电动车板块特定新闻。"
+    },
+    "market": {
+      "en": "Bearish: Nasdaq futures down 2%, tech-heavy index in worst session of week ahead of Halloween.",
+      "zh": "偏空：纳指期货跌 2%，科技权重指数在万圣节前表现最弱。"
+    },
+    "preciousMetals": {
+      "en": "Gold beneath $4,000/oz on Newsquawk; defensive positioning amid market uncertainty.",
+      "zh": "金价低于 4000 美元/盎司；市场不确定性中防御性配置。"
+    },
+    "oil": {
+      "en": "WTI at ~$102.90 (+0.88%), Brent around $116 (+1%); Middle East geopolitical risk provides support.",
+      "zh": "WTI 约 102.90 美元/桶（+0.88%），Brent 约 116 美元（+1%）；中东地缘风险提供支撑。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "US Index futures suggest broadly lower open (-2% for Nasdaq-100); tech weakness extends into Friday session.",
+      "zh": "美国股指期货暗示普遍低开（纳指期货 -2%）；科技疲软延续至周五交易时段。"
+    },
+    "treasury10Y": {
+      "en": "Unavailable: Yields declined earlier but precise 10Y yield level not verified with timestamp before cutoff.",
+      "zh": "暂无数据：收益率早期已下跌，但截至时间前未核实具体 10 年期收益率水平。"
+    },
+    "dxy": {
+      "en": "USD softens modestly as AI-spending concerns dampen risk appetite; no specific DXY quote verified.",
+      "zh": "美元温和走弱；AI 支出担忧抑制风险偏好；暂无具体美元指数报价可核证。"
+    },
+    "oil": {
+      "en": "WTI futures up ~0.88% to $102.90; Brent firmer around $116; Middle East tensions key driver.",
+      "zh": "WTI 期货涨约 0.88% 至 102.90 美元；Brent 更坚挺在 116 美元左右；中东紧张局势为主要驱动。"
+    },
+    "keyRisk": {
+      "en": "Tech earnings cycle + crypto hack combine to create negative sentiment; potential for broader market correction if AI capex story loses traction.",
+      "zh": "科技盈利周期与加密攻击叠加形成负面情绪；若 AI 资本支出故事失去吸引力，可能出现广泛市场回调。"
+    }
+  },
+  "judgment": {
+    "type": "risk-off",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "Multiple negative catalysts (earnings misses, crypto hack, tech sell-off) align before market open. Confidence medium as exact DXY/yield levels not verified.",
+      "zh": "开盘前多个负面催化剂（业绩不及预期、加密攻击、科技抛售）共振。信心为中，因美元指数/收益率具体水平未核实。"
+    }
+  }
+}
