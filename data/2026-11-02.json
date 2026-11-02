@@ -1,0 +1,117 @@
+{
+  "date": "2026-11-02",
+  "summary": {
+    "en": "Late publication of the November 2 premarket brief, with information cut off at 09:00 EST. IDEXX reported Q3 revenue of $1,214M (+10% reported and organic), raising 2026 revenue guidance to $4,741M–$4,767M and EPS guidance to $14.96–$15.16. Pathfinder reported Q3 diluted EPS of $0.32, versus $0.42 in Q2 and $0.10 a year earlier.",
+    "zh": "本报为11月2日盘前晨报补发，信息截至09:00 EST。IDEXX第三季度营收$1,214M（报告口径和有机口径均增长10%），全年营收指引上调至$4,741M–$4,767M、EPS指引上调至$14.96–$15.16。Pathfinder第三季度稀释EPS为$0.32，上季为$0.42、去年同期为$0.10。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "IDEXX Q3 revenue $1,214M (+10%) and EPS $4.01; raises 2026 revenue guidance to $4,741M–$4,767M",
+        "zh": "IDEXX第三季度营收$1,214M（增长10%）、EPS $4.01；全年营收指引上调至$4,741M–$4,767M"
+      },
+      "url": "https://ir.idexx.com/news-events/press-releases/detail/420/idexx-laboratories-announces-third-quarter-results",
+      "impact": {
+        "en": "IDEXX raised its 2026 revenue guidance midpoint by $32M and EPS guidance midpoint by $0.25, citing CAG Diagnostics recurring revenue performance. Q3 CAG Diagnostics recurring revenue grew 11% as reported and organic; over 1,900 inVue Dx placements brought the installed base to nearly 11,000 instruments.",
+        "zh": "IDEXX因CAG诊断经常性收入表现，上调全年营收指引中值$32M、EPS指引中值$0.25。第三季度CAG诊断经常性收入按报告及有机口径均增长11%；季度inVue Dx装机超1,900台，累计近11,000台。"
+      },
+      "bullish": [
+        "全年营收指引中值上调$32M、EPS指引中值上调$0.25 / 2026 revenue guidance midpoint raised $32M; EPS guidance midpoint raised $0.25.",
+        "第三季度CAG诊断经常性收入按报告及有机口径均增长11% / Q3 CAG Diagnostics recurring revenue grew 11% as reported and organic."
+      ],
+      "bearish": [],
+      "macroRisk": {
+        "en": "None identified in available evidence.",
+        "zh": "可用证据中未识别相关宏观风险。"
+      }
+    },
+    {
+      "title": {
+        "en": "Pathfinder Q3 diluted EPS $0.32 versus $0.42 in Q2 and $0.10 a year earlier; net charge-offs $4.3M",
+        "zh": "Pathfinder第三季度稀释EPS $0.32，上季$0.42、去年同期$0.10；净核销$4.3M"
+      },
+      "url": "https://www.globenewswire.com/news-release/2026/11/02/3393136/0/en/pathfinder-bancorp-inc-announces-financial-results-for-the-third-quarter-of-2026.html",
+      "impact": {
+        "en": "Net income was $2.1M versus $2.7M in Q2. Net charge-offs of $4.3M were fully covered by previously established specific reserves, compared with $670,000 a year earlier. Average total deposit cost declined 24 basis points year over year to 2.04%.",
+        "zh": "净利润为$2.1M，上季为$2.7M。净核销$4.3M，由既有专项拨备完全覆盖；去年同期净核销为$670,000。存款平均成本同比下降24个基点至2.04%。"
+      },
+      "bullish": [
+        "存款平均成本同比下降24个基点至2.04% / Average total deposit cost declined 24 basis points year over year to 2.04%."
+      ],
+      "bearish": [
+        "稀释EPS从上季$0.42降至$0.32；净核销由去年同期$670,000增至$4.3M / Diluted EPS fell from $0.42 in Q2 to $0.32; net charge-offs rose from $670,000 a year earlier to $4.3M."
+      ],
+      "macroRisk": {
+        "en": "None identified in available evidence.",
+        "zh": "可用证据中未识别相关宏观风险。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "No AI-specific developments verified in the available evidence for this window.",
+      "zh": "本窗口可用证据中未验证AI相关具体进展。"
+    },
+    "semiconductor": {
+      "en": "No semiconductor-specific developments verified in the available evidence for this window.",
+      "zh": "本窗口可用证据中未验证半导体相关具体进展。"
+    },
+    "bigTech": {
+      "en": "No Big Tech-specific developments verified in the available evidence for this window.",
+      "zh": "本窗口可用证据中未验证大型科技股相关具体进展。"
+    },
+    "energy": {
+      "en": "No US-listed energy company developments verified in the available evidence for this window.",
+      "zh": "本窗口可用证据中未验证美股能源公司相关具体进展。"
+    },
+    "ev": {
+      "en": "No EV-specific developments verified in the available evidence for this window.",
+      "zh": "本窗口可用证据中未验证电动车相关具体进展。"
+    },
+    "market": {
+      "en": "As of the 09:00 EST information cutoff, the November 2 US cash session had not opened. No verified prior-close market-index snapshot was retrieved.",
+      "zh": "截至09:00 EST信息截点，11月2日美股现金市场尚未开盘。本次未取得经核实的上一交易日指数收盘快照。"
+    },
+    "preciousMetals": {
+      "en": "No precious-metals developments verified in the available evidence for this window.",
+      "zh": "本窗口可用证据中未验证贵金属相关具体进展。"
+    },
+    "oil": {
+      "en": "No oil-specific developments verified in the available evidence for this window.",
+      "zh": "本窗口可用证据中未验证原油相关具体进展。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "Unavailable: no verified futures snapshot at or before the 09:00 EST cutoff was retrieved.",
+      "zh": "不可用：本次未取得09:00 EST截点前经核实的期货快照。"
+    },
+    "treasury10Y": {
+      "en": "Not available; no Treasury yield data were provided in the evidence.",
+      "zh": "不可用；证据中未提供国债收益率数据。"
+    },
+    "dxy": {
+      "en": "Not available; no DXY reading was verified in the evidence.",
+      "zh": "不可用；证据中未验证美元指数读数。"
+    },
+    "oil": {
+      "en": "Not available; no oil price data were provided in the evidence.",
+      "zh": "不可用；证据中未提供原油价格数据。"
+    },
+    "keyRisk": {
+      "en": "No macro data releases or Fed decisions were verified in the available evidence for this window.",
+      "zh": "本窗口可用证据中未验证任何宏观数据发布或美联储决议。"
+    }
+  },
+  "judgment": {
+    "type": "event-driven",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "This is a late publication of the 09:00 EST premarket snapshot, rather than an intraday market update. Coverage is limited to two original issuer releases published before cutoff and the retrieved excerpts. Macro data, broad-market quotes and futures remain unverified.",
+      "zh": "本报为09:00 EST盘前快照的补发，不代表发布时刻的盘中行情。内容限于截点前发布的两则发行人原始公告及本次抓取到的正文片段；宏观、整体市场行情及期货数据仍未核实。"
+    }
+  }
+}
