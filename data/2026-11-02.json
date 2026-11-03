@@ -104,14 +104,14 @@
     }
   },
   "judgment": {
-    "type": "event-driven",
+    "type": "mixed",
     "confidence": {
       "en": "medium",
       "zh": "中"
     },
     "note": {
-      "en": "Information cutoff: 09:00 EST. Company news is based on the retrieved issuer releases. Market references use delayed time-stamped quotes or the prior-session close; ETF proxies are labeled explicitly.",
-      "zh": "信息截至09:00 EST。公司新闻依据本次抓取的发行人公告；市场参考采用带时间戳的延时行情或上一交易日收盘数据，ETF代理指标已明确标注。"
+      "en": "I lean toward a tentative recovery with limited conviction. The prior session's semiconductor and Nasdaq declines (SOXX -8.24%, Nasdaq -2.85%) sit alongside a premarket futures rebound (ES +0.5%, NQ +0.8%), while lower Treasury yields and a softer dollar may ease valuation pressure. The roughly 5.3% oil-price decline and 1.4% gold advance leave a less uniform risk picture; these moves alone do not establish demand weakness or investor motives. Watch whether a cash-market advance emerges, broadens and includes semiconductor shares. If the rebound narrows or fades while yields or the dollar reverse higher, I would weaken the recovery thesis; resilient breadth with stable rates would strengthen it.",
+      "zh": "我倾向于把今天看作一次谨慎的修复尝试，方向仍需开盘后确认。前一交易日半导体和纳指明显回调（SOXX -8.24%、纳指 -2.85%），盘前股指期货回升（标普期货 +0.5%、纳指期货 +0.8%），同时美债收益率与美元回落，可能缓和估值压力。油价回落约5.3%、黄金上涨1.4%，使跨资产信号仍有分歧；仅凭这些价格变化还无法确定需求强弱或资金意图。开盘后重点观察能否出现并扩散涨势、半导体能否跟随。若反弹收窄或回吐，同时收益率或美元转强，修复判断应下调；若市场广度改善且利率平稳，则更支持修复延续。"
     }
   },
   "marketData": {
