@@ -1,0 +1,332 @@
+{
+  "date": "2026-11-05",
+  "summary": {
+    "en": "Disc Medicine reported that its Phase 3 APOLLO trial of bitopertin in erythropoietic protoporphyria met all primary and secondary endpoints, with a 41.4% reduction in whole-blood metal-free PPIX versus placebo, and ended Q3 with approximately $683M in cash after a $486M October offering. Dogwood Therapeutics completed its Halneuron Phase 2b CINP trial (239 patients) with top-line results expected in November and closed a $5M private placement extending its runway to Q1 2027. Premarket futures show a mixed picture: S&P 500 futures are flat at +0.09% while Nasdaq-100 futures are down -0.81%, suggesting the prior session's broad rally is not being extended.",
+    "zh": "Disc Medicine（NASDAQ: IRON）报告其bitopertin治疗红细胞生成性原卟啉症的III期APOLLO试验达到全部主要和次要终点，全血无金属PPIX较安慰剂降低41.4%，第三季度末现金约$683M（含10月$486M增发）。Dogwood Therapeutics（Nasdaq: DWTX）完成Halneuron IIb期CINP试验（239例），顶线数据预计11月公布，并完成$5M私募将运营跑道延至2027年Q1。盘前期货表现分化：标普500期货持平（+0.09%），纳指100期货下跌-0.81%，前一交易日的普涨格局未见延续。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Disc Medicine: Phase 3 APOLLO trial of bitopertin in EPP meets all primary and secondary endpoints; Q3 cash ~$683M after $486M October offering",
+        "zh": "Disc Medicine：bitopertin治疗EPP的III期APOLLO试验达到全部主要和次要终点；10月$486M增发后Q3末现金约$683M"
+      },
+      "url": "https://www.globenewswire.com/news-release/2026/11/05/3396436/0/en/disc-medicine-reports-third-quarter-2026-financial-results-and-provides-business-update.html",
+      "impact": {
+        "en": "Bitopertin reduced whole-blood metal-free PPIX by 41.4% vs placebo (p<0.0001) and increased pain-free sunlight time by 12.2 hours in month 6 (p=0.0010). NDA resubmission is planned by end of 2026 with an FDA decision anticipated by mid-2027. The company also reported positive initial RESTORE-PV data for DISC-3405 in polycythemia vera and an end-of-Phase 2 FDA meeting for selcodebart in myelofibrosis anemia planned by year-end.",
+        "zh": "Bitopertin较安慰剂降低全血无金属PPIX 41.4%（p<0.0001），第6个月无痛日照时间增加12.2小时（p=0.0010）。公司计划2026年底前重新提交NDA，FDA决定预计2027年中。此外，DISC-3405治疗真性红细胞增多症的RESTORE-PV研究初步数据积极，selcodebart治疗骨髓纤维化贫血的II期结束FDA会议计划年底前举行。"
+      },
+      "bullish": [
+        "Phase 3 APOLLO success in EPP with statistically significant co-primary endpoints",
+        "Cash runway extended into 2030 with ~$683M on hand"
+      ],
+      "bearish": [],
+      "macroRisk": {
+        "en": "FDA regulatory timeline for NDA resubmission and approval remains a binary risk; no approval is guaranteed by mid-2027.",
+        "zh": "NDA重新提交及审批的FDA监管时间线仍为二元风险；2027年中获批并非确定。"
+      }
+    },
+    {
+      "title": {
+        "en": "Dogwood Therapeutics: Q3 net loss $4.9M; Halneuron Phase 2b CINP trial completed (239 patients), top-line data expected November; $5M private placement closed",
+        "zh": "Dogwood Therapeutics：Q3净亏损$4.9M；Halneuron IIb期CINP试验完成（239例），顶线数据预计11月公布；$5M私募完成"
+      },
+      "url": "https://www.globenewswire.com/news-release/2026/11/05/3396434/0/en/dogwood-therapeutics-announces-third-quarter-2026-financial-results.html",
+      "impact": {
+        "en": "Q3 2026 revenue was $0.1M (first payment under PRIDCor License Agreement); R&D expense was $3.3M vs $14.5M a year earlier (prior year included $12.0M IPR&D charge). Net loss was $4.9M ($0.14/share) vs $15.7M ($8.20/share) in Q3 2025. Cash of $4.9M plus the $5M placement from Sealbond Limited (CK Life Sciences subsidiary) provides runway through Q1 2027.",
+        "zh": "2026年Q3收入$0.1M（PRIDCor许可协议首笔付款）；研发费用$3.3M，上年同期$14.5M（上年含$12.0M IPR&D费用）。净亏损$4.9M（每股$0.14），上年同期$15.7M（每股$8.20）。$4.9M在手现金加上Sealbond Limited（CK Life Sciences子公司）$5M私募，运营跑道至2027年Q1。"
+      },
+      "bullish": [
+        "Phase 2b CINP trial completed with top-line results expected in November 2026"
+      ],
+      "bearish": [
+        "Cash runway only extends to Q1 2027, creating near-term funding dependency"
+      ],
+      "macroRisk": {
+        "en": "As a pre-revenue biotech with limited cash, execution risk on the Phase 2b readout and subsequent Phase 3 funding is elevated.",
+        "zh": "作为无收入、现金有限的生物科技公司，IIb期数据读出及后续III期融资的执行风险较高。"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "Global X Artificial Intelligence & Technology ETF 59.88 USD/share（11/04, 16:00 EST; +0.61% versus 11/03, 16:00 EST）. Previous-session close; ETF performance is a sector reference, not a new company announcement. Source: Yahoo Finance.",
+      "zh": "AIQ人工智能及科技ETF 59.88美元/份（11/04, 16:00 EST；较11/03, 16:00 EST +0.61%）。上一交易日收盘数据；ETF表现作为板块参考，不代表当日新增公司事件。来源：Yahoo Finance。"
+    },
+    "semiconductor": {
+      "en": "iShares Semiconductor ETF 451.05 USD/share（11/04, 16:00 EST; -3.00% versus 11/03, 16:00 EST）. Previous-session close; ETF performance is a sector reference, not a new company announcement. Source: Yahoo Finance.",
+      "zh": "SOXX半导体ETF 451.05美元/份（11/04, 16:00 EST；较11/03, 16:00 EST -3.00%）。上一交易日收盘数据；ETF表现作为板块参考，不代表当日新增公司事件。来源：Yahoo Finance。"
+    },
+    "bigTech": {
+      "en": "Nasdaq Composite rose +1.47% and QQQ +0.95% in the prior session; Nasdaq-100 futures are down -0.81% this morning, suggesting the tech rally is stalling.",
+      "zh": "纳斯达克综合指数前一交易日上涨+1.47%，QQQ上涨+0.95%；今晨纳指100期货下跌-0.81%，科技股涨势正在停滞。"
+    },
+    "energy": {
+      "en": "XLE (Energy ETF) fell -4.75% in the prior session. Brent futures are up +1.25% and WTI +0.48% this morning. The prior session's energy decline and this morning's modest oil rebound present competing signals; the driver of the oil move is not confirmed.",
+      "zh": "XLE（能源ETF）前一交易日下跌-4.75%。今晨布伦特期货上涨+1.25%，WTI上涨+0.48%。前一交易日能源板块下跌与今晨油价小幅回升构成矛盾信号；油价变动驱动因素未确认。"
+    },
+    "ev": {
+      "en": "Global X Autonomous & Electric Vehicles ETF 29.43 USD/share（11/04, 15:55 EST; +1.59% versus 11/03, 16:00 EST）. Previous-session close; ETF performance is a sector reference, not a new company announcement. Source: Yahoo Finance.",
+      "zh": "DRIV自动驾驶及电动车ETF 29.43美元/份（11/04, 15:55 EST；较11/03, 16:00 EST +1.59%）。上一交易日收盘数据；ETF表现作为板块参考，不代表当日新增公司事件。来源：Yahoo Finance。"
+    },
+    "market": {
+      "en": "S&P 500 7,688.73 points（11/04, 16:00 EST; +1.59% versus 11/03, 16:00 EST）; Nasdaq Composite 25,739.71 points（11/04, 16:00 EST; +1.47% versus 11/03, 16:00 EST）; Dow Jones Industrial Average 53,357.03 points（11/04, 16:00 EST; +3.05% versus 11/03, 16:00 EST）. Source: Yahoo Finance delayed five-minute bars.",
+      "zh": "标普500 7,688.73点（11/04, 16:00 EST；较11/03, 16:00 EST +1.59%）；纳斯达克综合指数 25,739.71点（11/04, 16:00 EST；较11/03, 16:00 EST +1.47%）；道琼斯工业指数 53,357.03点（11/04, 16:00 EST；较11/03, 16:00 EST +3.05%）。来源：Yahoo Finance延时五分钟行情。"
+    },
+    "preciousMetals": {
+      "en": "COMEX gold futures 4,135.60 USD/oz（11/05, 08:54 EST; +1.50% versus 11/04, 16:00 EST）. Source: Yahoo Finance delayed five-minute bars.",
+      "zh": "COMEX黄金期货 4,135.60美元/盎司（11/05, 08:54 EST；较11/04, 16:00 EST +1.50%）。来源：Yahoo Finance延时五分钟行情。"
+    },
+    "oil": {
+      "en": "Brent futures +1.25% at $96.40, WTI +0.48% at $89.13 this morning. The prior session saw XLE fall -4.75%. Competing hypotheses for the oil move exist; no single supply or demand cause is confirmed.",
+      "zh": "今晨布伦特期货+1.25%至$96.40，WTI +0.48%至$89.13。前一交易日XLE下跌-4.75%。油价变动存在多种竞争性假设；未确认单一供给或需求原因。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "E-mini S&P 500 7,729.00 points（11/05, 08:54 EST; +0.09% versus 11/04, 16:00 EST）; E-mini Nasdaq-100 28,337.25 points（11/05, 08:54 EST; -0.81% versus 11/04, 16:00 EST）; E-mini Dow 53,874.00 points（11/05, 08:54 EST; +0.68% versus 11/04, 16:00 EST）. Source: Yahoo Finance delayed five-minute bars.",
+      "zh": "标普500 E-mini期货 7,729.00点（11/05, 08:54 EST；较11/04, 16:00 EST +0.09%）；纳指100 E-mini期货 28,337.25点（11/05, 08:54 EST；较11/04, 16:00 EST -0.81%）；道指E-mini期货 53,874.00点（11/05, 08:54 EST；较11/04, 16:00 EST +0.68%）。来源：Yahoo Finance延时五分钟行情。"
+    },
+    "treasury10Y": {
+      "en": "10-year Treasury yield 4.904%（11/05, 08:49 EST; +1.0 bp versus 11/04, 15:00 EST）. Source: Yahoo Finance delayed five-minute bars.",
+      "zh": "10年期美债收益率 4.904%（11/05, 08:49 EST；较11/04, 15:00 EST +1.0 bp）。来源：Yahoo Finance延时五分钟行情。"
+    },
+    "dxy": {
+      "en": "US Dollar Index 101.63 points（11/05, 08:55 EST; +0.12% versus 11/04, 16:00 EST）. Source: Yahoo Finance delayed five-minute bars.",
+      "zh": "美元指数DXY 101.63点（11/05, 08:55 EST；较11/04, 16:00 EST +0.12%）。来源：Yahoo Finance延时五分钟行情。"
+    },
+    "oil": {
+      "en": "WTI futures 89.13 USD/bbl（11/05, 08:54 EST; +0.48% versus 11/04, 16:00 EST）; Brent futures 96.40 USD/bbl（11/05, 08:55 EST; +1.25% versus 11/04, 16:00 EST）. Source: Yahoo Finance delayed five-minute bars.",
+      "zh": "WTI原油期货 89.13美元/桶（11/05, 08:54 EST；较11/04, 16:00 EST +0.48%）；布伦特原油期货 96.40美元/桶（11/05, 08:55 EST；较11/04, 16:00 EST +1.25%）。来源：Yahoo Finance延时五分钟行情。"
+    },
+    "keyRisk": {
+      "en": "Nasdaq-100 futures down -0.81% while Dow futures are up +0.68%: the prior session's breadth may not extend. Watch whether Nasdaq futures can stabilize above the prior close in the first 30 minutes of the cash session.",
+      "zh": "纳指100期货下跌-0.81%而道指期货上涨+0.68%：前一交易日的广度可能无法延续。关注现金市场开盘前30分钟纳指期货能否站稳前收盘价上方。"
+    }
+  },
+  "judgment": {
+    "type": "risk-off",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "The prior session's broad rally (Dow +3.05%, S&P +1.59%) came with sector divergence—semis -3%, energy -4.75%—and this morning's futures suggest stalling. S&P 500 futures are flat at +0.09% while Nasdaq-100 futures are down -0.81%, which may indicate the prior day's breadth was value-led rather than a sustained tech bid. The 10-year yield is stable at 4.904% (+1bp) and the dollar marginally firmer at 101.63 (+0.12%), neither strongly supportive. Gold's +1.5% rise could reflect hedging, though the driver is unconfirmed. I lean toward a cautious open: the split between Dow futures (+0.68%) and Nasdaq futures (-0.81%) suggests rotation, not unified risk-on. Watch whether Nasdaq futures stabilize above the prior close in the first 30 minutes; failure would weaken the breadth thesis.",
+      "zh": "前一交易日大盘普涨（道指+3.05%、标普+1.59%）但板块分化明显——半导体-3%、能源-4.75%——今晨期货显示动能正在停滞。标普500期货基本持平（+0.09%），而纳指100期货下跌-0.81%，这可能表明前一日的广度是由价值股驱动而非科技股持续买盘。10年期美债收益率稳定在4.904%（+1bp），美元指数微升至101.63（+0.12%），均不构成明显支撑。黄金上涨1.5%可能反映对冲需求，但驱动因素未确认。我倾向于谨慎开盘：道指期货（+0.68%）与纳指期货（-0.81%）的分化暗示轮动而非统一风险偏好。关注纳指期货能否在前30分钟站稳前收盘价上方；若未能企稳，则前一日的广度逻辑将被削弱。"
+    }
+  },
+  "marketData": {
+    "asOf": "2026-11-05T14:00:00.223Z",
+    "provider": "Yahoo Finance",
+    "interval": "5m",
+    "quotes": [
+      {
+        "id": "ai",
+        "symbol": "AIQ",
+        "price": 59.880001068115234,
+        "barStart": "2026-11-04T20:55:00.000Z",
+        "observedAt": "2026-11-04T21:00:00.000Z",
+        "reference": {
+          "price": 59.51499938964844,
+          "observedAt": "2026-11-03T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/AIQ?interval=5m&period1=1793653200&period2=1793887200&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "brent",
+        "symbol": "BZ=F",
+        "price": 96.4000015258789,
+        "barStart": "2026-11-05T13:50:01.000Z",
+        "observedAt": "2026-11-05T13:55:01.000Z",
+        "reference": {
+          "price": 95.20999908447266,
+          "observedAt": "2026-11-04T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/BZ%3DF?interval=5m&period1=1793653200&period2=1793887200&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "dow",
+        "symbol": "^DJI",
+        "price": 53357.03125,
+        "barStart": "2026-11-04T20:55:00.000Z",
+        "observedAt": "2026-11-04T21:00:00.000Z",
+        "reference": {
+          "price": 51776.671875,
+          "observedAt": "2026-11-03T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/%5EDJI?interval=5m&period1=1793653200&period2=1793887200&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "dxy",
+        "symbol": "DX-Y.NYB",
+        "price": 101.6259994506836,
+        "barStart": "2026-11-05T13:50:00.000Z",
+        "observedAt": "2026-11-05T13:55:00.000Z",
+        "reference": {
+          "price": 101.50700378417969,
+          "observedAt": "2026-11-04T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/DX-Y.NYB?interval=5m&period1=1793653200&period2=1793887200&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "energy",
+        "symbol": "XLE",
+        "price": 63.529998779296875,
+        "barStart": "2026-11-04T20:55:00.000Z",
+        "observedAt": "2026-11-04T21:00:00.000Z",
+        "reference": {
+          "price": 66.69999694824219,
+          "observedAt": "2026-11-03T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/XLE?interval=5m&period1=1793653200&period2=1793887200&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "es",
+        "symbol": "ES=F",
+        "price": 7729,
+        "barStart": "2026-11-05T13:49:57.000Z",
+        "observedAt": "2026-11-05T13:54:57.000Z",
+        "reference": {
+          "price": 7721.75,
+          "observedAt": "2026-11-04T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/ES%3DF?interval=5m&period1=1793653200&period2=1793887200&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "ev",
+        "symbol": "DRIV",
+        "price": 29.434999465942383,
+        "barStart": "2026-11-04T20:50:00.000Z",
+        "observedAt": "2026-11-04T20:55:00.000Z",
+        "reference": {
+          "price": 28.975000381469727,
+          "observedAt": "2026-11-03T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/DRIV?interval=5m&period1=1793653200&period2=1793887200&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "gold",
+        "symbol": "GC=F",
+        "price": 4135.60009765625,
+        "barStart": "2026-11-05T13:49:57.000Z",
+        "observedAt": "2026-11-05T13:54:57.000Z",
+        "reference": {
+          "price": 4074.39990234375,
+          "observedAt": "2026-11-04T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/GC%3DF?interval=5m&period1=1793653200&period2=1793887200&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "nasdaq",
+        "symbol": "^IXIC",
+        "price": 25739.71484375,
+        "barStart": "2026-11-04T20:55:00.000Z",
+        "observedAt": "2026-11-04T21:00:00.000Z",
+        "reference": {
+          "price": 25365.673828125,
+          "observedAt": "2026-11-03T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/%5EIXIC?interval=5m&period1=1793653200&period2=1793887200&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "nq",
+        "symbol": "NQ=F",
+        "price": 28337.25,
+        "barStart": "2026-11-05T13:49:59.000Z",
+        "observedAt": "2026-11-05T13:54:59.000Z",
+        "reference": {
+          "price": 28567.25,
+          "observedAt": "2026-11-04T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/NQ%3DF?interval=5m&period1=1793653200&period2=1793887200&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "semi",
+        "symbol": "SOXX",
+        "price": 451.04998779296875,
+        "barStart": "2026-11-04T20:55:00.000Z",
+        "observedAt": "2026-11-04T21:00:00.000Z",
+        "reference": {
+          "price": 464.989990234375,
+          "observedAt": "2026-11-03T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/SOXX?interval=5m&period1=1793653200&period2=1793887200&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "spx",
+        "symbol": "^GSPC",
+        "price": 7688.72998046875,
+        "barStart": "2026-11-04T20:55:00.000Z",
+        "observedAt": "2026-11-04T21:00:00.000Z",
+        "reference": {
+          "price": 7568.580078125,
+          "observedAt": "2026-11-03T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?interval=5m&period1=1793653200&period2=1793887200&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "tech",
+        "symbol": "QQQ",
+        "price": 691.8200073242188,
+        "barStart": "2026-11-04T20:55:00.000Z",
+        "observedAt": "2026-11-04T21:00:00.000Z",
+        "reference": {
+          "price": 685.3400268554688,
+          "observedAt": "2026-11-03T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/QQQ?interval=5m&period1=1793653200&period2=1793887200&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "tnx",
+        "symbol": "^TNX",
+        "price": 4.904000282287598,
+        "barStart": "2026-11-05T13:44:54.000Z",
+        "observedAt": "2026-11-05T13:49:54.000Z",
+        "reference": {
+          "price": 4.894000053405762,
+          "observedAt": "2026-11-04T20:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/%5ETNX?interval=5m&period1=1793653200&period2=1793887200&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "wti",
+        "symbol": "CL=F",
+        "price": 89.12999725341797,
+        "barStart": "2026-11-05T13:49:58.000Z",
+        "observedAt": "2026-11-05T13:54:58.000Z",
+        "reference": {
+          "price": 88.69999694824219,
+          "observedAt": "2026-11-04T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/CL%3DF?interval=5m&period1=1793653200&period2=1793887200&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "ym",
+        "symbol": "YM=F",
+        "price": 53874,
+        "barStart": "2026-11-05T13:49:58.000Z",
+        "observedAt": "2026-11-05T13:54:58.000Z",
+        "reference": {
+          "price": 53508,
+          "observedAt": "2026-11-04T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/YM%3DF?interval=5m&period1=1793653200&period2=1793887200&includePrePost=true&events=splits",
+        "delayed": true
+      }
+    ]
+  }
+}
