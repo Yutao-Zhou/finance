@@ -82,6 +82,11 @@ const copy = {
     smallText: "小号字",
     mediumText: "中号字",
     largeText: "大号字",
+    readingMode: "阅读模式",
+    compactMode: "精简",
+    fullMode: "完整",
+    showDetails: "展开详情",
+    hideDetails: "收起详情",
   },
   en: {
     title: "Market Morning Brief",
@@ -146,6 +151,11 @@ const copy = {
     smallText: "Small text",
     mediumText: "Medium text",
     largeText: "Large text",
+    readingMode: "Reading view",
+    compactMode: "Brief",
+    fullMode: "Full",
+    showDetails: "Read details",
+    hideDetails: "Hide details",
   },
 };
 const sectorNames = {
@@ -396,7 +406,7 @@ function FactorList({ values, type, lang }) {
     </div>
   ) : null;
 }
-function NewsList({ report, lang }) {
+function NewsList({ report, lang, readingMode }) {
   const labels = copy[lang];
   const news =
     report.topNews?.filter((item) => hasContent(item.title, lang)) || [];
@@ -428,29 +438,48 @@ function NewsList({ report, lang }) {
                   <Icon name="external" size={15} />
                 </a>
               </h3>
-              {hasContent(item.impact, lang) && (
-                <p className="story-impact">{text(item.impact, lang)}</p>
-              )}
-              <a
-                className="source-link"
-                href={url}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                {sourceName(source)}
-                {source ? " · " + labels.readMore : labels.searchSource}
-                <Icon name="external" size={12} />
-              </a>
-              <div className="factor-grid">
-                <FactorList values={item.bullish} type="bullish" lang={lang} />
-                <FactorList values={item.bearish} type="bearish" lang={lang} />
-              </div>
-              {hasContent(item.macroRisk, lang) && (
-                <div className="macro-note">
-                  <span>{labels.macro}</span>
-                  <p>{text(item.macroRisk, lang)}</p>
+              <details className="story-details" open={readingMode === "full"}>
+                <summary className="story-details-toggle">
+                  <span className="when-closed">{labels.showDetails}</span>
+                  <span className="when-open">{labels.hideDetails}</span>
+                  <Icon
+                    className="disclosure-chevron"
+                    name="chevron"
+                    size={13}
+                  />
+                </summary>
+                {hasContent(item.impact, lang) && (
+                  <p className="story-impact">{text(item.impact, lang)}</p>
+                )}
+                <a
+                  className="source-link"
+                  href={url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  {sourceName(source)}
+                  {source ? " · " + labels.readMore : labels.searchSource}
+                  <Icon name="external" size={12} />
+                </a>
+                <div className="factor-grid">
+                  <FactorList
+                    values={item.bullish}
+                    type="bullish"
+                    lang={lang}
+                  />
+                  <FactorList
+                    values={item.bearish}
+                    type="bearish"
+                    lang={lang}
+                  />
                 </div>
-              )}
+                {hasContent(item.macroRisk, lang) && (
+                  <div className="macro-note">
+                    <span>{labels.macro}</span>
+                    <p>{text(item.macroRisk, lang)}</p>
+                  </div>
+                )}
+              </details>
             </div>
           </article>
         );
@@ -565,22 +594,31 @@ function ReportSidebar({ report, lang, onSelect, onArchive }) {
     </aside>
   );
 }
-function Sectors({ report, lang }) {
+function Sectors({ report, lang, readingMode }) {
+  const Wrapper = readingMode === "compact" ? "details" : "section";
+  const Header = readingMode === "compact" ? "summary" : "div";
   const sectors = Object.entries(report.sectorRadar || {}).filter(([, value]) =>
     hasContent(value, lang),
   );
   return sectors.length ? (
-    <section
+    <Wrapper
       className="panel sectors-panel"
       id="sectors"
       aria-labelledby="sectors-heading"
     >
-      <SectionTitle
-        icon="layers"
-        title={copy[lang].sectors}
-        subtitle="SECTOR RADAR"
-        id="sectors-heading"
-      />
+      <Header
+        className={readingMode === "compact" ? "section-disclosure" : undefined}
+      >
+        <SectionTitle
+          icon="layers"
+          title={copy[lang].sectors}
+          subtitle="SECTOR RADAR"
+          id="sectors-heading"
+        />
+        {readingMode === "compact" && (
+          <Icon className="disclosure-chevron" name="chevron" size={17} />
+        )}
+      </Header>
       <div className="sector-grid">
         {sectors.map(([key, value]) => (
           <article className="sector-card" key={key}>
@@ -605,26 +643,35 @@ function Sectors({ report, lang }) {
           </article>
         ))}
       </div>
-    </section>
+    </Wrapper>
   ) : null;
 }
-function Premarket({ report, lang }) {
+function Premarket({ report, lang, readingMode }) {
+  const Wrapper = readingMode === "compact" ? "details" : "section";
+  const Header = readingMode === "compact" ? "summary" : "div";
   const labels = copy[lang];
   const items = ["futures", "treasury10Y", "dxy", "oil"].filter((key) =>
     hasContent(report.premarketFocus?.[key], lang),
   );
   return items.length ? (
-    <section
+    <Wrapper
       className="panel premarket-panel"
       id="premarket"
       aria-labelledby="premarket-heading"
     >
-      <SectionTitle
-        icon="watch"
-        title={labels.focus}
-        subtitle="PREMARKET FOCUS"
-        id="premarket-heading"
-      />
+      <Header
+        className={readingMode === "compact" ? "section-disclosure" : undefined}
+      >
+        <SectionTitle
+          icon="watch"
+          title={labels.focus}
+          subtitle="PREMARKET FOCUS"
+          id="premarket-heading"
+        />
+        {readingMode === "compact" && (
+          <Icon className="disclosure-chevron" name="chevron" size={17} />
+        )}
+      </Header>
       <div className="premarket-grid">
         {items.map((key) => (
           <article className={"focus-card focus-card--" + key} key={key}>
@@ -633,7 +680,7 @@ function Premarket({ report, lang }) {
           </article>
         ))}
       </div>
-    </section>
+    </Wrapper>
   ) : null;
 }
 function readPreference(key, fallback, allowed) {
@@ -653,6 +700,9 @@ function App() {
   );
   const [readingSize, setReadingSize] = useState(() =>
     readPreference("reading-size", "medium", ["small", "medium", "large"]),
+  );
+  const [readingMode, setReadingMode] = useState(() =>
+    readPreference("reading-mode", "full", ["compact", "full"]),
   );
   const [selectedDate, setSelectedDate] = useState(
     () =>
@@ -676,16 +726,18 @@ function App() {
   useEffect(() => {
     document.documentElement.dataset.theme = theme;
     document.documentElement.dataset.readingSize = readingSize;
+    document.documentElement.dataset.readingMode = readingMode;
     document.documentElement.lang = lang === "zh" ? "zh-CN" : "en";
     document.title = "ClawBot · " + copy[lang].title;
     try {
       localStorage.setItem("theme", theme);
       localStorage.setItem("lang", lang);
       localStorage.setItem("reading-size", readingSize);
+      localStorage.setItem("reading-mode", readingMode);
     } catch {
       /* Storage may be disabled. */
     }
-  }, [theme, lang, readingSize]);
+  }, [theme, lang, readingSize, readingMode]);
   useEffect(() => {
     const onKey = (event) => {
       if (
@@ -942,32 +994,58 @@ function App() {
             )}
           </header>
           <div className="reading-settings">
-            <span className="reading-settings-label">{labels.textSize}</span>
-            <div
-              className="reading-size-options"
-              role="group"
-              aria-label={labels.textSize}
-            >
-              {["small", "medium", "large"].map((size, index) => (
-                <button
-                  type="button"
-                  className={"reading-size-button reading-size-button--" + size}
-                  key={size}
-                  aria-label={labels[size + "Text"]}
-                  title={labels[size + "Text"]}
-                  aria-pressed={readingSize === size}
-                  onClick={() => setReadingSize(size)}
-                >
-                  <span className="reading-size-letter" aria-hidden="true">
-                    A
-                  </span>
-                  <span>
-                    {lang === "zh"
-                      ? ["小", "中", "大"][index]
-                      : ["S", "M", "L"][index]}
-                  </span>
-                </button>
-              ))}
+            <div className="reading-setting-group">
+              <span className="reading-settings-label">
+                {labels.readingMode}
+              </span>
+              <div
+                className="reading-size-options"
+                role="group"
+                aria-label={labels.readingMode}
+              >
+                {["compact", "full"].map((mode) => (
+                  <button
+                    className="reading-size-button reading-mode-button"
+                    type="button"
+                    key={mode}
+                    aria-pressed={readingMode === mode}
+                    onClick={() => setReadingMode(mode)}
+                  >
+                    {labels[mode + "Mode"]}
+                  </button>
+                ))}
+              </div>
+            </div>
+            <div className="reading-setting-group">
+              <span className="reading-settings-label">{labels.textSize}</span>
+              <div
+                className="reading-size-options"
+                role="group"
+                aria-label={labels.textSize}
+              >
+                {["small", "medium", "large"].map((size, index) => (
+                  <button
+                    type="button"
+                    className={
+                      "reading-size-button reading-size-button--" + size
+                    }
+                    key={size}
+                    aria-label={labels[size + "Text"]}
+                    title={labels[size + "Text"]}
+                    aria-pressed={readingSize === size}
+                    onClick={() => setReadingSize(size)}
+                  >
+                    <span className="reading-size-letter" aria-hidden="true">
+                      A
+                    </span>
+                    <span>
+                      {lang === "zh"
+                        ? ["小", "中", "大"][index]
+                        : ["S", "M", "L"][index]}
+                    </span>
+                  </button>
+                ))}
+              </div>
             </div>
           </div>
           {showArchive ? (
@@ -1053,7 +1131,12 @@ function App() {
                       <p>{text(activeReport.summary, lang)}</p>
                     </section>
                   )}
-                  <NewsList report={activeReport} lang={lang} />
+                  <NewsList
+                    key={activeReport.date + readingMode}
+                    report={activeReport}
+                    lang={lang}
+                    readingMode={readingMode}
+                  />
                 </div>
                 <ReportSidebar
                   report={activeReport}
@@ -1062,8 +1145,18 @@ function App() {
                   onArchive={openArchive}
                 />
               </div>
-              <Sectors report={activeReport} lang={lang} />
-              <Premarket report={activeReport} lang={lang} />
+              <Sectors
+                key={"sectors-" + activeReport.date + readingMode}
+                report={activeReport}
+                lang={lang}
+                readingMode={readingMode}
+              />
+              <Premarket
+                key={"focus-" + activeReport.date + readingMode}
+                report={activeReport}
+                lang={lang}
+                readingMode={readingMode}
+              />
               <nav className="report-pagination" aria-label={labels.archive}>
                 <button
                   disabled={activeIndex >= reports.length - 1}

@@ -53,6 +53,10 @@
         ].includes(readingSize)
           ? readingSize
           : "medium";
+        document.documentElement.dataset.readingMode =
+          localStorage.getItem("reading-mode") === "compact"
+            ? "compact"
+            : "full";
       } catch {}
     </script>
   </head>

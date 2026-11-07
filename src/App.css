@@ -7,6 +7,103 @@
   justify-content: flex-end;
   gap: 10px;
   margin: -7px 0 17px;
+  flex-wrap: wrap;
+  column-gap: 22px;
+}
+.reading-setting-group {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.reading-settings .reading-mode-button {
+  min-width: 55px;
+  font-size: 11px;
+}
+.story-details-toggle,
+.section-disclosure {
+  cursor: pointer;
+  list-style: none;
+}
+.story-details-toggle::-webkit-details-marker,
+.section-disclosure::-webkit-details-marker {
+  display: none;
+}
+.story-details-toggle::marker,
+.section-disclosure::marker {
+  content: "";
+}
+.story-details-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 9px;
+  padding: 4px 0;
+  color: var(--green);
+  font-size: 11px;
+}
+.story-details-toggle:hover {
+  color: var(--sage);
+}
+.story-details-toggle .when-open {
+  display: none;
+}
+.story-details[open] > .story-details-toggle .when-open {
+  display: inline;
+}
+.story-details[open] > .story-details-toggle .when-closed {
+  display: none;
+}
+.story-details[open] > .story-details-toggle .disclosure-chevron,
+details[open] > .section-disclosure > .disclosure-chevron {
+  transform: rotate(90deg);
+}
+:root[data-reading-mode="full"] .story-details-toggle {
+  display: none;
+}
+.section-disclosure {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.section-disclosure > .section-heading {
+  flex: 1;
+  min-width: 0;
+  margin-bottom: 0;
+}
+details[open] > .section-disclosure {
+  margin-bottom: 19px;
+}
+.section-disclosure > .disclosure-chevron {
+  color: var(--sage);
+}
+.story-details-toggle:focus-visible,
+.section-disclosure:focus-visible {
+  outline: 2px solid var(--green);
+  outline-offset: 4px;
+  border-radius: 3px;
+}
+.disclosure-chevron {
+  transition: transform 0.16s ease;
+}
+@media (max-width: 480px) {
+  .reading-settings {
+    justify-content: space-between;
+    gap: 10px 8px;
+  }
+  .reading-setting-group {
+    gap: 6px;
+  }
+  .reading-settings .reading-settings-label {
+    font-size: 9px;
+  }
+  .reading-settings .reading-size-button {
+    min-width: 36px;
+    padding-inline: 6px;
+  }
+  .reading-settings .reading-mode-button {
+    min-width: 46px;
+    font-size: 10px;
+  }
 }
 .reading-settings-label {
   color: var(--muted);
