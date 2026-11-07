@@ -301,37 +301,6 @@
   letter-spacing: 1.4px;
   margin-bottom: 3px;
 }
-.date-select {
-  position: relative;
-  display: inline-flex;
-  align-items: center;
-  gap: 5px;
-  max-width: 100%;
-}
-.date-select select {
-  appearance: none;
-  border: 0;
-  background: transparent;
-  font-family: var(--serif);
-  color: var(--heading);
-  font-size: 15px;
-  font-weight: 600;
-  padding: 3px 22px 3px 0;
-  cursor: pointer;
-  text-overflow: ellipsis;
-  max-width: 100%;
-}
-.date-select select option {
-  background: var(--surface);
-  font-family: "Segoe UI", sans-serif;
-  font-size: 14px;
-}
-.date-select svg {
-  position: absolute;
-  right: 0;
-  pointer-events: none;
-  transform: rotate(90deg);
-}
 .edition-date {
   display: block;
   font-size: 8px;
@@ -1336,9 +1305,6 @@ html[lang="en"] .section-english {
     font-size: 8px;
     letter-spacing: 0.6px;
   }
-  .date-select select {
-    font-size: 12px;
-  }
   .edition-date {
     font-size: 6px;
     letter-spacing: 0.4px;
@@ -1491,9 +1457,6 @@ html[lang="en"] .section-english {
     margin: 0;
     font-size: 9px;
     white-space: nowrap;
-  }
-  .date-select select {
-    font-size: 13px;
   }
   .edition-date {
     display: none;

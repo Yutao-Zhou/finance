@@ -62,7 +62,7 @@ html {
 }
 body {
   margin: 0;
-  min-width: 320px;
+  min-width: 280px;
   background: var(--bg);
   color: var(--ink);
   font-size: 15px;

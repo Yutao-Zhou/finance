@@ -11,6 +11,7 @@ import {
   text,
 } from "./lib/reports";
 import "./App.css";
+import EditionPicker from "./components/EditionPicker";
 
 const dataFiles = import.meta.glob("../data/*.json", { eager: true });
 const reports = Object.values(dataFiles)
@@ -909,20 +910,12 @@ function App() {
                     ? labels.latest
                     : labels.historical}
                 </span>
-                <label className="date-select">
-                  <span className="sr-only">{labels.edition}</span>
-                  <select
-                    value={activeReport.date}
-                    onChange={(event) => selectReport(event.target.value)}
-                  >
-                    {reports.map((report) => (
-                      <option key={report.date} value={report.date}>
-                        {formatDate(report.date, lang)}
-                      </option>
-                    ))}
-                  </select>
-                  <Icon name="chevron" size={15} />
-                </label>
+                <EditionPicker
+                  reports={reports}
+                  value={activeReport.date}
+                  lang={lang}
+                  onChange={selectReport}
+                />
                 <span className="edition-date">
                   DAILY INTELLIGENCE / {activeReport.date.replaceAll("-", ".")}
                 </span>
