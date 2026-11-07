@@ -46,10 +46,17 @@
       try {
         document.documentElement.dataset.theme =
           localStorage.getItem("theme") === "dark" ? "dark" : "light";
+        const readingSize = localStorage.getItem("reading-size");
+        document.documentElement.dataset.readingSize = [
+          "small",
+          "large",
+        ].includes(readingSize)
+          ? readingSize
+          : "medium";
       } catch {}
     </script>
-    <script type="module" crossorigin src="/finance/assets/index-DLxiGh4u.js"></script>
-    <link rel="stylesheet" crossorigin href="/finance/assets/index-6gwRCfDB.css">
+    <script type="module" crossorigin src="/finance/assets/index-B9UomL1M.js"></script>
+    <link rel="stylesheet" crossorigin href="/finance/assets/index-MCf3xXv1.css">
   </head>
   <body>
     <div id="root"></div>
