@@ -31,6 +31,13 @@
   --negative-bg: #f5e7dc;
   --summary: #e9eddf;
   --shadow: 0 3px 9px #293b2510, 0 1px 2px #293b2507;
+  --reading-scale: 1;
+}
+:root[data-reading-size="small"] {
+  --reading-scale: 0.9;
+}
+:root[data-reading-size="large"] {
+  --reading-scale: 1.2;
 }
 :root[data-theme="dark"] {
   color-scheme: dark;

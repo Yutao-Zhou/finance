@@ -1,6 +1,58 @@
 .app-shell {
   min-height: 100vh;
 }
+.reading-settings {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 10px;
+  margin: -7px 0 17px;
+}
+.reading-settings-label {
+  color: var(--muted);
+  font-size: 10px;
+  letter-spacing: 0.5px;
+}
+.reading-size-options {
+  display: inline-flex;
+  gap: 2px;
+  padding: 3px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+}
+.reading-size-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  min-width: 45px;
+  min-height: 32px;
+  padding: 3px 8px;
+  border-radius: 5px;
+  background: transparent;
+  color: var(--muted);
+  font-size: 9px;
+}
+.reading-size-button:hover {
+  background: var(--surface-soft);
+  color: var(--heading);
+}
+.reading-size-button[aria-pressed="true"] {
+  background: var(--green-soft);
+  color: var(--green);
+}
+.reading-size-letter {
+  font-family: Georgia, serif;
+  font-size: 13px;
+  line-height: 1;
+}
+.reading-size-button--medium .reading-size-letter {
+  font-size: 16px;
+}
+.reading-size-button--large .reading-size-letter {
+  font-size: 19px;
+}
 .sidebar {
   position: fixed;
   inset: 0 auto 0 0;
@@ -455,7 +507,7 @@
   margin-left: auto;
 }
 .summary-panel > p {
-  font-size: 14px;
+  font-size: calc(14px * var(--reading-scale));
   line-height: 1.95;
   color: var(--heading);
 }
@@ -557,7 +609,7 @@
 }
 .story-body h3 {
   font-family: var(--serif);
-  font-size: 20px;
+  font-size: calc(20px * var(--reading-scale));
   line-height: 1.65;
   font-weight: 700;
   color: var(--heading);
@@ -572,7 +624,7 @@
 }
 .story-impact {
   margin-top: 10px;
-  font-size: 14px;
+  font-size: calc(14px * var(--reading-scale));
   line-height: 1.95;
   overflow-wrap: anywhere;
 }
@@ -581,7 +633,7 @@
   align-items: center;
   gap: 5px;
   font-family: Georgia, "Microsoft YaHei", serif;
-  font-size: 10px;
+  font-size: calc(10px * var(--reading-scale));
   color: var(--muted);
   padding: 8px 0 5px;
 }
@@ -597,13 +649,13 @@
   margin-top: 9px;
 }
 .factor {
-  font-size: 11px;
+  font-size: calc(11px * var(--reading-scale));
   border-radius: 6px;
   background: var(--surface-soft);
   padding: 9px 11px;
 }
 .factor-label {
-  font-size: 9px;
+  font-size: calc(9px * var(--reading-scale));
   display: block;
   font-weight: 600;
   margin-bottom: 3px;
@@ -635,7 +687,7 @@
   padding: 9px 11px;
   margin-top: 10px;
   border-radius: 6px;
-  font-size: 10px;
+  font-size: calc(10px * var(--reading-scale));
   line-height: 1.8;
 }
 .macro-note > span {
@@ -662,7 +714,7 @@
   font-size: 21px;
 }
 .report-sidebar p {
-  font-size: 12px;
+  font-size: calc(12px * var(--reading-scale));
   line-height: 1.95;
   overflow-wrap: anywhere;
 }
@@ -810,7 +862,7 @@
   line-height: 1.45;
 }
 .sector-card p {
-  font-size: 11px;
+  font-size: calc(11px * var(--reading-scale));
   line-height: 1.9;
   color: var(--muted);
   overflow-wrap: anywhere;
@@ -836,7 +888,7 @@
 }
 .focus-card p {
   color: var(--muted);
-  font-size: 11px;
+  font-size: calc(11px * var(--reading-scale));
   line-height: 1.9;
   overflow-wrap: anywhere;
 }
@@ -953,7 +1005,7 @@
 }
 .archive-card h2 {
   font-family: var(--serif);
-  font-size: 20px;
+  font-size: calc(20px * var(--reading-scale));
   line-height: 1.7;
   color: var(--heading);
   display: -webkit-box;
@@ -962,7 +1014,7 @@
   overflow: hidden;
 }
 .archive-card > p {
-  font-size: 12px;
+  font-size: calc(12px * var(--reading-scale));
   color: var(--muted);
   line-height: 1.9;
   margin: 12px 0 23px;
@@ -1025,7 +1077,7 @@ html[lang="en"] .section-heading h2 {
 }
 html[lang="en"] .story-body h3 {
   font-family: Georgia, serif;
-  font-size: 21px;
+  font-size: calc(21px * var(--reading-scale));
   line-height: 1.45;
 }
 html[lang="en"] .section-english {
@@ -1036,7 +1088,7 @@ html[lang="en"] .section-english {
     font-size: 36px;
   }
   .story-impact {
-    font-size: 14px;
+    font-size: calc(14px * var(--reading-scale));
   }
 }
 @media (max-width: 1250px) {
@@ -1098,7 +1150,7 @@ html[lang="en"] .section-english {
     font-size: 21px;
   }
   .story-body h3 {
-    font-size: 18px;
+    font-size: calc(18px * var(--reading-scale));
   }
   .news-story {
     grid-template-columns: 30px minmax(0, 1fr);
@@ -1183,13 +1235,13 @@ html[lang="en"] .section-english {
     display: none;
   }
   .story-impact {
-    font-size: 14px;
+    font-size: calc(14px * var(--reading-scale));
   }
   .story-body h3 {
-    font-size: 21px;
+    font-size: calc(21px * var(--reading-scale));
   }
   .summary-panel > p {
-    font-size: 14px;
+    font-size: calc(14px * var(--reading-scale));
   }
   .section-heading h2 {
     font-size: 23px;
@@ -1349,7 +1401,7 @@ html[lang="en"] .section-english {
     border-radius: 11px;
   }
   .story-body h3 {
-    font-size: 20px;
+    font-size: calc(20px * var(--reading-scale));
   }
   .summary-heading {
     gap: 9px;
@@ -1359,25 +1411,25 @@ html[lang="en"] .section-english {
   }
   .summary-panel > p,
   .story-impact {
-    font-size: 14px;
+    font-size: calc(14px * var(--reading-scale));
     line-height: 1.9;
   }
   .report-sidebar p {
-    font-size: 13px;
+    font-size: calc(13px * var(--reading-scale));
   }
   .factor {
-    font-size: 12px;
+    font-size: calc(12px * var(--reading-scale));
   }
   .factor-label {
-    font-size: 10px;
+    font-size: calc(10px * var(--reading-scale));
   }
   .macro-note,
   .source-link {
-    font-size: 11px;
+    font-size: calc(11px * var(--reading-scale));
   }
   .sector-card p,
   .focus-card p {
-    font-size: 12px;
+    font-size: calc(12px * var(--reading-scale));
   }
   .premarket-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -1390,7 +1442,7 @@ html[lang="en"] .section-english {
     gap: 14px;
   }
   .archive-card h2 {
-    font-size: 18px;
+    font-size: calc(18px * var(--reading-scale));
   }
   .archive-card {
     padding: 18px;
@@ -1528,7 +1580,7 @@ html[lang="en"] .section-english {
     gap: 8px;
   }
   .summary-panel > p {
-    font-size: 14px;
+    font-size: calc(14px * var(--reading-scale));
   }
   .section-heading {
     gap: 8px;
@@ -1558,11 +1610,11 @@ html[lang="en"] .section-english {
     padding-left: 10px;
   }
   .story-body h3 {
-    font-size: 19px;
+    font-size: calc(19px * var(--reading-scale));
     line-height: 1.7;
   }
   .story-impact {
-    font-size: 14px;
+    font-size: calc(14px * var(--reading-scale));
   }
   .factor-grid {
     grid-template-columns: 1fr;
@@ -1603,14 +1655,14 @@ html[lang="en"] .section-english {
     font-size: 17px;
   }
   .sector-card p {
-    font-size: 13px;
+    font-size: calc(13px * var(--reading-scale));
   }
   .premarket-grid {
     grid-template-columns: 1fr;
     gap: 17px;
   }
   .focus-card p {
-    font-size: 13px;
+    font-size: calc(13px * var(--reading-scale));
   }
   .focus-card h3 {
     font-size: 16px;
@@ -1649,10 +1701,10 @@ html[lang="en"] .section-english {
     padding: 21px;
   }
   .archive-card h2 {
-    font-size: 21px;
+    font-size: calc(21px * var(--reading-scale));
   }
   .archive-card > p {
-    font-size: 13px;
+    font-size: calc(13px * var(--reading-scale));
   }
   .archive-card-top time {
     font-size: 11px;
@@ -1662,7 +1714,7 @@ html[lang="en"] .section-english {
     font-size: 37px;
   }
   html[lang="en"] .story-body h3 {
-    font-size: 21px;
+    font-size: calc(21px * var(--reading-scale));
   }
   html[lang="en"] .metric-top h2 {
     font-family: Georgia, serif;

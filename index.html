@@ -46,6 +46,13 @@
       try {
         document.documentElement.dataset.theme =
           localStorage.getItem("theme") === "dark" ? "dark" : "light";
+        const readingSize = localStorage.getItem("reading-size");
+        document.documentElement.dataset.readingSize = [
+          "small",
+          "large",
+        ].includes(readingSize)
+          ? readingSize
+          : "medium";
       } catch {}
     </script>
   </head>

@@ -78,6 +78,10 @@ const copy = {
     close: "关闭导航",
     feedEmpty: "晨报发布后会显示在这里。",
     skip: "跳转到主要内容",
+    textSize: "阅读字号",
+    smallText: "小号字",
+    mediumText: "中号字",
+    largeText: "大号字",
   },
   en: {
     title: "Market Morning Brief",
@@ -138,6 +142,10 @@ const copy = {
     close: "Close navigation",
     feedEmpty: "New daily briefings will appear here.",
     skip: "Skip to main content",
+    textSize: "Text size",
+    smallText: "Small text",
+    mediumText: "Medium text",
+    largeText: "Large text",
   },
 };
 const sectorNames = {
@@ -643,6 +651,9 @@ function App() {
   const [theme, setTheme] = useState(() =>
     readPreference("theme", "light", ["light", "dark"]),
   );
+  const [readingSize, setReadingSize] = useState(() =>
+    readPreference("reading-size", "medium", ["small", "medium", "large"]),
+  );
   const [selectedDate, setSelectedDate] = useState(
     () =>
       reports.find(
@@ -664,15 +675,17 @@ function App() {
     activeIndex = reports.indexOf(activeReport);
   useEffect(() => {
     document.documentElement.dataset.theme = theme;
+    document.documentElement.dataset.readingSize = readingSize;
     document.documentElement.lang = lang === "zh" ? "zh-CN" : "en";
     document.title = "ClawBot · " + copy[lang].title;
     try {
       localStorage.setItem("theme", theme);
       localStorage.setItem("lang", lang);
+      localStorage.setItem("reading-size", readingSize);
     } catch {
       /* Storage may be disabled. */
     }
-  }, [theme, lang]);
+  }, [theme, lang, readingSize]);
   useEffect(() => {
     const onKey = (event) => {
       if (
@@ -928,6 +941,35 @@ function App() {
               </span>
             )}
           </header>
+          <div className="reading-settings">
+            <span className="reading-settings-label">{labels.textSize}</span>
+            <div
+              className="reading-size-options"
+              role="group"
+              aria-label={labels.textSize}
+            >
+              {["small", "medium", "large"].map((size, index) => (
+                <button
+                  type="button"
+                  className={"reading-size-button reading-size-button--" + size}
+                  key={size}
+                  aria-label={labels[size + "Text"]}
+                  title={labels[size + "Text"]}
+                  aria-pressed={readingSize === size}
+                  onClick={() => setReadingSize(size)}
+                >
+                  <span className="reading-size-letter" aria-hidden="true">
+                    A
+                  </span>
+                  <span>
+                    {lang === "zh"
+                      ? ["小", "中", "大"][index]
+                      : ["S", "M", "L"][index]}
+                  </span>
+                </button>
+              ))}
+            </div>
+          </div>
           {showArchive ? (
             <section
               className="archive-section"
