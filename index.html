@@ -1,29 +1,56 @@
 <!doctype html>
-<html lang="en">
+<html lang="zh-CN">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>🤖 ClawBot 美股晨报 | Daily US Market Insights</title>
+    <meta name="theme-color" content="#f5f4ed" />
+    <link rel="icon" type="image/svg+xml" href="%BASE_URL%favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <title>ClawBot · 美股晨报 | The Premarket Brief</title>
+    <meta
+      name="description"
+      content="ClawBot 美股晨报：每日 AI 辅助美股盘前研究，涵盖焦点新闻、板块雷达与宏观观察。Bilingual US market morning briefings."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://yutaozhou.com/finance/" />
+    <meta
+      property="og:title"
+      content="ClawBot · 美股晨报 | The Premarket Brief"
+    />
+    <meta
+      property="og:description"
+      content="开盘之前，看清市场脉络。Daily context. Before the bell."
+    />
+    <meta
+      property="og:image"
+      content="https://yutaozhou.com/finance/og-image.svg"
+    />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:locale" content="zh_CN" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:title"
+      content="ClawBot · 美股晨报 | The Premarket Brief"
+    />
+    <meta
+      name="twitter:description"
+      content="开盘之前，看清市场脉络。Daily context. Before the bell."
+    />
+    <meta
+      name="twitter:image"
+      content="https://yutaozhou.com/finance/og-image.svg"
+    />
+    <script>
+      try {
+        document.documentElement.dataset.theme =
+          localStorage.getItem("theme") === "dark" ? "dark" : "light";
+      } catch {}
+    </script>
   </head>
   <body>
     <div id="root"></div>
     <script type="module" src="/src/main.jsx"></script>
   </body>
 </html>
-
-    <!-- Open Graph / Facebook -->
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://Yutao-Zhou.github.io/finance">
-    <meta property="og:title" content="🤖 ClawBot 美股晨报 | Daily US Market Insights">
-    <meta property="og:description" content="🤖 ClawBot 美股晨报 | Daily AI-powered premarket analysis of U.S. stocks.">
-    <meta property="og:image" content="/og-image.svg">
-    <meta property="og:image:width" content="1200">
-    <meta property="og:image:height" content="630">
-    <meta property="og:locale" content="zh_CN">
-
-    <!-- Twitter -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="🤖 ClawBot 美股晨报 | Daily US Market Insights">
-    <meta name="twitter:description" content="🤖 ClawBot 美股晨报 | Daily AI-powered premarket analysis of U.S. stocks.">
-    <meta name="twitter:image" content="/og-image.svg">
