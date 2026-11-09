@@ -1,0 +1,331 @@
+{
+  "date": "2026-11-09",
+  "summary": {
+    "en": "US equities face a week of key technology earnings, including CoreWeave, and Tuesday's October CPI release on a fragile footing after the Nasdaq slid into correction territory amid post-midterm AI data-center regulatory concerns. Premarket futures point to a modest broad-based rebound following Friday's tech-led recovery, but the roughly 80% market-implied probability of a December Fed rate hike and firm core-services inflation expectations remain headwinds. The key test is whether CoreWeave's project-financing commentary and Tuesday's CPI print can stabilize the AI trade or trigger renewed selling.",
+    "zh": "纳指在中期选举后的AI数据中心监管忧虑中跌入修正区间，美股以脆弱态势迎来包括CoreWeave在内的本周科技公司财报，以及周二公布的10月CPI。周五科技股领涨反弹后，盘前期货显示温和的广泛修复，但市场隐含的12月美联储加息概率约80%，叠加核心服务通胀偏强预期，仍构成阻力。关键考验在于CoreWeave的项目融资评论和周二CPI数据能否稳定AI交易，还是引发新一轮抛售。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Nasdaq in correction after post-midterm AI selloff; October CPI due Tuesday tests ~80% December rate-hike odds",
+        "zh": "纳指因中期选举后AI板块抛售跌入修正区间；10月CPI周二公布，检验约80%的12月加息概率"
+      },
+      "url": "https://www.fidelity.com/news/article/us-markets/202611080900RTRSNEWSCOMBINED_L6N46N1D0_1",
+      "impact": {
+        "en": "The correction and elevated rate-hike odds create a two-sided risk: a hot CPI or weak CoreWeave guidance could deepen the selloff, while a soft print and constructive AI financing commentary could support a sustained repair.",
+        "zh": "修正区间与高企的加息概率构成双向风险：CPI偏热或CoreWeave指引疲弱可能加深抛售，而数据偏软及AI融资面积极则可能支撑持续修复。"
+      },
+      "bullish": [
+        "周五科技股领涨反弹（SOXX +4.16%、纳指 +1.01%）及今晨期货全线小幅走高，表明卖压尚未完全主导 / Friday's tech-led rebound (SOXX +4.16%, Nasdaq +1.01%) and this morning's broad futures gains suggest sellers are not yet in full control"
+      ],
+      "bearish": [
+        "市场隐含12月加息概率约80%，核心服务通胀预期偏强，限制修复空间 / ~80% market-implied December hike probability and firm core-services inflation expectations cap the repair"
+      ],
+      "macroRisk": {
+        "en": "October CPI due Tuesday; a hot print could push December hike probability above 80% and extend the correction",
+        "zh": "10月CPI周二公布；数据偏热可能将12月加息概率推至80%以上并延长修正"
+      }
+    },
+    {
+      "title": {
+        "en": "CoreWeave, Applied Materials, Cisco report this week amid AI financing scrutiny and data-center regulatory pressure",
+        "zh": "CoreWeave、应用材料、思科本周公布财报，面临AI融资审查与数据中心监管压力"
+      },
+      "url": "https://www.fidelity.com/news/article/us-markets/202611090557MIDNIGHTUSEQUITY_A3749080",
+      "impact": {
+        "en": "CoreWeave's commentary on project financing and debt management will be a key focus for assessing the AI trade; a constructive update could stabilize sentiment, while a weak one risks extending the correction.",
+        "zh": "CoreWeave关于项目融资和债务管理的评论将是评估AI交易的关键观察点；积极更新可能稳定情绪，疲弱则可能延长修正。"
+      },
+      "bullish": [],
+      "bearish": [
+        "CoreWeave债务水平担忧及数据中心监管压力可能进一步压制AI板块 / CoreWeave debt concerns and data-center regulatory pressure may further weigh on the AI sector"
+      ],
+      "macroRisk": {
+        "en": "Core services inflation estimated firm per Scotiabank; energy cost pass-through via airfare adds upside risk to CPI",
+        "zh": "Scotiabank估计核心服务通胀偏强；能源成本经机票传导增加CPI上行风险"
+      }
+    }
+  ],
+  "sectorRadar": {
+    "ai": {
+      "en": "The AI and tech trade remains in focus: the Nasdaq is in correction, while the S&P 500 tech sector fell 7.3% and the Philadelphia Semiconductor Index dropped over 12% on Thursday, their biggest one-day declines in more than six years. CoreWeave earnings are a key catalyst this week.",
+      "zh": "AI和科技交易仍是焦点：纳指处于修正区间，标普500科技板块周四跌7.3%、费城半导体指数跌超12%，均为六年多以来最大单日跌幅。CoreWeave财报是本周关键催化剂之一。"
+    },
+    "semiconductor": {
+      "en": "Semiconductors led Thursday's selloff with the Philadelphia SE index down over 12%, but SOXX rebounded 4.16% on Friday, the largest prior-session gain among tracked sector ETFs.",
+      "zh": "半导体板块周四领跌，费城半导体指数跌超12%，但周五SOXX反弹4.16%，为所跟踪板块ETF中前一交易日最大涨幅。"
+    },
+    "bigTech": {
+      "en": "Technology companies including CoreWeave, Cisco and Applied Materials report this week; CoreWeave's debt levels and project-financing outlook are focal points.",
+      "zh": "CoreWeave、思科、应用材料等科技公司本周公布财报；CoreWeave的债务水平和项目融资前景是关注重点。"
+    },
+    "energy": {
+      "en": "Energy Select Sector SPDR was roughly flat in the prior session; WTI futures are down about 4% and Brent down about 4.4% premarket, though the driver of the oil move is not identified in the sources.",
+      "zh": "能源板块SPDR前一交易日基本持平；WTI期货盘前回落约4%、布伦特回落约4.4%，但来源未指明油价变动驱动因素。"
+    },
+    "ev": {
+      "en": "The Global X Autonomous & Electric Vehicles ETF (DRIV) gained 2.3% in the prior session, outpacing the broader market.",
+      "zh": "Global X自动驾驶与电动车ETF（DRIV）前一交易日上涨2.3%，跑赢大盘。"
+    },
+    "market": {
+      "en": "S&P 500 7,374.85 points（11/06, 16:00 EST; +0.25% versus 11/05, 16:00 EST）; Nasdaq Composite 24,573.21 points（11/06, 16:00 EST; +1.01% versus 11/05, 16:00 EST）; Dow Jones Industrial Average 51,271.58 points（11/06, 16:00 EST; -0.49% versus 11/05, 16:00 EST）. Source: Yahoo Finance delayed five-minute bars.",
+      "zh": "标普500 7,374.85点（11/06, 16:00 EST；较11/05, 16:00 EST +0.25%）；纳斯达克综合指数 24,573.21点（11/06, 16:00 EST；较11/05, 16:00 EST +1.01%）；道琼斯工业指数 51,271.58点（11/06, 16:00 EST；较11/05, 16:00 EST -0.49%）。来源：Yahoo Finance延时五分钟行情。"
+    },
+    "preciousMetals": {
+      "en": "COMEX gold futures 4,134.10 USD/oz（11/09, 09:00 EST; +1.46% versus 11/06, 16:00 EST）. Source: Yahoo Finance delayed five-minute bars.",
+      "zh": "COMEX黄金期货 4,134.10美元/盎司（11/09, 09:00 EST；较11/06, 16:00 EST +1.46%）。来源：Yahoo Finance延时五分钟行情。"
+    },
+    "oil": {
+      "en": "WTI futures down roughly 4% and Brent down roughly 4.4% premarket versus the prior cash-session close; the cause is not specified in the available sources.",
+      "zh": "WTI期货盘前较前一交易日收盘回落约4%，布伦特回落约4.4%；可用来源未指明原因。"
+    }
+  },
+  "premarketFocus": {
+    "futures": {
+      "en": "E-mini S&P 500 7,466.50 points（11/09, 09:00 EST; +0.89% versus 11/06, 16:00 EST）; E-mini Nasdaq-100 27,316.00 points（11/09, 09:00 EST; +0.88% versus 11/06, 16:00 EST）; E-mini Dow 52,032.00 points（11/09, 09:00 EST; +1.28% versus 11/06, 16:00 EST）. Source: Yahoo Finance delayed five-minute bars.",
+      "zh": "标普500 E-mini期货 7,466.50点（11/09, 09:00 EST；较11/06, 16:00 EST +0.89%）；纳指100 E-mini期货 27,316.00点（11/09, 09:00 EST；较11/06, 16:00 EST +0.88%）；道指E-mini期货 52,032.00点（11/09, 09:00 EST；较11/06, 16:00 EST +1.28%）。来源：Yahoo Finance延时五分钟行情。"
+    },
+    "treasury10Y": {
+      "en": "10-year Treasury yield 4.839%（11/09, 09:00 EST; -2.0 bp versus 11/06, 15:00 EST）. Source: Yahoo Finance delayed five-minute bars.",
+      "zh": "10年期美债收益率 4.839%（11/09, 09:00 EST；较11/06, 15:00 EST -2.0 bp）。来源：Yahoo Finance延时五分钟行情。"
+    },
+    "dxy": {
+      "en": "US Dollar Index 101.80 points（11/09, 09:00 EST; -0.47% versus 11/06, 16:00 EST）. Source: Yahoo Finance delayed five-minute bars.",
+      "zh": "美元指数DXY 101.80点（11/09, 09:00 EST；较11/06, 16:00 EST -0.47%）。来源：Yahoo Finance延时五分钟行情。"
+    },
+    "oil": {
+      "en": "WTI futures 86.88 USD/bbl（11/09, 09:00 EST; -4.10% versus 11/06, 16:00 EST）; Brent futures 93.70 USD/bbl（11/09, 09:00 EST; -4.37% versus 11/06, 16:00 EST）. Source: Yahoo Finance delayed five-minute bars.",
+      "zh": "WTI原油期货 86.88美元/桶（11/09, 09:00 EST；较11/06, 16:00 EST -4.10%）；布伦特原油期货 93.70美元/桶（11/09, 09:00 EST；较11/06, 16:00 EST -4.37%）。来源：Yahoo Finance延时五分钟行情。"
+    },
+    "keyRisk": {
+      "en": "The roughly 80% market-implied probability of a December 25bp Fed hike, combined with firm core-services inflation expectations, is the primary macro overhang for the repair attempt.",
+      "zh": "市场隐含的12月加息25个基点概率约80%，叠加核心服务通胀偏强预期，是修复尝试的主要宏观压制因素。"
+    }
+  },
+  "judgment": {
+    "type": "risk-off",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "The central thesis is that the market is attempting a repair after the post-midterm AI selloff, but the repair is fragile and conditional on Tuesday's CPI and CoreWeave's financing commentary. Two signals support stabilization: Friday's tech-led rebound (SOXX +4.16%, Nasdaq +1.01%) and this morning's broad futures gains (ES +0.89%, YM +1.28%) suggest sellers are not yet in full control, while WTI futures down roughly 4% and COMEX gold futures up about 1.5% premarket may reflect residual uncertainty. The 10-year yield is down 2bp and the dollar index down 0.47%, modest moves that neither strongly support nor undermine the repair. The key conflicting signal is the roughly 80% market-implied probability of a December 25bp hike, which caps the repair if CPI prints hot. I lean toward watching whether Tuesday's CPI and CoreWeave's project-financing commentary can sustain the rebound or trigger a second leg of selling.",
+      "zh": "核心判断是：中期选举后AI板块抛售引发的市场正在尝试修复，但修复脆弱，取决于周二CPI数据和CoreWeave的融资指引。两个信号支持企稳：周五科技股领涨反弹（SOXX +4.16%、纳指 +1.01%）以及今晨期货全线小幅走高（ES +0.89%、YM +1.28%），表明卖压尚未完全主导，而WTI期货盘前回落约4%、COMEX黄金期货上涨约1.5%可能反映残余不确定性。10年期美债收益率下行2个基点、美元指数下跌0.47%，变动温和，既未强力支撑也未明显削弱修复。关键矛盾信号是市场隐含的12月加息25个基点概率约80%，若CPI偏热将限制修复空间。我倾向于关注周二CPI和CoreWeave项目融资指引能否支撑反弹，否则修正可能加深。"
+    }
+  },
+  "marketData": {
+    "asOf": "2026-11-09T14:00:00.000Z",
+    "provider": "Yahoo Finance",
+    "interval": "5m",
+    "quotes": [
+      {
+        "id": "ai",
+        "symbol": "AIQ",
+        "price": 56.88999938964844,
+        "barStart": "2026-11-06T20:55:00.000Z",
+        "observedAt": "2026-11-06T21:00:00.000Z",
+        "reference": {
+          "price": 56.18000030517578,
+          "observedAt": "2026-11-05T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/AIQ?interval=5m&period1=1793826000&period2=1794232800&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "brent",
+        "symbol": "BZ=F",
+        "price": 93.69999694824219,
+        "barStart": "2026-11-09T13:55:00.000Z",
+        "observedAt": "2026-11-09T14:00:00.000Z",
+        "reference": {
+          "price": 97.9800033569336,
+          "observedAt": "2026-11-06T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/BZ%3DF?interval=5m&period1=1793826000&period2=1794232800&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "dow",
+        "symbol": "^DJI",
+        "price": 51271.578125,
+        "barStart": "2026-11-06T20:55:00.000Z",
+        "observedAt": "2026-11-06T21:00:00.000Z",
+        "reference": {
+          "price": 51524.12890625,
+          "observedAt": "2026-11-05T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/%5EDJI?interval=5m&period1=1793826000&period2=1794232800&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "dxy",
+        "symbol": "DX-Y.NYB",
+        "price": 101.7979965209961,
+        "barStart": "2026-11-09T13:55:00.000Z",
+        "observedAt": "2026-11-09T14:00:00.000Z",
+        "reference": {
+          "price": 102.28099822998047,
+          "observedAt": "2026-11-06T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/DX-Y.NYB?interval=5m&period1=1793826000&period2=1794232800&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "energy",
+        "symbol": "XLE",
+        "price": 61.63999938964844,
+        "barStart": "2026-11-06T20:55:00.000Z",
+        "observedAt": "2026-11-06T21:00:00.000Z",
+        "reference": {
+          "price": 61.68000030517578,
+          "observedAt": "2026-11-05T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/XLE?interval=5m&period1=1793826000&period2=1794232800&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "es",
+        "symbol": "ES=F",
+        "price": 7466.5,
+        "barStart": "2026-11-09T13:55:00.000Z",
+        "observedAt": "2026-11-09T14:00:00.000Z",
+        "reference": {
+          "price": 7400.5,
+          "observedAt": "2026-11-06T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/ES%3DF?interval=5m&period1=1793826000&period2=1794232800&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "ev",
+        "symbol": "DRIV",
+        "price": 28.450000762939453,
+        "barStart": "2026-11-06T20:55:00.000Z",
+        "observedAt": "2026-11-06T21:00:00.000Z",
+        "reference": {
+          "price": 27.809999465942383,
+          "observedAt": "2026-11-05T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/DRIV?interval=5m&period1=1793826000&period2=1794232800&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "gold",
+        "symbol": "GC=F",
+        "price": 4134.10009765625,
+        "barStart": "2026-11-09T13:55:00.000Z",
+        "observedAt": "2026-11-09T14:00:00.000Z",
+        "reference": {
+          "price": 4074.800048828125,
+          "observedAt": "2026-11-06T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/GC%3DF?interval=5m&period1=1793826000&period2=1794232800&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "nasdaq",
+        "symbol": "^IXIC",
+        "price": 24573.21484375,
+        "barStart": "2026-11-06T20:55:00.000Z",
+        "observedAt": "2026-11-06T21:00:00.000Z",
+        "reference": {
+          "price": 24327.365234375,
+          "observedAt": "2026-11-05T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/%5EIXIC?interval=5m&period1=1793826000&period2=1794232800&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "nq",
+        "symbol": "NQ=F",
+        "price": 27316,
+        "barStart": "2026-11-09T13:55:00.000Z",
+        "observedAt": "2026-11-09T14:00:00.000Z",
+        "reference": {
+          "price": 27078,
+          "observedAt": "2026-11-06T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/NQ%3DF?interval=5m&period1=1793826000&period2=1794232800&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "semi",
+        "symbol": "SOXX",
+        "price": 136.3800048828125,
+        "barStart": "2026-11-06T20:55:00.000Z",
+        "observedAt": "2026-11-06T21:00:00.000Z",
+        "reference": {
+          "price": 130.93499755859375,
+          "observedAt": "2026-11-05T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/SOXX?interval=5m&period1=1793826000&period2=1794232800&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "spx",
+        "symbol": "^GSPC",
+        "price": 7374.85009765625,
+        "barStart": "2026-11-06T20:55:00.000Z",
+        "observedAt": "2026-11-06T21:00:00.000Z",
+        "reference": {
+          "price": 7356.72998046875,
+          "observedAt": "2026-11-05T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?interval=5m&period1=1793826000&period2=1794232800&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "tech",
+        "symbol": "QQQ",
+        "price": 656.219970703125,
+        "barStart": "2026-11-06T20:55:00.000Z",
+        "observedAt": "2026-11-06T21:00:00.000Z",
+        "reference": {
+          "price": 647.7999877929688,
+          "observedAt": "2026-11-05T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/QQQ?interval=5m&period1=1793826000&period2=1794232800&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "tnx",
+        "symbol": "^TNX",
+        "price": 4.8389997482299805,
+        "barStart": "2026-11-09T13:55:00.000Z",
+        "observedAt": "2026-11-09T14:00:00.000Z",
+        "reference": {
+          "price": 4.859000205993652,
+          "observedAt": "2026-11-06T20:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/%5ETNX?interval=5m&period1=1793826000&period2=1794232800&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "wti",
+        "symbol": "CL=F",
+        "price": 86.87999725341797,
+        "barStart": "2026-11-09T13:55:00.000Z",
+        "observedAt": "2026-11-09T14:00:00.000Z",
+        "reference": {
+          "price": 90.58999633789062,
+          "observedAt": "2026-11-06T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/CL%3DF?interval=5m&period1=1793826000&period2=1794232800&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "ym",
+        "symbol": "YM=F",
+        "price": 52032,
+        "barStart": "2026-11-09T13:55:00.000Z",
+        "observedAt": "2026-11-09T14:00:00.000Z",
+        "reference": {
+          "price": 51376,
+          "observedAt": "2026-11-06T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/YM%3DF?interval=5m&period1=1793826000&period2=1794232800&includePrePost=true&events=splits",
+        "delayed": true
+      }
+    ]
+  }
+}
