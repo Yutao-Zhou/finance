@@ -516,6 +516,31 @@ function ExpandableText({ value, lang }) {
     </>
   );
 }
+function RecentBriefs({ report, lang, onSelect, onArchive, className = "" }) {
+  const labels = copy[lang];
+  return (
+    <section className={"panel recent-panel " + className}>
+      <SectionTitle icon="calendar" title={labels.recent} />
+      <div className="recent-list">
+        {reports.slice(0, 3).map((item) => (
+          <button
+            className={"recent-date" + (item.date === report.date ? " selected" : "")}
+            onClick={() => onSelect(item.date)}
+            key={item.date}
+            aria-pressed={item.date === report.date}
+          >
+            <time dateTime={item.date}>{formatDate(item.date, lang, true)}</time>
+            <Icon name="chevron" size={14} />
+          </button>
+        ))}
+      </div>
+      <button className="text-button archive-link" onClick={onArchive}>
+        {labels.allReports}
+        <Icon name="arrow" size={14} />
+      </button>
+    </section>
+  );
+}
 function ReportSidebar({ report, lang, onSelect, onArchive }) {
   const labels = copy[lang],
     note = report.judgment?.note,
@@ -542,30 +567,13 @@ function ReportSidebar({ report, lang, onSelect, onArchive }) {
           <ExpandableText key={report.date + lang} value={note} lang={lang} />
         </section>
       )}
-      <section className="panel recent-panel">
-        <SectionTitle icon="calendar" title={labels.recent} />
-        <div className="recent-list">
-          {reports.slice(0, 3).map((item) => (
-            <button
-              className={
-                "recent-date" + (item.date === report.date ? " selected" : "")
-              }
-              onClick={() => onSelect(item.date)}
-              key={item.date}
-              aria-pressed={item.date === report.date}
-            >
-              <time dateTime={item.date}>
-                {formatDate(item.date, lang, true)}
-              </time>
-              <Icon name="chevron" size={14} />
-            </button>
-          ))}
-        </div>
-        <button className="text-button archive-link" onClick={onArchive}>
-          {labels.allReports}
-          <Icon name="arrow" size={14} />
-        </button>
-      </section>
+      <RecentBriefs
+        className="recent-panel--desktop"
+        report={report}
+        lang={lang}
+        onSelect={onSelect}
+        onArchive={onArchive}
+      />
       <nav className="edition-nav" aria-label={labels.jump}>
         <span>{labels.jump}</span>
         {report.topNews?.some((item) => hasContent(item.title, lang)) && (
@@ -1158,6 +1166,13 @@ function App() {
                 readingMode={readingMode}
               />
               <div data-analytics-reading-end aria-hidden="true" />
+              <RecentBriefs
+                className="recent-panel--mobile"
+                report={activeReport}
+                lang={lang}
+                onSelect={selectReport}
+                onArchive={openArchive}
+              />
               <nav className="report-pagination" aria-label={labels.archive}>
                 <button
                   disabled={activeIndex >= reports.length - 1}

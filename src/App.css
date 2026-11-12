@@ -874,6 +874,9 @@ details[open] > .section-disclosure {
   flex-direction: column;
   gap: 6px;
 }
+.recent-panel--mobile {
+  display: none;
+}
 .recent-date {
   display: flex;
   gap: 8px;
@@ -1297,8 +1300,12 @@ html[lang="en"] .section-english {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
-  .recent-panel {
-    grid-column: 1 / -1;
+  .recent-panel--desktop {
+    display: none;
+  }
+  .recent-panel--mobile {
+    display: block;
+    margin-top: 23px;
   }
   .recent-list {
     flex-direction: row;
