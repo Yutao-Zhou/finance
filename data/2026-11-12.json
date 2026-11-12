@@ -1,55 +1,58 @@
 {
   "date": "2026-11-12",
-  "reportMode": "headlines-only",
   "asOf": "2026-11-12T14:00:00.274Z",
   "summary": {
-    "en": "HEADLINES-ONLY FALLBACK. Full AI research did not complete. 2 publisher headlines between the previous US session close and 2026-11-12T14:00:00.274Z; English source titles retained. Quotes and investment analysis are unavailable.",
-    "zh": "【标题简版】AI完整版研究未完成。以下为上一交易日收盘至 2026-11-12T14:00:00.274Z 的2条来源标题，保留英文原题与链接；行情报价和投资分析未完成。"
+    "en": "Information through 09:00 EST: Wednesday's AI-led advance faces a weaker opening setup, with S&P 500 futures down 0.68% and Nasdaq-100 futures down 1.30% versus the previous US cash close. Initial jobless claims rose to 200,000, above the 195,000 consensus, while Treasury yields stand at 5.048%. The key question is whether semiconductor strength can persist under rate pressure.",
+    "zh": "信息截至纽约时间09:00 EST：周三AI板块带动的上涨面临偏弱的开盘环境，标普500和纳斯达克100期货较前一美股现金收盘分别下跌0.68%和1.30%。初请失业金人数升至20万人，高于19.5万人的市场预期；10年期美债收益率为5.048%。关注半导体强势能否在利率压力下延续。"
   },
   "topNews": [
     {
       "title": {
-        "en": "US weekly jobless claims increase, but labor market firming",
-        "zh": "【英文原题】US weekly jobless claims increase, but labor market firming"
+        "en": "CoreWeave results and contract-linked financing support Wednesday's semiconductor rally",
+        "zh": "CoreWeave业绩及合同关联融资计划支持周三半导体板块上涨"
       },
-      "url": "https://www.fidelity.com/news/article/us-economy/202611120838RTRSNEWSCOMBINED_KCN3WN1VR-OUSBS_1",
-      "source": "fidelity.com",
-      "publishedAt": "2026-11-12T13:38:00.000Z",
+      "url": "https://www.fidelity.com/news/article/us-markets/202611111657MIDNIGHTUSEQUITY_A3752122",
       "impact": {
-        "en": "Source: fidelity.com; feed publication time: 2026-11-12T13:38:00.000Z. Headline only; the full article and market impact have not been independently verified.",
-        "zh": "来源：fidelity.com；RSS标注发布时间：2026-11-12T13:38:00.000Z。这里只列来源标题，未独立核实全文或市场影响。"
+        "en": "MT Newswires reported CoreWeave rose about 25% on Wednesday. Its expansion funding plan uses loans tied to customer contracts and prepayments, reducing reliance on unsecured borrowing. The report described gains of about 12% each in Micron and Arm. These are previous-session developments; this morning's weaker futures test their follow-through.",
+        "zh": "MT Newswires报道，CoreWeave周三上涨约25%。其扩张融资计划包括与客户合同挂钩的贷款及客户预付款，以减少对无担保借款的依赖；报道还提到美光和Arm各上涨约12%。这些是前一交易日的变化，今天偏弱的盘前期货将考验涨势的延续性。"
       },
-      "bullish": [],
-      "bearish": [],
+      "bullish": [
+        "融资安排更具体，可能支持扩张预期 / More concrete financing plans may support expansion expectations."
+      ],
+      "bearish": [
+        "资本开支仍有融资和执行风险 / Capital spending still carries funding and execution risks."
+      ],
       "macroRisk": {
-        "en": "A headline is incomplete context. No bullish, bearish or macro conclusion has been inferred.",
-        "zh": "标题不能替代完整信息，未据此推断利多、利空或宏观结论。"
+        "en": "Higher Treasury yields may constrain growth-stock valuations even when company demand signals improve. A funding plan does not guarantee future profitability.",
+        "zh": "即使公司需求信号改善，较高的美债收益率仍可能约束成长股估值；融资计划也不能保证未来盈利。"
       }
     },
     {
       "title": {
-        "en": "Update: US Equity Indexes Jump as CoreWeave's Strong Q3 Results Trigger Rally in Chipmakers",
-        "zh": "【英文原题】Update: US Equity Indexes Jump as CoreWeave's Strong Q3 Results Trigger Rally in Chipmakers"
+        "en": "Initial jobless claims rise 9,000 to 200,000; continuing claims decline",
+        "zh": "美国初请失业金人数增加9000至20万人，续请人数下降"
       },
-      "url": "https://www.fidelity.com/news/article/us-markets/202611111657MIDNIGHTUSEQUITY_A3752122",
-      "source": "fidelity.com",
-      "publishedAt": "2026-11-11T21:57:00.000Z",
+      "url": "https://www.fidelity.com/news/article/us-economy/202611120838RTRSNEWSCOMBINED_KCN3WN1VR-OUSBS_1",
       "impact": {
-        "en": "Source: fidelity.com; feed publication time: 2026-11-11T21:57:00.000Z. Headline only; the full article and market impact have not been independently verified.",
-        "zh": "来源：fidelity.com；RSS标注发布时间：2026-11-11T21:57:00.000Z。这里只列来源标题，未独立核实全文或市场影响。"
+        "en": "Reuters reported initial claims reached 200,000 in the week ended November 7, versus a 195,000 forecast. Continuing claims fell 20,000 to 1.697 million in the week ended October 31. Low claims remain consistent with limited layoffs, while labor-force changes and benefit eligibility complicate conclusions about hiring strength.",
+        "zh": "路透社报道，截至11月7日当周初请失业金人数为20万人，市场预期为19.5万人；截至10月31日当周续请人数下降2万人至169.7万人。较低的申请人数仍与裁员有限相符，但劳动力规模变化和领取资格限制，使其不能单独代表招聘强度。"
       },
-      "bullish": [],
-      "bearish": [],
+      "bullish": [
+        "有限裁员可能支持家庭收入韧性 / Limited layoffs may support household income resilience."
+      ],
+      "bearish": [
+        "劳动力仍偏紧可能增加政策约束 / A still-tight labor market may sustain policy constraints."
+      ],
       "macroRisk": {
-        "en": "A headline is incomplete context. No bullish, bearish or macro conclusion has been inferred.",
-        "zh": "标题不能替代完整信息，未据此推断利多、利空或宏观结论。"
+        "en": "A modest weekly increase does not establish a labor-market downturn. This release alone does not determine the Federal Reserve's next rate decision.",
+        "zh": "单周小幅增加不能确立就业市场下行趋势；这份数据也不能单独决定美联储下一次利率行动。"
       }
     }
   ],
   "sectorRadar": {
     "ai": {
-      "en": "Global X Artificial Intelligence & Technology ETF 59.90 USD/share（11/11, 16:00 EST; +2.59% versus 11/10, 16:00 EST）. Previous-session close; ETF performance is a sector reference, not a new company announcement. Source: Yahoo Finance.",
-      "zh": "AIQ人工智能及科技ETF 59.90美元/份（11/11, 16:00 EST；较11/10, 16:00 EST +2.59%）。上一交易日收盘数据；ETF表现作为板块参考，不代表当日新增公司事件。来源：Yahoo Finance。"
+      "en": "CoreWeave's reported funding plan adds detail to the AI infrastructure investment story. Global X Artificial Intelligence & Technology ETF 59.90 USD/share（11/11, 16:00 EST; +2.59% versus 11/10, 16:00 EST）. Previous-session close; ETF performance is a sector reference, not a new company announcement. Source: Yahoo Finance.",
+      "zh": "CoreWeave披露的融资安排为AI基础设施投资提供了更多细节。AIQ人工智能及科技ETF 59.90美元/份（11/11, 16:00 EST；较11/10, 16:00 EST +2.59%）。上一交易日收盘数据；ETF表现作为板块参考，不代表当日新增公司事件。来源：Yahoo Finance。"
     },
     "semiconductor": {
       "en": "iShares Semiconductor ETF 155.41 USD/share（11/11, 16:00 EST; +6.12% versus 11/10, 16:00 EST）. Previous-session close; ETF performance is a sector reference, not a new company announcement. Source: Yahoo Finance.",
@@ -98,19 +101,19 @@
       "zh": "WTI原油期货 86.94美元/桶（11/12, 08:54 EST；较11/11, 16:00 EST +0.71%）；布伦特原油期货 93.59美元/桶（11/12, 08:54 EST；较11/11, 16:00 EST +1.19%）。来源：Yahoo Finance延时五分钟行情。"
     },
     "keyRisk": {
-      "en": "Full AI research did not complete; this report contains source headlines only.",
-      "zh": "AI完整版未完成，本报告仅含来源标题，不应据此作交易判断。"
+      "en": "Watch whether Wednesday's semiconductor gains carry into the cash open as futures retreat and Treasury yields remain elevated. Oil-price changes may influence inflation expectations; their causes are not established by this snapshot.",
+      "zh": "关注期货回落、美债收益率处于较高水平时，周三半导体涨势能否延续至现金市场开盘。油价变动可能影响通胀预期，但这份行情快照不能确定其成因。"
     }
   },
   "judgment": {
-    "type": "mixed",
+    "type": "risk-off",
     "confidence": {
       "en": "medium",
       "zh": "中"
     },
     "note": {
-      "en": "Futures suggest a defensive start, with follow-through still needing confirmation. S&P500 futures -0.68%, Nasdaq-100 futures -1.30%, and gold -2.35% leave a cross-asset picture that merits medium confidence. Higher yields and a firmer dollar may pressure equity valuations. Watch market breadth and semiconductor shares; improving breadth with easing yield or dollar pressure would support a more constructive interpretation.",
-      "zh": "股指期货偏弱，开盘后的延续性仍需确认。标普500期货-0.68%、纳指100期货-1.30%、黄金-2.35%，跨资产组合仍宜保持中等判断置信度。收益率与美元走强可能压制股票估值。关注市场广度和半导体表现；若广度改善且利率或美元压力缓解，可支持更积极的判断。"
+      "en": "I lean toward a fragile opening setup after Wednesday's semiconductor advance. Nasdaq-100 futures are down 1.30% and S&P 500 futures 0.68%, while the 10-year Treasury yield is 5.048%, suggesting valuation pressure may challenge the earnings-led rebound. The dollar is nearly flat at +0.02%, which limits the case for a broad dollar-driven squeeze; gold's 2.35% decline adds cross-asset volatility. Jobless claims remain low despite the weekly increase, so labor data offer limited evidence of rapid deterioration. Watch cash semiconductor participation and market breadth: improving breadth with easing yield pressure would weaken the cautious view, while renewed concentration and rising yields would reinforce it.",
+      "zh": "周三半导体板块上涨后，我倾向于认为今天的开盘环境仍偏脆弱。纳斯达克100和标普500期货分别下跌1.30%和0.68%，10年期美债收益率为5.048%，提示估值压力可能考验财报带动的反弹。美元指数仅上涨0.02%、基本持平，尚不足以支持广泛美元挤压的判断；黄金下跌2.35%，增加了跨资产波动。初请人数虽较前周上升，但仍处低位，就业数据尚未提供快速恶化的充分证据。关注半导体现货股票和市场广度：若涨势扩散且利率压力缓解，偏谨慎判断将削弱；若行情重新集中、收益率继续上行，则会强化这一判断。"
     }
   },
   "marketData": {
