@@ -798,7 +798,7 @@ function App() {
     );
   }
   return (
-    <div className="app-shell">
+    <div className="app-shell" data-report-date={activeReport?.date || ""} data-analytics-view={showArchive ? "archive" : "brief"}>
       <a className="skip-link" href="#main">
         {labels.skip}
       </a>
@@ -1157,6 +1157,7 @@ function App() {
                 lang={lang}
                 readingMode={readingMode}
               />
+              <div data-analytics-reading-end aria-hidden="true" />
               <nav className="report-pagination" aria-label={labels.archive}>
                 <button
                   disabled={activeIndex >= reports.length - 1}
