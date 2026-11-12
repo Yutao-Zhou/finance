@@ -798,7 +798,7 @@ function App() {
     );
   }
   return (
-    <div className="app-shell" data-report-date={activeReport?.date || ""} data-analytics-view={showArchive ? "archive" : "brief"}>
+    <div className="app-shell" data-report-date={activeReport?.date || ""} data-analytics-language={lang} data-analytics-view={showArchive ? "archive" : "brief"}>
       <a className="skip-link" href="#main">
         {labels.skip}
       </a>
