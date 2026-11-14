@@ -1,74 +1,79 @@
 {
   "date": "2026-11-13",
-  "reportMode": "headlines-only",
   "asOf": "2026-11-13T14:00:00.270Z",
   "summary": {
-    "en": "HEADLINES-ONLY FALLBACK. Full AI research did not complete. 3 publisher headlines between the previous US session close and 2026-11-13T14:00:00.270Z; English source titles retained. Quotes and investment analysis are unavailable.",
-    "zh": "【标题简版】AI完整版研究未完成。以下为上一交易日收盘至 2026-11-13T14:00:00.270Z 的3条来源标题，保留英文原题与链接；行情报价和投资分析未完成。"
+    "en": "Information through 09:00 EST: US futures attempt a modest recovery after Thursday's decline, with S&P 500 futures up 0.42% and Nasdaq-100 futures up 0.20% versus the previous cash close. October PPI rose 0.3% month over month and 6.5% year over year; the measure excluding food, energy and trade services rose 0.5%. Treasury yields remain elevated as next week's AI catalysts approach.",
+    "zh": "信息截至纽约时间09:00 EST：周四美股下跌后，标普500和纳斯达克100期货较前一现金收盘分别上涨0.42%和0.20%，呈现温和修复。10月PPI环比上涨0.3%、同比上涨6.5%；剔除食品、能源和贸易服务的指标环比上涨0.5%。美债收益率仍处高位，下周AI相关重要事件临近。"
   },
   "topNews": [
     {
       "title": {
-        "en": "Stock Futures Trending Higher Ahead of PPI Report",
-        "zh": "【英文原题】Stock Futures Trending Higher Ahead of PPI Report"
+        "en": "October PPI rises 0.3% month over month and 6.5% year over year",
+        "zh": "美国10月PPI环比上涨0.3%、同比上涨6.5%"
       },
-      "url": "https://www.fidelity.com/news/article/us-markets/202611130746MIDNIGHTUSEQUITY_A3753608",
-      "source": "fidelity.com",
-      "publishedAt": "2026-11-13T12:46:00.000Z",
+      "url": "https://www.bls.gov/news.release/ppi.nr0.htm",
       "impact": {
-        "en": "Source: fidelity.com; feed publication time: 2026-11-13T12:46:00.000Z. Headline only; the full article and market impact have not been independently verified.",
-        "zh": "来源：fidelity.com；RSS标注发布时间：2026-11-13T12:46:00.000Z。这里只列来源标题，未独立核实全文或市场影响。"
+        "en": "The BLS release published at 08:30 EST reports a 0.3% increase in final-demand PPI. Goods prices rose 0.5% and services 0.2%. Excluding food, energy and trade services, prices rose 0.5% monthly and 4.9% annually. The headline monthly pace slowed from September's revised 1.4%, while broad underlying price pressure persisted.",
+        "zh": "美国劳工统计局08:30 EST公布，最终需求PPI环比上涨0.3%，其中商品价格上涨0.5%、服务价格上涨0.2%；剔除食品、能源和贸易服务后，环比上涨0.5%、同比上涨4.9%。整体月度涨幅较9月修正后的1.4%放缓，但更广泛的基础价格压力仍然存在。"
       },
-      "bullish": [],
-      "bearish": [],
+      "bullish": [
+        "整体月度涨幅放缓，可能缓和部分通胀担忧 / Slower headline monthly growth may ease some inflation concerns."
+      ],
+      "bearish": [
+        "基础价格压力仍强，政策约束可能延续 / Persistent underlying price pressure may sustain policy constraints."
+      ],
       "macroRisk": {
-        "en": "A headline is incomplete context. No bullish, bearish or macro conclusion has been inferred.",
-        "zh": "标题不能替代完整信息，未据此推断利多、利空或宏观结论。"
+        "en": "PPI measures producer prices and is distinct from CPI and PCE. One monthly release does not establish a disinflation trend or determine the next Federal Reserve decision.",
+        "zh": "PPI衡量生产者价格，与CPI和PCE的口径不同；单月数据不能确立通胀放缓趋势，也不能单独决定美联储下一次行动。"
       }
     },
     {
       "title": {
-        "en": "US Dollar Rises Early Friday Ahead of PPI, Federal Reserve Appearances",
-        "zh": "【英文原题】US Dollar Rises Early Friday Ahead of PPI, Federal Reserve Appearances"
-      },
-      "url": "https://www.fidelity.com/news/article/us-economy/202611130735MIDNIGHTUSEQUITY_A3753690",
-      "source": "fidelity.com",
-      "publishedAt": "2026-11-13T12:35:00.000Z",
-      "impact": {
-        "en": "Source: fidelity.com; feed publication time: 2026-11-13T12:35:00.000Z. Headline only; the full article and market impact have not been independently verified.",
-        "zh": "来源：fidelity.com；RSS标注发布时间：2026-11-13T12:35:00.000Z。这里只列来源标题，未独立核实全文或市场影响。"
-      },
-      "bullish": [],
-      "bearish": [],
-      "macroRisk": {
-        "en": "A headline is incomplete context. No bullish, bearish or macro conclusion has been inferred.",
-        "zh": "标题不能替代完整信息，未据此推断利多、利空或宏观结论。"
-      }
-    },
-    {
-      "title": {
-        "en": "Nvidia results, Anthropic IPO pose tests for tumultuous AI trade",
-        "zh": "【英文原题】Nvidia results, Anthropic IPO pose tests for tumultuous AI trade"
+        "en": "Nvidia results and Anthropic's expected listing set up next week's AI tests",
+        "zh": "英伟达财报与Anthropic拟上市构成下周AI板块的重要考验"
       },
       "url": "https://www.fidelity.com/news/article/default/202611130610RTRSNEWSCOMBINED_KCN3WO18Y-OUSBS_1",
-      "source": "fidelity.com",
-      "publishedAt": "2026-11-13T11:10:00.000Z",
       "impact": {
-        "en": "Source: fidelity.com; feed publication time: 2026-11-13T11:10:00.000Z. Headline only; the full article and market impact have not been independently verified.",
-        "zh": "来源：fidelity.com；RSS标注发布时间：2026-11-13T11:10:00.000Z。这里只列来源标题，未独立核实全文或市场影响。"
+        "en": "Reuters identifies Nvidia's Tuesday results under interim CEO Colette Kress and Anthropic's expected trading debut two days later as separate catalysts. It reports an offering valuation of up to $1.4T for Anthropic. These are forthcoming events and expectations; neither Nvidia's actual results nor Anthropic's trading performance is known at this cutoff.",
+        "zh": "路透社将英伟达在临时CEO Colette Kress领导下于周二公布的财报，以及两天后Anthropic预计开始交易，列为两项独立催化剂；报道提及Anthropic发行估值最高可达$1.4T。上述属于未来安排与预期，在本信息截点尚无英伟达实际业绩或Anthropic上市交易表现。"
       },
-      "bullish": [],
-      "bearish": [],
+      "bullish": [
+        "财报与新股定价将提供新的需求观察线索 / Results and IPO pricing may add evidence on AI demand."
+      ],
+      "bearish": [
+        "管理层交接与估值预期带来事件风险 / Leadership transition and valuation expectations create event risk."
+      ],
       "macroRisk": {
-        "en": "A headline is incomplete context. No bullish, bearish or macro conclusion has been inferred.",
-        "zh": "标题不能替代完整信息，未据此推断利多、利空或宏观结论。"
+        "en": "Concentrated AI exposure can amplify index volatility if results or demand expectations disappoint. A proposed IPO valuation is not a completed market capitalization.",
+        "zh": "若业绩或需求预期不及预期，集中的AI敞口可能放大指数波动；拟议IPO估值也不等于已完成交易形成的市值。"
+      }
+    },
+    {
+      "title": {
+        "en": "Futures recover modestly after Thursday's decline; recent policy commentary reviewed",
+        "zh": "周四下跌后期货温和修复，盘前综述回顾近期政策表态"
+      },
+      "url": "https://www.fidelity.com/news/article/us-markets/202611130746MIDNIGHTUSEQUITY_A3753608",
+      "impact": {
+        "en": "MT Newswires' 07:46 EST overview describes firmer futures following Thursday's cash-market decline. It reviews Thursday remarks from Goolsbee, Hammack and Daly, reflecting differing views on the pace of further tightening. Its 08:30 PPI schedule has now passed; today's actual release is covered separately above.",
+        "zh": "MT Newswires在07:46 EST的盘前综述中记录了周四现金市场下跌后的期货回升，并回顾古尔斯比、哈马克和戴利周四的讲话，显示对进一步收紧步伐的看法有所差异。该综述所列08:30 PPI发布时间在当前截点已经过去，实际数据单列于上方。"
+      },
+      "bullish": [
+        "期货回升显示修复意愿 / Firmer futures suggest an attempted recovery."
+      ],
+      "bearish": [
+        "持续的通胀约束可能限制估值修复 / Ongoing inflation constraints may limit valuation recovery."
+      ],
+      "macroRisk": {
+        "en": "Official commentary is not a new FOMC rate decision. Premarket futures direction does not guarantee cash-market follow-through.",
+        "zh": "官员评论不等于新的FOMC利率决议；盘前期货方向也不能保证现金市场开盘后的延续性。"
       }
     }
   ],
   "sectorRadar": {
     "ai": {
-      "en": "Global X Artificial Intelligence & Technology ETF 59.49 USD/share（11/12, 16:00 EST; -0.68% versus 11/11, 16:00 EST）. Previous-session close; ETF performance is a sector reference, not a new company announcement. Source: Yahoo Finance.",
-      "zh": "AIQ人工智能及科技ETF 59.49美元/份（11/12, 16:00 EST；较11/11, 16:00 EST -0.68%）。上一交易日收盘数据；ETF表现作为板块参考，不代表当日新增公司事件。来源：Yahoo Finance。"
+      "en": "Next week's Nvidia results and expected Anthropic debut may reshape AI-demand expectations. Global X Artificial Intelligence & Technology ETF 59.49 USD/share（11/12, 16:00 EST; -0.68% versus 11/11, 16:00 EST）. Previous-session close; ETF performance is a sector reference, not a new company announcement. Source: Yahoo Finance.",
+      "zh": "下周英伟达财报与Anthropic预计上市可能改变AI需求预期。AIQ人工智能及科技ETF 59.49美元/份（11/12, 16:00 EST；较11/11, 16:00 EST -0.68%）。上一交易日收盘数据；ETF表现作为板块参考，不代表当日新增公司事件。来源：Yahoo Finance。"
     },
     "semiconductor": {
       "en": "iShares Semiconductor ETF 154.99 USD/share（11/12, 16:00 EST; -0.27% versus 11/11, 16:00 EST）. Previous-session close; ETF performance is a sector reference, not a new company announcement. Source: Yahoo Finance.",
@@ -117,8 +122,8 @@
       "zh": "WTI原油期货 89.31美元/桶（11/13, 08:55 EST；较11/12, 16:00 EST +0.42%）；布伦特原油期货 96.98美元/桶（11/13, 08:54 EST；较11/12, 16:00 EST +0.93%）。来源：Yahoo Finance延时五分钟行情。"
     },
     "keyRisk": {
-      "en": "Full AI research did not complete; this report contains source headlines only.",
-      "zh": "AI完整版未完成，本报告仅含来源标题，不应据此作交易判断。"
+      "en": "Watch whether the futures recovery broadens into cash technology and semiconductor shares while Treasury yields remain high. Distinguish the released PPI data from earlier forecasts and next week's AI-event expectations.",
+      "zh": "关注美债收益率维持高位时，期货修复能否扩散至科技和半导体现货股票；区分已公布的PPI实际数据、此前预测，以及下周AI事件的预期。"
     }
   },
   "judgment": {
@@ -128,8 +133,8 @@
       "zh": "中"
     },
     "note": {
-      "en": "Futures suggest an attempted recovery, with the prior selloff still relevant to risk. S&P500 futures 0.42%, Nasdaq-100 futures 0.20%, and gold 0.18% leave a cross-asset picture that merits medium confidence. Higher yields and a firmer dollar may pressure equity valuations. Watch whether gains broaden and semiconductor shares participate; fading futures while yields or the dollar turn higher would weaken the constructive thesis.",
-      "zh": "股指期货显示修复意愿，前一交易日跌势仍是风险背景。标普500期货0.42%、纳指100期货0.20%、黄金0.18%，跨资产组合仍宜保持中等判断置信度。收益率与美元走强可能压制股票估值。关注开盘后涨势能否扩散、半导体能否跟随；若期货回吐且收益率或美元转强，偏积极判断将削弱。"
+      "en": "I lean toward a tentative recovery with continuing rate sensitivity. S&P 500 futures are up 0.42% and Nasdaq-100 futures 0.20% after Thursday's declines, while the 10-year yield has risen 2.6 basis points to 5.129%. The dollar is nearly flat at +0.02%, and Brent is up 0.93%, giving the rebound a mixed cross-asset backdrop. October's 0.3% headline PPI increase offers some moderation, but the 0.5% increase excluding food, energy and trade services limits confidence in rapid inflation relief. Watch cash-market breadth and semiconductor participation: broader gains with easing yield pressure would support the recovery; narrowing participation or further yield increases would weaken it.",
+      "zh": "我倾向于将盘前表现解读为试探性修复，利率敏感性仍高。周四下跌后，标普500和纳指100期货分别上涨0.42%和0.20%，但10年期收益率上升2.6个基点至5.129%。美元指数仅上涨0.02%、基本持平，布伦特原油上涨0.93%，跨资产背景仍有分歧。10月整体PPI环比上涨0.3%体现一定缓和，但剔除食品、能源和贸易服务后上涨0.5%，限制了对通胀迅速减轻的信心。关注现金市场广度和半导体参与度：若涨势扩散且利率压力缓解，将支持修复；若参与度收窄或收益率进一步上行，则会削弱这一判断。"
     }
   },
   "marketData": {
