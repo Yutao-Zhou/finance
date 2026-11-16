@@ -12,6 +12,12 @@ import {
 } from "./lib/reports";
 import "./App.css";
 import EditionPicker from "./components/EditionPicker";
+import {
+  AnnouncementBanner,
+  AnnouncementBell,
+  AnnouncementDrawer,
+} from "./components/Announcements";
+import useAnnouncements from "./lib/useAnnouncements";
 
 const dataFiles = import.meta.glob("../data/*.json", { eager: true });
 const reports = Object.values(dataFiles)
@@ -700,6 +706,7 @@ function readPreference(key, fallback, allowed) {
   }
 }
 function App() {
+  const updates = useAnnouncements();
   const [lang, setLang] = useState(() =>
     readPreference("lang", "zh", ["zh", "en"]),
   );
@@ -748,6 +755,7 @@ function App() {
   }, [theme, lang, readingSize, readingMode]);
   useEffect(() => {
     const onKey = (event) => {
+      if (event.defaultPrevented || event.target.closest?.("dialog")) return;
       if (
         event.key === "/" &&
         !["INPUT", "TEXTAREA", "SELECT"].includes(
@@ -925,6 +933,7 @@ function App() {
                 <kbd>/</kbd>
               )}
             </div>
+            <AnnouncementBell lang={lang} updates={updates} />
             <div
               className="language-switch"
               role="group"
@@ -960,6 +969,7 @@ function App() {
           </div>
         </header>
         <main id="main" className="main-content">
+          <AnnouncementBanner lang={lang} updates={updates} />
           <header className="masthead">
             <div>
               <div className="masthead-title">
@@ -1221,6 +1231,7 @@ function App() {
           </footer>
         </main>
       </div>
+      <AnnouncementDrawer lang={lang} updates={updates} onArchive={openArchive} />
     </div>
   );
 }
