@@ -1,55 +1,58 @@
 {
   "date": "2026-11-16",
-  "reportMode": "headlines-only",
   "asOf": "2026-11-16T14:00:00.288Z",
   "summary": {
-    "en": "HEADLINES-ONLY FALLBACK. Full AI research did not complete. 2 publisher headlines between the previous US session close and 2026-11-16T14:00:00.288Z; English source titles retained. Quotes and investment analysis are unavailable.",
-    "zh": "【标题简版】AI完整版研究未完成。以下为上一交易日收盘至 2026-11-16T14:00:00.288Z 的2条来源标题，保留英文原题与链接；行情报价和投资分析未完成。"
+    "en": "Information through 09:00 EST: US futures are lower relative to Friday's cash-close reference, led by Nasdaq-100 futures at -1.38%; S&P 500 futures are down 0.69%. The 10-year Treasury yield eases to 5.133%, while the dollar edges higher and crude declines. This week brings Nvidia's Tuesday results, Anthropic's planned IPO and a Monday speech by Fed Chair Kevin Warsh.",
+    "zh": "信息截至纽约时间09:00 EST：美股期货较周五现金收盘参考点下跌，纳指100期货跌1.38%、标普500期货跌0.69%。10年期美债收益率回落至5.133%，美元小幅走强，原油下跌。本周关注英伟达周二财报、Anthropic拟议IPO，以及美联储主席Kevin Warsh周一讲话。"
   },
   "topNews": [
     {
       "title": {
-        "en": "US Equity Investors to Monitor Anthropic's IPO, Nvidia's Quarterly Results, Fed Chair Kevin Warsh's Policy Lean This Week",
-        "zh": "【英文原题】US Equity Investors to Monitor Anthropic's IPO, Nvidia's Quarterly Results, Fed Chair Kevin Warsh's Policy Lean This Week"
+        "en": "Prior-week recap: US stocks advanced despite inflation and rate pressure",
+        "zh": "上周回顾：美股周线走高，通胀与利率压力仍在"
       },
-      "url": "https://www.fidelity.com/news/article/default/202611160632MIDNIGHTUSEQUITY_A3754446",
-      "source": "fidelity.com",
-      "publishedAt": "2026-11-16T11:32:00.000Z",
+      "url": "https://www.fidelity.com/news/article/us-markets/202611131620MIDNIGHTUSEQUITY_A3754164",
       "impact": {
-        "en": "Source: fidelity.com; feed publication time: 2026-11-16T11:32:00.000Z. Headline only; the full article and market impact have not been independently verified.",
-        "zh": "来源：fidelity.com；RSS标注发布时间：2026-11-16T11:32:00.000Z。这里只列来源标题，未独立核实全文或市场影响。"
+        "en": "MT Newswires' Friday post-close recap reports weekly gains across the three major US indexes, with technology and communication services among the leading sectors. It also describes stronger-than-forecast October consumer inflation and a weekly rise in Treasury yields. These are prior-week developments, distinct from Friday's weaker technology close and Monday's lower futures.",
+        "zh": "MT Newswires周五收盘后的综述记录了美国三大股指全周上涨，科技和通信服务位居表现靠前板块；同时回顾10月消费者通胀高于预测及美债收益率全周上升。这些是上周背景，与周五科技股收盘走弱、周一期货下跌应分开理解。"
       },
-      "bullish": [],
-      "bearish": [],
+      "bullish": [
+        "上周周线涨势提供背景支撑 / Prior-week gains provide supportive context."
+      ],
+      "bearish": [
+        "通胀与高利率仍可能约束估值 / Inflation and high rates may constrain valuations."
+      ],
       "macroRisk": {
-        "en": "A headline is incomplete context. No bullish, bearish or macro conclusion has been inferred.",
-        "zh": "标题不能替代完整信息，未据此推断利多、利空或宏观结论。"
+        "en": "A weekly advance does not establish Monday's direction. Earlier inflation releases and a weekly yield move must not be presented as newly released Monday data.",
+        "zh": "全周上涨不能确定周一方向；此前通胀发布与周度收益率变化不能写成周一刚公布的数据。"
       }
     },
     {
       "title": {
-        "en": "US Equity Indexes Rose This Week as Post-Midterm Rally, AI Infrastructure Demand Offset Hot Consumer Prices, Nvidia's Turmoil",
-        "zh": "【英文原题】US Equity Indexes Rose This Week as Post-Midterm Rally, AI Infrastructure Demand Offset Hot Consumer Prices, Nvidia's Turmoil"
+        "en": "Nvidia reports Tuesday; Anthropic proposes a $70–$78 IPO range",
+        "zh": "英伟达周二公布财报；Anthropic拟议IPO价格区间为$70–$78"
       },
-      "url": "https://www.fidelity.com/news/article/us-markets/202611131620MIDNIGHTUSEQUITY_A3754164",
-      "source": "fidelity.com",
-      "publishedAt": "2026-11-13T21:20:00.000Z",
+      "url": "https://www.fidelity.com/news/article/default/202611160632MIDNIGHTUSEQUITY_A3754446",
       "impact": {
-        "en": "Source: fidelity.com; feed publication time: 2026-11-13T21:20:00.000Z. Headline only; the full article and market impact have not been independently verified.",
-        "zh": "来源：fidelity.com；RSS标注发布时间：2026-11-13T21:20:00.000Z。这里只列来源标题，未独立核实全文或市场影响。"
+        "en": "MT Newswires' 06:32 EST outlook lists Nvidia's Tuesday quarterly results and Anthropic's planned offering of 825 million shares at $70–$78 as key events this week. It also flags Warsh's Monday speech. Nvidia's results and guidance remain pending; the proposed IPO range is not a final offering price or a trading outcome.",
+        "zh": "MT Newswires在06:32 EST的展望中，将英伟达周二季度财报，以及Anthropic本周拟以$70–$78区间发行8.25亿股列为重要事件，并提示Warsh周一讲话。英伟达实际业绩与指引尚未公布，拟议IPO区间也不等于最终发行价格或上市交易表现。"
       },
-      "bullish": [],
-      "bearish": [],
+      "bullish": [
+        "财报和发行定价可提供AI需求新线索 / Results and offering pricing may provide new evidence on AI demand."
+      ],
+      "bearish": [
+        "预期集中可能放大科技板块事件波动 / Concentrated expectations may amplify technology event volatility."
+      ],
       "macroRisk": {
-        "en": "A headline is incomplete context. No bullish, bearish or macro conclusion has been inferred.",
-        "zh": "标题不能替代完整信息，未据此推断利多、利空或宏观结论。"
+        "en": "Analyst forecasts are not reported earnings. A scheduled speech is not a new policy decision; interpretation will depend on what is actually said.",
+        "zh": "分析师预测不等于已公布业绩；预定讲话也不等于新的政策决定，影响取决于实际内容。"
       }
     }
   ],
   "sectorRadar": {
     "ai": {
-      "en": "Global X Artificial Intelligence & Technology ETF 58.71 USD/share（11/13, 16:00 EST; -1.31% versus 11/12, 16:00 EST）. Previous-session close; ETF performance is a sector reference, not a new company announcement. Source: Yahoo Finance.",
-      "zh": "AIQ人工智能及科技ETF 58.71美元/份（11/13, 16:00 EST；较11/12, 16:00 EST -1.31%）。上一交易日收盘数据；ETF表现作为板块参考，不代表当日新增公司事件。来源：Yahoo Finance。"
+      "en": "Nvidia's Tuesday results and Anthropic's planned offering are the main upcoming AI events. Global X Artificial Intelligence & Technology ETF 58.71 USD/share（11/13, 16:00 EST; -1.31% versus 11/12, 16:00 EST）. Previous-session close; ETF performance is a sector reference, not a new company announcement. Source: Yahoo Finance.",
+      "zh": "英伟达周二财报与Anthropic拟议发行是接下来的AI重要事件。AIQ人工智能及科技ETF 58.71美元/份（11/13, 16:00 EST；较11/12, 16:00 EST -1.31%）。上一交易日收盘数据；ETF表现作为板块参考，不代表当日新增公司事件。来源：Yahoo Finance。"
     },
     "semiconductor": {
       "en": "iShares Semiconductor ETF 149.34 USD/share（11/13, 16:00 EST; -3.65% versus 11/12, 16:00 EST）. Previous-session close; ETF performance is a sector reference, not a new company announcement. Source: Yahoo Finance.",
@@ -98,19 +101,19 @@
       "zh": "WTI原油期货 87.51美元/桶（11/16, 08:55 EST；较11/13, 16:00 EST -1.60%）；布伦特原油期货 94.12美元/桶（11/16, 08:55 EST；较11/13, 16:00 EST -2.09%）。来源：Yahoo Finance延时五分钟行情。"
     },
     "keyRisk": {
-      "en": "Full AI research did not complete; this report contains source headlines only.",
-      "zh": "AI完整版未完成，本报告仅含来源标题，不应据此作交易判断。"
+      "en": "Watch whether semiconductor and technology weakness broadens after the cash open, and whether easing Treasury yields help stabilize equities. Keep forthcoming earnings, proposed IPO terms and scheduled policy remarks separate from released results.",
+      "zh": "关注现货开盘后半导体与科技股的弱势是否扩散，以及美债收益率回落能否帮助股票企稳；区分未来财报、拟议IPO条款、预定政策讲话与已经公布的结果。"
     }
   },
   "judgment": {
-    "type": "mixed",
+    "type": "risk-off",
     "confidence": {
       "en": "medium",
       "zh": "中"
     },
     "note": {
-      "en": "Futures suggest a defensive start, with follow-through still needing confirmation. S&P500 futures -0.69%, Nasdaq-100 futures -1.38%, and gold -0.27% leave a cross-asset picture that merits medium confidence. Rates and dollar signals are mixed, limiting conviction in the equity direction. Watch market breadth and semiconductor shares; improving breadth with easing yield or dollar pressure would support a more constructive interpretation.",
-      "zh": "股指期货偏弱，开盘后的延续性仍需确认。标普500期货-0.69%、纳指100期货-1.38%、黄金-0.27%，跨资产组合仍宜保持中等判断置信度。利率与美元信号分歧，限制了对股市方向的判断把握。关注市场广度和半导体表现；若广度改善且利率或美元压力缓解，可支持更积极的判断。"
+      "en": "I lean toward a cautious opening, with technology bearing the greater pressure. Nasdaq-100 futures are down 1.38% versus the prior cash-close reference, compared with a 0.69% decline in S&P 500 futures; Friday's SOXX decline of 3.65% adds sector context. The dollar is up 0.09%, but the 10-year yield has fallen 2.1 basis points to 5.133% and Brent is down 2.09%, so cross-asset signals are mixed. Lower yields could support valuations, while weaker oil alone does not prove a demand shock. Watch opening breadth and semiconductor participation: stabilization alongside easing yields would weaken the cautious view; broadening equity losses would support it.",
+      "zh": "我倾向于对开盘保持谨慎，科技板块承压更明显。纳指100期货较前一现金收盘参考点下跌1.38%，标普500期货下跌0.69%；周五SOXX下跌3.65%也提供了板块背景。美元上涨0.09%，但10年期收益率下降2.1个基点至5.133%，布伦特原油下跌2.09%，跨资产信号存在分歧。收益率回落可能支持估值，单凭油价走低则不能证明需求冲击。关注开盘广度及半导体参与情况：若利率压力缓解同时股票企稳，将削弱谨慎判断；若股票跌势扩散，则会支持这一判断。"
     }
   },
   "marketData": {
