@@ -1,19 +1,61 @@
 {
   "date": "2026-11-17",
   "summary": {
-    "en": "US equity futures were mixed pre-bell Tuesday, with Nasdaq-100 futures up 0.23% and Dow futures down 0.82%, as traders awaited Nvidia's fiscal Q3 report due after the close. The Trump administration is reportedly moving to block imports of Chinese data center equipment on national security grounds, while Home Depot and Disney both posted higher adjusted earnings. Oil futures rose (Brent +1.41% at $93.65, WTI +1.59% at $86.89) and the 10-year Treasury yield ticked up 2 basis points to 5.141%, providing a mild headwind to the attempted equity repair.",
-    "zh": "周二盘前美股期货涨跌互现，纳指100期货涨0.23%，道指期货跌0.82%，市场等待英伟达盘后发布第三季度财报。据报道，特朗普政府正以国家安全为由推进阻止中国数据中心设备进口的计划，家得宝和迪士尼均报告调整后盈利增长。原油期货走高（布伦特涨1.41%至$93.65，WTI涨1.59%至$86.89），10年期美债收益率上行2个基点至5.141%，对股市修复构成轻微逆风。"
+    "en": "Information through 09:00 EST: US futures are mixed after Monday's selloff, with Nasdaq-100 futures up 0.23% and S&P 500 futures down 0.20% versus the previous cash-close reference. October retail sales rose 0.2% month over month; import and export prices each rose 1.1%. Nvidia's results remain due after the close. Higher Treasury yields and oil prices complicate the attempted technology recovery.",
+    "zh": "信息截至纽约时间09:00 EST：周一抛售后，美股期货涨跌互现，纳指100和标普500期货较前一现金收盘参考点分别上涨0.23%、下跌0.20%。已公布的10月零售销售环比增0.2%，进口、出口价格均环比涨1.1%。英伟达财报仍待盘后发布，美债收益率与油价走高增加科技板块修复的不确定性。"
   },
   "topNews": [
     {
+      "url": "https://www.census.gov/retail/sales.html",
       "title": {
-        "en": "US futures mixed pre-bell; Trump admin to block Chinese data center equipment imports; HD and DIS post higher adjusted earnings",
-        "zh": "美股期货盘前涨跌互现；特朗普政府拟阻止中国数据中心设备进口；家得宝和迪士尼调整后盈利增长"
+        "en": "October retail and food-services sales rise 0.2% month over month",
+        "zh": "美国10月零售与餐饮销售环比增0.2%"
+      },
+      "impact": {
+        "en": "The Census Bureau's 08:30 EST release puts October retail and food-services sales at $748.2B, up 0.2% monthly and 6.8% annually. September's 0.8% monthly gain was unrevised. Estimates are adjusted for seasonality and calendar effects, but not inflation; the monthly estimate's ±0.4 percentage-point margin includes zero.",
+        "zh": "人口普查局08:30 EST公布，10月零售与餐饮销售额$748.2B，环比增0.2%、同比增6.8%；9月环比增0.8%未修正。数据经季节及日历调整，未扣除价格变化；月度估计的误差范围为±0.4个百分点，包含零。"
+      },
+      "bullish": [
+        "名义销售额仍高于上年同期 / Nominal sales remain above the year-earlier level."
+      ],
+      "bearish": [
+        "月度增速较9月放缓 / Monthly growth slowed from September."
+      ],
+      "macroRisk": {
+        "en": "Nominal sales do not measure inflation-adjusted consumption. The monthly change is not statistically distinguishable from zero at the stated confidence level.",
+        "zh": "名义销售不等于实际消费增长；按公布的置信水平，月度变化与零没有统计显著差异。"
+      }
+    },
+    {
+      "url": "https://www.bls.gov/news.release/ximpim.nr0.htm",
+      "title": {
+        "en": "October import and export prices each rise 1.1% month over month",
+        "zh": "美国10月进口、出口价格均环比涨1.1%"
+      },
+      "impact": {
+        "en": "The BLS release at 08:30 EST reports October import prices up 1.1%, matching September's monthly pace, and export prices up 1.1% after September's 2.4% increase. Nonfuel import prices rose 0.8%. These are published results, distinct from the earlier 0.7% import and 0.5% export forecasts in the morning overview.",
+        "zh": "劳工统计局08:30 EST公布，10月进口价格环比涨1.1%，与9月涨幅相同；出口价格环比涨1.1%，前月涨2.4%。非燃料进口价格环比涨0.8%。以上为已公布结果，应与早间综述中进口涨0.7%、出口涨0.5%的此前预测区分。"
+      },
+      "bullish": [
+        "出口价格月度涨幅低于9月 / Monthly export-price growth slowed from September."
+      ],
+      "bearish": [
+        "非燃料进口价格继续上涨 / Nonfuel import prices continued rising."
+      ],
+      "macroRisk": {
+        "en": "Trade-price indexes differ from CPI and PCE. October 2025 survey gaps prevent publication of some October 2026 year-over-year changes; do not infer missing annual rates.",
+        "zh": "贸易价格指数不同于CPI和PCE；2025年10月调查缺口使部分2026年10月同比变化无法公布，不能自行推算缺失同比值。"
+      }
+    },
+    {
+      "title": {
+        "en": "US import-restriction plans reported; Home Depot and Disney post higher adjusted earnings",
+        "zh": "据报道美国推进进口限制计划；家得宝与迪士尼调整后盈利增长"
       },
       "url": "https://www.fidelity.com/news/article/us-markets/202611170801MIDNIGHTUSEQUITY_A3755525",
       "impact": {
-        "en": "The Chinese equipment import restriction, if finalized, could reshape supply chains for AI data center buildout and add cost pressure on US hyperscalers. The mixed futures and rising oil suggest a cautious tone into Nvidia's after-close report.",
-        "zh": "若中国设备进口限制最终落地，可能重塑AI数据中心建设的供应链格局，并增加美国超大规模云厂商的成本压力。期货涨跌互现叠加油价走高，显示市场在英伟达盘后财报前保持谨慎。"
+        "en": "MT Newswires reports that the administration is advancing plans to block Chinese data-center equipment imports, citing a Reuters report based on briefed sources. The same overview says Home Depot's fiscal Q3 adjusted earnings and sales rose, as did Disney's fiscal Q4 adjusted earnings and revenue. Proposed restrictions could affect technology supply chains if finalized.",
+        "zh": "MT Newswires援引路透社知情来源报道，政府正推进阻止中国数据中心设备进口的计划；同篇综述称，家得宝第三财季调整后盈利和销售额、迪士尼第四财季调整后盈利和营收均增长。若限制最终落地，可能影响科技供应链。"
       },
       "bullish": [
         "Nasdaq-100 futures up 0.23% pre-bell; Home Depot and Disney both reported higher adjusted earnings",
@@ -39,12 +81,10 @@
         "zh": "英伟达的财报及临时CEO Colette Kress对AI资本开支可持续性的评论，将成为半导体板块是否见底的关键信号。若指引偏弱或语气谨慎，可能延续调整；若前景乐观，可能带动AI相关个股反弹。"
       },
       "bullish": [
-        "SOX index still up over 35% in 2026; S&P 500 semi group earnings expected to rise about 125% in 2026 per LSEG",
-        "SOX指数2026年仍上涨逾35%；据LSEG数据，标普500半导体板块2026年盈利预计增长约125%"
+        "据LSEG，标普500半导体及设备组2026年盈利预计增约125%，属于预测 / LSEG expects about 125% earnings growth for the S&P 500 semiconductor and equipment group in 2026; this is a forecast."
       ],
       "bearish": [
-        "SOX index down 34% from late-June peak; Nvidia down nearly 35% since Oct 6 Nasdaq high; forward P/E near six-year low",
-        "SOX指数自6月底峰值下跌34%；英伟达自10月6日纳指高点以来下跌近35%；前瞻市盈率接近六年低位"
+        "SOX较6月底峰值跌34%；英伟达较10月6日纳指高点时跌近35% / SOX is down 34% from its late-June peak; Nvidia is down nearly 35% since the October 6 Nasdaq high."
       ],
       "macroRisk": {
         "en": "10-year Treasury yield up 2bp to 5.141% adds mild valuation pressure on growth and AI-linked stocks.",
@@ -62,8 +102,8 @@
       "zh": "SOXX周一跌5.45%；SOX指数自6月底峰值下跌34%但年内仍涨35%；美银认为SOX距潜在底部约10%至15%。"
     },
     "bigTech": {
-      "en": "QQQ down 2.65% Monday; Trump admin moving to block Chinese data center equipment imports; Commerce Dept released interim final rule on AI chip access restrictions.",
-      "zh": "QQQ周一跌2.65%；特朗普政府拟阻止中国数据中心设备进口；商务部发布AI芯片访问限制的临时最终规则。"
+      "en": "QQQ fell 2.65% at Monday's close. Today's overview reports plans to restrict Chinese data-center equipment imports; a separate Monday report discussed a rule covering remote access to advanced US AI chips.",
+      "zh": "QQQ周一收盘跌2.65%。今日综述报道限制中国数据中心设备进口的计划；另一篇周一报道涉及限制远程访问美国先进AI芯片的规则。"
     },
     "energy": {
       "en": "Brent +1.41% at $93.65, WTI +1.59% at $86.89 premarket; XLE was down 1.87% Monday.",
@@ -104,8 +144,8 @@
       "zh": "WTI原油期货 86.89美元/桶（11/17, 08:55 EST；较11/16, 16:00 EST +1.59%）；布伦特原油期货 93.65美元/桶（11/17, 08:55 EST；较11/16, 16:00 EST +1.41%）。来源：Yahoo Finance延时五分钟行情。"
     },
     "keyRisk": {
-      "en": "Nvidia fiscal Q3 report after close; October retail sales and industrial production data due at 9:15 AM ET; Trump admin Chinese equipment import restriction.",
-      "zh": "英伟达盘后第三季度财报；10月零售销售和工业生产数据定于美东时间上午9:15发布；特朗普政府中国设备进口限制。"
+      "en": "Retail sales and import/export prices have been released at 08:30 EST. October industrial production remains scheduled for 09:15 EST at this cutoff, while Nvidia's results are due after the close. Watch cash-market breadth and semiconductor participation.",
+      "zh": "零售销售和进出口价格已于08:30 EST公布；在本截点，10月工业生产仍待09:15 EST发布，英伟达财报待盘后公布。关注现货开盘后的市场广度与半导体参与情况。"
     }
   },
   "judgment": {
@@ -115,8 +155,8 @@
       "zh": "中"
     },
     "note": {
-      "en": "Monday's broad selloff (Nasdaq -2.44%, SOXX -5.45%) left Tuesday's premarket futures in a tentative, uneven repair: NQ up 0.23% while ES down 0.2% and YM down 0.82%, suggesting a tech-led bounce rather than broad risk-on. The 10-year yield at 5.141% (+2 bp) and Brent at $93.65 (+1.41%) provide a mild cost headwind; the dollar is flat at 103.71, neither amplifying nor offsetting the move. I lean toward viewing the NQ gain as an attempted repair after a sharp prior-session decline, not a confirmed reversal, particularly with the reported push to block Chinese data-center equipment imports weighing on the semi complex. Watchpoint: if NQ holds its positive bias into the first thirty minutes of the cash session and ES also turns positive, the repair is broadening; if NQ fades back below the prior close while the 10-year yield drifts higher, the bounce likely stalls.",
-      "zh": "周一的广泛抛售（纳指-2.44%、SOXX-5.45%）使周二盘前期货呈现试探性、不均衡的修复：NQ涨0.23%而ES跌0.2%、YM跌0.82%，暗示科技股领涨的反弹而非全面风险偏好回升。10年期美债收益率升至5.141%（+2bp）、布伦特原油涨至$93.65（+1.41%），构成温和的成本逆风；美元持平于103.71，既未放大也未抵消这一走势。我倾向于将NQ的上涨视为一次修复尝试而非趋势反转，尤其是在据报道政府正推进阻止中国数据中心设备进口、对半导体板块形成压力的背景下。观察要点：若NQ在开盘前30分钟内维持正偏且ES也转为正，则修复在扩散；若NQ回落到前收下方而10年期收益率继续上行，则反弹大概率停滞。"
+      "en": "I lean toward an uneven recovery attempt after Monday's selloff. Nasdaq-100 futures are up 0.23%, but S&P 500 and Dow futures are down 0.20% and 0.82%, so participation is narrow. The 10-year yield is up 2 basis points to 5.141%, the dollar gains 0.10%, and Brent rises 1.41%, creating a less supportive rate and cost backdrop. Retail sales grew 0.2% monthly in nominal terms, while import prices rose 1.1%; neither figure alone establishes real-demand strength or the next policy decision. Watch the cash open: broader gains including semiconductors with stable yields would support recovery; a fading Nasdaq lead alongside higher yields would weaken it.",
+      "zh": "我倾向于将盘前表现视为周一抛售后的不均衡修复尝试。纳指100期货涨0.23%，但标普500和道指期货跌0.20%、0.82%，参与面仍窄。10年期收益率上升2个基点至5.141%，美元涨0.10%，布伦特涨1.41%，利率与成本背景对修复的支持有限。零售销售名义值环比增0.2%，进口价格环比涨1.1%；单项数据都不足以确定实际需求强弱或下一次政策决定。关注现货开盘后：若半导体参与、涨势扩散且收益率稳定，将支持修复；若纳指领先优势消退而收益率上行，则会削弱这一判断。"
     }
   },
   "marketData": {
@@ -333,5 +373,6 @@
         "delayed": true
       }
     ]
-  }
+  },
+  "asOf": "2026-11-17T14:00:01.032Z"
 }
