@@ -1,26 +1,31 @@
-# 项目文档
+# Documentation
 
-从[项目首页](../README.md)开始，按需要进入下面的文档。文档以中文说明为主，保留实际使用的英文命令、字段和组件名称。
+**English** | [简体中文](zh-CN/README.md)
 
-## 开发与维护
+Start with the [project README](../README.md), then choose a guide below. English is the default language; a complete [Simplified Chinese edition](zh-CN/README.md) is available.
 
-| 文档                              | 解决的问题                                           |
-| --------------------------------- | ---------------------------------------------------- |
-| [开发上手](getting-started.md)    | 如何准备环境、运行项目、执行检查和预览构建           |
-| [架构说明](architecture.md)       | 内容如何进入页面，组件、状态、样式与外部依赖放在哪里 |
-| [晨报数据格式](report-data.md)    | JSON 字段、双语内容、行情单位与缺失数据如何处理      |
-| [发布与运营](operations.md)       | 如何发布晨报、验证上线、回退，以及暂停或恢复更新     |
-| [公告维护](site-announcements.md) | 如何添加公告、置顶横幅，并维护已读行为               |
-| [常见问题](troubleshooting.md)    | 网站不更新、构建警告、旧脚本等问题如何排查           |
-| [参与开发](../CONTRIBUTING.md)    | 修改范围、提交与验证要求                             |
-| [更新记录](../CHANGELOG.md)       | 已完成的重要代码与功能变更                           |
+## Development and maintenance
 
-## 文档约定
+| Guide                                       | What it covers                                                        |
+| ------------------------------------------- | --------------------------------------------------------------------- |
+| [Getting started](getting-started.md)       | Environment setup, local development, checks and build previews       |
+| [Architecture](architecture.md)             | Content flow, components, state, styling and external dependencies    |
+| [Report data](report-data.md)               | JSON fields, bilingual content, quote units and missing data          |
+| [Operations](operations.md)                 | Publication, deployment verification, rollback, pauses and resumption |
+| [Site announcements](site-announcements.md) | Adding notices, pinning banners and maintaining read states           |
+| [Troubleshooting](troubleshooting.md)       | Stale pages, build warnings and legacy tooling                        |
+| [Contributing](../CONTRIBUTING.md)          | Scope, commits and validation requirements                            |
+| [Changelog](../CHANGELOG.md)                | Significant shipped code and feature changes                          |
 
-- 仓库根目录保留项目入口和协作文件；具体指南放在 `docs/`，使用小写、连字符文件名与相对链接，便于直接在 GitHub 浏览。
-- 操作步骤、数据参考与架构解释分开编写。命令和字段的详细说明只维护一份，其他页面通过链接引用。
-- `package.json`、锁文件和实际源码决定当前行为；修改脚本、数据格式或用户功能时，同一提交更新相应文档。
-- 新增文档后在本页补充入口。Markdown 示例必须可解析；不要把占位示例放进真实 `data/` 目录。
-- 明确区分已实现功能、历史示例和待完成工作。没有配置或未验证的自动化，不写成现有生产能力。
+## Documentation conventions
 
-本轮文档核对日期：**2026-11-16**。后续行为变更应同步维护对应页面，文档更新时间不代表当天一定发布了晨报。
+- Keep English in the default files: root `README.md`, `CONTRIBUTING.md`, `CHANGELOG.md`, `DEVELOPMENT.md` and the guides directly under `docs/`.
+- Keep Simplified Chinese root documents in `*.zh-CN.md` and translated guides in `docs/zh-CN/`, using the same guide filenames. Each page must link to its counterpart. Keep navigation within the selected language.
+- Update English and Chinese counterparts together when commands, fields or behavior change. Preserve the same meaning and examples; translate explanatory text, not command names, field names or source paths.
+- Keep project entry points and collaboration files at the repository root. Use lowercase, hyphenated filenames and relative links for detailed guides so they work on GitHub.
+- Separate instructions, reference material and architectural explanations. Maintain command and field details on their dedicated pages and link to them elsewhere.
+- `package.json`, the lockfile and source code define current behavior. Update the relevant documentation in the same change as implementation changes.
+- Add new guides to this index. Code examples must parse; keep placeholder examples out of the real `data/` directory.
+- Distinguish implemented features, historical examples and planned work. Do not describe unconfigured or unverified automation as a production capability.
+
+Documentation last checked against the repository on **2026-11-16**. Update the affected pages as behavior changes; a documentation update does not imply a new briefing was published that day.

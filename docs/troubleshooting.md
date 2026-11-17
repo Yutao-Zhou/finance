@@ -1,88 +1,90 @@
-# 常见问题
+# Troubleshooting
 
-[返回文档导航](README.md)
+**English** | [简体中文](zh-CN/troubleshooting.md)
 
-## 推送代码后网站没有更新
+[Documentation index](README.md)
 
-`main` 是源代码分支，网站读取已发布的静态构建。同步最新源码后运行 `npm run deploy`，再检查 GitHub Pages 对应作业是否完成。具体顺序见[发布流程](operations.md#发布网站)。
+## The site did not update after a source push
 
-如果终端已显示 `Published` 但页面仍旧，先等待 Pages 部署，再刷新页面。比较线上与 `dist/index.html` 中的资源文件名；资源名已一致时，再检查浏览器缓存与当前 URL 是否固定在某个 `?date=` 历史日期。
+`main` contains source code; the website serves the published static build. Synchronize the source, run `npm run deploy`, and confirm that the corresponding GitHub Pages job finishes. Follow the [publication workflow](operations.md#publish-the-site).
 
-## 网站更新后最新晨报反而变旧
+If the terminal shows `Published` but the page is old, wait for Pages deployment and refresh. Compare live asset filenames with `dist/index.html`. If they match, check browser caching and whether the URL selects an older edition with `?date=`.
 
-部署可能来自旧的本地 checkout。查看 `git log`、远端 `main` 与本地最新 `data/` 日期，先妥善保存修改，再同步并重新发布。不要只重试旧目录里的部署命令。
+## The latest report became older after deployment
 
-网站默认选择已构建内容中的最新日期；重新部署不会自动采集或生成当天晨报。
+The deployment may have used an old checkout. Inspect `git log`, remote `main` and the latest local `data/` date. Preserve existing changes, synchronize and redeploy. Repeating deployment from the stale checkout will not fix the content.
 
-## Node.js 或安装报错
+The site selects the newest date in its built content. Deploying does not collect or generate today's report.
 
-核对 `node --version` 是否满足当前 Vite 的 `^20.19.0 || >=22.12.0`。用 `npm ci` 安装已提交的锁文件，不要为修复一次安装问题随意删除或重建 `package-lock.json`。
+## Node.js or installation errors
 
-如果 `npm ci` 提示锁文件与 `package.json` 不一致，先检查是否存在未完成的依赖变更；只有确实需要更新依赖时才重新生成锁文件，并在同一提交中说明原因。
+Check that `node --version` satisfies the current Vite requirement, `^20.19.0 || >=22.12.0`. Use `npm ci` with the committed lockfile rather than deleting or recreating `package-lock.json` to work around an installation error.
 
-## 端口被占用或打不开本地页面
+If `npm ci` reports a mismatch between the lockfile and `package.json`, first check for an unfinished dependency change. Regenerate the lockfile only when a dependency update is intended, and explain it in the same commit.
 
-以 Vite 输出的地址和端口为准，并保留 `/finance/` 路径。使用 `--strictPort` 时端口占用会直接失败，不会自动换端口。选择可用端口重新启动即可。
+## An occupied port or inaccessible local page
 
-`npm run preview` 需要先有成功的 `npm run build`，而且只展示上一次构建，不读取刚修改但尚未重建的源文件。
+Use the host and port printed by Vite, keeping the `/finance/` path. With `--strictPort`, an occupied port fails instead of selecting another one. Restart on an available port.
 
-## 页面空白或资源 404
+`npm run preview` requires a successful `npm run build` first. It shows that build, not source edits made afterward without rebuilding.
 
-- 确认部署的是 `dist/`，不是源码目录，且 Vite `base` 仍为 `/finance/`。
-- 确认访问入口为 `/finance/`，日期采用 `?date=YYYY-MM-DD`。当前没有按日期的路径路由。
-- 如果线上主页面请求 `/src/main.jsx`，检查是否误发布了源码 HTML，或进入了下面提到的旧 404 页面。
-- 查看浏览器控制台与网络请求，区分 JavaScript 错误、路径错误和字体加载失败。
+## A blank page or asset 404s
 
-`public/404.html` 是历史模板，仍引用 `/src/main.jsx`；Vite 对 `public/` 文件原样复制，不会将其转换成生产入口。它目前不能作为可靠的 SPA 回退。正常分享使用已支持的查询参数链接，不要依赖任意路径落到 404 后仍能渲染应用。
+- Confirm that deployment publishes `dist/`, not the source directory, and that Vite `base` remains `/finance/`.
+- Use `/finance/` with `?date=YYYY-MM-DD` for edition links. Date-based path routes are not implemented.
+- If a production page requests `/src/main.jsx`, check whether source HTML was published or the legacy 404 page below was loaded.
+- Inspect the browser console and network requests to distinguish JavaScript errors, path errors and font-loading failures.
 
-## 晨报没有出现或只有部分内容
+`public/404.html` is a legacy template still referencing `/src/main.jsx`. Vite copies `public/` unchanged rather than transforming it into a production entry. This file is not currently a reliable SPA fallback. Share the supported query-parameter URLs rather than relying on arbitrary paths rendering through a 404 page.
 
-检查文件是否在根目录 `data/`，JSON 是否有效，`date` 是否为真实的 `YYYY-MM-DD`，以及是否已经重新构建发布。不要将正式数据误放到 `src/data/`，那里目前存放公告。
+## A report is missing or partially empty
 
-没有有效标题的新闻、空内容和以 `[` 开头的占位文本可能被过滤；缺少结构化行情时不会显示顶部行情卡片。字段与兼容行为见[晨报数据格式](report-data.md)。
+Check that the file is in the root `data/` directory, contains valid JSON, uses a real `YYYY-MM-DD` date, and has been rebuilt and deployed. Do not put report files in `src/data/`, which currently contains announcements.
 
-## 行情卡片没有涨跌幅、数值或时间不对
+Stories without valid titles, empty copy and placeholders beginning with `[` may be filtered out. Missing structured quotes omit the top cards. See [Report data](report-data.md) for fields and compatibility rules.
 
-`price` 必须是数字；涨跌幅还要求正数的 `reference.price`。确认报价 ID、单位、观察时间和比较基准。收益率 `tnx` 的 `4.2` 表示 `4.2%`，其变化显示基点。
+## Quote changes, values or times look wrong
 
-时间戳应包含 UTC `Z` 或明确偏移，页面按纽约时区格式化。不要将计算机当前时间或行情区间起点误作报价观察时间。前端不会重新向供应商校准这些值。
+`price` must be a number; a change indicator also requires a positive `reference.price`. Check the quote ID, units, observation time and reference. For `tnx`, `4.2` means `4.2%`, and changes display in basis points.
 
-## 公告没有未读标记，或横幅不再显示
+Timestamps should include UTC `Z` or an explicit offset and are displayed in New York time. Do not substitute the machine's current time or interval start for the quote observation time. The frontend does not recalibrate these values against the provider.
 
-同一个稳定 ID 被读过后会保留已读状态；`notify: false` 的历史公告也不计入未读。横幅关闭状态独立保存，标为已读不会自动关闭横幅。
+## Announcements have no unread marker or a banner disappeared
 
-修改同一 ID 的文字不会重新提醒读者。重要的新安排应使用新 ID，并移除旧通知的置顶与横幅。当前没有按日期自动过期或自动发布机制，详见[公告维护](site-announcements.md)。
+Read state persists for a stable ID. Historical entries with `notify: false` also do not count as unread. Banner dismissal is stored separately; marking a notice read does not dismiss its banner.
 
-测试持久化时先使用独立的浏览器配置或隐私窗口，避免把自己的历史已读状态误判成程序错误。不要为测试直接清除全部站点数据，以免连带清除其他阅读偏好。
+Editing text under the same ID does not notify readers again. Important new arrangements need a new ID, with the old notice's pin and banner removed. No automatic expiry or scheduled publication exists; see [Site announcements](site-announcements.md).
 
-## 主题、字号或阅读模式没有保留
+Use a separate browser profile or private window to test persistence rather than mistaking your own historical read state for a bug. Avoid clearing all site data, which also removes other reading preferences.
 
-这些偏好保存在当前来源的 localStorage 中，不跨设备同步。隐私模式、禁用存储或清除站点数据可能使偏好丢失；`localhost`、`127.0.0.1` 和生产域名也是不同来源。
+## Theme, text size or reading view did not persist
 
-存储不可用时，控件仍应在当前页面生效。完整键名见[浏览器存储参考](architecture.md#浏览器存储)。
+Preferences use localStorage for the current origin and do not synchronize across devices. Private browsing, disabled storage or cleared site data can remove them. `localhost`, `127.0.0.1` and the production domain are different origins too.
 
-## 全仓库 lint 失败，但当前源码没有报错
+Controls should still work in the current page when storage is unavailable. See the [storage reference](architecture.md#browser-storage) for exact keys.
 
-截至 2026-11-16，`npm run lint` 的 `eslint .` 会检查根目录旧产物 `assets/index-RH8QDDtS.js`，以及依赖 Node/CommonJS 写法的 `test-screenshot.js`；两者与当前浏览器源码配置不匹配，完整检查并未全绿。
+## Repository-wide lint fails while current source passes
 
-当前前端使用 `npx eslint src`。若要修复完整命令，应另行整理旧产物与脚本的归属或 ESLint 配置，而不是全局关掉规则。这个问题不应被误写为本次文档或普通 UI 修改引入的错误。
+As checked on 2026-11-16, `npm run lint` runs `eslint .`, which includes the legacy `assets/index-RH8QDDtS.js` bundle and the Node/CommonJS-style `test-screenshot.js`. Those files do not fit the current browser-source configuration, and the complete check does not pass.
 
-## 构建提示 JavaScript 包超过 500 kB
+Use `npx eslint src` for the current frontend. To fix the full command, separately organize the legacy output and scripts or adjust ESLint's scopes; do not disable rules globally. This existing issue was not introduced by the documentation work or an ordinary UI change.
 
-当前通过 eager glob 导入全部历史晨报，数据随初始包加载。Vite 的体积警告是现有架构的结果；它与语法错误或构建失败不同。
+## The build warns about a JavaScript bundle over 500 kB
 
-继续增加历史报告会增大初始下载量。解决方向是按日期延迟加载、拆分数据或引入内容索引；当前尚未实现。仅调整警告阈值不会改善加载性能。
+All historical briefings are eagerly imported and loaded with the initial bundle. Vite's size warning reflects the current architecture and is separate from a syntax error or failed build.
 
-## `npm run sitemap` 或旧截图脚本无法运行
+More historical reports will increase the initial download. Possible improvements include loading reports by date, splitting data or introducing a content index; none is currently implemented. Raising the warning threshold alone does not improve loading performance.
 
-- `npm run sitemap` 指向不存在的 `scripts/generate-sitemap.js`。当前 `public/sitemap.xml` 是静态旧文件，构建不会自动补齐最新晨报。
-- `public/robots.txt` 和 sitemap 的地址仍使用旧 GitHub Pages 域名，与当前 canonical 域名不同；修改 SEO 或部署域名时需一并核对。
-- `test-screenshot.js` 使用未声明的 Playwright 依赖、CommonJS `require`、固定端口和机器路径。它不是当前可复用的自动化测试入口。
+## The sitemap command or legacy screenshot script fails
 
-这些是已知待整理项，文档没有将其改造成新功能。
+- `npm run sitemap` points to the missing `scripts/generate-sitemap.js`. `public/sitemap.xml` is a static legacy file; builds do not add the latest briefings to it.
+- `public/robots.txt` and the sitemap still use the older GitHub Pages hostname rather than the current canonical domain. Review them when changing SEO or the deployment domain.
+- `test-screenshot.js` uses an undeclared Playwright dependency, CommonJS `require`, a fixed port and machine-specific paths. It is not a reusable automated test entry point.
 
-## 电脑关机后会怎样
+These are known maintenance items, not capabilities added by the documentation work.
 
-GitHub Pages 上已经发布的网站和历史内容仍可访问。依赖该设备的外部生成任务会停止，网站不会自行生成新晨报。
+## What happens when the generation computer is off
 
-仓库中的 PowerShell 脚本与 cron 文本不能证明实际调度已经安装；暂停、恢复与外部流程记录要求见[运营说明](operations.md#自动生成与调度的边界)。
+Published pages and historical content remain available on GitHub Pages. External generation tasks depending on that device stop, and the website does not create new reports itself.
+
+The PowerShell script and cron text do not establish that a real schedule is installed. See [Operations](operations.md#automation-boundary) for pauses, resumption and documentation of the external process.

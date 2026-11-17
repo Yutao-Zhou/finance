@@ -1,60 +1,63 @@
-# 更新记录
+# Changelog
 
-记录影响开发、运营或阅读体验的重要变更，按实际日期倒序排列。项目目前未使用正式版本号，采用日期分组；每日晨报数据提交不逐条列入。
+**English** | [简体中文](CHANGELOG.zh-CN.md)
 
-读者可见的通知由 [`src/data/announcements.js`](src/data/announcements.js) 单独维护；本文件不会自动显示在网站公告中。
+Significant changes to development, operations and the reading experience, listed by actual date descending. The project does not currently use formal release versions, so entries are grouped by date. Daily report data commits are not listed individually.
+
+Reader-facing notices are maintained separately in [`src/data/announcements.js`](src/data/announcements.js). This file does not automatically appear in site announcements.
 
 ## 2026-11-16
 
-### 文档
+### Documentation
 
-- 用项目介绍与快速上手替换 Vite 模板 README。
-- 增加开发、架构、晨报格式、发布运营、公告维护和常见问题文档。
-- 增加贡献指南，保留 DEVELOPMENT 兼容入口，建立日期式更新记录。
-- 明确旧脚本、全仓库 lint 和 sitemap 命令的现有限制。
+- Replace the Vite template README with a project introduction and quick start.
+- Add development, architecture, report-format, operations, announcement and troubleshooting guides.
+- Add a contribution guide, preserve the DEVELOPMENT entry point and establish a dated changelog.
+- Document the existing limitations of legacy scripts, repository-wide lint and the sitemap command.
+- Make English the default for all project documentation, retain complete Simplified Chinese counterparts and add page-level language links.
 
 ## 2026-11-15
 
-### 新增
+### Added
 
-- 网站公告铃铛、分类列表、重要服务横幅和已读状态。
-- 2027 年 1 月计划暂停发布新晨报的提前通知，具体日期待确认。
-- 按原始发布日期补录已上线功能公告。
+- Announcement bell, category list, important service banners and read states.
+- Advance notice of a planned pause in new morning briefings during January 2027, with exact dates to be confirmed.
+- Historical feature announcements using their original release dates.
 
-对应提交：`1d2a715`。
+Commit: `1d2a715`.
 
 ## 2026-11-12
 
-### 修复
+### Fixed
 
-- 手机和平板布局中的最近晨报移至正文之后，桌面保留侧栏入口。
+- Move recent briefs below the report body on phone and tablet layouts, while retaining the desktop sidebar entry.
 
-对应提交：`dbab098`。
+Commit: `dbab098`.
 
 ## 2026-11-11
 
-### 维护
+### Maintenance
 
-- 接入主站共享统计脚本，并提供语言、视图、报告日期和阅读结束标记。
+- Integrate the main site's shared analytics script and expose language, view, report-date and reading-end markers.
 
-对应提交：`f09d8f9`、`73160d4`。统计服务的实现由主站维护。
+Commits: `f09d8f9`, `73160d4`. The main site maintains the analytics service implementation.
 
 ## 2026-11-07
 
-### 新增与改进
+### Added and improved
 
-- 日期选择器改为统一样式，支持搜索、月份分组和键盘操作（`c50d9d4`）。
-- 小／中／大三档阅读字号，并保存浏览器偏好（`2e63693`）。
-- 精简／完整阅读视图与按需展开详情，并保存浏览器偏好（`253d9dc`）。
+- Styled edition picker with search, monthly groups and keyboard navigation (`c50d9d4`).
+- Small, medium and large reading text sizes with persisted browser preferences (`2e63693`).
+- Brief and full reading views with on-demand details and persisted browser preferences (`253d9dc`).
 
 ## 2026-11-06
 
-### 改版
+### Redesigned
 
-- 晨报采用暖纸色、深绿色与衬线标题的阅读界面。
-- 整合行情快照、今日主线、焦点新闻、板块雷达、盘前关注与历史归档。
-- 保留中英文、深浅主题、搜索和历史选期入口，并适配不同屏幕尺寸。
+- Introduce a warm paper palette, forest green and serif headings.
+- Bring together market snapshots, the big picture, top stories, sector radar, premarket focus and the archive.
+- Retain Chinese and English, light and dark themes, search and historical edition selection, with responsive layouts.
 
-对应提交：`cdebd9c`。
+Commit: `cdebd9c`.
 
-这里只回溯上述阶段的重要变更；更早的完整记录见 Git 历史。打印／保存 PDF 功能未发布，不列为已上线功能。
+This changelog covers the significant changes above. Earlier history remains available in Git. Print/save-as-PDF was not released and is not listed as a shipped feature.

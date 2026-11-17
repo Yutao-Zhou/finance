@@ -1,12 +1,14 @@
-# 开发上手
+# Getting started
 
-[返回文档导航](README.md)
+**English** | [简体中文](zh-CN/getting-started.md)
 
-## 环境
+[Documentation index](README.md)
 
-需要 Git、Node.js 和 npm。版本以 [package.json](../package.json) 和 [package-lock.json](../package-lock.json) 为准，使用 `npm ci` 按锁文件安装。
+## Requirements
 
-当前锁文件中的 React 为 19.2.4、Vite 为 8.0.3。Vite 的 Node.js 范围是 `^20.19.0 || >=22.12.0`。核对本机环境：
+Install Git, Node.js and npm. [package.json](../package.json) and [package-lock.json](../package-lock.json) define the dependencies; use `npm ci` to install the locked versions.
+
+The current lockfile contains React 19.2.4 and Vite 8.0.3. Vite requires Node.js `^20.19.0 || >=22.12.0`. Check your environment:
 
 ```bash
 node --version
@@ -14,9 +16,9 @@ npm --version
 git --version
 ```
 
-浏览页面或构建静态文件不需要行情 API 凭据、数据库或登录服务。发布网站还需要对 Git 远端有推送权限。
+Browsing and building the static frontend require no market-data credentials, database or authentication service. Deployment also requires permission to push to the Git remote.
 
-## 安装与启动
+## Install and run
 
 ```bash
 git clone https://github.com/Yutao-Zhou/finance.git
@@ -25,32 +27,32 @@ npm ci
 npm run dev
 ```
 
-进入终端输出的 `/finance/` 地址。Vite 默认使用 5173 端口，端口被占用时可能改用其他端口。
+Open the `/finance/` URL printed in the terminal. Vite normally uses port 5173 and may choose another port if it is occupied.
 
-需要固定端口或让开发服务器绑定指定地址时：
+To bind the development server to a specific address and require a fixed port:
 
 ```bash
 npm run dev -- --host 127.0.0.1 --port 5173 --strictPort
 ```
 
-按 `Ctrl+C` 停止服务器。开发时修改 `src/` 文件会触发热更新；不要直接编辑 `dist/`。
+Press `Ctrl+C` to stop the server. Changes under `src/` trigger hot updates during development. Do not edit `dist/` directly.
 
-## 命令参考
+## Command reference
 
-| 命令              | 当前行为                                                 |
-| ----------------- | -------------------------------------------------------- |
-| `npm ci`          | 根据锁文件安装依赖，适合新环境或恢复依赖                 |
-| `npm run dev`     | 启动 Vite 开发服务器                                     |
-| `npm run build`   | 构建生产静态文件到 `dist/`                               |
-| `npm run preview` | 预览已经生成的 `dist/`，不会重新构建                     |
-| `npm run lint`    | 检查整个仓库；目前会被历史文件阻断，见下文               |
-| `npx eslint src`  | 检查当前前端源码                                         |
-| `npm run deploy`  | 先构建，再将 `dist/` 发布到远端 `gh-pages` 分支          |
-| `npm run sitemap` | 配置指向缺失的 `scripts/generate-sitemap.js`，目前不可用 |
+| Command           | Current behavior                                                              |
+| ----------------- | ----------------------------------------------------------------------------- |
+| `npm ci`          | Install from the lockfile for a new environment or dependency recovery        |
+| `npm run dev`     | Start the Vite development server                                             |
+| `npm run build`   | Build production static files into `dist/`                                    |
+| `npm run preview` | Preview the existing `dist/`; does not rebuild it                             |
+| `npm run lint`    | Check the whole repository; currently blocked by legacy files described below |
+| `npx eslint src`  | Check the current frontend source                                             |
+| `npm run deploy`  | Build and publish `dist/` to the remote `gh-pages` branch                     |
+| `npm run sitemap` | References the missing `scripts/generate-sitemap.js`; currently unavailable   |
 
-当前没有 `npm test` 脚本、单元测试框架或仓库自带的浏览器测试流水线。根目录的 `test-screenshot.js` 是旧示例，不能当作可直接运行的测试命令。
+There is no `npm test` script, unit test framework or repository-managed browser test pipeline. The root `test-screenshot.js` is a legacy example, not a working test entry point.
 
-## 构建与检查
+## Build and check
 
 ```bash
 npx eslint src
@@ -58,23 +60,23 @@ npm run build
 npm run preview
 ```
 
-预览默认地址是 `http://localhost:4173/finance/`，实际端口以输出为准。构建成功并不等于界面和内容正确，修改后还需要核对相关交互。
+The preview normally uses `http://localhost:4173/finance/`; use the actual port printed in the terminal. A successful build does not establish that content and interactions are correct. Check the behavior affected by your change.
 
-完整 `npm run lint` 当前会扫描旧的 `assets/index-RH8QDDtS.js` 和 `test-screenshot.js` 并报错。`npx eslint src` 是当前源码的检查入口，不能据此声称全仓库 lint 已通过。更多已知限制见[常见问题](troubleshooting.md)。
+The full `npm run lint` currently scans the legacy `assets/index-RH8QDDtS.js` and `test-screenshot.js` and reports errors. Use `npx eslint src` for the current source, but do not report it as a passing repository-wide lint check. See [troubleshooting](troubleshooting.md) for known limitations.
 
-## 按修改类型验证
+## Validation by change type
 
-| 修改内容     | 最少需要确认的内容                                                            |
-| ------------ | ----------------------------------------------------------------------------- |
-| 晨报 JSON    | 格式正确、日期与文件名一致、双语内容与来源核对、构建与页面展示正常            |
-| 公告         | 分类、排序、双语、横幅、未读与关闭状态，参考[公告维护](site-announcements.md) |
-| React 或 CSS | 源码 lint、构建，以及受影响的桌面和手机交互                                   |
-| 文档         | 相对链接、文件路径、命令与代码示例；纯 Markdown 修改通常无需构建网站          |
+| Change        | Minimum checks                                                                                                                 |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| Report JSON   | Syntax, date matching the filename, bilingual content, verified sources, build and rendered content                            |
+| Announcement  | Categories, order, both languages, banners, unread and dismissed states; see [announcement maintenance](site-announcements.md) |
+| React or CSS  | Source lint, build, and affected desktop and mobile interactions                                                               |
+| Documentation | Relative links, source paths, commands and examples; Markdown-only changes usually need no site build                          |
 
-详细的界面回归项目见[参与开发](../CONTRIBUTING.md)。
+See [Contributing](../CONTRIBUTING.md) for the UI regression checklist.
 
-## 接下来
+## Next steps
 
-- 修改 UI 前阅读[架构说明](architecture.md)，定位组件、主题变量和阅读设置。
-- 新增内容前阅读[晨报数据格式](report-data.md)。
-- 准备发布时使用[发布与运营](operations.md)；不要把 `npm run preview` 当作部署。
+- Read [Architecture](architecture.md) before changing UI components, theme variables or reading settings.
+- Read [Report data](report-data.md) before adding content.
+- Use [Operations](operations.md) when publishing. `npm run preview` is a local preview, not a deployment.

@@ -1,16 +1,18 @@
-# 网站公告维护
+# Site announcements
 
-[返回文档导航](README.md) · [发布与运营](operations.md)
+**English** | [简体中文](zh-CN/site-announcements.md)
 
-## 内容在哪里
+[Documentation index](README.md) · [Operations](operations.md)
 
-公告位于 [`src/data/announcements.js`](../src/data/announcements.js)，是 JavaScript 对象数组，随静态网站构建发布。界面在 `src/components/Announcements.jsx`，已读逻辑在 `src/lib/useAnnouncements.js`。
+## Where content lives
 
-公告不依赖登录、后端、浏览器推送权限或晨报生成设备。内容只有重新部署后才更新；这是一套网站内公告，不会发送邮件、系统推送或离站提醒。
+Announcements are JavaScript objects in [`src/data/announcements.js`](../src/data/announcements.js), built and deployed with the static site. The UI lives in `src/components/Announcements.jsx`; read-state logic lives in `src/lib/useAnnouncements.js`.
 
-## 新增一条公告
+Announcements require no login, backend, browser push permissions or report-generation device. Content changes only after deployment. These are on-site notices, not email, system push or off-site alerts.
 
-在数组中加入完整的双语对象。下面是格式示例，应替换为实际 ID、日期和已完成的功能说明后再发布：
+## Add an announcement
+
+Add a complete bilingual object to the array. Replace the example ID, date and feature description below with actual release information before publishing:
 
 ```js
 const announcement = {
@@ -30,70 +32,70 @@ const announcement = {
 };
 ```
 
-复制的是对象内容，不需要在公告数组中新增 `const` 声明。发布前确认功能已经上线，历史补录填原始发布日期，并设置 `notify: false`。
+Copy the object, not the `const` declaration, into the announcement array. Confirm that a feature is shipped before announcing it. Use the original release date and `notify: false` for historical backfills.
 
-## 字段参考
+## Field reference
 
-| 字段       | 类型／值               | 行为                                                |
-| ---------- | ---------------------- | --------------------------------------------------- |
-| `id`       | 唯一、稳定的字符串     | 已读与横幅关闭状态使用的标识；不要复用其他公告的 ID |
-| `date`     | 有效的 `YYYY-MM-DD`    | 显示发布日期，并参与倒序排序                        |
-| `category` | `service` / `feature`  | 分别对应服务通知／功能更新                          |
-| `zh`、`en` | 语言对象，两者均需提供 | 公告直接读取当前语言对象，没有晨报文本的跨语言回退  |
-| `pinned`   | 可选布尔值             | `true` 的公告排在普通公告之前                       |
-| `banner`   | 可选布尔值             | 在页面顶部显示提醒，主要用于重要服务安排            |
-| `notify`   | 可选布尔值             | 默认计入新消息；`false` 用于不计入未读的历史补录    |
-| `action`   | 可选值 `archive`       | 展示进入历史晨报的按钮，其他值目前没有对应操作      |
+| Field      | Type or value                  | Behavior                                                                                     |
+| ---------- | ------------------------------ | -------------------------------------------------------------------------------------------- |
+| `id`       | Unique, stable string          | Identifies persisted read and dismissed states; never reuse another announcement's ID        |
+| `date`     | Valid `YYYY-MM-DD`             | Displayed publication date and descending sort key                                           |
+| `category` | `service` / `feature`          | Service notice or feature update                                                             |
+| `zh`, `en` | Both language objects required | The component reads the selected object directly; it has no report-style language fallback   |
+| `pinned`   | Optional boolean               | `true` sorts the entry before ordinary announcements                                         |
+| `banner`   | Optional boolean               | Shows a page-top reminder, mainly for important service arrangements                         |
+| `notify`   | Optional boolean               | Counts as a new message by default; `false` excludes historical backfills from unread counts |
+| `action`   | Optional `archive`             | Shows a button to the report archive; other values have no implemented action                |
 
-每个语言对象包含：
+Each language object contains:
 
-| 字段                | 类型                       | 用途                             |
-| ------------------- | -------------------------- | -------------------------------- |
-| `title`             | 字符串                     | 公告标题，必填                   |
-| `summary`           | 字符串                     | 折叠卡片中的摘要，必填           |
-| `body`              | 可选字符串数组             | 展开后的正文段落                 |
-| `status`            | 可选字符串                 | 类别后的短状态，例如“计划暂停”   |
-| `bannerTitle`       | 可选字符串                 | 横幅标题，缺省使用 `title`       |
-| `bannerDescription` | 可选字符串                 | 横幅说明，缺省使用 `summary`     |
-| `details`           | 可选的 `[标签, 内容]` 数组 | 展示预计时间、影响范围等事实表格 |
+| Field               | Type                                     | Purpose                                                  |
+| ------------------- | ---------------------------------------- | -------------------------------------------------------- |
+| `title`             | Required string                          | Announcement title                                       |
+| `summary`           | Required string                          | Summary visible in the collapsed card                    |
+| `body`              | Optional string array                    | Paragraphs displayed when expanded                       |
+| `status`            | Optional string                          | Short status after the category, such as “Planned pause” |
+| `bannerTitle`       | Optional string                          | Banner heading; falls back to `title`                    |
+| `bannerDescription` | Optional string                          | Banner description; falls back to `summary`              |
+| `details`           | Optional array of `[label, value]` pairs | Facts such as expected timing and affected services      |
 
-正文是纯文本，不解析 Markdown、HTML 或内嵌链接。需要新的操作类型时必须同时实现组件行为，不能只在数据中添加字段。
+Copy is plain text, without Markdown, HTML or embedded link rendering. A new action type needs component support as well as data fields.
 
-## 排序、显示与时间
+## Ordering, visibility and dates
 
-- 先按 `pinned` 排序，再按 `date` 倒序；置顶状态和日期相同时保持文件中的顺序。
-- 横幅只展示排序最靠前、设置了 `banner` 且当前浏览器未关闭的公告。如果有多条，关闭第一条后可能出现下一条。
-- 分类筛选只影响抽屉列表，不改变顶部横幅或全局未读数量。
-- 目前没有定时发布、按未来日期隐藏或自动过期功能。**写入未来日期也会立即随部署显示**；撤下横幅需要修改数据并再次发布。
+- Entries sort by `pinned` first, then by descending `date`. Equal values retain their order in the file.
+- Only the first sorted entry with `banner` that has not been dismissed in this browser appears as a banner. Dismissing it may reveal the next eligible banner.
+- Category filters affect the drawer list, not the banner or global unread count.
+- There is no scheduled publication, future-date hiding or automatic expiry. **An entry dated in the future still appears as soon as it is deployed.** Removing a banner requires editing the data and deploying again.
 
-普通功能更新放在列表即可，避免把历史更新全部置顶或显示为横幅。已过期的服务安排可以保留为历史记录，并在正文注明最新状态。
+Ordinary feature updates can stay in the list without pinning or banners. Preserve expired service arrangements as history and note their updated status in the text.
 
-## 已读与横幅关闭
+## Read and dismissed states
 
-已读与关闭记录是两组独立的 localStorage ID 数组：
+Read entries and dismissed banners use separate localStorage ID arrays:
 
 - `clawbot:announcements:read`
 - `clawbot:announcements:dismissed`
 
-点击铃铛时，默认展开并读入排序第一条公告；从横幅点击详情时读入对应公告。展开其他公告会标为已读，“全部标为已读”会记录全部当前 ID。历史补录 `notify: false` 的条目始终不计入未读。
+Opening the bell expands and marks the first sorted announcement as read. Opening banner details marks that announcement as read. Expanding another entry marks it read; “Mark all as read” records every current ID. Historical entries with `notify: false` never count as unread.
 
-已读不会关闭横幅；关闭横幅也不会移除抽屉中的公告。关闭记录会持续保留在当前浏览器，同 ID 的横幅不会因为文字更新而重新出现。存储不可用时，操作仍在当前页面生效，但不保证刷新后保留。
+Reading does not dismiss a banner, and dismissing a banner does not remove the entry from the drawer. Dismissal persists in this browser; editing text under the same ID does not make its banner appear again. Without storage, controls work in the current page but persistence after reload is not guaranteed.
 
-需要再次提醒读者的重要变化，应新建公告并使用新 ID，同时撤下旧公告的 `banner` / `pinned` 并说明安排已经更新。不要为同一篇公告的错别字修改更换 ID。
+For a significant change that should notify readers again, create a new announcement with a new ID. Remove `banner` / `pinned` from the old notice and explain the changed arrangement. Keep the ID when merely correcting a typo.
 
-## 服务通知的内容
+## Service notice content
 
-说明用户会受到的影响：预计时间、暂停或变化的服务、仍然可用的部分，以及后续消息会在哪里更新。日期未确定时明确写待确认，不承诺没有依据的恢复时间。
+Explain the reader impact: expected timing, affected services, what remains available and where further updates will appear. State when dates are unconfirmed and avoid unsupported promises about resumption.
 
-当前 2027 年 1 月暂停晨报的通知暂未确认起止日期。确定安排或恢复发布后，按[暂停与恢复步骤](operations.md#暂停与恢复晨报更新)维护新旧公告。公开通知无需包含私人行程或本地设备细节。
+Exact dates for the January 2027 briefing pause are currently unconfirmed. When arrangements are finalized or publication resumes, follow the [pause and resumption procedure](operations.md#pause-and-resume-publication). Public notices need no private travel or device details.
 
-## 发布与验证
+## Publish and validate
 
-1. 核对唯一 ID、真实发布日期、分类与两种语言。历史功能日期可以从 `git log` 查证。
-2. 运行 `npx eslint src` 和 `npm run build`，预览抽屉中的内容、排序、筛选和展开。
-3. 检查手机、深浅主题、Esc 关闭、可见焦点、归档跳转，以及刷新后的已读／横幅关闭状态。
-4. 只提交相关文件，推送源代码后按[发布流程](operations.md#发布网站)部署并验证线上结果。
+1. Check the unique ID, actual publication date, category and both languages. Use `git log` to verify historical feature dates.
+2. Run `npx eslint src` and `npm run build`; preview content, ordering, filters and expansion.
+3. Check mobile layouts, light/dark themes, Escape, visible focus, archive navigation and persistence of read/dismissed states after reload.
+4. Commit only related files, push source, then follow the [deployment workflow](operations.md#publish-the-site) and verify production.
 
-测试新访客状态可用独立浏览器配置或隐私窗口，避免清除已有阅读偏好。面向开发者的完整代码变更同时记录到 [CHANGELOG](../CHANGELOG.md)，但不要把未发布的功能写成已经可用。
+Use a separate browser profile or private window to test a new visitor without clearing existing reading preferences. Record developer-facing changes in the [Changelog](../CHANGELOG.md) too, but do not announce unreleased features as available.
 
-已补录功能的原始提交为 `cdebd9c`（2026-11-06）、`c50d9d4` / `2e63693` / `253d9dc`（2026-11-07）与 `dbab098`（2026-11-12）。打印／保存 PDF 功能未发布，未列入公告。
+Backfilled features came from `cdebd9c` (2026-11-06), `c50d9d4` / `2e63693` / `253d9dc` (2026-11-07), and `dbab098` (2026-11-12). Print/save-as-PDF was not released and is not included in announcements.

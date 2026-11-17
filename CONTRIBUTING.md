@@ -1,28 +1,30 @@
-# 参与开发
+# Contributing
 
-[项目首页](README.md) · [完整文档](docs/README.md)
+**English** | [简体中文](CONTRIBUTING.zh-CN.md)
 
-## 开始修改前
+[Project README](README.md) · [Documentation](docs/README.md)
 
-1. 阅读[开发上手](docs/getting-started.md)和[架构说明](docs/architecture.md)。
-2. 检查工作区和当前分支，保存已有修改，并同步远端。提交中保留其他人的工作。
-3. 确定本次是代码、晨报、公告还是文档变更，尽量让每次提交围绕一个明确的问题。
+## Before making changes
 
-多人协作或需要审阅时使用主题分支和 Pull Request。维护者直接在 `main` 工作时，同样需要完成检查、核对暂存文件，再推送。当前仓库没有自动执行这些检查的 CI 配置。
+1. Read [Getting started](docs/getting-started.md) and [Architecture](docs/architecture.md).
+2. Check the working tree and branch, preserve existing changes, and synchronize with the remote. Keep other contributors' work intact.
+3. Identify whether the change affects code, reports, announcements or documentation. Keep each commit focused on a clear problem.
 
-## 代码与内容约定
+Use a topic branch and pull request for collaboration or review. Maintainers working directly on `main` still need to complete checks and review staged files before pushing. The repository currently has no CI configuration that runs these checks automatically.
 
-- 使用现有 React 与 CSS 结构；主题颜色优先引用语义 CSS 变量，新增 UI 文案同时提供中文和英文。
-- 保留控件标签、键盘操作、可见焦点和手机布局。不要通过把整页字体放大来代替正文阅读字号。
-- 修改数据时遵循[晨报格式](docs/report-data.md)，核对来源、时点、单位与双语内容。不要发布示例价格或占位新闻。
-- 公告 ID 是读者存储状态的标识，按[公告维护](docs/site-announcements.md)处理更新和历史补录。
-- `dist/` 是生成产物，不手工修改或提交到 `main`。根目录旧 `assets/` 也不是新增前端代码的位置。
-- 不在前端或公开文档保存密钥、令牌或私人机器配置。浏览器需要加载的内容都应视为公开内容。
-- 不扩大不相关的修改范围；发现独立问题时记录问题和影响，不必混进当前提交。
+## Code and content conventions
 
-## 检查要求
+- Follow the existing React and CSS structure. Reuse semantic theme variables and provide both Chinese and English for new UI copy.
+- Preserve labels, keyboard interaction, visible focus and mobile layouts. Do not replace reading text-size controls with scaling of the entire page.
+- Follow [Report data](docs/report-data.md) when editing briefings. Verify sources, times, units and bilingual content. Do not publish example prices or placeholder stories.
+- Announcement IDs identify persisted reader states. Follow [Site announcements](docs/site-announcements.md) for updates and historical backfills.
+- `dist/` is generated output; do not edit it manually or commit it to `main`. The legacy root `assets/` directory is not the place for new frontend code.
+- Keep keys, tokens and private machine configuration out of frontend code and public documentation. Treat browser-loaded content as public.
+- Keep unrelated changes out of the current scope. Record independent issues and their impact separately.
 
-代码变更至少运行：
+## Validation
+
+For code changes, run at least:
 
 ```bash
 npx eslint src
@@ -30,38 +32,42 @@ npm run build
 git diff --check
 ```
 
-`npm run lint` 目前受历史文件影响，详见[已知问题](docs/troubleshooting.md)。当前没有 `npm test`，不要在提交说明中声称运行了不存在的测试套件。
+The full `npm run lint` is currently affected by legacy files; see [known issues](docs/troubleshooting.md). There is no `npm test` script. Do not claim to have run a test suite that does not exist.
 
-根据修改范围检查以下相关项目，不必为纯文档或无关的小修改重复全部界面操作：
+Check the areas affected by the change. Documentation-only and unrelated small changes do not require repeating every UI check:
 
-| 范围       | 检查重点                                                               |
-| ---------- | ---------------------------------------------------------------------- |
-| 布局和样式 | 桌面、平板、390px 手机，必要时 320px；无横向溢出；深浅主题可读         |
-| 双语       | 两种语言的正文、控件、日期、空状态和长文本                             |
-| 阅读体验   | 三档字号、精简／完整切换、详情展开、刷新后偏好保留                     |
-| 日期和归档 | 最新与历史日期、日期搜索、方向键／Enter／Esc、新闻搜索和无结果状态     |
-| 公告       | 分类、横幅、关闭、已读、刷新持久化、Esc、原生对话框焦点和归档跳转      |
-| 晨报内容   | 日期与文件名一致、快照时间与比较基准、原文链接、缺失数据不冒充实时行情 |
+| Area                 | Checks                                                                                                                     |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Layout and styling   | Desktop, tablet, 390px phone, and 320px when relevant; no horizontal overflow; readable light and dark themes              |
+| Bilingual UI         | Copy, controls, dates, empty states and long text in both languages                                                        |
+| Reading experience   | Three text sizes, brief/full views, disclosures and persistence after reload                                               |
+| Editions and archive | Latest and historical editions, date search, arrows/Enter/Escape, report search and no-results states                      |
+| Announcements        | Filters, banners, dismissal, read state, persistence, Escape, native dialog focus and archive navigation                   |
+| Report content       | Filename/date agreement, observation and reference times, source links, and no presentation of missing data as live quotes |
 
-新增稳定业务逻辑时，应选择能够验证实际行为的测试。不要只为满足形式添加镜像实现的测试，或在未引入基础设施前写入“测试已自动执行”的文档。
+When adding stable business logic, choose tests that verify actual behavior. Avoid tests that merely mirror the implementation, and do not document automatic testing before the infrastructure exists.
 
-## 文档和变更记录
+## Documentation and change records
 
-| 本次变化             | 同时维护                                           |
-| -------------------- | -------------------------------------------------- |
-| 命令、依赖要求       | `docs/getting-started.md` 和必要的 README 快速上手 |
-| 组件、数据流、存储键 | `docs/architecture.md`                             |
-| 晨报字段与内容兼容   | `docs/report-data.md`                              |
-| 部署与运营方式       | `docs/operations.md`                               |
-| 公告结构或已读行为   | `docs/site-announcements.md`                       |
-| 值得记录的功能或修复 | `CHANGELOG.md`；需要通知读者时另加网站公告         |
+**English is the default documentation language.** Keep default root documents and guides under `docs/` in English. Preserve Simplified Chinese counterparts as root `*.zh-CN.md` files and guides under `docs/zh-CN/`.
 
-文档相对链接应能从 GitHub 直接打开；JSON 示例应可解析。根目录 `DEVELOPMENT.md` 只作兼容入口，详细说明维护在 `docs/`。
+Update both languages in the same change, including language-switch links, navigation and examples. New guides need an English version and a corresponding Chinese version. Commands, identifiers, source paths and the documented behavior must agree between translations.
 
-## 提交与发布
+| Change                                  | Also update                                                                        |
+| --------------------------------------- | ---------------------------------------------------------------------------------- |
+| Commands or dependency requirements     | `docs/getting-started.md` and the README quick start when needed                   |
+| Components, data flow or storage keys   | `docs/architecture.md`                                                             |
+| Report fields or compatibility          | `docs/report-data.md`                                                              |
+| Deployment or operations                | `docs/operations.md`                                                               |
+| Announcement structure or read behavior | `docs/site-announcements.md`                                                       |
+| Significant feature or fix              | `CHANGELOG.md`; add a separate website announcement when readers need notification |
 
-提交标题描述实际变化，例如 `Fix mobile placement of recent briefs` 或 `Document report data and deployment workflow`。没有强制提交前缀，也不要求给每日数据更新升应用版本。
+Apply the equivalent updates to the Chinese files. Relative links must work on GitHub and JSON examples must parse. `DEVELOPMENT.md` remains an entry point; detailed instructions live under `docs/`.
 
-提交前检查 `git diff`、`git diff --cached --stat`，只暂存本次文件。PR 说明写清问题、修改后的行为、验证结果与仍存在的限制。
+## Commits and releases
 
-推送源码后，需上线的网站变更仍要遵循[发布流程](docs/operations.md)。纯文档修改通常只需推送，无需部署。
+Use a title that describes the actual change, such as `Fix mobile placement of recent briefs` or `Document report data and deployment workflow`. No commit prefix is enforced, and daily content updates do not require an application version bump.
+
+Review `git diff` and `git diff --cached --stat` before committing. Stage only files for this change. PR descriptions should explain the problem, resulting behavior, validation and any remaining limitations.
+
+After pushing source, website changes still need the [deployment workflow](docs/operations.md). Documentation-only changes normally require a push but no site deployment.

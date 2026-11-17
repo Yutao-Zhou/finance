@@ -1,92 +1,94 @@
-# 架构说明
+# Architecture
 
-[返回文档导航](README.md)
+**English** | [简体中文](zh-CN/architecture.md)
 
-## 网站如何工作
+[Documentation index](README.md)
 
-这是一个客户端渲染的静态网站。React 负责交互，Vite 构建前端，GitHub Pages 提供静态托管。当前没有网站后端、数据库、用户账号或服务端行情接口。
+## How the site works
+
+This is a client-rendered static website. React handles interaction, Vite builds the frontend, and GitHub Pages serves the static files. There is no website backend, database, user account system or server-side market-data endpoint.
 
 ```mermaid
 flowchart LR
-    A[采集与内容编写<br/>在网站之外完成] --> B[data/YYYY-MM-DD.json]
+    A[Research and content preparation<br/>outside this website] --> B[data/YYYY-MM-DD.json]
     C[src/data/announcements.js] --> D[Vite build]
     B --> D
-    E[React 与 CSS] --> D
+    E[React and CSS] --> D
     D --> F[dist/]
-    F --> G[gh-pages 分支]
+    F --> G[gh-pages branch]
     G --> H[GitHub Pages]
-    H --> I[浏览器中的 React 页面]
-    I <--> J[localStorage 阅读偏好与公告状态]
+    H --> I[React app in the browser]
+    I <--> J[localStorage preferences and announcement states]
 ```
 
-`App.jsx` 通过 `import.meta.glob("../data/*.json", { eager: true })` 在构建时导入晨报，按 `date` 格式过滤，再按日期倒序排列。网站打开后不会从行情供应商实时抓取报价，也不会轮询 `data/` 目录。
+`App.jsx` imports briefings at build time using `import.meta.glob("../data/*.json", { eager: true })`, filters by the `date` format, then sorts by date descending. The running site does not fetch live quotes from providers or poll the `data/` directory.
 
-因此，新增 JSON 或公告后需要重新构建和部署；本地生成设备停止运行，不会影响已经发布的静态页面。
+Adding report JSON or announcements therefore requires rebuilding and deploying. Stopping the local generation device does not affect static pages already published.
 
-## 代码地图
+## Code map
 
-| 路径                                                                    | 职责                                                     |
-| ----------------------------------------------------------------------- | -------------------------------------------------------- |
-| [index.html](../index.html)                                             | HTML 入口、SEO 元数据、偏好预加载、共享统计脚本          |
-| [src/main.jsx](../src/main.jsx)                                         | 挂载 React，启用 StrictMode，引入全局样式                |
-| [src/App.jsx](../src/App.jsx)                                           | 主布局、双语 UI 文案、晨报选择、归档、搜索和主要阅读组件 |
-| [src/App.css](../src/App.css)                                           | 页面布局、新闻与行情卡片、阅读控件、响应式规则           |
-| [src/index.css](../src/index.css)                                       | 主题变量、字体、基础样式和阅读缩放变量                   |
-| [src/lib/reports.js](../src/lib/reports.js)                             | 文本回退、数组本地化、搜索、日期、链接和行情差值计算     |
-| [src/components/EditionPicker.jsx](../src/components/EditionPicker.jsx) | 日期搜索、月份分组和键盘选择，样式在同目录 CSS           |
-| [src/components/Announcements.jsx](../src/components/Announcements.jsx) | 公告铃铛、横幅、原生 dialog 抽屉和分类列表               |
-| [src/lib/useAnnouncements.js](../src/lib/useAnnouncements.js)           | 公告已读、横幅关闭、本地持久化和跨标签页同步             |
-| [src/data/announcements.js](../src/data/announcements.js)               | 网站公告与读者可见的功能更新记录                         |
-| [data/](../data/)                                                       | 各期晨报 JSON，格式见[数据参考](report-data.md)          |
-| [public/](../public/)                                                   | 图标、分享图、robots、sitemap 等原样复制的静态资源       |
-| [vite.config.js](../vite.config.js)                                     | React 插件及 `/finance/` 部署路径                        |
-| `dist/`                                                                 | 生成的发布产物，已被 Git 忽略                            |
+| Path                                                                    | Responsibility                                                                                 |
+| ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| [index.html](../index.html)                                             | HTML entry, SEO metadata, preference initialization and the shared analytics script            |
+| [src/main.jsx](../src/main.jsx)                                         | Mount React, enable StrictMode and import global styles                                        |
+| [src/App.jsx](../src/App.jsx)                                           | Main layout, bilingual UI copy, edition selection, archive, search and main reading components |
+| [src/App.css](../src/App.css)                                           | Page layout, news and quote cards, reading controls and responsive rules                       |
+| [src/index.css](../src/index.css)                                       | Theme variables, fonts, base styles and reading scale                                          |
+| [src/lib/reports.js](../src/lib/reports.js)                             | Text fallback, localized arrays, search, dates, links and quote-change calculations            |
+| [src/components/EditionPicker.jsx](../src/components/EditionPicker.jsx) | Date search, month groups and keyboard selection; CSS is in the same directory                 |
+| [src/components/Announcements.jsx](../src/components/Announcements.jsx) | Announcement bell, banner, native dialog drawer and category list                              |
+| [src/lib/useAnnouncements.js](../src/lib/useAnnouncements.js)           | Read and dismissed states, local persistence and cross-tab synchronization                     |
+| [src/data/announcements.js](../src/data/announcements.js)               | Site notices and reader-facing release notes                                                   |
+| [data/](../data/)                                                       | Briefing JSON files; see [Report data](report-data.md)                                         |
+| [public/](../public/)                                                   | Icons, sharing image, robots, sitemap and other assets copied unchanged                        |
+| [vite.config.js](../vite.config.js)                                     | React plugin and the `/finance/` deployment base                                               |
+| `dist/`                                                                 | Generated deployment output, ignored by Git                                                    |
 
-`MetricStrip`、`NewsList`、`ReportSidebar`、`RecentBriefs`、`Sectors` 和 `Premarket` 当前都定义在 `App.jsx`，不是独立文件。根目录旧的 `assets/` 不是当前 Vite 的构建输出目录。
+`MetricStrip`, `NewsList`, `ReportSidebar`, `RecentBriefs`, `Sectors` and `Premarket` are currently defined inside `App.jsx`, not separate files. The legacy root `assets/` directory is not the current Vite build output.
 
-## 页面状态与 URL
+## Page state and URLs
 
-- 默认选中日期最新的一份有效晨报；`?date=YYYY-MM-DD` 可以直接打开已有历史晨报，不存在的日期会回退到最新一期。
-- 切换晨报使用 `history.replaceState` 更新日期参数，不会为每次切换增加浏览器历史记录。选择最新一期时移除 `date` 参数。
-- 今日晨报、归档视图、搜索词、归档加载数量和手机导航的开关由 React 本地状态控制，不写入 URL。
-- `#stories`、`#sectors`、`#premarket` 用于本期页面内导航；项目未使用 React Router 或 `/finance/YYYY-MM-DD` 这类路径路由。
-- 归档初始展示 18 期，每次加载再增加 18 期。这里分页的是界面展示，数据已随初始 JavaScript 一次加载。
-- 全站搜索匹配日期、摘要、新闻、板块、盘前关注和观点的序列化文本，忽略大小写。它不是外部搜索引擎，也不搜索公告。
-- 页面每小时检查一次可见性：仅在当时处于后台时整页刷新。前台没有实时行情刷新，也不能依赖此逻辑即时收到更新。
+- The default edition is the newest valid report. `?date=YYYY-MM-DD` opens an existing historical edition; an unknown date falls back to the latest report.
+- Edition changes use `history.replaceState` to update the date parameter without adding a history entry for each selection. Selecting the latest edition removes the parameter.
+- The briefing/archive view, search query, archive display count and mobile navigation state are local React state, not URL state.
+- `#stories`, `#sectors` and `#premarket` navigate within the current edition. The app does not use React Router or routes such as `/finance/YYYY-MM-DD`.
+- The archive initially displays 18 editions and adds 18 at a time. Only rendering is paginated; all report data is already loaded with the initial JavaScript.
+- Search matches serialized dates, summaries, news, sectors, premarket focus and judgments without case sensitivity. It does not query an external search service or search announcements.
+- An hourly timer reloads the page only if it is hidden at that moment. There is no foreground live-quote refresh, and this timer does not guarantee immediate content updates.
 
-## 浏览器存储
+## Browser storage
 
-| localStorage 键                   | 内容                         | 默认值   |
-| --------------------------------- | ---------------------------- | -------- |
-| `lang`                            | `zh` / `en`                  | `zh`     |
-| `theme`                           | `light` / `dark`             | `light`  |
-| `reading-size`                    | `small` / `medium` / `large` | `medium` |
-| `reading-mode`                    | `compact` / `full`           | `full`   |
-| `clawbot:announcements:read`      | 已读公告 ID 的 JSON 数组     | 空数组   |
-| `clawbot:announcements:dismissed` | 已关闭横幅的公告 ID 数组     | 空数组   |
+| localStorage key                  | Content                             | Default     |
+| --------------------------------- | ----------------------------------- | ----------- |
+| `lang`                            | `zh` / `en`                         | `zh`        |
+| `theme`                           | `light` / `dark`                    | `light`     |
+| `reading-size`                    | `small` / `medium` / `large`        | `medium`    |
+| `reading-mode`                    | `compact` / `full`                  | `full`      |
+| `clawbot:announcements:read`      | JSON array of read announcement IDs | Empty array |
+| `clawbot:announcements:dismissed` | JSON array of dismissed banner IDs  | Empty array |
 
-这些设置只属于当前浏览器和站点来源，不跨设备同步。禁用存储时，控件仍可在当前页面中工作，但刷新后可能恢复默认。公告状态通过 `storage` 事件在同源标签页同步；阅读偏好没有对应的实时同步逻辑。
+Settings belong to the current browser and origin and do not synchronize across devices. When storage is unavailable, controls still work within the current page, but a reload may restore defaults. Announcement states synchronize between same-origin tabs through `storage` events; reading preferences have no equivalent live synchronization.
 
-`index.html` 在 React 加载前设置主题、字号和阅读模式的根元素属性，减少初始样式闪动。React 随后更新这些属性并保存偏好。修改默认值时需要同时核对这两个位置。
+Before React loads, `index.html` initializes root attributes for the theme, text size and reading view to reduce initial style flashing. React then updates those attributes and saves preferences. Check both places when changing defaults.
 
-## 阅读与样式约定
+## Reading and styling conventions
 
-- `src/index.css` 中的语义变量（如 `--bg`、`--heading`、`--line`、`--green-soft`）定义深浅主题。新增样式优先复用变量。
-- `--reading-scale` 对小／中／大分别为 0.9、1、1.2，主要影响正文与新闻标题，不是整页缩放。
-- 精简模式使用原生 `<details>` 展开新闻详情、板块雷达和盘前关注。更换晨报或阅读模式时通过组件 key 重建相应展开状态。
-- 日期选择器有独立键盘处理；公告使用原生 `<dialog>.showModal()`，关闭时恢复此前焦点。修改时需要保留语义标签和可见焦点。
-- 主要响应式断点包括 1250、1030、760 和 480 像素，公告还有 360 像素规则。最近晨报在不超过 1030 像素时移到正文之后。
+- Semantic variables in `src/index.css`, such as `--bg`, `--heading`, `--line` and `--green-soft`, define the light and dark themes. Reuse them for new styles.
+- `--reading-scale` is 0.9, 1 or 1.2 for small, medium or large text. It mainly affects report copy and headlines, not the entire page.
+- Brief view uses native `<details>` elements for story details, sector radar and premarket focus. Changing the report or reading view rebuilds these disclosure states through component keys.
+- The edition picker handles keyboard navigation separately. Announcements use a native dialog with `showModal()` and restore the previous focus on close. Preserve semantics and visible focus when editing these controls.
+- Main responsive breakpoints include 1250, 1030, 760 and 480 pixels; announcements also have 360-pixel rules. At widths of 1030 pixels or less, recent briefs move below the report body.
 
-## 外部依赖与当前边界
+## External dependencies and boundaries
 
-| 依赖             | 当前用途与边界                                                                           |
-| ---------------- | ---------------------------------------------------------------------------------------- |
-| GitHub Pages     | 托管已构建文件；托管设置位于 GitHub，不由本仓库完全定义                                  |
-| Google Fonts     | 加载衬线字体；CSS 同时提供系统字体回退                                                   |
-| 新闻来源链接     | 从浏览器跳转原文；缺少有效 HTTP(S) 链接时提供 Google 新闻标题搜索                        |
-| 行情来源 URL     | 保存在晨报数据中供溯源；前端展示的是已记录价格                                           |
-| 主站共享统计脚本 | `index.html` 加载 `https://yutaozhou.com/js/site-analytics.js?v=2`，标记项目为 `finance` |
+| Dependency                        | Current use and boundary                                                                             |
+| --------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| GitHub Pages                      | Hosts built files; hosting configuration lives in GitHub and is not fully defined by this repository |
+| Google Fonts                      | Loads the serif font; CSS provides system font fallbacks                                             |
+| News source links                 | Open the original article; missing valid HTTP(S) links fall back to a Google search for the headline |
+| Quote source URLs                 | Stored in report data for traceability; the frontend displays recorded prices                        |
+| Shared main-site analytics script | `index.html` loads `https://yutaozhou.com/js/site-analytics.js?v=2` with project `finance`           |
 
-统计脚本实现由主站维护。本仓库提供 `data-report-date`、`data-analytics-language`、`data-analytics-view` 和阅读结束标记，不包含统计后台或完整事件实现，不能仅凭本仓库判断服务端实际保存的内容。
+The main site maintains the analytics implementation. This repository provides `data-report-date`, `data-analytics-language`, `data-analytics-view` and a reading-end marker. It does not contain the analytics backend or full event implementation, so it cannot establish what the server actually stores.
 
-当前没有完整的晨报生成管线、自动化测试套件或打印／保存 PDF 功能。全部历史 JSON 使用 eager 导入，构建会产生较大的 JavaScript 包；按日期拆分加载是后续架构改进方向，尚未实现。
+There is no complete report-generation pipeline, automated test suite or print/save-as-PDF feature. Eager loading of all historical JSON produces a large JavaScript bundle. Loading editions separately is a possible future improvement and is not implemented.
