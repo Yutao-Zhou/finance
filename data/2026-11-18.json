@@ -1,74 +1,94 @@
 {
   "date": "2026-11-18",
   "summary": {
-    "en": "US equity futures rebounded pre-bell Wednesday, with Nasdaq-100 up 0.81% and S&P 500 up 0.36%, after four straight sessions of broad declines, as traders digested Nvidia fiscal Q3 results that exceeded consensus estimates and a raised fiscal 2028 revenue growth outlook. The dominant macro backdrop remains a 97% probability of a December Fed rate hike per CME FedWatch and St. Louis Fed President Musalem's expectation of several hikes before spring, keeping the 10-year yield near 5.11% and the dollar firm at 103.75. Gold fell over 2% to a one-year low and oil slipped on higher US inventories, while Anthropic is expected to price its IPO above its disclosed $70 to $78 range ahead of Thursday's listing.",
-    "zh": "周三盘前美股期货反弹，纳斯达克100期货上涨0.81%、标普500期货上涨0.36%，此前已连续四个交易日普跌，市场正在消化英伟达第三季度营收超出一致预期及上调2028财年收入增长指引。主要宏观背景仍是CME FedWatch显示12月美联储加息概率达97%，以及圣路易斯联储主席穆萨莱姆预计春季前需多次加息，使10年期收益率维持在5.11%附近、美元走强至103.75。黄金跌逾2%至一年低点、油价因美国库存增加而回落，Anthropic预计IPO定价高于已披露的$70至$78区间，周四正式挂牌。"
+    "en": "Information through 09:00 EST: Nasdaq-100 and S&P 500 futures are up 0.81% and 0.36% versus the prior cash-close reference following Nvidia's results and higher fiscal 2028 revenue-growth outlook. October housing starts rose 9.9% monthly while permits fell 7.4%. The dollar is firmer, oil and gold futures are lower, and the Fed's October minutes remain scheduled for 14:00 EST. Anthropic's expected pricing is still unconfirmed.",
+    "zh": "信息截至纽约时间09:00 EST：英伟达公布财报并上调2028财年营收增长展望后，纳指100和标普500期货较前一现金收盘参考点涨0.81%、0.36%。已公布的10月新屋开工环比增9.9%，许可降7.4%。美元走强，原油和黄金期货走低；美联储10月会议纪要仍待14:00 EST公布，Anthropic预期发行定价尚未确认。"
   },
   "topNews": [
     {
-      "title": {
-        "en": "Nvidia fiscal Q3 revenue exceeded consensus on data-center demand; raised fiscal 2028 revenue growth outlook; Anthropic to price IPO above $70 to $78 range",
-        "zh": "英伟达第三季度营收因数据中心需求超出一致预期；上调2028财年收入增长指引；Anthropic IPO定价高于$70至$78区间"
-      },
       "url": "https://www.fidelity.com/news/article/international/202611180759MIDNIGHTUSEQUITY_A3756332",
+      "title": {
+        "en": "Nvidia reports fiscal Q3 results and raises fiscal 2028 revenue-growth outlook",
+        "zh": "英伟达公布第三财季业绩，上调2028财年营收增长展望"
+      },
       "impact": {
-        "en": "NVDA was up 3.7% pre-bell with AMD, INTC, QCOM, MU, AVGO, and MRVL also higher, lifting Nasdaq-100 futures 0.81% and S&P 500 futures 0.36% after four consecutive sessions of broad declines. Interim CEO Colette Kress described the situation as business as usual and said customers and suppliers were fully behind the company. Anthropic, per unnamed sources cited by CNBC, is expected to set its IPO price above the disclosed $70 to $78 range before Thursday's listing.",
-        "zh": "NVDA盘前涨3.7%，AMD、INTC、QCOM、MU、AVGO、MRVL同行走高，纳指期货涨0.81%、标普期货涨0.36%，终结四连跌。临时CEO Colette Kress称运营一切正常，客户和供应商全力支持公司。据CNBC援引匿名消息人士，Anthropic预计IPO定价高于已披露的$70至$78区间，周四挂牌。"
+        "en": "MT Newswires reports Nvidia's late-Tuesday results and higher growth outlook, with its shares up 3.7% in the article's early premarket snapshot and several chip peers firmer. Interim CEO Colette Kress emphasized operational continuity. Separately, CNBC's unnamed sources expected Anthropic pricing above $70–$78 before Thursday's debut; this is an expectation, not a confirmed offering price.",
+        "zh": "MT Newswires报道英伟达周二盘后业绩及上调增长展望，该文早间盘前快照中股价涨3.7%，多家芯片同行走高；临时CEO Colette Kress强调运营连续性。另据CNBC匿名来源，Anthropic预计在周四上市前以高于$70–$78区间定价，尚非已确认发行价。"
       },
       "bullish": [
-        "NVDA beat-and-raise plus peer strength suggests a tech-led short-term repair",
-        "英伟达超预期加同行走强暗示科技股短期修复"
+        "增长展望上调与同行走强可能支持板块修复 / Higher growth expectations and firmer peers may support sector recovery."
       ],
       "bearish": [
-        "First report since CEO Huang resignation; leadership transition uncertainty persists",
-        "CEO黄仁勋辞职后首份财报，领导层过渡不确定性仍在"
+        "管理层交接与预期兑现仍有不确定性 / Leadership transition and delivery against expectations remain uncertain."
       ],
       "macroRisk": {
-        "en": "First earnings report since CEO Huang resignation; leadership transition uncertainty remains a watch item.",
-        "zh": "CEO黄仁勋辞职后首份财报；领导层过渡不确定性仍是关注点。"
+        "en": "Premarket gains do not establish the cash-session close or end a prior losing streak. Proposed IPO pricing and expected listing dates remain subject to confirmation.",
+        "zh": "盘前上涨不能确定现货收盘，也不能宣告此前连跌结束；预期IPO定价及上市日期仍待确认。"
       }
     },
     {
-      "title": {
-        "en": "Gold falls over 2% to one-year low on firmer dollar and 97% December-hike probability; oil slips on higher US inventories",
-        "zh": "美元走强及12月加息概率97%推动黄金跌逾2%至一年低点；美国库存增加令油价回落"
-      },
       "url": "https://www.fidelity.com/news/article/international/202611180609RTRSNEWSCOMBINED_L6N46Z0OL_1",
-      "impact": {
-        "en": "COMEX gold futures were down 1.58% pre-bell and spot gold fell over 2% to its lowest level in more than a year, pressured by a firmer dollar (DXY +0.23%) and growing expectations of higher US rates. WTI futures fell 2.32% and Brent fell 3.3% on higher US crude and fuel inventories, though US-Iran tensions limited losses. Traders are pricing a 97% chance of a December Fed hike per CME FedWatch, with the October minutes due at 2 PM ET.",
-        "zh": "COMEX黄金期货盘前跌1.58%，现货黄金跌逾2%至一年多来最低水平，受美元走强（DXY +0.23%）和加息预期上升压制。WTI期货跌2.32%、布伦特跌3.3%，因美国原油和燃料库存增加，美伊紧张局势限制了跌幅。CME FedWatch显示12月加息概率97%，10月会议纪要定于美东下午2点公布。"
+      "title": {
+        "en": "Gold and oil weaken as investors await afternoon Fed minutes",
+        "zh": "黄金与原油走弱，市场等待下午美联储会议纪要"
       },
-      "bullish": [],
+      "impact": {
+        "en": "Reuters' early-morning account reports spot gold down over 2% to a more-than-one-year low and oil roughly 1% lower, citing dollar strength, rate expectations and higher US inventories. It reports a 97% hike probability from CME FedWatch. The original 09:00 snapshot separately shows COMEX gold futures down 1.58% and Brent down 3.30%; these are different instruments or observation times.",
+        "zh": "路透社早间报道现货黄金跌逾2%至一年多低位、油价约跌1%，并提及美元、利率预期及美国库存增加；CME FedWatch加息概率为97%。原09:00快照另显示COMEX黄金期货跌1.58%、布伦特跌3.30%，品种或观测时点不同，应分开理解。"
+      },
+      "bullish": [
+        "油价走低可能缓和部分成本压力 / Lower oil prices may ease some cost pressure."
+      ],
       "bearish": [
-        "97% hike probability and several-hikes-before-spring framing cap risk appetite",
-        "97%加息概率及春季前多次加息预期压制风险偏好"
+        "美元走强与加息预期可能约束估值 / A firmer dollar and hike expectations may constrain valuations."
       ],
       "macroRisk": {
-        "en": "Fed October minutes due 2 PM ET; divided committee and hawkish tilt could extend the tightening path.",
-        "zh": "美联储10月会议纪要定于美东下午2点公布；委员会分歧及鹰派倾向可能延长紧缩路径。"
+        "en": "CME probabilities are market pricing, not a Fed decision. Rate-path expectations may change around the 14:00 EST minutes, potentially affecting afternoon risk appetite.",
+        "zh": "CME概率是市场定价，不是美联储决定；14:00 EST会议纪要可能改变利率路径预期，影响下午的风险偏好。"
+      }
+    },
+    {
+      "url": "https://www.census.gov/construction/nrc/current/index.html",
+      "title": {
+        "en": "October housing starts rise 9.9% month over month; permits fall 7.4%",
+        "zh": "美国10月新屋开工环比增9.9%，建筑许可降7.4%"
+      },
+      "impact": {
+        "en": "The official Census/HUD release at 08:30 EST puts October housing starts at a seasonally adjusted annual rate of 1.309 million, up 9.9% from revised September, while permits fall 7.4% to 1.295 million. Starts' stated ±16.8 percentage-point confidence interval includes zero; the estimated monthly increase is not statistically significant.",
+        "zh": "人口普查局与HUD于08:30 EST公布，10月新屋开工经季调年率为130.9万套，较修正后9月增9.9%；许可降7.4%至129.5万套。开工月度增幅的置信区间为±16.8个百分点、包含零，因此估计增幅不具统计显著性。"
+      },
+      "bullish": [
+        "开工点估计高于修正后9月 / The starts point estimate exceeds revised September."
+      ],
+      "bearish": [
+        "总许可与独栋许可均环比下降 / Total and single-family permits declined month over month."
+      ],
+      "macroRisk": {
+        "en": "These are seasonally adjusted annualized unit rates, not units built during one month. One volatile release does not establish a housing trend.",
+        "zh": "这里是经季调折算年率，不是单月实际建成套数；单次波动数据不能确立住房趋势。"
       }
     }
   ],
   "sectorRadar": {
     "ai": {
-      "en": "NVDA beat-and-raise lifted the AI complex; AIQ was down 1.74% in the prior session but peers traded higher pre-bell.",
-      "zh": "英伟达超预期加上调指引提振AI板块；AIQ前一交易日下跌1.74%，但盘前同行走高。"
+      "en": "Nvidia's higher growth outlook and firmer chip peers are current AI catalysts; Anthropic's expected pricing remains unconfirmed. Global X Artificial Intelligence & Technology ETF 55.84 USD/share（11/17, 16:00 EST; -1.74% versus 11/16, 16:00 EST）. Previous-session close; ETF performance is a sector reference, not a new company announcement. Source: Yahoo Finance.",
+      "zh": "英伟达上调增长展望及芯片同行走强是当前AI线索，Anthropic预期定价仍待确认。AIQ人工智能及科技ETF 55.84美元/份（11/17, 16:00 EST；较11/16, 16:00 EST -1.74%）。上一交易日收盘数据；ETF表现作为板块参考，不代表当日新增公司事件。来源：Yahoo Finance。"
     },
     "semiconductor": {
-      "en": "SOXX was up 0.18% in the prior session; AMD, INTC, QCOM, MU, AVGO, MRVL all green pre-bell on NVDA spillover.",
-      "zh": "SOXX前一交易日上涨0.18%；AMD、INTC、QCOM、MU、AVGO、MRVL盘前因英伟达外溢效应走高。"
+      "en": "Several chip peers were firmer in the early premarket overview; this does not establish the cash-session outcome. iShares Semiconductor ETF 141.45 USD/share（11/17, 16:00 EST; +0.18% versus 11/16, 16:00 EST）. Previous-session close; ETF performance is a sector reference, not a new company announcement. Source: Yahoo Finance.",
+      "zh": "早间盘前综述记录多家芯片同行上涨，尚不能确定现货交易结果。SOXX半导体ETF 141.45美元/份（11/17, 16:00 EST；较11/16, 16:00 EST +0.18%）。上一交易日收盘数据；ETF表现作为板块参考，不代表当日新增公司事件。来源：Yahoo Finance。"
     },
     "bigTech": {
-      "en": "Nasdaq-100 futures up 0.81% pre-bell; QQQ was down 0.73% in the prior session as part of the four-day decline.",
-      "zh": "纳斯达克100期货盘前上涨0.81%；QQQ前一交易日下跌0.73%，为四连跌的一部分。"
+      "en": "Nasdaq-100 ETF (QQQ) 657.03 USD/share（11/17, 16:00 EST; -0.73% versus 11/16, 16:00 EST）. Previous-session close; ETF performance is a sector reference, not a new company announcement. Source: Yahoo Finance.",
+      "zh": "QQQ纳指100ETF 657.03美元/份（11/17, 16:00 EST；较11/16, 16:00 EST -0.73%）。上一交易日收盘数据；ETF表现作为板块参考，不代表当日新增公司事件。来源：Yahoo Finance。"
     },
     "energy": {
-      "en": "WTI down 2.32% and Brent down 3.3% pre-bell on higher US inventories; XLE was down 0.56% in the prior session.",
-      "zh": "WTI盘前下跌2.32%、布伦特下跌3.3%，因美国库存增加；XLE前一交易日下跌0.56%。"
+      "en": "Energy Select Sector SPDR 63.36 USD/share（11/17, 16:00 EST; -0.56% versus 11/16, 16:00 EST）. Previous-session close; ETF performance is a sector reference, not a new company announcement. Source: Yahoo Finance.",
+      "zh": "XLE能源ETF 63.36美元/份（11/17, 16:00 EST；较11/16, 16:00 EST -0.56%）。上一交易日收盘数据；ETF表现作为板块参考，不代表当日新增公司事件。来源：Yahoo Finance。"
     },
     "ev": {
-      "en": "DRIV was down 1.43% in the prior session; no new sector-specific catalyst identified in the window.",
-      "zh": "DRIV前一交易日下跌1.43%；窗口期内未识别到新的板块特定催化剂。"
+      "en": "Global X Autonomous & Electric Vehicles ETF 26.96 USD/share（11/17, 16:00 EST; -1.43% versus 11/16, 16:00 EST）. Previous-session close; ETF performance is a sector reference, not a new company announcement. Source: Yahoo Finance.",
+      "zh": "DRIV自动驾驶及电动车ETF 26.96美元/份（11/17, 16:00 EST；较11/16, 16:00 EST -1.43%）。上一交易日收盘数据；ETF表现作为板块参考，不代表当日新增公司事件。来源：Yahoo Finance。"
     },
     "market": {
       "en": "S&P 500 7,340.63 points（11/17, 16:00 EST; -1.07% versus 11/16, 16:00 EST）; Nasdaq Composite 24,323.14 points（11/17, 16:00 EST; -0.79% versus 11/16, 16:00 EST）; Dow Jones Industrial Average 50,759.13 points（11/17, 16:00 EST; -1.69% versus 11/16, 16:00 EST）. Source: Yahoo Finance delayed five-minute bars.",
@@ -79,8 +99,8 @@
       "zh": "COMEX黄金期货 3,789.30美元/盎司（11/18, 08:55 EST；较11/17, 16:00 EST -1.58%）。来源：Yahoo Finance延时五分钟行情。"
     },
     "oil": {
-      "en": "WTI down 2.32% and Brent down 3.3% pre-bell; Reuters attributed the slip to higher US crude and fuel inventories, with US-Iran tensions limiting losses.",
-      "zh": "WTI盘前下跌2.32%、布伦特下跌3.3%；路透社将回落归因于美国原油和燃料库存增加，美伊紧张局势限制了跌幅。"
+      "en": "WTI futures 83.71 USD/bbl（11/18, 08:55 EST; -2.32% versus 11/17, 16:00 EST）; Brent futures 89.78 USD/bbl（11/18, 08:54 EST; -3.30% versus 11/17, 16:00 EST）. Source: Yahoo Finance delayed five-minute bars.",
+      "zh": "WTI原油期货 83.71美元/桶（11/18, 08:55 EST；较11/17, 16:00 EST -2.32%）；布伦特原油期货 89.78美元/桶（11/18, 08:54 EST；较11/17, 16:00 EST -3.30%）。来源：Yahoo Finance延时五分钟行情。"
     }
   },
   "premarketFocus": {
@@ -101,19 +121,19 @@
       "zh": "WTI原油期货 83.71美元/桶（11/18, 08:55 EST；较11/17, 16:00 EST -2.32%）；布伦特原油期货 89.78美元/桶（11/18, 08:54 EST；较11/17, 16:00 EST -3.30%）。来源：Yahoo Finance延时五分钟行情。"
     },
     "keyRisk": {
-      "en": "Fed October minutes at 2 PM ET; a hawkish tilt or confirmation of multiple hikes could reverse the tech-led premarket gain.",
-      "zh": "美联储10月会议纪要美东下午2点公布；鹰派倾向或确认多次加息可能逆转盘前科技股涨幅。"
+      "en": "Housing starts and permits were released at 08:30 EST. Watch breadth and semiconductor participation after the 09:30 cash open; assess any new rate-path information separately when the October Fed minutes arrive at 14:00 EST.",
+      "zh": "新屋开工与许可已于08:30 EST公布。09:30现货开盘后关注市场广度和半导体参与；14:00 EST公布美联储10月会议纪要后，再单独评估利率路径信息。"
     }
   },
   "judgment": {
-    "type": "risk-off",
+    "type": "mixed",
     "confidence": {
       "en": "medium",
       "zh": "中"
     },
     "note": {
-      "en": "The premarket tech-led rebound, with NQ up 0.81% after four straight sessions of broad declines, suggests Nvidia's beat-and-raise is anchoring the AI complex short-term. The dominant headwind remains the 97% probability of a December hike and Musalem's expectation of several hikes before spring, keeping the 10-year near 5.11% and the dollar firm at 103.75. The key conflicting signal is gold falling over 2% to a one-year low alongside oil's 2 to 3 percent slip, indicating the tightening narrative still dominates cross-asset pricing. I lean toward reading today's move as a single-name repair rather than a trend reversal. Conditional watchpoint: if the 2 PM ET minutes confirm a divided committee leaning toward multiple hikes, the NQ gain may fade into the cash open; if they reveal internal debate on pace, the tech-led repair could extend into the afternoon.",
-      "zh": "盘前科技股领涨反弹，纳斯达克100期货在连续四个交易日普跌后上涨0.81%，表明英伟达的超预期业绩和上调指引正在为AI板块提供短期支撑。主要宏观逆风仍是12月加息97%的概率以及穆萨莱姆预计春季前需多次加息，使10年期收益率维持在5.11%附近、美元走强至103.75。最关键的矛盾信号是黄金跌逾2%至一年低点、油价回落2至3个百分点，表明紧缩叙事仍在主导跨资产定价。我倾向于将今日走势解读为个股修复而非趋势反转。条件观察点：若美东下午2点公布的会议纪要确认委员会分歧且倾向多次加息，NQ涨幅可能在现金市场开盘时收窄；若纪要显示对加息节奏存在内部讨论，科技股修复可能延续至午后。"
+      "en": "I lean toward a technology-led repair, with confirmation still needed. Nasdaq-100 futures are up 0.81% and S&P 500 futures 0.36%, while Dow futures gain only 0.04%, showing uneven participation. The dollar is up 0.23%, the 10-year yield edges up 0.4 basis point to 5.107%, and COMEX gold futures fall 1.58%; Brent's 3.30% decline may ease costs but does not prove a demand shock. Housing starts and permits also diverge. Watch breadth after the cash open: broader gains and stable yields would support recovery; fading chip leadership with higher yields would weaken it. The 14:00 minutes add a separate afternoon event risk.",
+      "zh": "我倾向于将盘前表现视为科技带动的修复，仍需确认。纳指100和标普500期货涨0.81%、0.36%，道指期货仅涨0.04%，参与面不均衡。美元涨0.23%，10年期收益率微升0.4个基点至5.107%，COMEX黄金期货跌1.58%；布伦特跌3.30%可能缓和成本，但不能据此证明需求冲击。新屋开工与许可方向也有分歧。关注现货开盘后广度：若涨势扩散且收益率稳定，将支持修复；若芯片领先优势消退而收益率上行，则会削弱这一判断。14:00会议纪要另构成下午事件风险。"
     }
   },
   "marketData": {
@@ -330,5 +350,6 @@
         "delayed": true
       }
     ]
-  }
+  },
+  "asOf": "2026-11-18T14:00:00.329Z"
 }
