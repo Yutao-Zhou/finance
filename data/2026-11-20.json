@@ -1,49 +1,66 @@
 {
   "date": "2026-11-20",
   "summary": {
-    "en": "The S&P 500 closed Thursday down 1.98% at 7,177.56, extending a six-session losing streak and slipping below its 200-day moving average for the first time since April as AI-trade wobble and the Anthropic IPO failed to lift sentiment. Premarket futures show a modest narrowing, with E-mini S&P 500 down 0.85% and the 10-year yield easing 8.4 bp to 4.968%. The dollar fell early Friday ahead of Fed Governor Waller's 8:25 am ET remarks and the 10:00 am ET University of Michigan sentiment release, with US inflation still above the 2% target and a 25 bp FOMC hike widely expected next month.",
-    "zh": "标普500周四收跌1.98%至7,177.56，连续第六个交易日下跌，并自4月以来首次跌破200日均线，AI交易波动及Anthropic IPO未能提振市场情绪。盘前期货显示跌幅有所收窄，E-mini标普500期货下跌0.85%，10年期美债收益率回落8.4个基点至4.968%。美元周五早盘走弱，市场等待美联储理事沃勒美东时间8:25的讲话及10:00的密歇根大学消费者信心数据，美国通胀仍高于2%目标，市场普遍预期下月FOMC将加息25个基点。"
+    "en": "As of 09:00 EST, equity futures were lower versus their own Thursday 16:00 EST readings, with S&P 500 futures down 0.85%, Nasdaq-100 futures down 1.61% and Dow futures down 0.28%. That follows a sixth straight cash-session loss for the S&P 500, which closed down 1.98% Thursday and dropped below its 200-day average this week. The 10-year Treasury yield and the U.S. Dollar Index eased, Ross Stores raised full-year EPS guidance, and the November Michigan consumer sentiment reading was scheduled for 10:00 EST.",
+    "zh": "截至美东时间09:00，三大股指期货较各自周四16:00的报价均下跌，标普500期货跌0.85%，纳指100期货跌1.61%，道指期货跌0.28%。标普500现货指数周四收跌1.98%，连续第六个交易日下跌，本周跌破200日均线。10年期美债收益率和美元指数走低，Ross Stores上调全年每股收益指引，密歇根大学11月消费者信心终值定于美东时间10:00发布。"
   },
   "topNews": [
     {
       "title": {
-        "en": "S&P 500 Falls Below 200-Day Average as AI Trade Wobble Meets Holiday Season",
-        "zh": "标普500跌破200日均线，AI交易波动遇上假日消费季"
+        "en": "S&P 500 extends losing streak to six sessions as holiday spending comes into focus",
+        "zh": "标普500连续六个交易日下跌，假日消费成为市场焦点"
       },
       "impact": {
-        "en": "The S&P 500 closed Thursday at 7,177.56, down 1.98%, marking a sixth straight losing session and a drop below the 200-day moving average for the first time since April. The index is down roughly 8% from its October 6 all-time high, with the technology sector slumping nearly 19% over the same period. Anthropic's IPO closed up 17% on its first day while major indexes sank, and Nvidia's solid quarterly report failed to steady the market. Premarket E-mini S&P 500 futures stand at 7,133.25, down 0.85% versus the prior cash close, suggesting a modest narrowing of losses. Oxford Economics projects holiday retail sales up 4.2% (2.2% in volume after inflation adjustment), and October core retail sales rose faster than expected. The S&P 500 remains on track for a year-to-date gain of nearly 5%. Next week brings Black Friday, Dell and Analog Devices earnings, inflation data, and a Q3 GDP update in a shortened Thanksgiving week.",
-        "zh": "标普500周四收于7,177.56，下跌1.98%，连续第六个交易日收跌，并自4月以来首次跌破200日均线。该指数较10月6日历史高点回落约8%，科技板块同期跌幅近19%。Anthropic IPO首日收涨17%，但主要股指下跌；英伟达（NVDA）季度业绩稳健却未能稳定市场。盘前E-mini标普500期货报7,133.25，较前一交易日现金收盘下跌0.85%，显示跌幅有所收窄。牛津经济研究院预计假日零售销售增长4.2%（剔除通胀后实际量增2.2%），10月核心零售销售增速超预期。标普500年初至今仍录得近5%的涨幅。下周将迎来黑色星期五、戴尔（DELL）和模拟器件（ADI）财报、通胀数据及三季度GDP更新，交易周因感恩节缩短。"
+        "en": "The S&P 500 fell 1.98% to 7,177.56 Thursday. Reuters reported that it slipped below its 200-day average this week for the first time since April and was roughly 8% below its October 6 high. Anthropic rose 17% on its trading debut while major indexes fell. Oxford Economics forecasts 4.2% holiday retail sales growth, or 2.2% after inflation, excluding autos, gasoline, bars and restaurants.",
+        "zh": "标普500周四跌1.98%至7,177.56点。据路透社报道，该指数本周自4月以来首次跌破200日均线，较10月6日高点低约8%。Anthropic上市首日上涨17%，同期主要股指下跌。牛津经济研究院预计假日零售销售额增4.2%，扣除通胀后增2.2%，不含汽车、汽油及餐饮。"
       },
       "bullish": [
-        "Oxford Economics projects holiday retail sales up 4.2% and October core retail sales rose faster than expected, supporting the consumer-spending pillar that drives roughly two-thirds of US GDP. / 牛津经济研究院预计假日零售销售增长4.2%，10月核心零售销售增速超预期，支撑占美国GDP约三分之二的消费支出支柱。"
+        "October core retail sales rose faster than expected, Reuters reported. The holiday sales forecast offers a separate test of demand. / 据路透社报道，10月核心零售销售增速高于预期。假日销售将提供另一项需求检验。"
       ],
       "bearish": [
-        "The S&P 500 is down roughly 8% from its October 6 all-time high and the technology sector has slumped nearly 19% over the same period, with doubts emerging about massive AI data-center spending that underpinned the four-year bull market. / 标普500较10月6日历史高点回落约8%，科技板块同期跌幅近19%，市场对支撑四年牛市的大规模AI数据中心支出产生质疑。"
+        "Reuters reported that technology shares were down nearly 19% from their level at the S&P 500’s October 6 high. / 据路透社报道，科技板块较标普500在10月6日见顶时的水平跌近19%。"
       ],
       "macroRisk": {
-        "en": "If holiday retail data or next week's inflation print disappoints, the consumer-driven recovery narrative weakens and the AI-trade wobble could extend beyond the technology sector into broader earnings expectations.",
-        "zh": "若假日零售数据或下周通胀数据不及预期，消费驱动的经济复苏叙事将减弱，AI交易波动可能从科技板块蔓延至更广泛的盈利预期。"
+        "en": "Next week’s inflation data and updated third-quarter GDP estimate may change the growth and rate outlook heading into the shortened Thanksgiving trading week.",
+        "zh": "感恩节交易周较短，下周通胀数据和第三季度GDP更新可能改变市场对经济增长与利率的判断。"
       },
       "url": "https://www.fidelity.com/news/article/us-markets/202611200600RTRSNEWSCOMBINED_L6N46Z1IY_1"
     },
     {
       "title": {
-        "en": "Dollar Falls Early Friday Ahead of Waller Remarks and Michigan Sentiment",
-        "zh": "美元周五早盘下跌，等待沃勒讲话与密歇根消费者信心数据"
+        "en": "Dollar index declines ahead of 10:00 EST sentiment and state jobs data",
+        "zh": "美元指数走低，10:00待公布消费者信心及各州就业数据"
       },
       "impact": {
-        "en": "The US dollar fell against most major trading partners early Friday, with the US Dollar Index at 103.67, down 0.21% versus the prior cash-session reference. EUR/USD eased to 1.0963 from 1.0972, while USD/JPY slipped to 158.8771 from 159.6792. Fed Governor Christopher Waller spoke at 8:25 am ET, following his Wednesday call for \"aggressive action\" on interest rates that would \"shock\" businesses and markets. The final University of Michigan consumer sentiment reading for November and state-level October unemployment data are both due at 10:00 am ET, after the 09:00 EST information cutoff. The Kansas City Fed services index for November is scheduled at 11:00 am ET, the St. Louis Fed is expected to update its Q4 GDP nowcast around midday, and Fed Governor Lisa Cook is set to speak at 12:15 pm ET. US inflation has remained above the Fed's 2% target for nearly six years, and markets widely expect a 25 bp FOMC rate hike next month per the CME FedWatch tool.",
-        "zh": "美元周五早盘对多数主要货币走弱，美元指数报103.67，较前一交易日现金收盘参考值下跌0.21%。欧元/美元从1.0972降至1.0963，美元/日元从159.6792降至158.8771。美联储理事克里斯托弗·沃勒于美东时间8:25发表讲话，此前他周三呼吁对利率采取将\"震撼\"企业和市场的\"果断行动\"。11月密歇根大学消费者信心终值及10月各州失业数据均定于美东时间10:00发布，晚于09:00 EST信息截止时点。堪萨斯城联储11月服务业指数定于11:00发布，圣路易斯联储预计于午间前后更新四季度GDP预测，美联储理事莉萨·库克定于12:15发表讲话。美国通胀已持续近六年高于美联储2%目标，市场普遍预期下月FOMC将加息25个基点（据CME FedWatch工具）。"
+        "en": "The U.S. Dollar Index was 103.67 at 08:55 EST, down 0.21% from its Thursday 16:00 reading. The Federal Reserve’s prepared text for Christopher Waller’s 08:25 EST welcome at the College Fed Challenge Finals outlined policy deliberation and communication without giving a new rate view. Michigan’s final November consumer sentiment reading and October state unemployment data were scheduled for 10:00 EST.",
+        "zh": "美东时间08:55，美元指数报103.67，较周四16:00的报价跌0.21%。美联储公布了沃勒于08:25在大学联储挑战赛决赛致欢迎辞的讲稿，内容涉及政策审议与沟通，未提出新的利率观点。11月密歇根大学消费者信心终值与10月各州失业数据定于10:00发布。"
       },
       "bullish": [],
-      "bearish": [
-        "Fed Governor Waller called on Wednesday for \"aggressive action\" on interest rates, and US inflation has remained above the 2% target for nearly six years, with markets widely expecting a 25 bp FOMC hike next month. / 美联储理事沃勒周三呼吁对利率采取\"果断行动\"，美国通胀已持续近六年高于2%目标，市场普遍预期下月FOMC将加息25个基点。"
-      ],
+      "bearish": [],
       "macroRisk": {
-        "en": "A hawkish Waller remark or a weaker-than-expected Michigan sentiment reading at 10:00 am ET could extend the risk-off move in equities and push the 10-year yield higher, complicating the already fragile AI-trade recovery.",
-        "zh": "若沃勒发表偏鹰言论或10:00美东时间密歇根消费者信心数据弱于预期，可能加剧股市风险偏好收缩并推高10年期收益率，使本已脆弱的AI交易修复更加复杂。"
+        "en": "The 10:00 releases follow the cash open. Compare them with expectations and watch whether Treasury yields and rate-sensitive shares move in the same direction afterward.",
+        "zh": "10:00的数据在现货开盘后公布。届时关注数据与预期的差异，以及随后美债收益率和利率敏感股是否同向变化。"
       },
       "url": "https://www.fidelity.com/news/article/us-economy/202611200741MIDNIGHTUSEQUITY_A3758236"
+    },
+    {
+      "title": {
+        "en": "Ross Stores reports 8% comparable sales growth and raises fiscal 2026 EPS outlook",
+        "zh": "Ross Stores同店销售增长8%，上调2026财年每股收益指引"
+      },
+      "impact": {
+        "en": "Ross Stores (ROST) reported Thursday at 16:01 EST that third-quarter sales rose 12% year over year to $6.3B and EPS came in at $1.91 versus $1.58 a year earlier. It raised fiscal 2026 EPS guidance to $8.75–$8.84, including an approximately $0.60 per-share benefit from tariff refunds booked in the second quarter.",
+        "zh": "Ross Stores（ROST）周四美东时间16:01公布，第三季度销售额同比增12%至$6.3B，每股收益由上年同期$1.58升至$1.91。公司将2026财年每股收益指引上调至$8.75–$8.84，其中包含第二季度确认的关税退款带来的约$0.60每股收益。"
+      },
+      "bullish": [
+        "Management attributed most comparable sales growth to store traffic. Operating margin rose 70 basis points to 12.3%. / 管理层表示同店销售增长主要由客流带动。营业利润率上升70个基点至12.3%。"
+      ],
+      "bearish": [],
+      "macroRisk": {
+        "en": "The company retained its 4%–5% comparable sales growth forecast for the fourth quarter. One discount retailer’s results offer a limited read on broader holiday demand.",
+        "zh": "公司维持第四季度同店销售增长4%–5%的预测。一家折扣零售商的业绩对整体假日需求的参考范围有限。"
+      },
+      "url": "https://www.prnewswire.com/news-releases/ross-stores-reports-strong-third-quarter-sales-and-earnings-results-302946112.html"
     }
   ],
   "sectorRadar": {
@@ -60,12 +77,12 @@
       "zh": "WTI原油期货 82.44美元/桶（11/20, 08:55 EST；较11/19, 16:00 EST -0.77%）；布伦特原油期货 89.19美元/桶（11/20, 08:54 EST；较11/19, 16:00 EST -0.90%）。来源：Yahoo Finance延时五分钟行情。"
     },
     "ai": {
-      "en": "Global X Artificial Intelligence & Technology ETF 54.42 USD/share（11/19, 16:00 EST; -2.56% versus 11/18, 16:00 EST）. Previous-session close; ETF performance is a sector reference, not a new company announcement. Source: Yahoo Finance.",
-      "zh": "AIQ人工智能及科技ETF 54.42美元/份（11/19, 16:00 EST；较11/18, 16:00 EST -2.56%）。上一交易日收盘数据；ETF表现作为板块参考，不代表当日新增公司事件。来源：Yahoo Finance。"
+      "en": "Anthropic gained 17% on its Thursday debut, according to Reuters, while major indexes declined. Global X Artificial Intelligence & Technology ETF 54.42 USD/share（11/19, 16:00 EST; -2.56% versus 11/18, 16:00 EST）. Previous-session close; ETF performance is a sector reference, not a new company announcement. Source: Yahoo Finance.",
+      "zh": "据路透社报道，Anthropic周四上市首日上涨17%，同期主要股指下跌。AIQ人工智能及科技ETF 54.42美元/份（11/19, 16:00 EST；较11/18, 16:00 EST -2.56%）。上一交易日收盘数据；ETF表现作为板块参考，不代表当日新增公司事件。来源：Yahoo Finance。"
     },
     "semiconductor": {
-      "en": "iShares Semiconductor ETF 138.01 USD/share（11/19, 16:00 EST; -2.69% versus 11/18, 16:00 EST）. Previous-session close; ETF performance is a sector reference, not a new company announcement. Source: Yahoo Finance.",
-      "zh": "SOXX半导体ETF 138.01美元/份（11/19, 16:00 EST；较11/18, 16:00 EST -2.69%）。上一交易日收盘数据；ETF表现作为板块参考，不代表当日新增公司事件。来源：Yahoo Finance。"
+      "en": "Reuters reported that Nvidia’s quarterly results earlier this week failed to steady the broader market. Analog Devices is due to report next week. iShares Semiconductor ETF 138.01 USD/share（11/19, 16:00 EST; -2.69% versus 11/18, 16:00 EST）. Previous-session close; ETF performance is a sector reference, not a new company announcement. Source: Yahoo Finance.",
+      "zh": "据路透社报道，英伟达本周公布的季度业绩未能稳住大盘。模拟器件定于下周发布财报。SOXX半导体ETF 138.01美元/份（11/19, 16:00 EST；较11/18, 16:00 EST -2.69%）。上一交易日收盘数据；ETF表现作为板块参考，不代表当日新增公司事件。来源：Yahoo Finance。"
     },
     "bigTech": {
       "en": "Nasdaq-100 ETF (QQQ) 645.10 USD/share（11/19, 16:00 EST; -2.18% versus 11/18, 16:00 EST）. Previous-session close; ETF performance is a sector reference, not a new company announcement. Source: Yahoo Finance.",
@@ -76,14 +93,14 @@
       "zh": "XLE能源ETF 60.89美元/份（11/19, 16:00 EST；较11/18, 16:00 EST -0.68%）。上一交易日收盘数据；ETF表现作为板块参考，不代表当日新增公司事件。来源：Yahoo Finance。"
     },
     "ev": {
-      "en": "Global X Autonomous & Electric Vehicles ETF 26.39 USD/share（11/19, 15:50 EST; -1.60% versus 11/18, 15:45 EST）. Previous-session close; ETF performance is a sector reference, not a new company announcement. Source: Yahoo Finance.",
-      "zh": "DRIV自动驾驶及电动车ETF 26.39美元/份（11/19, 15:50 EST；较11/18, 15:45 EST -1.60%）。上一交易日收盘数据；ETF表现作为板块参考，不代表当日新增公司事件。来源：Yahoo Finance。"
+      "en": "Global X Autonomous & Electric Vehicles ETF 26.39 USD/share（11/19, 15:50 EST; -1.60% versus 11/18, 15:45 EST）. Late-session observations; ETF performance is a sector reference, not a new company announcement. Source: Yahoo Finance.",
+      "zh": "DRIV自动驾驶及电动车ETF 26.39美元/份（11/19, 15:50 EST；较11/18, 15:45 EST -1.60%）。前两次交易日的尾盘报价；ETF表现作为板块参考，不代表当日新增公司事件。来源：Yahoo Finance。"
     }
   },
   "premarketFocus": {
     "keyRisk": {
-      "en": "Same-morning: Waller spoke at 8:25 am ET (content not in supplied sources). After the 09:00 EST cutoff: Michigan sentiment and state unemployment at 10:00 am ET, Kansas City Fed services at 11:00 am ET, St. Louis Fed Q4 GDP nowcast around midday, and Governor Cook at 12:15 pm ET. Next week: Black Friday retail data, Dell and Analog Devices earnings, inflation data, and a Q3 GDP update in a shortened Thanksgiving week. A 25 bp FOMC hike is widely expected next month. The S&P 500 is below its 200-day moving average and the AI trade remains under pressure.",
-      "zh": "当日：沃勒已于美东时间8:25发表讲话（内容未见于所供来源）。09:00 EST截止后：10:00密歇根消费者信心及各州失业数据，11:00堪萨斯城联储服务业指数，午间前后圣路易斯联储四季度GDP预测，12:15理事库克讲话。下周：黑色星期五零售数据、戴尔和模拟器件财报、通胀数据及三季度GDP更新，交易周因感恩节缩短。市场普遍预期下月FOMC加息25个基点。标普500已跌破200日均线，AI交易仍承压。"
+      "en": "Watch market breadth at the 09:30 EST open, especially whether semiconductor and other technology shares stabilize as the 10-year yield eases. The 10:00 EST Michigan sentiment and state unemployment releases follow the open. The Kansas City Fed services reading is scheduled for 11:00 EST and Governor Lisa Cook’s remarks for 12:15 EST.",
+      "zh": "09:30 EST开盘时留意市场广度，尤其是10年期美债收益率回落之际，半导体和其他科技股能否企稳。密歇根大学消费者信心终值和各州失业数据安排在开盘后的10:00 EST，堪萨斯城联储服务业指数定于11:00 EST公布，美联储理事莉萨·库克定于12:15 EST讲话。"
     },
     "futures": {
       "en": "E-mini S&P 500 7,133.25 points（11/20, 08:55 EST; -0.85% versus 11/19, 16:00 EST）; E-mini Nasdaq-100 26,160.50 points（11/20, 08:55 EST; -1.61% versus 11/19, 16:00 EST）; E-mini Dow 49,024.00 points（11/20, 08:55 EST; -0.28% versus 11/19, 16:00 EST）. Source: Yahoo Finance delayed five-minute bars.",
@@ -103,14 +120,14 @@
     }
   },
   "judgment": {
-    "type": "mixed",
+    "type": "risk-off",
     "confidence": {
       "en": "medium",
       "zh": "中"
     },
     "note": {
-      "en": "The premarket shows a modest narrowing from Thursday's broad selloff: E-mini S&P 500 futures are down 0.85% versus the prior cash close, compared with the 1.98% cash decline, while the 10-year yield has eased 8.4 basis points to 4.968% and the dollar index is slightly lower at 103.67. Softer yields and a weaker dollar would normally support risk assets. The strongest conflicting signal is COMEX gold, down 2.72% to $3,561.90 despite that backdrop, suggesting prior-session stress still drives positioning rather than a clean macro repricing. The stabilization thesis is therefore qualified. If the 09:30 ET cash open shows breadth broadening beyond large-cap tech while the 10-year holds near 4.97%, the view gains support. 若现货开盘后涨势扩散至大型科技股以外且10年期收益率维持在4.97%附近，将支持企稳判断。",
-      "zh": "盘前显示周四全面抛售的跌幅有所收窄：E-mini标普500期货较前一交易日现金收盘下跌0.85%，而现金指数跌幅为1.98%；10年期美债收益率回落8.4个基点至4.968%，美元指数微降至103.67。收益率走软和美元走弱通常利好风险资产。最强矛盾信号是COMEX黄金期货下跌2.72%至3,561.90美元，与上述背景相悖，表明前一日压力仍在主导仓位调整而非清晰的宏观重新定价。因此企稳判断需加限定。若美东时间09:30现货开盘后涨势扩散至大型科技股以外且10年期收益率维持在4.97%附近，将支持企稳判断。"
+      "en": "The premarket signals a cautious start. Nasdaq-100 futures are down 1.61%, compared with a 0.28% decline in Dow futures, each measured against its own Thursday 16:00 EST reading. The 10-year yield fell 8.4 basis points to 4.968% from Thursday’s 15:00 reading, and the dollar index is down 0.21% from Thursday at 16:00. Lower yields may ease pressure on valuations, yet Nasdaq-100 futures are still lagging. The 2.72% drop in gold futures adds a conflicting signal. If selling broadens after the cash open at 09:30 EST even as yields stay lower, the cautious view strengthens. If semiconductor shares recover and participation improves, it weakens.",
+      "zh": "盘前信号显示，开盘仍需谨慎。纳指100期货跌1.61%，道指期货跌0.28%，均较各自周四16:00 EST的报价计算。10年期收益率较周四15:00回落8.4个基点至4.968%，美元指数较周四16:00跌0.21%。收益率走低可能缓解估值压力，但纳指100期货仍落后。黄金期货下跌2.72%，进一步凸显跨资产信号的分歧。若09:30 EST开盘后，即使收益率仍处较低水平，跌势也向更多板块蔓延，则谨慎判断得到加强。若半导体股回升、市场上涨家数扩大，则削弱这一判断。"
     }
   },
   "asOf": "2026-11-20T14:00:00.437Z",
