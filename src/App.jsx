@@ -12,6 +12,7 @@ import {
 } from "./lib/reports";
 import "./App.css";
 import EditionPicker from "./components/EditionPicker";
+import BriefListening from "./components/BriefListening";
 import {
   AnnouncementBanner,
   AnnouncementBell,
@@ -779,7 +780,13 @@ function App() {
   useEffect(() => {
     const timer = window.setInterval(
       () => {
-        if (document.visibilityState === "hidden") window.location.reload();
+        if (
+          document.visibilityState === "hidden" &&
+          !window.speechSynthesis?.speaking &&
+          !window.speechSynthesis?.pending
+        ) {
+          window.location.reload();
+        }
       },
       60 * 60 * 1000,
     );
@@ -1012,6 +1019,14 @@ function App() {
             )}
           </header>
           <div className="reading-settings">
+            {activeReport && !showArchive && (
+              <BriefListening
+                key={activeReport.date + lang}
+                report={activeReport}
+                lang={lang}
+                sectionTitles={labels}
+              />
+            )}
             <div className="reading-setting-group">
               <span className="reading-settings-label">
                 {labels.readingMode}

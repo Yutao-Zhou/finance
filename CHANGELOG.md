@@ -6,6 +6,12 @@ Significant changes to development, operations and the reading experience, liste
 
 Reader-facing notices are maintained separately in [`src/data/announcements.js`](src/data/announcements.js). This file does not automatically appear in site announcements.
 
+## 2026-11-21
+
+### Added
+
+- Browser read-aloud for the current edition’s summary, top stories and premarket risks, with pause, resume and stop controls.
+
 ## 2026-11-16
 
 ### Documentation

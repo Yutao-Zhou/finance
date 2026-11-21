@@ -54,7 +54,7 @@ Adding report JSON or announcements therefore requires rebuilding and deploying.
 - `#stories`, `#sectors` and `#premarket` navigate within the current edition. The app does not use React Router or routes such as `/finance/YYYY-MM-DD`.
 - The archive initially displays 18 editions and adds 18 at a time. Only rendering is paginated; all report data is already loaded with the initial JavaScript.
 - Search matches serialized dates, summaries, news, sectors, premarket focus and judgments without case sensitivity. It does not query an external search service or search announcements.
-- An hourly timer reloads the page only if it is hidden at that moment. There is no foreground live-quote refresh, and this timer does not guarantee immediate content updates.
+- An hourly timer reloads the page if it is hidden and browser speech is neither active nor queued. There is no foreground live-quote refresh.
 
 ## Browser storage
 
@@ -72,6 +72,8 @@ Settings belong to the current browser and origin and do not synchronize across 
 Before React loads, `index.html` initializes root attributes for the theme, text size and reading view to reduce initial style flashing. React then updates those attributes and saves preferences. Check both places when changing defaults.
 
 ## Reading and styling conventions
+
+- `BriefListening.jsx` uses the browser’s Web Speech API to read the active edition’s summary, story titles and explanations, and the premarket risk note. It prefers an installed voice that matches the interface language. Pause resumes from the start of the current segment. Opening the archive or changing the edition or language ends playback. Audio is produced at playback time with the available device voices.
 
 - Semantic variables in `src/index.css`, such as `--bg`, `--heading`, `--line` and `--green-soft`, define the light and dark themes. Reuse them for new styles.
 - `--reading-scale` is 0.9, 1 or 1.2 for small, medium or large text. It mainly affects report copy and headlines, not the entire page.
