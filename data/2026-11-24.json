@@ -1,0 +1,334 @@
+{
+  "date": "2026-11-24",
+  "summary": {
+    "en": "Nasdaq futures declined as AI-linked shares retreated following Monday's Nvidia-driven rally, with investors awaiting Wednesday's PCE inflation data. The US dollar fell early Tuesday ahead of a busy schedule of economic releases, including the Philadelphia Fed nonmanufacturing index and Redbook sales. Money markets fully price a 25-basis-point Fed rate hike for the December meeting.",
+    "zh": "纳指期货下跌，AI相关股票在周一英伟达带动的反弹后回落，投资者等待周三的PCE通胀数据。周二早盘美元兑主要货币走低，此前有费城联储非制造业指数和Redbook销售等密集经济数据发布。货币市场完全定价美联储12月会议加息25个基点。"
+  },
+  "topNews": [
+    {
+      "title": {
+        "en": "Nasdaq futures drop as AI stocks cool after Nvidia-fueled rally",
+        "zh": "纳指期货下跌，AI股票在英伟达带动的反弹后降温"
+      },
+      "impact": {
+        "en": "The pullback reflects profit-taking after Nvidia's 31.5% surge and the reinstatement of CEO Jensen Huang, which added nearly $1 trillion to its market value. Investors are reassessing AI sector valuations amid concerns over debt-fueled spending and regulatory scrutiny following the midterm elections.",
+        "zh": "回调反映了英伟达股价飙升31.5%及CEO黄仁勋复职后的获利了结，此举为其市值增加了近1万亿美元。投资者正在重新评估AI板块估值，此前因债务驱动支出及中期选举后的监管审查担忧而情绪谨慎。"
+      },
+      "bullish": [
+        "Nvidia's market value increased by nearly $1 trillion following the CEO reinstatement, signaling strong institutional confidence in the company's leadership and long-term AI strategy. / 英伟达市值在CEO复职后增加近1万亿美元，表明机构投资者对公司领导层和长期AI战略的信心。"
+      ],
+      "bearish": [
+        "Micron, AMD, and Marvell fell between 3.9% and 6.4% in premarket trading, indicating broad weakness in the semiconductor sector. / 美光、AMD和Marvell在盘前交易中下跌3.9%至6.4%，显示半导体板块普遍疲软。"
+      ],
+      "macroRisk": {
+        "en": "Wednesday's PCE inflation report is the final major data release before the Fed's December meeting, posing a risk to rate expectations if inflation remains sticky.",
+        "zh": "周三的PCE通胀报告是美联储12月会议前最后一个主要数据发布，若通胀保持粘性，将对利率预期构成风险。"
+      },
+      "url": "https://www.fidelity.com/news/article/international/202611240552RTRSNEWSCOMBINED_KCN3WZ149-OUSBS_1"
+    },
+    {
+      "title": {
+        "en": "US Dollar Falls Early Tuesday Before Philadelphia Fed Nonmanufacturing Index",
+        "zh": "周二早盘美元走低，费城联储非制造业指数发布前"
+      },
+      "impact": {
+        "en": "The dollar's decline against major currencies, except the yen, precedes a busy day of economic data including the Philadelphia Fed nonmanufacturing index and Redbook same-store sales. This movement may reflect positioning ahead of data that could influence Fed policy expectations.",
+        "zh": "美元兑主要货币（日元除外）走低，此前有费城联储非制造业指数和Redbook同店销售等密集经济数据发布。此举可能反映了在可能影响美联储政策预期的数据发布前的仓位调整。"
+      },
+      "bullish": [
+        "EUR/USD rose to 1.0951 from 1.0902 at the Monday US close, suggesting a shift in currency positioning ahead of US data releases. / 欧元兑美元从周一美股收盘时的1.0902升至1.0951，显示在美国数据发布前货币仓位出现变化。"
+      ],
+      "bearish": [
+        "USD/JPY rose to 159.1521 from 158.9442 at the Monday US close, indicating continued yen weakness despite broader dollar declines. / 美元兑日元从周一美股收盘时的158.9442升至159.1521，表明尽管美元整体下跌，日元仍持续疲软。"
+      ],
+      "macroRisk": {
+        "en": "Philadelphia Fed nonmanufacturing index and Redbook sales data at 8:30 am and 8:55 am ET could surprise and alter the dollar's trajectory before the 10:00 am ET consumer confidence report.",
+        "zh": "美东时间上午8:30和8:55发布的费城联储非制造业指数和Redbook销售数据可能出人意料，并在上午10:00的消费者信心报告前改变美元走势。"
+      },
+      "url": "https://www.fidelity.com/news/article/us-economy/202611240729MIDNIGHTUSEQUITY_A3759813"
+    }
+  ],
+  "sectorRadar": {
+    "market": {
+      "en": "S&P 500 7,236.85 points（11/23, 16:00 EST; +4.60% versus 11/20, 16:00 EST）; Nasdaq Composite 24,092.36 points（11/23, 16:00 EST; +6.36% versus 11/20, 16:00 EST）; Dow Jones Industrial Average 49,599.89 points（11/23, 16:00 EST; +2.94% versus 11/20, 16:00 EST）. Source: Yahoo Finance delayed five-minute bars.",
+      "zh": "标普500 7,236.85点（11/23, 16:00 EST；较11/20, 16:00 EST +4.60%）；纳斯达克综合指数 24,092.36点（11/23, 16:00 EST；较11/20, 16:00 EST +6.36%）；道琼斯工业指数 49,599.89点（11/23, 16:00 EST；较11/20, 16:00 EST +2.94%）。来源：Yahoo Finance延时五分钟行情。"
+    },
+    "preciousMetals": {
+      "en": "COMEX gold futures 3,618.20 USD/oz（11/24, 08:55 EST; -0.48% versus 11/23, 16:00 EST）. Source: Yahoo Finance delayed five-minute bars.",
+      "zh": "COMEX黄金期货 3,618.20美元/盎司（11/24, 08:55 EST；较11/23, 16:00 EST -0.48%）。来源：Yahoo Finance延时五分钟行情。"
+    },
+    "oil": {
+      "en": "WTI futures 80.75 USD/bbl（11/24, 08:55 EST; +0.70% versus 11/23, 16:00 EST）; Brent futures 87.46 USD/bbl（11/24, 08:55 EST; +0.96% versus 11/23, 16:00 EST）. Source: Yahoo Finance delayed five-minute bars.",
+      "zh": "WTI原油期货 80.75美元/桶（11/24, 08:55 EST；较11/23, 16:00 EST +0.70%）；布伦特原油期货 87.46美元/桶（11/24, 08:55 EST；较11/23, 16:00 EST +0.96%）。来源：Yahoo Finance延时五分钟行情。"
+    },
+    "ai": {
+      "en": "Global X Artificial Intelligence & Technology ETF 54.86 USD/share（11/23, 16:00 EST; +7.61% versus 11/20, 16:00 EST）. Previous-session close. ETF performance is a sector reference. Source: Yahoo Finance.",
+      "zh": "AIQ人工智能及科技ETF 54.86美元/份（11/23, 16:00 EST；较11/20, 16:00 EST +7.61%）。上一交易日收盘数据。ETF表现作为板块参考。来源：Yahoo Finance。"
+    },
+    "semiconductor": {
+      "en": "iShares Semiconductor ETF 140.21 USD/share（11/23, 16:00 EST; +13.64% versus 11/20, 16:00 EST）. Previous-session close. ETF performance is a sector reference. Source: Yahoo Finance.",
+      "zh": "SOXX半导体ETF 140.21美元/份（11/23, 16:00 EST；较11/20, 16:00 EST +13.64%）。上一交易日收盘数据。ETF表现作为板块参考。来源：Yahoo Finance。"
+    },
+    "bigTech": {
+      "en": "Nasdaq-100 ETF (QQQ) 650.87 USD/share（11/23, 16:00 EST; +6.69% versus 11/20, 16:00 EST）. Previous-session close. ETF performance is a sector reference. Source: Yahoo Finance.",
+      "zh": "QQQ纳指100ETF 650.87美元/份（11/23, 16:00 EST；较11/20, 16:00 EST +6.69%）。上一交易日收盘数据。ETF表现作为板块参考。来源：Yahoo Finance。"
+    },
+    "energy": {
+      "en": "Energy Select Sector SPDR 59.85 USD/share（11/23, 16:00 EST; -1.21% versus 11/20, 16:00 EST）. Previous-session close. ETF performance is a sector reference. Source: Yahoo Finance.",
+      "zh": "XLE能源ETF 59.85美元/份（11/23, 16:00 EST；较11/20, 16:00 EST -1.21%）。上一交易日收盘数据。ETF表现作为板块参考。来源：Yahoo Finance。"
+    },
+    "ev": {
+      "en": "Global X Autonomous & Electric Vehicles ETF 26.33 USD/share（11/23, 15:55 EST; +6.92% versus 11/20, 16:00 EST）. Latest verified bar of the prior session. ETF performance is a sector reference. Source: Yahoo Finance.",
+      "zh": "DRIV自动驾驶及电动车ETF 26.33美元/份（11/23, 15:55 EST；较11/20, 16:00 EST +6.92%）。上一交易日最后一笔已核实行情。ETF表现作为板块参考。来源：Yahoo Finance。"
+    }
+  },
+  "premarketFocus": {
+    "keyRisk": {
+      "en": "Wednesday's PCE inflation report is the critical watchpoint, as it is the final major data release before the Fed's December meeting. A higher-than-expected print could reinforce the fully priced 25-basis-point rate hike, while a lower print might reduce hawkish expectations. Additionally, the Philadelphia Fed nonmanufacturing index and Redbook sales data due this morning could provide early signals on economic momentum.",
+      "zh": "周三的PCE通胀报告是关键观察点，因为它是美联储12月会议前最后一个主要数据发布。若数据高于预期，可能强化已完全定价的25个基点加息预期；若低于预期，可能降低鹰派预期。此外，今晨发布的费城联储非制造业指数和Redbook销售数据可能提供经济动能的早期信号。"
+    },
+    "futures": {
+      "en": "E-mini S&P 500 7,168.25 points（11/24, 08:54 EST; -1.23% versus 11/23, 16:00 EST）; E-mini Nasdaq-100 26,268.00 points（11/24, 08:54 EST; -2.05% versus 11/23, 16:00 EST）; E-mini Dow 49,393.00 points（11/24, 08:54 EST; -0.60% versus 11/23, 16:00 EST）. Source: Yahoo Finance delayed five-minute bars.",
+      "zh": "标普500 E-mini期货 7,168.25点（11/24, 08:54 EST；较11/23, 16:00 EST -1.23%）；纳指100 E-mini期货 26,268.00点（11/24, 08:54 EST；较11/23, 16:00 EST -2.05%）；道指E-mini期货 49,393.00点（11/24, 08:54 EST；较11/23, 16:00 EST -0.60%）。来源：Yahoo Finance延时五分钟行情。"
+    },
+    "treasury10Y": {
+      "en": "10-year Treasury yield 4.894%（11/24, 08:49 EST; -2.4 bp versus 11/23, 15:00 EST）. Source: Yahoo Finance delayed five-minute bars.",
+      "zh": "10年期美债收益率 4.894%（11/24, 08:49 EST；较11/23, 15:00 EST -2.4 bp）。来源：Yahoo Finance延时五分钟行情。"
+    },
+    "dxy": {
+      "en": "US Dollar Index 103.89 points（11/24, 08:55 EST; -0.44% versus 11/23, 16:00 EST）. Source: Yahoo Finance delayed five-minute bars.",
+      "zh": "美元指数DXY 103.89点（11/24, 08:55 EST；较11/23, 16:00 EST -0.44%）。来源：Yahoo Finance延时五分钟行情。"
+    },
+    "oil": {
+      "en": "WTI futures 80.75 USD/bbl（11/24, 08:55 EST; +0.70% versus 11/23, 16:00 EST）; Brent futures 87.46 USD/bbl（11/24, 08:55 EST; +0.96% versus 11/23, 16:00 EST）. Source: Yahoo Finance delayed five-minute bars.",
+      "zh": "WTI原油期货 80.75美元/桶（11/24, 08:55 EST；较11/23, 16:00 EST +0.70%）；布伦特原油期货 87.46美元/桶（11/24, 08:55 EST；较11/23, 16:00 EST +0.96%）。来源：Yahoo Finance延时五分钟行情。"
+    }
+  },
+  "judgment": {
+    "type": "risk-on",
+    "confidence": {
+      "en": "medium",
+      "zh": "中"
+    },
+    "note": {
+      "en": "The thesis is that the AI sector's recent rally is vulnerable to profit-taking and macro uncertainty, despite strong institutional support. This is supported by the 13.64% gain in the iShares Semiconductor ETF (SOXX) in the prior session, indicating strong momentum, and the 7.61% rise in the Global X AI ETF (AIQ), showing broad tech enthusiasm. However, the strongest conflicting signal is the 2.05% decline in E-mini Nasdaq-100 futures (NQ=F) in premarket trading, suggesting that the rally may be losing steam. If participation broadens after the 09:30 ET open while yields stabilize, the rebound has stronger support; otherwise, the pullback may extend.",
+      "zh": "论点认为，尽管有强大的机构支持，AI板块近期的反弹容易受到获利了结和宏观不确定性的影响。这得到了iShares半导体ETF（SOXX）前一交易日13.64%的涨幅以及Global X AI ETF（AIQ）7.61%的上涨的支持，表明强劲动能和广泛科技热情。然而，最强的冲突信号是盘前交易中E-mini纳斯达克100期货（NQ=F）下跌2.05%，表明反弹可能正在失去动力。如果美东时间09:30开盘后参与度扩大且收益率稳定，反弹将有更强支持；否则，回调可能扩大。"
+    }
+  },
+  "asOf": "2026-11-24T14:00:00.456Z",
+  "marketData": {
+    "asOf": "2026-11-24T14:00:00.456Z",
+    "provider": "Yahoo Finance",
+    "interval": "5m",
+    "quotes": [
+      {
+        "id": "ai",
+        "symbol": "AIQ",
+        "price": 54.86009979248047,
+        "barStart": "2026-11-23T20:55:00.000Z",
+        "observedAt": "2026-11-23T21:00:00.000Z",
+        "reference": {
+          "price": 50.97999954223633,
+          "observedAt": "2026-11-20T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/AIQ?interval=5m&period1=1795122000&period2=1795528800&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "brent",
+        "symbol": "BZ=F",
+        "price": 87.45999908447266,
+        "barStart": "2026-11-24T13:50:00.000Z",
+        "observedAt": "2026-11-24T13:55:00.000Z",
+        "reference": {
+          "price": 86.62999725341797,
+          "observedAt": "2026-11-23T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/BZ%3DF?interval=5m&period1=1795122000&period2=1795528800&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "dow",
+        "symbol": "^DJI",
+        "price": 49599.890625,
+        "barStart": "2026-11-23T20:55:00.000Z",
+        "observedAt": "2026-11-23T21:00:00.000Z",
+        "reference": {
+          "price": 48184.69140625,
+          "observedAt": "2026-11-20T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/%5EDJI?interval=5m&period1=1795122000&period2=1795528800&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "dxy",
+        "symbol": "DX-Y.NYB",
+        "price": 103.88600158691406,
+        "barStart": "2026-11-24T13:50:00.000Z",
+        "observedAt": "2026-11-24T13:55:00.000Z",
+        "reference": {
+          "price": 104.34400177001953,
+          "observedAt": "2026-11-23T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/DX-Y.NYB?interval=5m&period1=1795122000&period2=1795528800&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "energy",
+        "symbol": "XLE",
+        "price": 59.849998474121094,
+        "barStart": "2026-11-23T20:55:00.000Z",
+        "observedAt": "2026-11-23T21:00:00.000Z",
+        "reference": {
+          "price": 60.58000183105469,
+          "observedAt": "2026-11-20T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/XLE?interval=5m&period1=1795122000&period2=1795528800&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "es",
+        "symbol": "ES=F",
+        "price": 7168.25,
+        "barStart": "2026-11-24T13:49:57.000Z",
+        "observedAt": "2026-11-24T13:54:57.000Z",
+        "reference": {
+          "price": 7257.5,
+          "observedAt": "2026-11-23T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/ES%3DF?interval=5m&period1=1795122000&period2=1795528800&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "ev",
+        "symbol": "DRIV",
+        "price": 26.329599380493164,
+        "barStart": "2026-11-23T20:50:00.000Z",
+        "observedAt": "2026-11-23T20:55:00.000Z",
+        "reference": {
+          "price": 24.625,
+          "observedAt": "2026-11-20T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/DRIV?interval=5m&period1=1795122000&period2=1795528800&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "gold",
+        "symbol": "GC=F",
+        "price": 3618.199951171875,
+        "barStart": "2026-11-24T13:50:00.000Z",
+        "observedAt": "2026-11-24T13:55:00.000Z",
+        "reference": {
+          "price": 3635.5,
+          "observedAt": "2026-11-23T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/GC%3DF?interval=5m&period1=1795122000&period2=1795528800&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "nasdaq",
+        "symbol": "^IXIC",
+        "price": 24092.359375,
+        "barStart": "2026-11-23T20:55:00.000Z",
+        "observedAt": "2026-11-23T21:00:00.000Z",
+        "reference": {
+          "price": 22651.515625,
+          "observedAt": "2026-11-20T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/%5EIXIC?interval=5m&period1=1795122000&period2=1795528800&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "nq",
+        "symbol": "NQ=F",
+        "price": 26268,
+        "barStart": "2026-11-24T13:49:56.000Z",
+        "observedAt": "2026-11-24T13:54:56.000Z",
+        "reference": {
+          "price": 26816.5,
+          "observedAt": "2026-11-23T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/NQ%3DF?interval=5m&period1=1795122000&period2=1795528800&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "semi",
+        "symbol": "SOXX",
+        "price": 140.2050018310547,
+        "barStart": "2026-11-23T20:55:00.000Z",
+        "observedAt": "2026-11-23T21:00:00.000Z",
+        "reference": {
+          "price": 123.37999725341797,
+          "observedAt": "2026-11-20T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/SOXX?interval=5m&period1=1795122000&period2=1795528800&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "spx",
+        "symbol": "^GSPC",
+        "price": 7236.85009765625,
+        "barStart": "2026-11-23T20:55:00.000Z",
+        "observedAt": "2026-11-23T21:00:00.000Z",
+        "reference": {
+          "price": 6918.4501953125,
+          "observedAt": "2026-11-20T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?interval=5m&period1=1795122000&period2=1795528800&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "tech",
+        "symbol": "QQQ",
+        "price": 650.8699951171875,
+        "barStart": "2026-11-23T20:55:00.000Z",
+        "observedAt": "2026-11-23T21:00:00.000Z",
+        "reference": {
+          "price": 610.04248046875,
+          "observedAt": "2026-11-20T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/QQQ?interval=5m&period1=1795122000&period2=1795528800&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "tnx",
+        "symbol": "^TNX",
+        "price": 4.894000053405762,
+        "barStart": "2026-11-24T13:44:53.000Z",
+        "observedAt": "2026-11-24T13:49:53.000Z",
+        "reference": {
+          "price": 4.918000221252441,
+          "observedAt": "2026-11-23T20:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/%5ETNX?interval=5m&period1=1795122000&period2=1795528800&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "wti",
+        "symbol": "CL=F",
+        "price": 80.75,
+        "barStart": "2026-11-24T13:50:01.000Z",
+        "observedAt": "2026-11-24T13:55:01.000Z",
+        "reference": {
+          "price": 80.19000244140625,
+          "observedAt": "2026-11-23T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/CL%3DF?interval=5m&period1=1795122000&period2=1795528800&includePrePost=true&events=splits",
+        "delayed": true
+      },
+      {
+        "id": "ym",
+        "symbol": "YM=F",
+        "price": 49393,
+        "barStart": "2026-11-24T13:49:55.000Z",
+        "observedAt": "2026-11-24T13:54:55.000Z",
+        "reference": {
+          "price": 49693,
+          "observedAt": "2026-11-23T21:00:00.000Z"
+        },
+        "sourceURL": "https://query1.finance.yahoo.com/v8/finance/chart/YM%3DF?interval=5m&period1=1795122000&period2=1795528800&includePrePost=true&events=splits",
+        "delayed": true
+      }
+    ]
+  }
+}
