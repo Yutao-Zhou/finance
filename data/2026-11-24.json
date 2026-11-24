@@ -1,51 +1,93 @@
 {
   "date": "2026-11-24",
   "summary": {
-    "en": "Nasdaq futures declined as AI-linked shares retreated following Monday's Nvidia-driven rally, with investors awaiting Wednesday's PCE inflation data. The US dollar fell early Tuesday ahead of a busy schedule of economic releases, including the Philadelphia Fed nonmanufacturing index and Redbook sales. Money markets fully price a 25-basis-point Fed rate hike for the December meeting.",
-    "zh": "纳指期货下跌，AI相关股票在周一英伟达带动的反弹后回落，投资者等待周三的PCE通胀数据。周二早盘美元兑主要货币走低，此前有费城联储非制造业指数和Redbook销售等密集经济数据发布。货币市场完全定价美联储12月会议加息25个基点。"
+    "en": "At 08:54 ET, Nasdaq-100 futures fell 2.05%, S&P 500 futures 1.23% and Dow futures 0.60% from their respective Monday 16:00 ET readings. Monday's cash session had ended with the S&P 500 up 4.60% and the Nasdaq Composite up 6.36%. The 10-year yield and dollar were lower this morning. The Philadelphia Fed's regional nonmanufacturing index improved but stayed negative, and Analog Devices reported record fiscal fourth-quarter revenue. Tuesday's consumer confidence data and Wednesday's PCE inflation report are the next major tests.",
+    "zh": "美东时间08:54，纳指100、标普500及道指期货较各自周一16:00的参考值分别下跌2.05%、1.23%和0.60%。周一现货收盘时，标普500上涨4.60%，纳斯达克综合指数上涨6.36%。今早10年期美债收益率和美元走低。费城联储非制造业调查的地区活动指数回升但仍为负值，亚德诺公布创纪录的财年第四季度营收。接下来关注周二消费者信心和周三PCE通胀数据。"
   },
   "topNews": [
     {
       "title": {
-        "en": "Nasdaq futures drop as AI stocks cool after Nvidia-fueled rally",
-        "zh": "纳指期货下跌，AI股票在英伟达带动的反弹后降温"
+        "en": "Nasdaq-100 futures lead declines after Monday's Nvidia rally",
+        "zh": "英伟达带动周一大涨后，纳指100期货盘前领跌"
       },
       "impact": {
-        "en": "The pullback reflects profit-taking after Nvidia's 31.5% surge and the reinstatement of CEO Jensen Huang, which added nearly $1 trillion to its market value. Investors are reassessing AI sector valuations amid concerns over debt-fueled spending and regulatory scrutiny following the midterm elections.",
-        "zh": "回调反映了英伟达股价飙升31.5%及CEO黄仁勋复职后的获利了结，此举为其市值增加了近1万亿美元。投资者正在重新评估AI板块估值，此前因债务驱动支出及中期选举后的监管审查担忧而情绪谨慎。"
+        "en": "Reuters reported that Nvidia rose 31.5% in Monday's cash session after Jensen Huang returned as CEO, adding nearly $1 trillion in market value. The same report put Nvidia down 5.2% early Tuesday, with Micron, AMD and Marvell down between 3.9% and 6.4%. The separate 08:54 ET market snapshot put Nasdaq-100 futures down 2.05% against Monday's 16:00 ET reading for the same contract.",
+        "zh": "据路透社报道，黄仁勋重任首席执行官后，英伟达在周一现货交易中上涨31.5%，市值增加近1万亿美元。同一篇报道显示，周二早盘英伟达下跌5.2%，美光、AMD和Marvell下跌3.9%至6.4%。另一组美东时间08:54的行情显示，纳指100期货较该合约周一16:00的参考值下跌2.05%。"
       },
       "bullish": [
-        "Nvidia's market value increased by nearly $1 trillion following the CEO reinstatement, signaling strong institutional confidence in the company's leadership and long-term AI strategy. / 英伟达市值在CEO复职后增加近1万亿美元，表明机构投资者对公司领导层和长期AI战略的信心。"
+        "Monday's cash gains show the scale of the rebound before this morning's weakness. / 周一现货涨幅显示了今早回落之前的反弹力度。"
       ],
       "bearish": [
-        "Micron, AMD, and Marvell fell between 3.9% and 6.4% in premarket trading, indicating broad weakness in the semiconductor sector. / 美光、AMD和Marvell在盘前交易中下跌3.9%至6.4%，显示半导体板块普遍疲软。"
+        "Losses across several chipmakers in Reuters' early snapshot show the pullback extended beyond Nvidia. / 路透社记录的早盘行情显示多家芯片股走低，跌势已超出英伟达一家。"
       ],
       "macroRisk": {
-        "en": "Wednesday's PCE inflation report is the final major data release before the Fed's December meeting, posing a risk to rate expectations if inflation remains sticky.",
-        "zh": "周三的PCE通胀报告是美联储12月会议前最后一个主要数据发布，若通胀保持粘性，将对利率预期构成风险。"
+        "en": "Reuters' early account, citing CME FedWatch, pointed to a 25-basis-point December hike already priced and a small chance of a larger move. Wednesday's October PCE report is a key test of that pricing ahead of the December decision.",
+        "zh": "路透社早盘援引CME FedWatch称，市场已计入12月加息25个基点，并认为更大幅度加息的概率较低。周三公布的10月PCE数据是12月议息决定前检验这一市场预期的重要参考。"
       },
       "url": "https://www.fidelity.com/news/article/international/202611240552RTRSNEWSCOMBINED_KCN3WZ149-OUSBS_1"
     },
     {
       "title": {
-        "en": "US Dollar Falls Early Tuesday Before Philadelphia Fed Nonmanufacturing Index",
-        "zh": "周二早盘美元走低，费城联储非制造业指数发布前"
+        "en": "Dollar weakens broadly early Tuesday while yen lags",
+        "zh": "周二早盘美元普遍走弱，日元表现落后"
       },
       "impact": {
-        "en": "The dollar's decline against major currencies, except the yen, precedes a busy day of economic data including the Philadelphia Fed nonmanufacturing index and Redbook same-store sales. This movement may reflect positioning ahead of data that could influence Fed policy expectations.",
-        "zh": "美元兑主要货币（日元除外）走低，此前有费城联储非制造业指数和Redbook同店销售等密集经济数据发布。此举可能反映了在可能影响美联储政策预期的数据发布前的仓位调整。"
+        "en": "MT Newswires reported early Tuesday that EUR/USD rose to 1.0951 from 1.0902 and USD/JPY rose to 159.1521 from 158.9442, each against Monday's U.S. closing reference cited in the same report. Separately, the 08:55 ET dollar index was 103.89, down 0.44% from its Monday 16:00 ET reading.",
+        "zh": "MT Newswires报道称，周二早盘欧元兑美元从1.0902升至1.0951，美元兑日元从158.9442升至159.1521，均与同一报道所列周一美国市场收盘参考值相比。另一组行情显示，美东时间08:55美元指数为103.89，较周一16:00的参考值下跌0.44%。"
       },
       "bullish": [
-        "EUR/USD rose to 1.0951 from 1.0902 at the Monday US close, suggesting a shift in currency positioning ahead of US data releases. / 欧元兑美元从周一美股收盘时的1.0902升至1.0951，显示在美国数据发布前货币仓位出现变化。"
+        "A softer dollar and lower Treasury yields could ease some of the pressure on rate-sensitive shares. / 美元和美债收益率走低，可能缓解对利率敏感股票的部分压力。"
       ],
       "bearish": [
-        "USD/JPY rose to 159.1521 from 158.9442 at the Monday US close, indicating continued yen weakness despite broader dollar declines. / 美元兑日元从周一美股收盘时的158.9442升至159.1521，表明尽管美元整体下跌，日元仍持续疲软。"
+        "The dollar's gain versus the yen shows that the early weakening was uneven across currency pairs. / 美元兑日元反而走强，表明早盘美元走弱并未覆盖所有货币对。"
       ],
       "macroRisk": {
-        "en": "Philadelphia Fed nonmanufacturing index and Redbook sales data at 8:30 am and 8:55 am ET could surprise and alter the dollar's trajectory before the 10:00 am ET consumer confidence report.",
-        "zh": "美东时间上午8:30和8:55发布的费城联储非制造业指数和Redbook销售数据可能出人意料，并在上午10:00的消费者信心报告前改变美元走势。"
+        "en": "Consumer confidence and Richmond Fed regional readings are scheduled for 10:00 ET, after the cash open. Their release may change the dollar and rates picture later in the session.",
+        "zh": "消费者信心和里士满联储地区数据定于现货开盘后的美东时间10:00公布，届时美元和利率走势可能变化。"
       },
       "url": "https://www.fidelity.com/news/article/us-economy/202611240729MIDNIGHTUSEQUITY_A3759813"
+    },
+    {
+      "title": {
+        "en": "Philadelphia Fed regional activity index rises to -1.5 in November",
+        "zh": "费城联储11月非制造业地区活动指数回升至负1.5点"
+      },
+      "impact": {
+        "en": "The Philadelphia Fed's 08:30 ET November survey showed the regional nonmanufacturing activity index improving to -1.5 from -23.6 in October. Activity at respondents' own firms rose to +14.3 from +12.9, while new orders slipped to -0.6 from +2.8. The share reporting weaker regional activity still exceeded the share reporting improvement, by a much smaller margin than in October.",
+        "zh": "费城联储在美东时间08:30公布的11月调查显示，非制造业地区活动指数从10月的负23.6点升至负1.5点。受访企业自身活动指数由正12.9点升至正14.3点，新订单指数则由正2.8点降至负0.6点。报告地区活动走弱的企业占比仍高于报告改善的占比，但两者的差距较10月明显缩小。"
+      },
+      "bullish": [
+        "The regional index moved closer to zero and the firm-level reading improved. / 地区活动指数接近零，企业自身活动指数进一步上升。"
+      ],
+      "bearish": [
+        "The new-orders index moved below zero, while the prices-paid index rose to +45.8 from +42.1. / 新订单指数跌至零以下，投入价格指数由正42.1点升至正45.8点。"
+      ],
+      "macroRisk": {
+        "en": "This is a regional diffusion survey. The national consumer confidence release and Wednesday's GDP and inflation data offer broader context.",
+        "zh": "这是一项地区性扩散指数调查。全国消费者信心以及周三的GDP和通胀数据将提供更广泛的参考。"
+      },
+      "url": "https://www.philadelphiafed.org/surveys-and-data/regional-economic-analysis/nbos-2026-11"
+    },
+    {
+      "title": {
+        "en": "Analog Devices posts record $4.37 billion fiscal fourth-quarter revenue",
+        "zh": "亚德诺财年第四季度营收创43.7亿美元纪录"
+      },
+      "impact": {
+        "en": "Analog Devices reported at 07:01 ET that fiscal fourth-quarter revenue rose 42% from a year earlier to $4.37 billion, led by data center and industrial demand. Adjusted diluted earnings per share rose 80% to $4.06. The company forecast fiscal first-quarter revenue of $4.4 billion, plus or minus $150 million, and adjusted EPS of $3.82, plus or minus $0.20.",
+        "zh": "亚德诺于美东时间07:01发布财报，财年第四季度营收同比增长42%至43.7亿美元，数据中心和工业业务领涨。调整后摊薄每股收益同比增长80%至4.06美元。公司预计下一财年第一季度营收44亿美元，上下浮动1.5亿美元，调整后每股收益3.82美元，上下浮动0.20美元。"
+      },
+      "bullish": [
+        "Data center and industrial demand led growth across the quarter. / 数据中心和工业业务是本季度增长的主要来源。"
+      ],
+      "bearish": [
+        "At the midpoint, next quarter's adjusted EPS guidance is below the reported quarter's $4.06. / 下一季度调整后每股收益指引中值低于本季度已公布的4.06美元。"
+      ],
+      "macroRisk": {
+        "en": "The company is scheduled to discuss the guidance at 10:00 ET, after the cash open. The call may clarify how industrial and AI infrastructure demand contribute to its outlook.",
+        "zh": "公司定于现货开盘后的美东时间10:00召开财报电话会，届时可进一步了解工业和人工智能基础设施需求对公司展望的影响。"
+      },
+      "url": "https://www.prnewswire.com/news-releases/analog-devices-reports-record-fourth-quarter-and-fiscal-2026-financial-results-302948778.html"
     }
   ],
   "sectorRadar": {
@@ -62,20 +104,20 @@
       "zh": "WTI原油期货 80.75美元/桶（11/24, 08:55 EST；较11/23, 16:00 EST +0.70%）；布伦特原油期货 87.46美元/桶（11/24, 08:55 EST；较11/23, 16:00 EST +0.96%）。来源：Yahoo Finance延时五分钟行情。"
     },
     "ai": {
-      "en": "Global X Artificial Intelligence & Technology ETF 54.86 USD/share（11/23, 16:00 EST; +7.61% versus 11/20, 16:00 EST）. Previous-session close. ETF performance is a sector reference. Source: Yahoo Finance.",
-      "zh": "AIQ人工智能及科技ETF 54.86美元/份（11/23, 16:00 EST；较11/20, 16:00 EST +7.61%）。上一交易日收盘数据。ETF表现作为板块参考。来源：Yahoo Finance。"
+      "en": "Reuters reported that Nvidia and several data-center firms fell early Tuesday after Monday's gains. Global X Artificial Intelligence & Technology ETF 54.86 USD/share（11/23, 16:00 EST; +7.61% versus 11/20, 16:00 EST）. Previous-session close. ETF performance is a sector reference. Source: Yahoo Finance.",
+      "zh": "路透社报道，英伟达及多家数据中心企业在周一上涨后，于周二早盘回落。AIQ人工智能及科技ETF 54.86美元/份（11/23, 16:00 EST；较11/20, 16:00 EST +7.61%）。上一交易日收盘数据。ETF表现作为板块参考。来源：Yahoo Finance。"
     },
     "semiconductor": {
-      "en": "iShares Semiconductor ETF 140.21 USD/share（11/23, 16:00 EST; +13.64% versus 11/20, 16:00 EST）. Previous-session close. ETF performance is a sector reference. Source: Yahoo Finance.",
-      "zh": "SOXX半导体ETF 140.21美元/份（11/23, 16:00 EST；较11/20, 16:00 EST +13.64%）。上一交易日收盘数据。ETF表现作为板块参考。来源：Yahoo Finance。"
+      "en": "Analog Devices' fiscal Q4 report adds a demand read from data centers and industrial customers. Several other chipmakers were lower in Reuters' early snapshot. iShares Semiconductor ETF 140.21 USD/share（11/23, 16:00 EST; +13.64% versus 11/20, 16:00 EST）. Previous-session close. ETF performance is a sector reference. Source: Yahoo Finance.",
+      "zh": "亚德诺财报提供了数据中心和工业客户的需求线索。路透社的早盘行情同时显示，多家其他芯片股走低。SOXX半导体ETF 140.21美元/份（11/23, 16:00 EST；较11/20, 16:00 EST +13.64%）。上一交易日收盘数据。ETF表现作为板块参考。来源：Yahoo Finance。"
     },
     "bigTech": {
-      "en": "Nasdaq-100 ETF (QQQ) 650.87 USD/share（11/23, 16:00 EST; +6.69% versus 11/20, 16:00 EST）. Previous-session close. ETF performance is a sector reference. Source: Yahoo Finance.",
-      "zh": "QQQ纳指100ETF 650.87美元/份（11/23, 16:00 EST；较11/20, 16:00 EST +6.69%）。上一交易日收盘数据。ETF表现作为板块参考。来源：Yahoo Finance。"
+      "en": "Nasdaq-100 futures were the weakest of the three major index contracts before the cash open. Nasdaq-100 ETF (QQQ) 650.87 USD/share（11/23, 16:00 EST; +6.69% versus 11/20, 16:00 EST）. Previous-session close. ETF performance is a sector reference. Source: Yahoo Finance.",
+      "zh": "现货开盘前，纳指100期货在三大股指期货中跌幅最大。QQQ纳指100ETF 650.87美元/份（11/23, 16:00 EST；较11/20, 16:00 EST +6.69%）。上一交易日收盘数据。ETF表现作为板块参考。来源：Yahoo Finance。"
     },
     "energy": {
-      "en": "Energy Select Sector SPDR 59.85 USD/share（11/23, 16:00 EST; -1.21% versus 11/20, 16:00 EST）. Previous-session close. ETF performance is a sector reference. Source: Yahoo Finance.",
-      "zh": "XLE能源ETF 59.85美元/份（11/23, 16:00 EST；较11/20, 16:00 EST -1.21%）。上一交易日收盘数据。ETF表现作为板块参考。来源：Yahoo Finance。"
+      "en": "Crude futures rose in the morning snapshot. The energy ETF quote below refers to Monday's cash session. Energy Select Sector SPDR 59.85 USD/share（11/23, 16:00 EST; -1.21% versus 11/20, 16:00 EST）. Previous-session close. ETF performance is a sector reference. Source: Yahoo Finance.",
+      "zh": "今早盘前原油期货上涨。下方能源ETF报价来自周一现货交易。XLE能源ETF 59.85美元/份（11/23, 16:00 EST；较11/20, 16:00 EST -1.21%）。上一交易日收盘数据。ETF表现作为板块参考。来源：Yahoo Finance。"
     },
     "ev": {
       "en": "Global X Autonomous & Electric Vehicles ETF 26.33 USD/share（11/23, 15:55 EST; +6.92% versus 11/20, 16:00 EST）. Latest verified bar of the prior session. ETF performance is a sector reference. Source: Yahoo Finance.",
@@ -84,8 +126,8 @@
   },
   "premarketFocus": {
     "keyRisk": {
-      "en": "Wednesday's PCE inflation report is the critical watchpoint, as it is the final major data release before the Fed's December meeting. A higher-than-expected print could reinforce the fully priced 25-basis-point rate hike, while a lower print might reduce hawkish expectations. Additionally, the Philadelphia Fed nonmanufacturing index and Redbook sales data due this morning could provide early signals on economic momentum.",
-      "zh": "周三的PCE通胀报告是关键观察点，因为它是美联储12月会议前最后一个主要数据发布。若数据高于预期，可能强化已完全定价的25个基点加息预期；若低于预期，可能降低鹰派预期。此外，今晨发布的费城联储非制造业指数和Redbook销售数据可能提供经济动能的早期信号。"
+      "en": "At the 09:30 ET cash open, watch whether weakness extends beyond semiconductor and other large technology shares, and whether the 10-year yield stays below its Monday reference. The 10:00 ET consumer confidence release and Analog Devices call are later tests. Wednesday's October PCE inflation and second estimate of third-quarter GDP are scheduled for 08:30 ET.",
+      "zh": "美东时间09:30现货开盘后，关注跌势是否由半导体及其他大型科技股向外扩散，以及10年期美债收益率能否维持在周一参考值以下。美东时间10:00的消费者信心数据和亚德诺财报电话会是开盘后的观察点。10月PCE通胀数据和三季度GDP第二次估算定于周三美东时间08:30公布。"
     },
     "futures": {
       "en": "E-mini S&P 500 7,168.25 points（11/24, 08:54 EST; -1.23% versus 11/23, 16:00 EST）; E-mini Nasdaq-100 26,268.00 points（11/24, 08:54 EST; -2.05% versus 11/23, 16:00 EST）; E-mini Dow 49,393.00 points（11/24, 08:54 EST; -0.60% versus 11/23, 16:00 EST）. Source: Yahoo Finance delayed five-minute bars.",
@@ -105,14 +147,14 @@
     }
   },
   "judgment": {
-    "type": "risk-on",
+    "type": "mixed",
     "confidence": {
       "en": "medium",
       "zh": "中"
     },
     "note": {
-      "en": "The thesis is that the AI sector's recent rally is vulnerable to profit-taking and macro uncertainty, despite strong institutional support. This is supported by the 13.64% gain in the iShares Semiconductor ETF (SOXX) in the prior session, indicating strong momentum, and the 7.61% rise in the Global X AI ETF (AIQ), showing broad tech enthusiasm. However, the strongest conflicting signal is the 2.05% decline in E-mini Nasdaq-100 futures (NQ=F) in premarket trading, suggesting that the rally may be losing steam. If participation broadens after the 09:30 ET open while yields stabilize, the rebound has stronger support; otherwise, the pullback may extend.",
-      "zh": "论点认为，尽管有强大的机构支持，AI板块近期的反弹容易受到获利了结和宏观不确定性的影响。这得到了iShares半导体ETF（SOXX）前一交易日13.64%的涨幅以及Global X AI ETF（AIQ）7.61%的上涨的支持，表明强劲动能和广泛科技热情。然而，最强的冲突信号是盘前交易中E-mini纳斯达克100期货（NQ=F）下跌2.05%，表明反弹可能正在失去动力。如果美东时间09:30开盘后参与度扩大且收益率稳定，反弹将有更强支持；否则，回调可能扩大。"
+      "en": "The opening bias is defensive, especially in technology. Nasdaq-100 futures fell 2.05% and S&P 500 futures fell 1.23% against their own Monday references, after a separate strong Monday cash session. The strongest counterweight is lower Treasury yields and a softer dollar, which can help ease valuation pressure. The 10-year yield fell 2.4 basis points to 4.894%, and the dollar index lost 0.44%, each versus its own Monday reference. If declines spread beyond chipmakers after the 09:30 ET cash open, the cautious view strengthens. Improving breadth and steady or lower yields would weaken it.",
+      "zh": "开盘倾向偏谨慎，科技股尤其承压。纳指100期货和标普500期货分别较各自周一参考值下跌2.05%和1.23%，周一现货市场此前收涨。主要缓冲来自美债收益率和美元走低，有助于缓解部分估值压力。10年期美债收益率较周一参考值下降2.4个基点至4.894%，美元指数较自身周一参考值下跌0.44%。若美东时间09:30现货开盘后跌势扩散到芯片股之外，谨慎判断将得到加强；若市场广度改善且收益率持稳或继续回落，谨慎判断将减弱。"
     }
   },
   "asOf": "2026-11-24T14:00:00.456Z",
