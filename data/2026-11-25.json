@@ -1,30 +1,28 @@
 {
   "date": "2026-11-25",
   "summary": {
-    "en": "US equity futures point lower ahead of the Thanksgiving holiday, with traders assessing fresh tariff reports and awaiting key inflation data. The BEA released October PCE data showing 3.8% annual inflation and a 4.3% annualized GDP growth rate for Q3. Initial jobless claims fell to 189,000, indicating a stable labor market.",
-    "zh": "美国股指期货在感恩节假期前走低，交易者评估新的关税报告并等待关键通胀数据。美国商务部经济分析局（BEA）发布的10月数据显示，PCE物价指数年率为3.8%，第三季度GDP年化增长率为4.3%。初请失业金人数降至18.9万，显示劳动力市场保持稳定。"
+    "en": "US equity futures were lower ahead of Thanksgiving as investors assessed reports of possible new US tariffs. October PCE inflation rose 3.8% year over year, third-quarter real GDP growth was revised to 4.3% annualized, and initial jobless claims fell to 189,000.",
+    "zh": "感恩节前美股期货走低，市场关注美国可能加征关税的报道。10月PCE物价指数同比上涨3.8%，三季度实际GDP增速上修至年化4.3%，初请失业金人数降至18.9万。"
   },
   "topNews": [
     {
       "title": {
-        "en": "US Equity Futures Fall as Traders Await Inflation Data and Assess Tariff Reports",
-        "zh": "美国股指期货下跌，交易者等待通胀数据并评估关税报告"
+        "en": "US equity futures fall ahead of Thanksgiving as tariff reports draw attention",
+        "zh": "感恩节前美股期货下跌，关税报道引发关注"
       },
       "impact": {
-        "en": "Market sentiment is cautious as investors weigh the impact of potential new tariffs on major trading partners and await the October PCE report, the Fed's preferred inflation gauge. The Nasdaq 100 futures are down 2.5%, reflecting heightened sensitivity to technology sector risks.",
-        "zh": "市场情绪谨慎，投资者权衡可能对主要贸易伙伴实施的新关税的影响，并等待10月PCE报告，这是美联储首选的通胀指标。纳斯达克100期货下跌2.5%，反映出对科技行业风险的高度敏感。"
+        "en": "MT Newswires reported at 07:41 ET that traders were assessing reports of possible US tariffs on major trading partners. The later frozen quote shows Nasdaq-100 futures down 3.13% against the prior 16:00 ET futures reference. The 08:30 ET PCE results are covered separately below.",
+        "zh": "MT Newswires在美东07:41报道，交易者正评估美国可能对主要贸易伙伴加征关税的消息。较晚的盘前快照显示，纳指100期货较前一日美东16:00的同合约参考价下跌3.13%。美东08:30公布的PCE数据见下文。"
       },
       "bullish": [
-        "Treasury yields are down early Wednesday, with the 10-year rate off 5 basis points to 4.85%, suggesting some relief in bond markets.",
-        "初请失业金人数下降至18.9万，表明劳动力市场依然稳健，为经济基本面提供支撑。"
+        "The 10-year Treasury yield fell 6.4 bp to 4.840% versus the prior 15:00 ET reference. / 10年期美债收益率较前一日美东15:00的参考值下降6.4个基点至4.840%。"
       ],
       "bearish": [
-        "Reports indicate the US is preparing to raise tariffs on goods from China, the EU, and other economies, which could increase costs and disrupt supply chains.",
-        "科技股在盘前交易中普遍下跌，英伟达（NVDA）下跌4.4%，AMD下跌5.9%，显示市场对AI板块的担忧加剧。"
+        "The tariff reports add uncertainty for prices and supply chains if the proposals are implemented. / 若相关关税提议落地，价格和供应链面临的不确定性将增加。"
       ],
       "macroRisk": {
-        "en": "The upcoming Fed Beige Book release at 2 pm ET may provide additional insights into regional economic conditions and inflation expectations, potentially influencing market sentiment.",
-        "zh": "美国东部时间下午2点发布的美联储褐皮书可能提供有关地区经济状况和通胀预期的额外见解，可能影响市场情绪。"
+        "en": "Watch whether the early losses broaden after the 09:30 ET cash open. The Fed’s Beige Book is scheduled for 14:00 ET.",
+        "zh": "观察美东09:30现货开盘后跌势是否扩散。美联储褐皮书定于美东14:00发布。"
       },
       "url": "https://www.fidelity.com/news/article/us-markets/202611250741MIDNIGHTUSEQUITY_A3760574"
     },
@@ -34,20 +32,18 @@
         "zh": "BEA报告10月PCE物价指数同比上涨3.8%"
       },
       "impact": {
-        "en": "The October PCE price index increased 0.3% sequentially and 3.8% annually, in line with Bloomberg-compiled consensus. Excluding food and energy, the PCE price index rose 3.3% year-over-year, indicating persistent core inflation.",
-        "zh": "10月PCE物价指数环比上涨0.3%，同比上涨3.8%，符合彭博汇编的市场共识。剔除食品和能源后，PCE物价指数同比上涨3.3%，表明核心通胀依然顽固。"
+        "en": "The October PCE price index rose 0.3% month over month and 3.8% year over year, matching the Bloomberg consensus cited in the earlier market report. Core PCE rose 0.3% month over month and 3.3% year over year.",
+        "zh": "10月PCE物价指数环比上涨0.3%、同比上涨3.8%，与早间市场报道引用的彭博调查预期一致。核心PCE物价指数环比上涨0.3%、同比上涨3.3%。"
       },
       "bullish": [
-        "Personal consumption expenditures (PCE) increased 0.3% in October, showing continued consumer spending resilience.",
-        "个人消费支出（PCE）在10月增长0.3%，显示消费者支出保持韧性。"
+        "Nominal personal income rose 0.7% month over month in October. / 10月名义个人收入环比增长0.7%。"
       ],
       "bearish": [
-        "Core PCE inflation remains elevated at 3.3% year-over-year, which may limit the Fed's ability to cut rates in the near term.",
-        "核心PCE通胀同比仍高达3.3%，这可能限制美联储近期降息的能力。"
+        "Nominal PCE rose 0.3% month over month, while real PCE declined by less than 0.1%. / 名义个人消费支出环比增长0.3%，实际消费支出环比下降不到0.1%。"
       ],
       "macroRisk": {
-        "en": "If inflation remains sticky, the Fed may maintain a hawkish stance, potentially keeping interest rates higher for longer and impacting equity valuations.",
-        "zh": "如果通胀保持粘性，美联储可能维持鹰派立场，可能使利率在更长时间内保持高位，从而影响股票估值。"
+        "en": "Persistent core inflation could keep the Fed cautious about easing.",
+        "zh": "若核心通胀持续偏高，美联储对放松政策可能继续保持谨慎。"
       },
       "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026"
     },
@@ -57,20 +53,18 @@
         "zh": "BEA将第三季度GDP增长率上调至4.3%年化"
       },
       "impact": {
-        "en": "Real GDP increased at an annual rate of 4.3% in Q3 2026, revised up 0.9 percentage points from the advance estimate. The acceleration was driven by investment and consumer spending, offset by a decrease in exports.",
-        "zh": "2026年第三季度实际GDP以4.3%的年化速度增长，较初值上调0.9个百分点。增长加速主要由投资和消费支出驱动，出口下降部分抵消了这一增长。"
+        "en": "Real GDP rose at a 4.3% annualized rate in Q3, 0.9 percentage point above the advance estimate. Investment and consumer spending drove the revision. Faster investment growth and a turn higher in government spending drove most of the acceleration from Q2.",
+        "zh": "三季度实际GDP年化增长4.3%，较初值上调0.9个百分点。投资和消费推动了此次上修。与二季度相比，经济增长加快主要来自投资提速和政府支出转增。"
       },
       "bullish": [
-        "Real final sales to private domestic purchasers increased 5.8% in Q3, indicating strong domestic demand.",
-        "第三季度对国内私人购买者的实际最终销售增长5.8%，表明国内需求强劲。"
+        "Real final sales to private domestic purchasers rose at a 5.8% annualized rate in Q3. / 三季度对国内私人购买者的实际最终销售年化增长5.8%。"
       ],
       "bearish": [
-        "The decrease in exports and increase in imports suggest a widening trade deficit, which could pressure the dollar and inflation.",
-        "出口下降和进口增加表明贸易逆差扩大，这可能对美元和通胀造成压力。"
+        "Exports fell and imports rose in Q3, subtracting from GDP growth. / 三季度出口下降、进口增加，拖累GDP增长。"
       ],
       "macroRisk": {
-        "en": "Strong GDP growth combined with sticky inflation may lead to a 'higher for longer' interest rate environment, posing risks to growth-sensitive sectors.",
-        "zh": "强劲GDP增长与粘性通胀相结合，可能导致利率“更高更久”的环境，对增长敏感行业构成风险。"
+        "en": "Steady demand alongside elevated inflation could keep policy restrictive.",
+        "zh": "需求稳健而通胀仍偏高，可能使货币政策继续偏紧。"
       },
       "url": "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026"
     },
@@ -80,20 +74,16 @@
         "zh": "截至11月21日当周初请失业金人数降至18.9万"
       },
       "impact": {
-        "en": "The advance figure for seasonally adjusted initial claims was 189,000, a decrease of 13,000 from the previous week. The 4-week moving average was 196,000, indicating a stable labor market.",
-        "zh": "经季节调整的初请失业金人数初值为18.9万，较前一周减少1.3万。四周移动平均值为19.6万，表明劳动力市场保持稳定。"
+        "en": "Seasonally adjusted initial claims fell by 13,000 to 189,000 from a revised 202,000 the prior week. The four-week average fell by 1,500 to 196,000.",
+        "zh": "经季节调整的初请失业金人数较前一周修正后的20.2万减少1.3万，降至18.9万。四周均值下降1,500人至19.6万。"
       },
       "bullish": [
-        "The decline in initial claims suggests continued strength in the labor market, supporting consumer confidence and spending.",
-        "初请失业金人数下降表明劳动力市场持续强劲，支持消费者信心和支出。"
+        "The lower four-week average supports the near-term picture of contained layoffs. / 四周均值下降，显示近期裁员压力尚有限。"
       ],
-      "bearish": [
-        "A tight labor market may contribute to wage inflation, complicating the Fed's efforts to control overall inflation.",
-        "紧张的劳动力市场可能导致工资通胀，使美联储控制整体通胀的努力更加复杂。"
-      ],
+      "bearish": [],
       "macroRisk": {
-        "en": "Persistent labor market strength may delay Fed rate cuts, keeping borrowing costs elevated and potentially slowing economic growth.",
-        "zh": "劳动力市场持续强劲可能推迟美联储降息，使借贷成本保持高位，可能减缓经济增长。"
+        "en": "Holiday-week figures may be volatile. Watch whether the four-week trend persists.",
+        "zh": "假期前后单周数据可能波动，后续可观察四周均值的下降趋势能否持续。"
       },
       "url": "https://www.dol.gov/ui/data.pdf"
     }
@@ -134,8 +124,8 @@
   },
   "premarketFocus": {
     "keyRisk": {
-      "en": "The Fed's Beige Book release at 2 pm ET and the durable goods orders report at 8:30 am ET are key watchpoints. Any signs of accelerating inflation or weakening demand could shift market expectations for Fed policy.",
-      "zh": "美国东部时间下午2点的美联储褐皮书和上午8:30的耐用品订单报告是关键观察点。任何通胀加速或需求减弱的迹象都可能改变市场对美联储政策的预期。"
+      "en": "After the 09:30 ET cash open, watch market breadth for signs that tech-led weakness is spreading. The next scheduled data points include new-home sales at 10:00 ET and the Fed’s Beige Book at 14:00 ET.",
+      "zh": "美东09:30现货开盘后，可通过涨跌家数观察科技板块领跌是否扩散。后续关注美东10:00的新屋销售和14:00的美联储褐皮书。"
     },
     "futures": {
       "en": "E-mini S&P 500 7,071.50 points（11/25, 08:54 EST; -2.06% versus 11/24, 16:00 EST）; E-mini Nasdaq-100 25,463.00 points（11/25, 08:54 EST; -3.13% versus 11/24, 16:00 EST）; E-mini Dow 49,387.00 points（11/25, 08:55 EST; -1.38% versus 11/24, 16:00 EST）. Source: Yahoo Finance delayed five-minute bars.",
@@ -161,8 +151,8 @@
       "zh": "中"
     },
     "note": {
-      "en": "The market is navigating a complex backdrop of strong GDP growth, sticky inflation, and potential tariff disruptions. The 10-year Treasury yield at 4.85% and the 2.5% drop in Nasdaq 100 futures suggest caution, while the decline in jobless claims to 189,000 indicates labor market resilience. If participation broadens after the 09:30 ET open while yields stabilize, the rebound has stronger support. Conversely, if tech stocks continue to lead losses and yields rise, the risk-off sentiment may persist.",
-      "zh": "市场正在应对强劲GDP增长、粘性通胀和潜在关税干扰的复杂背景。10年期美债收益率处于4.85%，纳斯达克100期货下跌2.5%，显示市场谨慎，而初请失业金人数降至18.9万表明劳动力市场具有韧性。如果在美东时间09:30开盘后参与度扩大且收益率稳定，反弹将更有支撑。反之，如果科技股继续领跌且收益率上升，避险情绪可能持续。"
+      "en": "The premarket setup leans defensive. Nasdaq-100 futures fell 3.13% and S&P 500 futures fell 2.06% versus their prior-session reference, while the latest inflation and GDP figures leave the rate path uncertain. The strongest offsetting signal is the 10-year Treasury yield at 4.840%, down 6.4 basis points versus its prior reference, which offers some relief to rate-sensitive shares. If market breadth improves after the 09:30 ET cash open while yields stay lower, an early stabilization would have broader support. If weakness spreads beyond tech, the defensive signal strengthens.",
+      "zh": "盘前整体偏防守。纳指100期货和标普500期货较前一交易日参考值分别下跌3.13%和2.06%，最新通胀和GDP数据也让利率路径仍不明朗。最明显的反向信号是10年期美债收益率报4.840%，较前一参考值下降6.4个基点，对利率敏感板块有所支撑。若美东09:30现货开盘后上涨家数增加，且收益率维持较低水平，企稳将获得更广泛的支持。若跌势扩散至科技板块之外，盘前偏防守的信号会增强。"
     }
   },
   "asOf": "2026-11-25T14:00:00.481Z",
