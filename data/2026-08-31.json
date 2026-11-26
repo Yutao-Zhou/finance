@@ -14,7 +14,7 @@
         "en": "Stable 10Y yields support risk-on positioning. Watch for any breakout above 4.5% which could pressure growth stocks.",
         "zh": "稳定的 10 年期收益率支持风险偏好配置。警惕突破 4.5% 可能对成长股构成压力。"
       },
-      "bullish": ["Financials", "REITs"],
+      "bullish": ["Financials / 金融股", "REITs / 房地产投资信托基金"],
       "bearish": [],
       "macroRisk": {
         "en": "Low - Yield stability supports broader equity market function.",
@@ -30,8 +30,8 @@
         "en": "WTI trading above $60 supports energy sector earnings while raising inflation concerns for consumer staples.",
         "zh": "WTI 高于$60 支持能源板块收益，同时引发对必需消费品通胀的担忧。"
       },
-      "bullish": ["Energy", "XLE"],
-      "bearish": ["Consumer Staples", "Airlines"],
+      "bullish": ["Energy / 能源板块", "XLE"],
+      "bearish": ["Consumer Staples / 必需消费品板块", "Airlines / 航空公司"],
       "macroRisk": {
         "en": "Moderate - Higher oil prices increase inflation expectations, potentially pressuring Fed policy.",
         "zh": "中等风险 - 油价上涨推升通胀预期，可能给联储政策带来压力。"
@@ -62,8 +62,8 @@
         "en": "Strong dollar benefits multinationals with foreign revenue but pressures emerging market assets and commodities.",
         "zh": "强势美元有利于海外收入跨国公司，但给新兴市场和大宗商品带来压力。"
       },
-      "bullish": ["Multinational Tech", "Banks"],
-      "bearish": ["Emerging Markets", "Commodities"],
+      "bullish": ["Multinational Tech / 跨国科技公司", "Banks / 银行板块"],
+      "bearish": ["Emerging Markets / 新兴市场", "Commodities / 大宗商品"],
       "macroRisk": {
         "en": "Moderate - Dollar strength reflects risk sentiment but may complicate Fed's rate path.",
         "zh": "中等风险 - 美元强度反映风险情绪，但可能使联储利率路径复杂化。"

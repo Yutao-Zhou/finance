@@ -122,8 +122,8 @@
   },
   "premarketFocus": {
     "futures": {
-      "en": "S&P 500 futures down -1.2%, Nasdaq -1.4%, Dow -0.9% ahead of U.S. open on Middle East escalation",
-      "zh": "美股盘前标普 500 期货下跌-1.2%，纳斯达克-1.4%，道指-0.9%，因中东局势升级"
+      "en": "S&P 500 futures down 1.2%, Nasdaq -1.4%, Dow -0.9% ahead of U.S. open on Middle East escalation",
+      "zh": "美股盘前标普 500 期货下跌1.2%，纳斯达克-1.4%，道指-0.9%，因中东局势升级"
     },
     "treasury10Y": {
       "en": "U.S. Treasury 10-year yield climbs to ~4.76%, breaking above key technical level",

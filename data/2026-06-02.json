@@ -15,8 +15,8 @@
         "zh": "AI 芯片板块利好；英伟达 20 亿美元投资及黄仁勋背书提振 Marvell 及半导体同行，显示 AI 需求强劲和供应链信心。"
       },
       "bullish": [
-        "AI semiconductor",
-        "big tech",
+        "AI semiconductor / AI 半导体",
+        "big tech / 大型科技公司",
         "Marvell (MRVL)"
       ],
       "bearish": [],
@@ -35,11 +35,11 @@
         "zh": "避险情绪因美伊协议不确定性主导；交易员等待可能降低油价和地缘风险溢出的结果。和平预期带动美债收益率下行。"
       },
       "bullish": [
-        "precious metals (uncertainty support)",
-        "US Treasuries"
+        "precious metals (uncertainty support) / 贵金属（不确定性支撑）",
+        "US Treasuries / 美国国债"
       ],
       "bearish": [
-        "equity risk premium"
+        "equity risk premium / 股权风险溢价"
       ],
       "macroRisk": {
         "en": "Geopolitical uncertainty around Middle East peace talks; watch oil supply disruption risks and potential escalation if negotiations stall.",
@@ -56,9 +56,9 @@
         "zh": "AI 资本开支加速；HBM4 内存扩产支持数据中心建设。利好半导体设备和材料、台积电及内存供应商。"
       },
       "bullish": [
-        "semiconductor",
-        "big tech",
-        "memory stocks"
+        "semiconductor / 半导体",
+        "big tech / 大型科技公司",
+        "memory stocks / 内存股"
       ],
       "bearish": [],
       "macroRisk": {
@@ -76,13 +76,13 @@
         "zh": "WTI 和布伦特油价趋稳，特朗普持续谈判言论带来小幅回落。和平情景降低尾部风险溢价但协议不完整仍存不确定性。商品市场关注霍尔木兹海峡动态。"
       },
       "bullish": [
-        "precious metals",
-        "energy transition plays"
+        "precious metals / 贵金属",
+        "energy transition plays / 能源转型标的"
       ],
       "bearish": [
-        "oil & gas",
-        "airlines",
-        "shipping"
+        "oil & gas / 石油与天然气",
+        "airlines / 航空业",
+        "shipping / 航运"
       ],
       "macroRisk": {
         "en": "Incomplete US-Iran peace deal leaves supply risk premium priced in; monitor negotiation progress for direction.",
@@ -99,11 +99,11 @@
         "zh": "DXY 在 99.20 附近盘整，交易员平衡就业数据和 Fed 利率路径。美元走强减弱对美国出口商利好；新兴市场关注风险溢价。金银在美元稳定下小幅走弱。"
       },
       "bullish": [
-        "international travelers",
-        "non-USD assets"
+        "international travelers / 国际旅客",
+        "non-USD assets / 非美元资产"
       ],
       "bearish": [
-        "USD-denominated debt"
+        "USD-denominated debt / 以美元计价的债务"
       ],
       "macroRisk": {
         "en": "Dollar volatility tied to Fed policy expectations and Middle East geopolitical risk.",
@@ -120,13 +120,13 @@
         "zh": "10Y 收益率回落因和平希望推动避险。低利率利好成长股但压缩显示宏观谨慎。关注收益率曲线动态和组合期限风险。"
       },
       "bullish": [
-        "growth stocks",
-        "REITs",
-        "duration hedges"
+        "growth stocks / 成长股",
+        "REITs / 房地产投资信托基金",
+        "duration hedges / 久期对冲工具"
       ],
       "bearish": [
-        "banks",
-        "insurers"
+        "banks / 银行股",
+        "insurers / 保险公司"
       ],
       "macroRisk": {
         "en": "Yield compression may signal overreaction to geopolitical news; monitor inflation data for re-rating.",
@@ -143,11 +143,11 @@
         "zh": "芯片出口管制政策不确定性持续。美国出口限制影响全球大科技和半导体板块。关注政策公告和供应链重定向。"
       },
       "bullish": [
-        "domestic US chipmakers"
+        "domestic US chipmakers / 美国国内芯片制造商"
       ],
       "bearish": [
-        "big tech (global revenue exposure)",
-        "semiconductor equipment"
+        "big tech (global revenue exposure) / 大型科技公司（全球收入敞口）",
+        "semiconductor equipment / 半导体设备"
       ],
       "macroRisk": {
         "en": "Export policy uncertainty adds sector-specific headwinds to US tech growth narrative.",
@@ -192,7 +192,7 @@
   "premarketFocus": {
     "futures": {
       "en": "S&P 500 -0.43%, Dow -0.21%, Nasdaq -0.09%. Futures negative on Mideast uncertainty; AI/Marvell rally may provide intraday support.",
-      "zh": "标普-0.43%，道指-0.21%，纳指-0.09%。期指受中东不确定性走弱；AI/Marvell  rallies 可能提供日内支撑。"
+      "zh": "标普-0.43%，道指-0.21%，纳指-0.09%。期指受中东不确定性走弱；AI/Marvell  上涨 可能提供日内支撑。"
     },
     "treasury10Y": {
       "en": "10-year yield at 4.43%, down from prior session. Peace hopes drive flight-to-quality. Watch for yield re-rating on inflation or geopolitical deterioration.",

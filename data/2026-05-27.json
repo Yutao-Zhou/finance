@@ -2,7 +2,7 @@
   "date": "2026-05-27",
   "summary": {
     "en": "Market sentiment improves with major index futures rising on AI optimism and cautious Middle East peace hopes. Oil eases as geopolitical premium narrows. Treasury yields fall toward multi-week lows. AI chip sector shows resilience despite short-term profit-taking. Energy calms while big tech awaits earnings clarity.",
-    "zh": "市场情绪改善，三大指数期货上涨，受益于 AI 乐观和谨慎的中东和平希望。油价回落，地缘溢价收窄。美债收益率降至多周低点附近。AI 芯片板块展现韧性，尽管短期获利了结。能源趋缓，大科技等待财报清晰度。"
+    "zh": "市场情绪改善，三大指数期货上涨，受益于 AI 乐观和谨慎的中东和平希望。油价回落，地缘溢价收窄。美债收益率降至多周低点附近。尽管有短线获利了结，AI 芯片股仍具韧性。能源板块趋稳，投资者等待大型科技公司财报提供更多线索。"
   },
   "topNews": [
     {
@@ -30,7 +30,7 @@
         "en": "Oil prices decline as Iran ceasefire deals materialize. WTI stabilizes ~$92, Brent ~$98. Geopolitical premium narrows from May 26 peak. Energy sector faces headwinds while supply constraints moderate.",
         "zh": "油价下跌，因伊朗停火协议落实。WTI 稳定在约 92 美元，布伦特约 98 美元。地缘溢价从 5 月 26 日高点收窄。能源板块面临逆风，供应约束缓和。"
       },
-      "bullish": ["Energy service stocks", "Transportation"],
+      "bullish": ["Energy service stocks / 能源服务公司股", "Transportation / 交通运输"],
       "bearish": ["XOM", "CVX", "COP", "OXY", "USO", "BNO"],
       "macroRisk": {
         "en": "Moderate - Lower oil benefits consumers but raises recession fears. Fed inflation targeting still relevant. Watch for supply shock from Strait of Hormuz disruptions.",
@@ -44,10 +44,10 @@
       },
       "impact": {
         "en": "Yields decline from earlier levels as peace hopes and risk-on flow prevail. Curve steepens with 2Y-10Y spread widening. Bond vigilance eases. Long-duration assets benefit from lower financing costs.",
-        "zh": "收益率因和平希望和 risk-on 资金流占主导而下降。曲线变陡，2 年期 -10 年期利差扩大。债市谨慎情绪缓和。长久期资产受益于较低融资成本。"
+        "zh": "收益率因和平希望和 风险偏好回升 资金流占主导而下降。曲线变陡，2 年期 -10 年期利差扩大。债市谨慎情绪缓和。长久期资产受益于较低融资成本。"
       },
       "bullish": ["TLT", "GLD", "USREIT", "VNQ"],
-      "bearish": ["JPM", "BAC", "USB", "US Banks"],
+      "bearish": ["JPM", "BAC", "USB", "US Banks / 美国银行"],
       "macroRisk": {
         "en": "Mixed - Lower yields boost equities but inflation stickiness limits relief. Fed pivot timing uncertain despite better sentiment.",
         "zh": "混合 - 较低收益率提振股票但通胀顽固限制缓解。尽管情绪改善，美联储转向时间不确定。"
@@ -78,8 +78,8 @@
         "en": "DXY declines from earlier peaks as yields fall and EM currencies stabilize. EUR/USD and USD/JPY benefit from improved sentiment. Safe-haven demand moderates with peace hopes. Emerging market currencies face reduced pressure.",
         "zh": "随着收益率下降和新兴市场货币稳定，DXY 从早高峰回落。欧元/美元和美元/日圆受益于改善情绪。和平希望缓和避险需求。新兴市场货币面临压力减轻。"
       },
-      "bullish": ["EM currencies", "AUD", "CAD", "JPY"],
-      "bearish": ["U.S. Treasurys"],
+      "bullish": ["EM currencies / 新兴市场货币", "AUD", "CAD", "JPY"],
+      "bearish": ["U.S. Treasurys / 美国国债"],
       "macroRisk": {
         "en": "Moderate - USD strength self-reinforcing but rate cuts eventually cap upside. EM debt servicing improves with lower dollar.",
         "zh": "中等 - 美元自我强化但降息最终封顶上行。随着美元下降，EM 债务偿付改善。"
@@ -123,7 +123,7 @@
   "premarketFocus": {
     "futures": {
       "en": "S&P 500 futures up 0.3%, Nasdaq up 0.4%, Dow up 0.2%. All three indices extend pre-earnings rally. Energy futures calm. Tech names lead advances with AI chip names among winners.",
-      "zh": "标普 500 期货上涨 0.3%，纳斯达克上涨 0.4%，道指上涨 0.2%。三大指数延续 earnings 前 rally。能源期货平静。科技名称领涨，AI 芯片名称在赢家之中。"
+      "zh": "标普 500 期货上涨 0.3%，纳斯达克上涨 0.4%，道指上涨 0.2%。三大指数延续 财报公布 前 rally。能源期货平静。科技股领涨，AI 芯片名称在赢家之中。"
     },
     "treasury10Y": {
       "en": "10Y yield down from 4.65% toward 4.55-4.60 range. Yields fall as risk sentiment improves. Curve steepens with 2Y-10Y spread widening. Bond vigilance eases but inflation data watch remains.",

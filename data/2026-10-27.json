@@ -2,7 +2,7 @@
   "date": "2026-10-27",
   "summary": {
     "en": "US markets eye a busy earnings week with Big Tech names and AI chip makers leading premarket gains. Middle East diplomacy offers relief to oil prices while investors await the Fed's rate decision.",
-    "zh": "美股关注盈利周，大科技公司和 AI 芯片股领涨盘前。中东外交关系为油价提供缓解，投资者等待美联储利率决策。"
+    "zh": "美股迎来财报密集的一周，大科技公司和 AI 芯片股领涨盘前。中东外交进展减轻了油价的上行压力，投资者等待美联储利率决策。"
   },
   "topNews": [
     {
@@ -14,8 +14,8 @@
         "en": "$63B financing deal for Anthropic's AI compute needs boosts Broadcom, while Nvidia invests $3B in Meta equity.",
         "zh": "Anthropic AI 计算需求的$630 亿融资协议提振博通，英伟德投资$30 亿用于 Meta 股权。"
       },
-      "bullish": ["AI infrastructure demand", "cloud compute growth", "data center capex"],
-      "bearish": ["valuation expansion concerns", "customer spending restraint"],
+      "bullish": ["AI infrastructure demand / 人工智能基础设施需求", "cloud compute growth / 云计算增长", "data center capex / 数据中心资本支出"],
+      "bearish": ["valuation expansion concerns / 估值扩张担忧", "customer spending restraint / 客户支出克制"],
       "macroRisk": {
         "en": "Heavy AI capex could strain corporate balance sheets if cash flows don't keep pace.",
         "zh": "大量 AI 资本支出可能在现金流跟不上时挤压公司资产负债表。"
@@ -30,8 +30,8 @@
         "en": "Central bank convenes two-day meeting to determine next rate move, with markets pricing in varied outcomes.",
         "zh": "央行召开两天会议确定下一步利率行动，市场定价各种结果。"
       },
-      "bullish": ["growth stocks if cuts maintained", "yields stabilize"],
-      "bearish": ["higher-for-longer rhetoric", "yield spike"],
+      "bullish": ["growth stocks if cuts maintained / 若降息维持则成长股受益", "yields stabilize / 收益率稳定"],
+      "bearish": ["higher-for-longer rhetoric / 长期高利率言论", "yield spike / 收益率飙升"],
       "macroRisk": {
         "en": "Unexpected hawkish pivot could trigger flight to safety and equity sell-off.",
         "zh": "意外的鹰派转向可能触发避险和股市抛售。"
@@ -46,8 +46,8 @@
         "en": "Talks between Saudi Arabia, Turkey, Pakistan and Iran provide relief amid Middle East tensions.",
         "zh": "沙特、土耳其、巴基斯坦和伊朗之间的会谈在地缘紧张局势下提供缓解。"
       },
-      "bullish": ["inflation pressure contained", "consumer cost relief"],
-      "bearish": ["supply disruption fears eased", "energy stocks face headwinds"],
+      "bullish": ["inflation pressure contained / 通胀压力受控", "consumer cost relief / 消费者成本缓解"],
+      "bearish": ["supply disruption fears eased / 供应中断担忧缓解", "energy stocks face headwinds / 能源股面临逆风"],
       "macroRisk": {
         "en": "Sustained oil declines could signal deflationary pressures but also recession risk.",
         "zh": "持续的油价下跌可能表明通缩压力但也暗示衰退风险。"
@@ -62,8 +62,8 @@
         "en": "Amazon, Microsoft and Alphabet expected to report, testing whether AI boom can sustain amid broader market volatility.",
         "zh": "预期亚马逊、微软和谷歌报告，测试在广泛市场波动中 AI 繁荣能否持续。"
       },
-      "bullish": ["cloud revenue growth", "AI monetization"],
-      "bearish": ["advertising slowdown", "consumer discretionary pressure"],
+      "bullish": ["cloud revenue growth / 云收入增长", "AI monetization / AI 变现"],
+      "bearish": ["advertising slowdown / 广告放缓", "consumer discretionary pressure / 可选消费板块承压"],
       "macroRisk": {
         "en": "Tech earnings miss could cascade through index and trigger rotation into value.",
         "zh": "科技股盈利不及预期可能通过指数传导并触发向价值股的轮动。"
@@ -78,8 +78,8 @@
         "en": "Wall Street opens positive as investors focus on AI chip demand and Fed policy clarity.",
         "zh": "华尔街以正面开盘，投资者关注 AI 芯片需求和美联储政策清晰度。"
       },
-      "bullish": ["tech sector leadership", "AI momentum"],
-      "bearish": ["earnings uncertainty"],
+      "bullish": ["tech sector leadership / 科技板块领涨", "AI momentum / 人工智能势头"],
+      "bearish": ["earnings uncertainty / 盈利不确定性"],
       "macroRisk": {
         "en": "Positive start could evaporate if macro data disappoints.",
         "zh": "积极开局可能在宏观数据令人失望时蒸发。"

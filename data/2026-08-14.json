@@ -2,7 +2,7 @@
   "date": "2026-08-14",
   "summary": {
     "en": "US futures trade mixed ahead of Friday's open as oil prices climb on geopolitical tensions in the Middle East and Iran, while AI-driven mega-cap gains offset broader concerns about inflation sticky bits. PPI data due later this week could push Fed rate cut odds higher or lower depending on print.",
-    "zh": "上周五开盘前美股期货分化，受中东和伊朗地缘政治紧张局势推动油价上涨，AI 驱动的大型科技股收益抵消了对通胀粘性的担忧。本周稍后发布的 PPI 数据将根据实际数值推高或压低美联储降息预期。"
+    "zh": "周五开盘前美股期货分化，受中东和伊朗地缘政治紧张局势推动油价上涨，AI 驱动的大型科技股收益抵消了对通胀粘性的担忧。本周稍后发布的 PPI 数据将根据实际数值推高或压低美联储降息预期。"
   },
   "topNews": [
     {
@@ -47,7 +47,7 @@
         "zh": "美元指数承压，因为市场将早于预期的降息纳入定价。美元疲软对受益于美元的跨国科技股构成阻力，而对与新兴市场相关的公司有利。"
       },
       "bullish": ["FXE"],
-      "bearish": ["FDX", "XLK-multinationals"],
+      "bearish": ["FDX", "XLK-multinationals / XLK - 跨国企业"],
       "macroRisk": {
         "en": "No - Dollar weakness aligns with dovish Fed stance, which is positive for equity valuations but creates mixed currency translation effects.",
         "zh": "否——美元走弱符合美联储鸽派立场，对股票估值有利，但也带来混杂的货币折算效应。"

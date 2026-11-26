@@ -14,8 +14,8 @@
         "en": "Overnight index futures showed little movement (S&P flat at 7,831.50, Nasdaq up 0.06%, Dow near unchanged) as Middle East diplomacy and US-China summit preparation dominate headlines, overshadowing tech sector gains.",
         "zh": "隔夜指数期货表现平淡（标普在 7,831.50 持平，纳斯达克上涨 0.06%，道指接近不变），因为中东外交和中美峰会准备主导头条，掩盖了科技板块的斩获。"
       },
-      "bullish": ["AI equities", "semiconductors"],
-      "bearish": ["broad market momentum"],
+      "bullish": ["AI equities / 人工智能股票", "semiconductors / 半导体"],
+      "bearish": ["broad market momentum / 大盘动量"],
       "macroRisk": {
         "en": "LOW-MEDIUM - Diplomatic de-escalation reduces geopolitical risk premium. Market can rotate back to growth/tech if no new escalation.",
         "zh": "低中风险 - 外交缓和降低地缘政治风险溢价。若无新升级，市场可轮回到成长股/科技股。"
@@ -30,8 +30,8 @@
         "en": "Brent holds below $100 with Saudi pipeline repair boosting supply and Iraq exports increasing. Yanbu refinery disruption resolved. Reduced oil inflation pressure tests Fed rate cut timeline.",
         "zh": "布伦特保持在 100 美元以下，沙特管道维修增加供应，伊拉克出口增加。延布炼油厂中断已解决。降低的油价通胀压力考验美联储降息时间表。"
       },
-      "bullish": ["energy stocks if stable", "growth sectors"],
-      "bearish": ["oil producers", "pump-investors"],
+      "bullish": ["energy stocks if stable / 能源股若保持稳定", "growth sectors / 成长板块"],
+      "bearish": ["oil producers / 石油生产商", "pump-investors / 追逐炒作行情的投资者"],
       "macroRisk": {
         "en": "MEDIUM - Sustained oil relief could lower inflation expectations, supporting Fed rate cut bets. But relapse risk remains from Middle East fragility.",
         "zh": "中风险 - 持续的油价缓解可能降低通胀预期，支持美联储降息赌注。但中东脆弱性仍存在复发风险。"
@@ -46,8 +46,8 @@
         "en": "President Trump's Russia visit concludes with agreement on Ukrainian wheat corridor, helping stabilize Black Sea supply. Commodity markets react positively to reduced geopolitical uncertainty in energy sector.",
         "zh": "特朗普总统对俄罗斯的访问以关于乌克兰小麦走廊的协议结束，有助于稳定黑海供应。大宗商品市场对能源部门减少的地缘政治不确定性反应积极。"
       },
-      "bullish": ["agriculture", "global trading", "energy logistics"],
-      "bearish": ["hedge funds betting on oil spike"],
+      "bullish": ["agriculture / 农业", "global trading / 全球贸易", "energy logistics / 能源物流"],
+      "bearish": ["hedge funds betting on oil spike / 押注油价飙升的对冲基金"],
       "macroRisk": {
         "en": "MEDIUM - Reduced energy geopolitical tension supports global growth. But Middle East remains volatile with Iran tensions unresolved.",
         "zh": "中风险 - 减少的能源地缘政治紧张关系支持全球增长。但中东仍然具有挥发性，伊朗紧张局势未解决。"
@@ -62,8 +62,8 @@
         "en": "Quantum computing and AI chip companies show strength on product optimism. IONQ gains from quantum computer partnership announcements. RGTI advances on autonomous driving progress. Geopolitical noise limits breadth.",
         "zh": "量子计算和 AI 芯片公司在产品乐观情绪下表现强劲。IONQ 因量子计算机合作伙伴关系公告而获利。RGTI 因自动驾驶技术进步而推进。地缘政治噪音限制了广度。"
       },
-      "bullish": ["quantum computing", "AI chips", "autonomous driving"],
-      "bearish": ["none significant"],
+      "bullish": ["quantum computing / 量子计算", "AI chips / 人工智能芯片", "autonomous driving / 自动驾驶"],
+      "bearish": ["none significant / 无显著影响"],
       "macroRisk": {
         "en": "LOW - Company-specific drivers dominate. Macro environment neutral but supportive for tech earnings.",
         "zh": "低风险 - 公司特定驱动占主导。宏观环境中性但对科技收益有利。"
@@ -78,8 +78,8 @@
         "en": "Diplomatic talks in Beijing expected to cover trade, tariffs, and tech restrictions. Markets cautious on escalation risks but relieved if de-escalation prevails. Export-dependent sectors watch closely.",
         "zh": "预计北京外交谈话将涵盖贸易、关税和科技限制。市场对升级风险保持谨慎，但缓解了对缓和占上风的情况。出口依赖型部门密切观望。"
       },
-      "bullish": ["exporters if de-escalation", "consumer discretionary"],
-      "bearish": ["export-heavy industrials", "tech with China revenue"],
+      "bullish": ["exporters if de-escalation / 若局势缓和，出口商将受益", "consumer discretionary / 可选消费板块"],
+      "bearish": ["export-heavy industrials / 出口导向型工业品", "tech with China revenue / 涉及中国营收的科技股"],
       "macroRisk": {
         "en": "MEDIUM-HIGH - Trade tensions can rapidly escalate or ease. Tech sector most vulnerable due to supply chain and market exposure.",
         "zh": "中高风险 - 贸易紧张关系可能迅速升级或缓和。由于供应链和市场敞口，科技部门最容易受伤害。"
@@ -94,8 +94,8 @@
         "en": "Fed holds rate steady if CPI/PCE confirm disinflation trend. Yields muted at ~4.0% as oil shock premium fades. Market positioning for potential pivot to more aggressive rate cuts if inflation stabilizes.",
         "zh": "若 CPI/PCE 确认降通胀趋势，美联储将维持利率稳定。随着油价冲击溢价消失，收益率在约 4.0% 处表现 muted。市场为潜在转向更激进的降息做准备，前提是通胀稳定。"
       },
-      "bullish": ["value stocks", "financials"],
-      "bearish": ["high-duration bonds", "rate-sensitive growth"],
+      "bullish": ["value stocks / 价值股", "financials / 金融业"],
+      "bearish": ["high-duration bonds / 高久期债券", "rate-sensitive growth / 对利率敏感的成长股"],
       "macroRisk": {
         "en": "MEDIUM - Fed must balance inflation fight with economic stability. Any signal of policy shift moves markets significantly.",
         "zh": "中风险 - 美联储必须平衡通胀战斗与经济稳定。任何政策转变信号都会使市场大幅变动。"
@@ -110,8 +110,8 @@
         "en": "10Y yields range-bound at ~4.0% as geopolitical oil shock premium diminishes. Curve control maintained with reduced rate hike fears. Financials benefit from stable yield environment.",
         "zh": "随着地缘政治油价冲击溢价减少，10 年期收益率在约 4.0% 区间震荡。曲线控制维持，加息恐惧减少。金融股受益于稳定的收益率环境。"
       },
-      "bullish": ["financials", "value stocks"],
-      "bearish": ["bond traders betting on yield spike"],
+      "bullish": ["financials / 金融业", "value stocks / 价值股"],
+      "bearish": ["bond traders betting on yield spike / 押注收益率飙升的债券交易员"],
       "macroRisk": {
         "en": "LOW - Yields stabilized without inflation spike. But relapse from Middle East escalation possible.",
         "zh": "低风险 - 收益率稳定，没有通胀飙升。但中东升级复发可能。"

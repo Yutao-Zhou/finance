@@ -14,7 +14,7 @@
         "en": "WTI/Brent stabilization provides breathing room for growth stocks; inflation fears persist but easing reduces stagflation risk premium. MacroRisk: Moderate transmission via energy-sensitive sectors.",
         "zh": "油价稳定为成长股提供空间；通胀担忧仍存但缓解，降低滞胀风险溢价。宏观传导：能源敏感型板块受益。"
       },
-      "bullish": ["XLE", "XLV", "Consumer Discretionary"],
+      "bullish": ["XLE", "XLV", "Consumer Discretionary / 可选消费"],
       "bearish": [],
       "macroRisk": {
         "en": "Oil below $100 reduces stagflation concerns, but supply chain disruptions and geopolitical premiums maintain volatility.",
@@ -47,7 +47,7 @@
         "zh": "新关税威胁令跨国企业不确定；消费可选和工业面临进口成本挤压利润。"
       },
       "bullish": [],
-      "bearish": ["XLY", "XLI", "Consumer Staples"],
+      "bearish": ["XLY", "XLI", "Consumer Staples / 必需消费品板块"],
       "macroRisk": {
         "en": "Trade policy volatility transmits to earnings multiples, particularly for tech with global supply chains.",
         "zh": "贸易政策波动传导至盈利倍数，尤其对全球供应链的科技股。"
@@ -159,7 +159,7 @@
     },
     "treasury10Y": {
       "en": "10Y yield stabilizes near 4.2%, providing clarity after volatile week in bonds.",
-      "zh": "10Y 收益率在$4.2%附近稳定，债券市场波动周后提供清晰度。"
+      "zh": "10Y 收益率在4.2%附近稳定，债券市场波动周后提供清晰度。"
     },
     "dxy": {
       "en": "DXY holds around 106.5, rate cut expectations balance with yield dynamics.",

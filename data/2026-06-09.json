@@ -14,8 +14,8 @@
         "en": "The 172K jobs gain vs expected 85K signals labor market strength, reducing dovish bias on Fed and pushing real yields up, which is bearish for rate-sensitive growth stocks.",
         "zh": "非农增加 172K（预期 85K）显示劳动力市场强劲，减少美联储鸽派倾向并推高实际收益率，对利率敏感的成长股构成压力。"
       },
-      "bullish": ["financials", "small-cap value"],
-      "bearish": ["tech growth", "high duration bonds"],
+      "bullish": ["financials / 金融业", "small-cap value / 小盘价值股"],
+      "bearish": ["tech growth / 科技成长股", "high duration bonds / 长久期债券"],
       "macroRisk": {
         "en": "Yes - Stronger jobs = higher rates later, pressuring bond prices and dividend growers.",
         "zh": "是——就业强劲=后期加息，压制债券价格和股息成长股。"
@@ -30,8 +30,8 @@
         "en": "Geopolitical risk premium in energy markets drives oil to $88-95 range, creating inflation concerns for CPI and pushing Treasury yields higher as markets weigh supply disruption risks.",
         "zh": "能源市场的地缘政治风险溢价推动油价至$88-95 区间，引发通胀担忧并推升美债收益率。"
       },
-      "bullish": ["oil E&P", "logistics defense contractors"],
-      "bearish": ["consumer staples", "retail with energy exposure"],
+      "bullish": ["oil E&P / 石油勘探与生产", "logistics defense contractors / 物流防务承包商"],
+      "bearish": ["consumer staples / 必需消费品", "retail with energy exposure / 具有能源敞口的零售企业"],
       "macroRisk": {
         "en": "Yes - Higher oil = inflation risk for CPI, creating tension between rate cut hopes and hawkish repriceing.",
         "zh": "是——油价升高=通胀风险，在降息预期和鹰派重定价之间形成张力。"
@@ -47,7 +47,7 @@
         "zh": "黄金跌破$4,300（带成交量）显示机构派发，实际收益率因强劲非农和油价风险飙升。"
       },
       "bullish": [],
-      "bearish": ["gold miners", "silver", "broad precious metals"],
+      "bearish": ["gold miners / 黄金矿业股", "silver / 白银", "broad precious metals / 广泛贵金属"],
       "macroRisk": {
         "en": "Yes - Gold weakening signals inflation/real yield focus over safe haven amid Middle East escalation.",
         "zh": "是——黄金走弱显示关注通胀和实际收益率，而非避风港作用。"
@@ -63,7 +63,7 @@
         "zh": "周五科技股抛售（尤其是AI芯片和半导体）延续周一盘前疲软，显示广度担忧而不仅是成长率轮动。"
       },
       "bullish": [],
-      "bearish": ["semiconductors", "tech hardware"],
+      "bearish": ["semiconductors / 半导体", "tech hardware / 科技硬件"],
       "macroRisk": {
         "en": "Yes - High rate environment from strong jobs hurts duration-sensitive mega-cap tech.",
         "zh": "是——高利率环境（因就业强劲）打击对久期敏感的大科技股。"
@@ -78,7 +78,7 @@
         "en": "Peace deal signal reduces supply disruption risk pricing in oil, causing relief selling despite underlying geopolitical tensions.",
         "zh": "和平协议信号降低油价的供应中断风险定价，导致利空抛压尽管地缘政治紧张依然存在。"
       },
-      "bullish": ["oil services"],
+      "bullish": ["oil services / 石油服务板块"],
       "bearish": [],
       "macroRisk": {
         "en": "Mixed - Deal signal lowers oil but Houthi Red Sea threats remain; inflation risk remains if deal fails.",
@@ -94,8 +94,8 @@
         "en": "Strong jobs data reinforces Fed hawkish repriceing, supporting dollar against EM currencies but pressuring yield-sensitive portfolios.",
         "zh": "强劲就业数据支持美联储鹰派重定价，支撑美元对新兴市场货币但对收益率敏感组合造成压力。"
       },
-      "bullish": ["US banking", "multinational exporters"],
-      "bearish": ["emerging markets debt holders"],
+      "bullish": ["US banking / 美国银行业", "multinational exporters / 跨国出口商"],
+      "bearish": ["emerging markets debt holders / 新兴市场债务持有者"],
       "macroRisk": {
         "en": "Yes - Strong DXY from rate support risks EM assets, creating cross-currents in FX portfolio.",
         "zh": "是——强美元（源于利率支持）可能危及新兴市场资产，造成外汇投资组合中的冲突。"
@@ -110,7 +110,7 @@
         "en": "Monday futures show tech buyers stepping into Friday's selloff with chip stocks leading rebound despite macro headwinds.",
         "zh": "周一期货显示科技买家接回周五抛售，芯片股领涨反弹尽管面临宏观逆风。"
       },
-      "bullish": ["tech growth"],
+      "bullish": ["tech growth / 科技成长股"],
       "bearish": [],
       "macroRisk": {
         "en": "Low - Technical rebound attempts despite fundamental concerns from rates and jobs data.",

@@ -2,7 +2,7 @@
   "date": "2026-07-08",
   "summary": {
     "en": "US stocks showed mixed-to-flat futures as Middle East tensions evolved with Trump declaring Iran ceasefire over. Oil prices surged >5% on WTI following US military strikes and Hormuz Strait vessel attacks, driving energy sector rally but pressuring inflation-sensitive growth names via higher yields. Fed minutes remained key focus while dollar held support at 101+. Asia markets declined overnight ahead of open.",
-    "zh": "美股期货在平至略跌中开市，因中东局势演变而特朗普宣布伊朗停火结束。油价在上次军演后升逾5% WTI，推动能源板块反弹但压低了通胀敏感的成长股通过更高收益。美联储纪要仍是关键焦点同时美元维持在101上方支撑。亚洲市场在盘前下跌隔夜表现不佳。"
+    "zh": "特朗普宣布对伊朗的停火结束之际，美股期货窄幅波动。美国对伊朗发动打击、霍尔木兹海峡船只遇袭后，WTI 原油上涨逾 5%，推动能源股反弹。美债收益率上行使对通胀和利率敏感的成长股承压。市场仍关注美联储会议纪要，美元指数维持在 101 上方，亚洲股市隔夜走弱。"
   },
   "topNews": [
     {
@@ -17,7 +17,8 @@
       "bullish": ["XOM", "CVX"],
       "bearish": [],
       "macroRisk": {
-        "en": "Supply shock inflation transmission via oil price surge directly impacts Fed policy path and growth stock valuations. Energy sector benefits while rate-sensitive names face continued pressure from yield trajectory."
+        "en": "Supply shock inflation transmission via oil price surge directly impacts Fed policy path and growth stock valuations. Energy sector benefits while rate-sensitive names face continued pressure from yield trajectory.",
+        "zh": "通过油价飙升传导的供应冲击引发的通胀直接影响美联储政策路径及成长股估值。能源板块受益，而对利率敏感的公司则持续受到收益率走势的压力。"
       }
     },
     {
@@ -26,13 +27,14 @@
         "zh": "油价升逾5%至两周高点，因中东供应忧虑而WTI突破 70美元"
       },
       "impact": {
-        "en": "US military strikes against Iran and vessel attacks in Strait of Hormuz pushed WTI to $72.19 (+6%) while Brent climbed toward $84 (+5%+). Supply disruption fears dominated pricing as geopolitical transmission path created immediate inflation headwinds.",
-        "zh": "美国对伊朗的军事行动和波斯湾船只袭击推动WTI 至$72.19（+6%），而布兰特攀升向$84（+5+%）。供应中断忧虑主导定价因地缘政治传导路径创造了即期通胀逆风。"
+        "en": "US military strikes against Iran and vessel attacks in Strait of Hormuz pushed WTI to $72.19 (+6%) while Brent climbed toward $84 (up more than 5%). Supply disruption fears dominated pricing as geopolitical transmission path created immediate inflation headwinds.",
+        "zh": "美国对伊朗的军事行动和波斯湾船只袭击推动WTI 至$72.19（+6%），而布伦特攀升向$84（涨逾 5%）。供应中断忧虑主导定价因地缘政治传导路径创造了即期通胀逆风。"
       },
       "bullish": ["XOM", "CVX", "COP", "OXY"],
       "bearish": [],
       "macroRisk": {
-        "en": "Oil price spike creates stagflation risk profile for growth portfolios. Higher energy costs transmit through input inflation, compressing margins while Fed may be forced to hold rates longer as supply shock persists."
+        "en": "Oil price spike creates stagflation risk profile for growth portfolios. Higher energy costs transmit through input inflation, compressing margins while Fed may be forced to hold rates longer as supply shock persists.",
+        "zh": "油价飙升为成长型投资组合带来滞胀风险特征。更高的能源成本通过输入型通胀传导，压缩利润空间，同时随着供应冲击持续，美联储可能被迫维持更长时间的利率水平。"
       }
     },
     {
@@ -47,7 +49,8 @@
       "bullish": [],
       "bearish": ["FXE", "XEU"],
       "macroRisk": {
-        "en": "Strong dollar weighs on multinational earnings and emerging market assets. Export-dependent US companies face headwinds while import inflation remains muted but currency volatility raises hedging costs for cross-border operations."
+        "en": "Strong dollar weighs on multinational earnings and emerging market assets. Export-dependent US companies face headwinds while import inflation remains muted but currency volatility raises hedging costs for cross-border operations.",
+        "zh": "强势美元拖累跨国企业盈利及新兴市场资产。依赖出口的美国公司面临逆风，而进口通胀虽保持温和，但货币波动提高了跨境业务的对冲成本。"
       }
     },
     {
@@ -62,7 +65,8 @@
       "bullish": [],
       "bearish": ["NVDA", "AMD"],
       "macroRisk": {
-        "en": "Transmitted volatility affects global technology ecosystem through cross-border supply chains and earnings correlations. Asian exposure to US chip demand faces pressure from semiconductor valuation reset."
+        "en": "Transmitted volatility affects global technology ecosystem through cross-border supply chains and earnings correlations. Asian exposure to US chip demand faces pressure from semiconductor valuation reset.",
+        "zh": "传导的波动性通过跨境供应链和盈利相关性影响全球科技生态系统。亚洲对美国芯片需求的敞口面临半导体估值重置的压力。"
       }
     },
     {
@@ -77,7 +81,8 @@
       "bullish": ["GLD"],
       "bearish": ["TLT", "IEF", "JPM"],
       "macroRisk": {
-        "en": "Rising yields pressure mortgage REITs and rate-sensitive growth stocks. Bond market positioning reflects Fed policy uncertainty while inflation expectations from oil shock create stagflation tradeoffs."
+        "en": "Rising yields pressure mortgage REITs and rate-sensitive growth stocks. Bond market positioning reflects Fed policy uncertainty while inflation expectations from oil shock create stagflation tradeoffs.",
+        "zh": "收益率上升对抵押贷款 REITs 和对利率敏感的成长股构成压力。债券市场配置反映了美联储政策不确定性，而来自石油冲击的通胀预期创造了滞胀权衡。"
       }
     },
     {
@@ -92,7 +97,8 @@
       "bullish": [],
       "bearish": ["SPY", "QQQ"],
       "macroRisk": {
-        "en": "Policy uncertainty creates sector rotation risk. Defensive positioning favored until Fed signals tolerance for oil price volatility while growth names face pressure from rate path clarity."
+        "en": "Policy uncertainty creates sector rotation risk. Defensive positioning favored until Fed signals tolerance for oil price volatility while growth names face pressure from rate path clarity.",
+        "zh": "政策不确定性造成板块轮动风险。在美联储发出容忍油价波动的信号之前，防御性配置占优；成长股则面临利率路径明朗化的压力。"
       }
     },
     {
@@ -107,7 +113,8 @@
       "bullish": ["BTC"],
       "bearish": [],
       "macroRisk": {
-        "en": "Bitcoin functions as asymmetric hedge against traditional finance stress but faces regulatory and inflation narrative competition. Institutional flows provide stability despite geopolitical volatility."
+        "en": "Bitcoin functions as asymmetric hedge against traditional finance stress but faces regulatory and inflation narrative competition. Institutional flows provide stability despite geopolitical volatility.",
+        "zh": "比特币作为对冲传统金融压力的非对称工具发挥作用，但面临监管和通胀叙事的竞争。尽管地缘政治波动，机构资金流入提供了稳定性。"
       }
     }
   ],
@@ -142,7 +149,7 @@
     },
     "oil": {
       "en": "WTI climbs >6% to $72.19 and Brent toward $84 on supply shock from Iran strikes. Energy sector becomes key defensive position while inflation transmission through oil costs threatens growth portfolio performance.",
-      "zh":"WTI 升逾6%至$72.19和布兰特向$84因伊朗袭击供给冲击。能源板块成为关键防御位置而通胀通过油价成本传导威胁增长组合表现下。"
+      "zh":"WTI 升逾6%至$72.19和布伦特向$84因伊朗袭击供给冲击。能源板块成为关键防御位置而通胀通过油价成本传导威胁增长组合表现下。"
     }
   },
   "premarketFocus": {
@@ -160,7 +167,7 @@
     },
     "oil": {
       "en": "WTI oil price jumps >6% to $72.19 with Brent climbing toward $84 after US strikes on Iran and vessel attacks in Hormuz Strait create immediate supply concerns.",
-      "zh":"因美国对伊朗袭击和霍尔木兹船只袭击造成即期供应忧虑 WTI 油价跳升逾6%至$72.19同时布兰特向$84攀升。"
+      "zh":"因美国对伊朗袭击和霍尔木兹船只袭击造成即期供应忧虑 WTI 油价跳升逾6%至$72.19同时布伦特向$84攀升。"
     },
     "keyRisk": {
       "en": "Middle East supply shock transmission through oil price surge to inflation expectations and Fed policy path remains primary macro risk while geopolitical events could escalate further.",

@@ -155,11 +155,11 @@
   "premarketFocus": {
     "futures": {
       "en": "/S&P -0.4%, /Dow +0.29%, /Nasdaq -1.32% (tech selloff led by Mag-7, particularly SpaceX)",
-      "zh": "标普/道指纳斯达克跌幅 0.4%/+0.29%-1.32%(科技抛售由七巨头领导，尤其是 SpaceX)"
+      "zh": "标普 500 期货跌 0.4%，道指期货涨 0.29%，纳指期货跌 1.32%。大型科技股及 SpaceX 的抛售拖累科技板块。"
     },
     "treasury10Y": {
       "en": "Elevated near 4.5-4.6% range, sensitive to inflation data and geopolitical risk premium",
-      "zh": "在 elevated around 4.5%-4.6%(对通胀数据和地缘政治风险溢价敏感)"
+      "zh": "10 年期美债收益率维持在 4.5% 至 4.6% 的高位，对通胀数据和地缘风险溢价的变化敏感。"
     },
     "dxy": {
       "en": "Stable near recent ranges despite mixed economic signals. Watch for Fed policy implications.",

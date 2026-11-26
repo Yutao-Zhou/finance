@@ -17,7 +17,8 @@
       "bullish": ["USO", "UCO", "XLE"],
       "bearish": ["/DXY", "/GLD"],
       "macroRisk": {
-        "en": "Yes - Oil price transmission → inflation expectations → Treasury yields ↑ → growth valuations pressured"
+        "en": "Yes - Oil price transmission → inflation expectations → Treasury yields ↑ → growth valuations pressured",
+        "zh": "是——油价传导至通胀预期，进而推升美债收益率，对成长股估值构成压力。"
       }
     },
     {
@@ -32,7 +33,8 @@
       "bullish": ["OIL", "XLE"],
       "bearish": ["/USO", "/UCO"],
       "macroRisk": {
-        "en": "Yes - Geopolitical supply shock risk → oil volatility ↑ → broader market uncertainty"
+        "en": "Yes - Geopolitical supply shock risk → oil volatility ↑ → broader market uncertainty",
+        "zh": "是——地缘政治供应冲击风险导致油价波动加剧，引发更广泛的市场不确定性。"
       }
     },
     {
@@ -47,7 +49,8 @@
       "bullish": ["BRK", "XLF"],
       "bearish": ["/QQQ", "/SMH"],
       "macroRisk": {
-        "en": "Partial - Rotation from tech to value due to geopolitical uncertainty; inflation hedge demand in energy/oil"
+        "en": "Partial - Rotation from tech to value due to geopolitical uncertainty; inflation hedge demand in energy/oil",
+        "zh": "部分——因地缘政治不确定性，资金从科技股轮动至价值股；能源/石油板块的抗通胀需求上升。"
       }
     },
     {
@@ -62,7 +65,8 @@
       "bullish": [],
       "bearish": ["SHE", "/SPX"],
       "macroRisk": {
-        "en": "No - Sector-specific tariff exposure, not macro driver. Cross-asset impact limited."
+        "en": "No - Sector-specific tariff exposure, not macro driver. Cross-asset impact limited.",
+        "zh": "否——行业特定关税敞口，非宏观驱动因素。跨资产影响有限。"
       }
     }
   ],

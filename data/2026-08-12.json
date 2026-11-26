@@ -2,7 +2,7 @@
   "date": "2026-08-12",
   "summary": {
     "en": "U.S. futures rally ahead of CPI report with all three major indexes ticking higher; oil remains elevated near $84 supporting energy sector, while AI chip earnings uncertainty creates mixed sentiment in big tech names.",
-    "zh": "美股期货盘前上涨，三大指数均走高；油价维持在$84 附近支撑能源板块，AI 芯片财报不确定性导致大科技股情绪分化。"
+    "zh": "CPI 报告公布前，美股期货盘前上涨，三大指数均走高；油价维持在$84 附近支撑能源板块，AI 芯片财报不确定性导致大科技股情绪分化。"
   },
   "topNews": [
     {
@@ -10,7 +10,10 @@
         "en": "All Three Major Index Futures Rise Ahead of CPI Release",
         "zh": "三大指数期货在 CPI 发布前上涨"
       },
-      "impact": "Futures show broad risk-on positioning with Nasdaq leading (+0.71%). S&P futures up +0.26% suggests steady equity sentiment ahead of inflation data.",
+      "impact": {
+        "en": "Futures show broad risk-on positioning with Nasdaq leading (+0.71%). S&P futures up +0.26% suggests steady equity sentiment ahead of inflation data.",
+        "zh": "期货显示广泛的风险偏好布局，纳斯达克领涨（+0.71%）。标普期货上涨 0.26%，表明通胀数据发布前股市情绪稳健。"
+      },
       "bullish": ["QQQ", "SPY"],
       "bearish": [],
       "macroRisk": {
@@ -23,9 +26,12 @@
         "en": "WTI Crude Holds Near $84 Despite Geopolitical Calm",
         "zh": "WTI 原油维持在$84附近，尽管地缘政治紧张局势缓解"
       },
-      "impact": "Oil prices elevated supports energy stocks and inflation hedges, but weighs on airline and consumer discretionary sectors. Supply concerns persist despite diplomatic progress.",
+      "impact": {
+        "en": "Elevated oil prices support energy stocks and inflation hedges but weigh on airlines and consumer discretionary stocks. Supply concerns persist despite diplomatic progress.",
+        "zh": "高油价为能源股和通胀对冲资产提供支撑，但航空和可选消费股承压。尽管外交谈判取得进展，供应忧虑依然存在。"
+      },
       "bullish": ["XLE", "OXY"],
-      "bearish": ["AAL", "DAL - fuel cost sensitivity"],
+      "bearish": ["AAL", "DAL - fuel cost sensitivity / DAL - 对燃油成本敏感"],
       "macroRisk": {
         "en": "Elevated oil prices support inflation expectations, potentially constraining Fed rate-cut timing; benefit energy ETF but pressure on industrials.",
         "zh": "高油价支撑通胀预期，可能限制美联储降息时机；利好能源 ETF 但压制工业股表现。"
@@ -36,9 +42,12 @@
         "en": "Big Tech Earnings Noise Creates Sector Divergence",
         "zh": "大科技财报噪音导致板块分化"
       },
-      "impact": "AI chip valuation debates continue with AMD earnings beat but mixed stock reaction. Cloud revenue remains strong for hyperscalers.",
-      "bullish": ["MSFT", "GOOGL - cloud winners"],
-      "bearish": ["AMD - high expectations"],
+      "impact": {
+        "en": "AI chip valuation debates continue with AMD earnings beat but mixed stock reaction. Cloud revenue remains strong for hyperscalers.",
+        "zh": "AI 芯片估值争论持续，AMD 财报超预期但股价反应不一。云收入对超大规模云服务商保持强劲。"
+      },
+      "bullish": ["MSFT", "GOOGL - cloud winners / GOOGL - 云业务赢家"],
+      "bearish": ["AMD - high expectations / AMD - 高预期"],
       "macroRisk": {
         "en": "",
         "zh": ""
@@ -49,7 +58,10 @@
         "en": "Gold and Precious Metals Stabilize Above Key Support Levels",
         "zh": "黄金和贵金属稳定在关键支撑位上方"
       },
-      "impact": "Safe-haven demand supports precious metals despite mixed market. Gold near $4,400 offers downside protection for portfolio.",
+      "impact": {
+        "en": "Safe-haven demand supports precious metals despite mixed market. Gold near $4,400 offers downside protection for portfolio.",
+        "zh": "避险需求支撑贵金属表现，尽管市场走势分化。金价接近 4,400 美元可为投资组合提供下行保护。"
+      },
       "bullish": ["GLD", "GDX"],
       "bearish": [],
       "macroRisk": {
@@ -62,9 +74,12 @@
         "en": "Treasury Market Watches July CPI for Rate Cut Odds Reset",
         "zh": "债市关注 7 月 CPI 数据以重置降息概率"
       },
-      "impact": "10Y yield stability critical for duration-sensitive sectors. Dovish surprise could spark rally in rate-laggard growth stocks.",
-      "bullish": ["TLT - if dovish print", "XLF"],
-      "bearish": ["VNQ - rising rates risk", "GLD - opportunity cost"],
+      "impact": {
+        "en": "10Y yield stability critical for duration-sensitive sectors. Dovish surprise could spark rally in rate-laggard growth stocks.",
+        "zh": "10 年期收益率稳定对久期敏感型板块至关重要。鸽派意外可能引发此前受利率上行拖累的成长股上涨。"
+      },
+      "bullish": ["TLT - if dovish print / TLT - 若出现鸽派数据", "XLF"],
+      "bearish": ["VNQ - rising rates risk / VNQ 面临利率上升风险", "GLD - opportunity cost / GLD - 机会成本"],
       "macroRisk": {
         "en": "",
         "zh": ""
@@ -75,7 +90,10 @@
         "en": "European Markets Mixed as U.S. Futures Lead Pre-Open Rally",
         "zh": "欧洲市场分化，美股期货引领盘前反弹"
       },
-      "impact": "DAX up 0.35% while FTSE flat, suggesting risk appetite remains elevated despite some regional weakness.",
+      "impact": {
+        "en": "DAX up 0.35% while FTSE flat, suggesting risk appetite remains elevated despite some regional weakness.",
+        "zh": "DAX 上涨 0.35%，而富时指数持平，表明尽管部分区域表现疲软，风险偏好依然维持高位。"
+      },
       "bullish": ["EWG"],
       "bearish": [],
       "macroRisk": {
@@ -88,9 +106,12 @@
         "en": "CPI Report Tonight Could Trigger Sharp Market Volatility",
         "zh": "今晚的 CPI 报告可能引发剧烈市场波动"
       },
-      "impact": "July inflation data is the key Fed decision point. Mild print could spark rate cut rally, while hot readings restore hawkish bias.",
-      "bullish": ["TLT - on dovish surprise"],
-      "bearish": ["XLF", "XLK - earnings risk + rates sensitivity"],
+      "impact": {
+        "en": "July inflation data is the key Fed decision point. Mild print could spark rate cut rally, while hot readings restore hawkish bias.",
+        "zh": "7 月通胀数据是美联储决策的关键节点。温和的数据可能引发降息行情，而偏热的读数将重振鹰派倾向。"
+      },
+      "bullish": ["TLT - on dovish surprise / TLT - 若出现鸽派意外"],
+      "bearish": ["XLF", "XLK - earnings risk + rates sensitivity / XLK 板块面临盈利风险及利率敏感性"],
       "macroRisk": {
         "en": "Asymmetric CPI impact: weak data boosts growth stocks via rate cut hopes, while hot prints could trigger broad sell-off.",
         "zh": "CPI 影响不对称：弱数据通过降息预期提振成长股，而通胀过热可能引发普遍抛售。"
@@ -134,7 +155,7 @@
   "premarketFocus": {
     "futures": {
       "en": "+0.26% S&P, +0.71% Nasdaq leading rally with broad sector participation.",
-      "zh": "标普指数期货上涨+0.26%，纳指涨幅领先达+0.71%，广泛行业参与"
+      "zh": "标普指数期货上涨0.26%，纳指涨幅领先达+0.71%，广泛行业参与"
     },
     "treasury10Y": {
       "en": "~3.85-4.0%, stabilizing ahead of CPI volatility release tonight.",

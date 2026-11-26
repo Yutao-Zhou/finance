@@ -8,7 +8,7 @@
     {
       "title": {
         "en": "Micron (MU) earnings surge +16% after-hours sparks tech rally ahead of PCE data",
-        "zh": "美光盘后暴涨+16%，点燃科技股反弹，市场关注今晚 PCE 通胀数据"
+        "zh": "美光盘后暴涨16%，点燃科技股反弹，市场关注今晚 PCE 通胀数据"
       },
       "impact": {
         "en": "Strong Q3 revenue guidance ($50B vs $43.6B expected) and quadrupled margins validate AI memory demand, lifting broad semiconductor/AI ecosystem including Qualcomm (+13%), Sandisk, Western Digital.",
@@ -56,11 +56,11 @@
     {
       "title": {
         "en": "Gold falls below $4K/oz as USD strengthens and oil prices decline amid risk-on sentiment",
-        "zh": "黄金跌破$40/盎司因美元走强和油价下跌，风险偏好情绪升温"
+        "zh": "美元走强、市场风险偏好回升，黄金跌破每盎司 4,000 美元"
       },
       "impact": {
-        "en": "Risk-on flows hit safe havens. Gold/Oil inverse relationship confirmed as inflation expectations ease via oil disinflation.",
-        "zh": "风险流入避险资产。黄金与石油的负相关关系得到证实，因油价去通胀降低了通胀预期"
+        "en": "A pickup in risk appetite weighed on safe-haven assets. Lower oil prices eased some inflation concerns.",
+        "zh": "风险偏好回升，黄金等避险资产承压。油价回落也缓解了部分通胀担忧。"
       },
       "bullish": ["GDX"],
       "bearish": ["GLD", "SLV"],
@@ -145,7 +145,7 @@
     },
     "preciousMetals": {
       "en": "Gold fell below $4K/oz as USD strengthens and oil disinflationary signals ease inflation fears. Silver hit lows near$56/Oz on risk-on flows hitting safe havens.",
-      "zh": "黄金跌破$40/盎司因美元走强和油价去通胀信号减轻通胀担忧。白银受风险偏好流入避险资产触及低点约$56"
+      "zh": "美元走强、油价下跌缓解通胀担忧，黄金跌破每盎司 4,000 美元。随着风险偏好回升，白银等避险资产承压，白银一度跌至每盎司约 56 美元。"
     },
     "oil": {
       "en": "WTI testing $69/Bbl vs Brent at $78.36 below 200-day SMA. US-Iran peace progress reduces geopolitical risk premium despite IRGC threats. Venezuela earthquake impact negligible.",

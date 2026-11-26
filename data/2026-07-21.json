@@ -14,7 +14,7 @@
         "en": "Semiconductor firms could account for 44% of S&P 500 earnings growth in Q2; LSEG data projects sector profits up 133%. Narrow breadth (64.3% Nasdaq names declined Monday) limits upside potential without broader confirmation.",
         "zh": "半导体公司可能占标普指数第二季度利润增长的 44%;LSEG数据显示该行业利润预计增长 133%,但市场广度有限,周一纳斯达克股票下跌比例达 64.3%,若无更广泛的确认上涨空间受限。"
       },
-      "bullish": ["semiconductor", "bigTech"],
+      "bullish": ["semiconductor / 半导体", "bigTech / 大型科技公司"],
       "bearish": [],
       "macroRisk": {
         "en": "Narrow market breadth suggests limited participation; rebound needs earnings confirmation beyond oil price decline.",
@@ -30,7 +30,7 @@
         "en": "US military strikes hit ninth consecutive day; additional soldier deaths in Jordan/Iraq raise all-out war concerns. Oil price elevation threatens inflation expectations and supports DXY strength.",
         "zh": "美军连续第九天对伊朗进行打击,约旦和伊拉克另有多名士兵阵亡引发全面战争担忧。油价抬升威胁通胀预期并支撑美元指数走强。"
       },
-      "bullish": ["oil", "energy"],
+      "bullish": ["oil / 石油", "energy / 能源板块"],
       "bearish": [],
       "macroRisk": {
         "en": "Geopolitical escalation could sustain high oil prices, complicating Fed policy and supporting dollar as safe-haven asset. Inflation concerns if energy costs persist.",
@@ -46,7 +46,7 @@
         "en": "ING analyst Chris Turner notes higher energy supports DXY recovery. Ten-year Treasury yields at 4.55% with stable rates provide dollar floor amid geopolitical uncertainty.",
         "zh": "英国 ING分析师Chris Turner指出较高的能源价格支撑美元指数恢复。十年期国债收益率在 4.55%,稳定的利率在地缘政治不确定性中为美元提供底线。"
       },
-      "bullish": ["preciousMetals", "dxy"],
+      "bullish": ["preciousMetals / 贵金属", "dxy"],
       "bearish": [],
       "macroRisk": {
         "en": "Geopolitical risk supports dollar as haven; sustained oil prices complicate inflation trajectory and could limit Fed rate cuts.",
@@ -62,7 +62,7 @@
         "en": "Dow futures gained 0.3%, S&P up 0.5% as chip rally counters regional tensions. Narrow breadth puts premium on upcoming AI-related earnings for market direction.",
         "zh": "道指期货上涨 0.3%,标普指数上涨 0.5%,芯片股反弹抵消地区紧张局势。狭窄的市场广度使市场方向更依赖于即将到来的与人工智能相关的财报。"
       },
-      "bullish": ["ai", "semiconductor"],
+      "bullish": ["ai", "semiconductor / 半导体"],
       "bearish": [],
       "macroRisk": {
         "en": "Market breadth remains weak with 64%+ Nasdaq names declining. Earnings validation required for sustained move above Monday's range.",
@@ -78,7 +78,7 @@
         "en": "Precious metals rally on geopolitical premium. If oil stays above $84/WTI with Strait of Hormuz closure risks, real yields and safe-haven flows could push prices higher.",
         "zh": "地缘政治溢价带动贵金属上涨。如果油价维持在$84/桶以上且霍尔木兹海峡关闭风险存在，实际收益率和避险资金流可能推高金价。"
       },
-      "bullish": ["preciousMetals", "dxy"],
+      "bullish": ["preciousMetals / 贵金属", "dxy"],
       "bearish": [],
       "macroRisk": {
         "en": "High oil prices could complicate inflation and Fed policy, creating mixed signals for precious metals despite geopolitical premium.",

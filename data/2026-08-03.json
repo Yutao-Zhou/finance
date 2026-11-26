@@ -2,7 +2,7 @@
   "date": "2026-08-03",
   "summary": {
     "en": "US stocks poised to open higher as three major index futures rise on Monday. Oil prices fell below $84 amid hopes for de-escalation in the Middle East following US-Iran diplomatic signals, while healthcare sector gained focus after Bristol Myers Squibb and AstraZeneca merger talks sparked a potential ~$400B deal that could reshape the global pharmaceutical landscape.",
-    "zh": "美股周一开盘料上涨，三大指数期货齐扬。受美伊外交缓和信号推动，油价跌破 84 美元；医疗保健板块因博姿与阿斯利康合并谈判而受到关注，双方可能达成价值约 4000 亿美元的交易，或重塑全球制药格局。"
+    "zh": "美股周一开盘料上涨，三大指数期货齐扬。受美伊外交缓和信号推动，油价跌破 84 美元；医疗保健板块因百时美施贵宝与阿斯利康合并谈判而受到关注，双方可能达成价值约 4000 亿美元的交易，或重塑全球制药格局。"
   },
   "topNews": [
     {
@@ -159,7 +159,7 @@
     },
     "bigTech": {
       "en": "Big Tech (Mag-7) split after earnings: MSFT +21.8%, AMZN +17% from strong cloud/AI demand offset by AAPL -7.3%, META -6.5%. Broader index futures suggest positive start with QQQQ leading gains amid risk-on sentiment.",
-      "zh": "大科技（巨头七）财报后分化：MSFT 涨+21.8%、AMZN 涨+17%，因强劲云/AI需求，抵消 AAPL -7.3%、META -6.5%。大盘期货暗示积极开端，QQQ领涨，市场风险偏好上升。"
+      "zh": "大科技（巨头七）财报后分化：MSFT 涨21.8%、AMZN 涨17%，因强劲云/AI需求，抵消 AAPL -7.3%、META -6.5%。大盘期货暗示积极开端，QQQ领涨，市场风险偏好上升。"
     },
     "energy": {
       "en": "Energy sector under significant pressure as Brent crude falls ~5.7% to $83.77/barrel following diplomatic signals from US-Iran talks reducing oil supply risk premium. XLE etf and major producers (OXY, CVX) face near-term headwinds unless OPEC+ production cuts deepen or geopolitical tensions resurface.",
@@ -189,7 +189,7 @@
     },
     "treasury10Y": {
       "en": "~4.68% as of latest readings (July 30), with Treasury 2-year note @ 4.291%. Fed rate hike probability at 64%; hawkish speeches and sticky inflation expectations keep yield elevated.",
-      "zh": "~4.68%（截至最新读数，7月30日），国债2年期在$4.291。联邦加息概率为 64%，鹰派言论和粘性通胀预期使收益率维持高位。"
+      "zh": "~4.68%（截至最新读数，7月30日），2 年期美债收益率为 4.291%。联邦加息概率为 64%，鹰派言论和粘性通胀预期使收益率维持高位。"
     },
     "dxy": {
       "en": "DXY trading direction influenced by Fed rate comments and inflation expectations; Barkin speech scored modestly hawkish (6.2/10) signaling limited aggressive dollar repricing near term.",

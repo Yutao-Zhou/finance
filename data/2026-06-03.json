@@ -31,7 +31,7 @@
         "zh": "布伦特原油上涨 1.8% 至 97.70 美元/桶，WTI 上涨 2% 至 95.64 美元。油价上升可能提振能源板块，但可能导致通胀担忧和美联储利率政策影响。"
       },
       "bullish": ["XLE", "XOM", "COP", "CVX"],
-      "bearish": ["Consumer Discretionary", "Transportation"],
+      "bearish": ["Consumer Discretionary / 可选消费", "Transportation / 交通运输"],
       "macroRisk": {
         "en": "Oil price rise could weigh on inflation expectations and Fed rate path, creating selective sector rotation opportunities.",
         "zh": "油价上升可能抑制通胀预期和美联储利率路径，创造选择性板块轮动机会。"
@@ -63,7 +63,7 @@
         "zh": "美伊和平谈判的混合信号使地缘政治风险保持高位。中东紧张局势可能进一步推高油价，影响能源板块和通胀预期。"
       },
       "bullish": ["HES", "MPC", "PSX"],
-      "bearish": ["Broad Market Equities"],
+      "bearish": ["Broad Market Equities / 大盘股票"],
       "macroRisk": {
         "en": "US-Iran tensions present geopolitical risk that could escalate, spiking oil and creating risk-off sentiment if conflict erupts.",
         "zh": "美伊紧张局势呈现地缘政治风险，可能升级，推高油价，并在冲突爆发时创造避险情绪。"
@@ -122,8 +122,8 @@
   },
   "premarketFocus": {
     "futures": {
-      "en": "SP500 futures flat (-0.0%), Dow futures down -0.2%, Nasdaq futures up +0.1%. Market digesting post-record highs with cautious sentiment ahead of employment data.",
-      "zh": "标普 500 期货持平（-0.0%），道指期货下跌-0.2%，纳斯达克期货上涨+0.1%。市场消化创新高后的高涨，并对就业数据前的谨慎情绪。"
+      "en": "SP500 futures flat (-0.0%), Dow futures down 0.2%, Nasdaq futures up 0.1%. Market digesting post-record highs with cautious sentiment ahead of employment data.",
+      "zh": "标普 500 期货持平（-0.0%），道指期货下跌0.2%，纳斯达克期货上涨0.1%。市场消化创新高后的高涨，并对就业数据前的谨慎情绪。"
     },
     "treasury10Y": {
       "en": "10-Year Treasury yield up 4bps to 4.481% from 4.446%. Rising yields benefit rate-sensitive value stocks but pressure growth sectors and mortgage-sensitive names.",

@@ -2,7 +2,7 @@
   "date": "2026-11-17",
   "summary": {
     "en": "Information through 09:00 EST: US futures are mixed after Monday's selloff, with Nasdaq-100 futures up 0.23% and S&P 500 futures down 0.20% versus the previous cash-close reference. October retail sales rose 0.2% month over month; import and export prices each rose 1.1%. Nvidia's results remain due after the close. Higher Treasury yields and oil prices complicate the attempted technology recovery.",
-    "zh": "信息截至纽约时间09:00 EST：周一抛售后，美股期货涨跌互现，纳指100和标普500期货较前一现金收盘参考点分别上涨0.23%、下跌0.20%。已公布的10月零售销售环比增0.2%，进口、出口价格均环比涨1.1%。英伟达财报仍待盘后发布，美债收益率与油价走高增加科技板块修复的不确定性。"
+    "zh": "信息截至纽约时间09:00 EST：周一抛售后，美股期货涨跌互现，纳指100和标普500期货较上一交易日美股常规收盘时的参考值分别上涨0.23%、下跌0.20%。已公布的10月零售销售环比增0.2%，进口、出口价格均环比涨1.1%。英伟达财报仍待盘后发布，美债收益率与油价走高增加科技板块修复的不确定性。"
   },
   "topNews": [
     {
@@ -13,7 +13,7 @@
       },
       "impact": {
         "en": "The Census Bureau's 08:30 EST release puts October retail and food-services sales at $748.2B, up 0.2% monthly and 6.8% annually. September's 0.8% monthly gain was unrevised. Estimates are adjusted for seasonality and calendar effects, but not inflation; the monthly estimate's ±0.4 percentage-point margin includes zero.",
-        "zh": "人口普查局08:30 EST公布，10月零售与餐饮销售额$748.2B，环比增0.2%、同比增6.8%；9月环比增0.8%未修正。数据经季节及日历调整，未扣除价格变化；月度估计的误差范围为±0.4个百分点，包含零。"
+        "zh": "人口普查局08:30 EST公布，10月零售与餐饮销售额$748.2B，环比增0.2%、同比增6.8%；9月环比增0.8%未修正。数据已作季节和日历因素调整，未剔除价格变动的影响；月度估计的误差范围为±0.4个百分点，包含零。"
       },
       "bullish": [
         "名义销售额仍高于上年同期 / Nominal sales remain above the year-earlier level."
@@ -58,12 +58,10 @@
         "zh": "MT Newswires援引路透社知情来源报道，政府正推进阻止中国数据中心设备进口的计划；同篇综述称，家得宝第三财季调整后盈利和销售额、迪士尼第四财季调整后盈利和营收均增长。若限制最终落地，可能影响科技供应链。"
       },
       "bullish": [
-        "Nasdaq-100 futures up 0.23% pre-bell; Home Depot and Disney both reported higher adjusted earnings",
-        "纳指100期货盘前涨0.23%；家得宝和迪士尼均报告调整后盈利增长"
+        "Nasdaq-100 futures rose 0.23% before the open. Home Depot and Disney both reported higher adjusted earnings. / 纳指 100 期货盘前上涨 0.23%。家得宝与迪士尼均报告调整后盈利增长。"
       ],
       "bearish": [
-        "Trump admin moving to block Chinese data center equipment imports; oil up (Brent +1.41%, WTI +1.59%)",
-        "特朗普政府拟阻止中国数据中心设备进口；油价走高（布伦特+1.41%、WTI+1.59%）"
+        "The Trump administration was moving to block Chinese data-center equipment imports. Brent rose 1.41% and WTI rose 1.59%. / 特朗普政府拟阻止进口中国数据中心设备，布伦特原油上涨 1.41%，WTI 原油上涨 1.59%。"
       ],
       "macroRisk": {
         "en": "Oil futures up (Brent +1.41%, WTI +1.59%) could pressure consumer spending and corporate margins.",
@@ -99,7 +97,7 @@
     },
     "semiconductor": {
       "en": "SOXX down 5.45% Monday; SOX index down 34% from late-June peak but still up 35% YTD; BofA sees SOX within 10-15% of a potential trough.",
-      "zh": "SOXX周一跌5.45%；SOX指数自6月底峰值下跌34%但年内仍涨35%；美银认为SOX距潜在底部约10%至15%。"
+      "zh": "SOXX周一跌5.45%；SOX指数自6月底峰值下跌34%但年内仍涨35%；美银认为SOX 指数距离潜在底部仍有约 10% 至 15% 的下行空间。"
     },
     "bigTech": {
       "en": "QQQ fell 2.65% at Monday's close. Today's overview reports plans to restrict Chinese data-center equipment imports; a separate Monday report discussed a rule covering remote access to advanced US AI chips.",

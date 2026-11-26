@@ -2,7 +2,7 @@
   "date": "2026-06-15",
   "summary": {
     "en": "U.S. futures surged on a preliminary U.S.-Iran agreement easing geopolitical oil worries ahead of the Fed's June 16-17 meeting; energy-sensitive stocks rallied while AI chip leaders posted solid gains with SpaceX IPO at $2T valuation extending premarket strength.",
-    "zh": "美股期货受初步美伊协议提振在地缘政治油价担忧缓解前大涨，临近美联储 6 月 16-17 日会议；能源敏感型股票反弹，AI 芯片龙头表现稳健，SpaceX IPO 以 2T 估值延续盘前强势。"
+    "zh": "初步美伊协议缓解了原油供应忧虑，推动美股期货在美联储 6 月 16 至 17 日会议前大涨。对能源价格敏感的股票反弹，AI 芯片龙头上涨。SpaceX 上市估值约 2 万亿美元，上市后股价延续强势。"
   },
   "topNews": [
     {
@@ -14,7 +14,7 @@
         "en": "The tentative agreement to reopen Strait of Hormuz shipping reduces oil supply disruption fears. This translates to lower inflation expectations, falling Treasury yields, and risk-on asset allocation.",
         "zh": "重开霍尔木兹海峡航运的暂定协议降低了石油供应中断担忧，转化为通胀预期下降、美债收益率下行和风险资产再配置。"
       },
-      "bullish": ["energy-sensitive stocks", "travel & leisure", "semiconductor"],
+      "bullish": ["energy-sensitive stocks / 对能源敏感的个股", "travel & leisure / 旅游与休闲板块", "semiconductor / 半导体"],
       "bearish": [],
       "macroRisk": {
         "en": "Yes - Geopolitical de-escalation reduces inflation risk premium in oil, easing Fed rate hike concerns. Still a framework deal with unresolved nuclear program/Lebanon-Israel issues.",
@@ -30,7 +30,7 @@
         "en": "Historic valuation for aerospace & defense tech leader. Benefits EV, robotics, semiconductor supply chain (RF chips, propulsion). Potential M&A interest in deep-tech sector.",
         "zh": "航天与国防科技领导者历史级估值。利好电动车、机器人、半导体供应链（射频芯片、推进系统）。深科技公司潜在并购兴趣提升。"
       },
-      "bullish": ["SPACX", "aerospace ETFs", "deep tech venture capital"],
+      "bullish": ["SPACX", "aerospace ETFs / 航空航天 ETF", "deep tech venture capital / 深度科技风险投资"],
       "bearish": [],
       "macroRisk": {
         "en": "No - Company-specific catalyst, but reflects broader AI/robotics optimism.",
@@ -46,7 +46,7 @@
         "en": "Advance retail sales at 8:30 a.m. ET Wednesday gauge consumer strength before Fed vote on rates + inflation press conference impacts yield curve and dollar positioning.",
         "zh": "周三上午 8:30 EST 发布的先行零售销售在美联储利率投票前衡量消费者强度，通胀新闻发布会影响收益率曲线和美元配置。"
       },
-      "bullish": ["consumer discretionary", "retail stocks"],
+      "bullish": ["consumer discretionary / 可选消费板块", "retail stocks / 零售股"],
       "bearish": [],
       "macroRisk": {
         "en": "Medium - Strong retail + lower oil/inflation could keep easing door open, but geopolitical fragility remains if deal collapses.",
@@ -78,7 +78,7 @@
         "en": "Lower oil → lower CPI core expectations → 10Y yields decline supports equity duration sensitivity. Tech stocks particularly benefit from stable rates ahead of FOMC.",
         "zh": "低油价→降低核心 CPI 预期→10 年期收益率下行支持股权期限敏感性。科技股尤其受益于美联储前利率稳定。"
       },
-      "bullish": ["growth tech", "utilities"],
+      "bullish": ["growth tech / 成长型科技股", "utilities / 公用事业"],
       "bearish": [],
       "macroRisk": {
         "en": "Yes - Yield decline could signal Fed pivot expectations, but caution warranted until inflation print confirms sustained disinflation.",
@@ -94,7 +94,7 @@
         "en": "Dollar pressure from risk-on + declining yields. EM assets, multinationals with non-USD revenue benefit; commodity exporters priced in weaker currency backdrop.",
         "zh": "风险偏好加收益下行施压美元。新兴市场资产、非美收入跨国公司受益；商品出口商在弱势货币背景下计价。"
       },
-      "bullish": ["EM equities", "multinational retailers"],
+      "bullish": ["EM equities / 新兴市场股票", "multinational retailers / 跨国零售商"],
       "bearish": [],
       "macroRisk": {
         "en": "No - Direct dollar weakening mechanism, not systemic risk.",
@@ -105,35 +105,35 @@
   "sectorRadar": {
     "ai": {
       "en": "Strong rally with NVDA +2.3%, AMD +7.54% (semiconductor super-cycle continues), MU up to ~$190+ as memory pricing normalizes post-inventory correction.",
-      "zh": "大涨 NVDA 涨 2.3%，AMD 升至约 190（半导体超级周期持续），MU 在库存修正后内存定价正常化上弹。"
+      "zh": "AI 芯片股强势反弹，英伟达上涨 2.3%，AMD 上涨 7.54%。库存调整后，存储芯片价格逐步恢复，美光股价升至约 190 美元。"
     },
     "semiconductor": {
       "en": "Broad strength with MU (+7.93%), AVGO (+5.4% memory chip demand), INTC recovering +3.1%. Oligopoly pricing power intact as AI compute demand outpaces capacity.",
-      "zh": "广泛走强，MU 涨 7.93%，AVGO（内存芯片需求）+5.4%，INTC 复苏。AI 算力需求跑赢产能寡头定价权完整。"
+      "zh": "广泛走强，MU 涨 7.93%，AVGO（内存芯片需求）+5.4%，英特尔反弹 3.1%。AI 算力需求超过供应能力，主要厂商仍具定价权。"
     },
     "bigTech": {
       "en": "AAPL +1.74%, MSFT +2% on cloud/AI hybrid revenue models, META gaining as ad platform monetizes efficiency gains from AI infrastructure buildout.",
-      "zh": "苹果涨 1.74%，微软因云+AI混合收入模型升至约 580，META（广告平台利用 AI 基建效率增益）获青睐。"
+      "zh": "苹果涨 1.74%，微软受云业务与 AI 收入前景提振上涨约 2%，META（广告平台利用 AI 基建效率增益）获青睐。"
     },
     "energy": {
       "en": "Mixed - OREX, XOM pressure from Brent -$3-5/barrel drop but pipeline/transportation stocks gain as logistics de-risking. Long-term transition plays (CCS/EV infrastructure) supported.",
       "zh": "分化——埃克森美孚、雪佛龙受布伦特油价每桶跌 3-5 美元压力，但管道运输股受益于物流去风险化。长期转型标的（碳捕集/电动车基础设施）获支持。"
     },
     "ev": {
-      "en": "Rally continues with cheaper energy bills easing TCO concerns. RIVN +6%, LCID +5% as EV demand rebounds on falling gasoline prices reducing range anxiety premium.",
-      "zh": "行情延续，廉价能源账单降低总拥有成本担忧。Rivian 涨约 20%，Lucid（电动车需求反弹汽油价跌减少里程焦虑溢价）+18."
+      "en": "EV shares continued to rally, with Rivian and Lucid gaining.",
+      "zh": "电动车股票延续反弹，Rivian 和 Lucid 双双上涨。"
     },
     "market": {
       "en": "Broad-based rally driven by S&P futures +1.24%, Nasdaq +2.12% with low-cap tech leading breadth after earnings season consolidation.",
-      "zh": "普涨大盘，S&P 期货+1.24%，纳指涨幅达 850 点（收益季后整合领先广度）科技股带动。"
+      "zh": "股指期货普遍上涨，标普 500 期货上涨 1.24%，纳指期货上涨 2.12%。部分小市值科技股领涨，市场上涨范围扩大。"
     },
     "preciousMetals": {
       "en": "Gold volatile - down from $2,673 peak Jan high as real rates stabilize and geopolitical risk premium compressed post-Iran deal. Silver slightly more resilient in industrial demand context.",
       "zh": "黄金波动——自 1 月高位回落，实际利率稳定、伊朗协议后地缘风险溢价压缩。白银在工业需求下稍具弹性。"
     },
     "oil": {
-      "en": "WTI at $80.11 (-5.62%), Brent near $83 (-4.25%). Risk premium compresses as Strait of Hormuz reopening confirmed but not full peace dividend yet.",
-      "zh": "WTI 约 79，布伦特跌至 82。霍尔木兹海峡重开确认风险溢价压缩但未兑现完全和平红利。"
+      "en": "WTI at $80.11 (-5.62%), Brent near $83 (-4.25%). Risk premium compresses as traders anticipate the reopening of the Strait of Hormuz.",
+      "zh": "WTI 原油约为每桶 80.11 美元，下跌 5.62%；布伦特原油约为每桶 83 美元，下跌 4.25%。霍尔木兹海峡有望恢复通航使供应风险溢价收窄，市场仍在关注落实情况。"
     }
   },
   "premarketFocus": {

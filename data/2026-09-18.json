@@ -1,8 +1,8 @@
 {
   "date": "2026-09-18",
   "summary": {
-    "en": "Monday pre-market focus on FOMC rate decision anticipation with Middle East oil supply disruption dominating headlines. Energy sector leadership from Friday may persist but inflation concerns from sustained elevated oil prices complicate Fed policy narrative. Investors await clarity on whether oil price shock anchors higher yields and impacts Fed's disinflation timeline.",
-    "zh": "周一盘前焦点为美联储利率决策预期，中东石油供应中断主导头条。能源板块从周五的领先地位可能延续，但持续高企油价引发的通胀担忧使美联储政策叙事复杂化。投资者等待油价冲击是否固化收益率更高并影响美联储降通胀时间表。"
+    "en": "After the September 15–16 FOMC meeting, investors continued to assess how Middle East oil supply disruptions and elevated energy prices could affect inflation, Treasury yields, and the Fed’s policy outlook.",
+    "zh": "9 月 15 至 16 日的美联储议息会议结束后，投资者继续评估中东石油供应中断和能源价格高企对通胀、美债收益率及美联储政策前景的影响。"
   },
   "topNews": [
     {
@@ -14,8 +14,8 @@
         "en": "Tomorrow's FOMC decision critical. Sustained high oil prices ($85-90 Brent) provide supply-driven inflation evidence that could justify rate hike but also signal growth headwinds.",
         "zh": "明天 FOMC 决策关键。持续高油价（布伦特 85-90 美元）提供供应驱动通胀证据，可能证明加息理由但也显示增长逆风。"
       },
-      "bullish": ["value stocks", "energy producers"],
-      "bearish": ["high duration bonds", "rate-sensitive growth", "tech sector"],
+      "bullish": ["value stocks / 价值股", "energy producers / 能源生产商"],
+      "bearish": ["high duration bonds / 长久期债券", "rate-sensitive growth / 对利率敏感的成长股", "tech sector / 科技板块"],
       "macroRisk": {
         "en": "MEDIUM-HIGH - Fed must balance inflation fight with economic stability. Oil supply shock complicates policy independence from external price drivers.",
         "zh": "中高风险 - 美联储必须在通胀战斗与经济稳定间平衡。油价供应冲击使政策独立于外部价格驱动复杂化。"
@@ -30,8 +30,8 @@
         "en": "Yanbu refinery disruption and Saudi pipeline issues keep Brent elevated. Oil price transmission to consumer prices tests Fed patience. Transportation costs rising pressures retail/margins.",
         "zh": "延布炼油厂中断和沙特管道问题使布伦特维持高位。油价向消费者价格传导考验美联储耐心。运输成本上升施压零售/利润率。"
       },
-      "bullish": ["energy producers", "oil services"],
-      "bearish": ["consumer discretionary", "retailers", "airlines", "transportation"],
+      "bullish": ["energy producers / 能源生产商", "oil services / 石油服务板块"],
+      "bearish": ["consumer discretionary / 可选消费板块", "retailers / 零售商", "airlines / 航空业", "transportation / 交通运输业"],
       "macroRisk": {
         "en": "HIGH - Oil inflation persistence risks anchoring core PCE expectations upward, complicating Fed's disinflation path and rate cut timing.",
         "zh": "高风险 - 油价通胀持续性风险使核心 PCE 预期向上锚定，复杂化美联储降通胀路径和降息时机。"
@@ -46,8 +46,8 @@
         "en": "Oil-driven supply shock elevates yield curve, pressuring rate-sensitive sectors. Fed's credibility on inflation anchoring under test as external price drivers exceed control.",
         "zh": "供应冲击抬高收益率曲线，施压利率敏感板块。美联储在通胀锚定可信度受外部价格驱动超出控制时测试。"
       },
-      "bullish": ["financials if yields stabilize", "value stocks"],
-      "bearish": ["high duration bonds", "tech sector", "growth equities"],
+      "bullish": ["financials if yields stabilize / 若收益率稳定则金融业", "value stocks / 价值股"],
+      "bearish": ["high duration bonds / 长久期债券", "tech sector / 科技板块", "growth equities / 成长型股票"],
       "macroRisk": {
         "en": "MEDIUM - Elevated 10Y yields pressure duration. Fed communication must clarify inflation vs growth tradeoff in current environment.",
         "zh": "中风险 - 高企 10 年期收益率施压久期。美联储沟通必须在当前环境下澄清通胀与增长权衡。"
@@ -62,8 +62,8 @@
         "en": "Gold prices elevated on geopolitical risks despite USD strength. Safe-haven demand supports precious metals as inflation hedge and store of value amid supply disruption uncertainty.",
         "zh": "尽管美元强劲，金价因地缘政治风险而高位。避险需求支持贵金属作为通胀保值和储值工具，因供应中断不确定性。"
       },
-      "bullish": ["precious metals miners", "defensive positioning"],
-      "bearish": ["risk-on assets if geopolitical de-escalate"],
+      "bullish": ["precious metals miners / 贵金属矿业公司", "defensive positioning / 防御性配置"],
+      "bearish": ["risk-on assets if geopolitical de-escalate / 若地缘政治缓和则关注风险偏好资产"],
       "macroRisk": {
         "en": "MEDIUM - Gold benefits from uncertainty but high yields limit upside. Strong USD and Fed hawkish stance cap appreciation potential.",
         "zh": "中风险 - 黄金受益于不确定性但高收益率限制上行。强劲美元和美联储鹰派立场限制升值潜力。"
@@ -78,8 +78,8 @@
         "en": "Semiconductor demand remains strong but Middle East supply disruptions pose operational risks. Taiwan-related geopolitical tensions could impact global fab capacity.",
         "zh": "半导体需求保持强劲但中东供应中断构成运营风险。台湾相关地缘政治紧张可能影响全球晶圆产能。"
       },
-      "bullish": ["semiconductor leaders", "AI infrastructure"],
-      "bearish": ["if geopolitics escalate further", "supply-dependent manufacturers"],
+      "bullish": ["semiconductor leaders / 半导体龙头企业", "AI infrastructure / 人工智能基础设施"],
+      "bearish": ["if geopolitics escalate further / 若地缘政治进一步升级", "supply-dependent manufacturers / 依赖供应的制造商"],
       "macroRisk": {
         "en": "LOW-MEDIUM - AI fundamentals strong but geopolitical risk premium impacts longer-term planning. China demand remains key growth driver.",
         "zh": "低中风险 - AI 基本面强劲但地缘政治风险溢价影响长期规划。中国需求保持关键增长驱动。"
@@ -94,8 +94,8 @@
         "en": "Japan/Nikkei and Korea/KOSPI showed some weakness but energy-related sectors outperformed. Asian pre-market may see energy-led strength carry over.",
         "zh": "日本日经和韩国 Kospi 显示一些疲软但能源相关板块超额表现。亚洲盘前可能看到能源驱动的强势延续。"
       },
-      "bullish": ["energy stocks", "defensive sectors"],
-      "bearish": ["growth stocks", "if Asian weakness spreads"],
+      "bullish": ["energy stocks / 能源股", "defensive sectors / 防御性板块"],
+      "bearish": ["growth stocks / 成长股", "if Asian weakness spreads / 若亚洲市场疲软蔓延"],
       "macroRisk": {
         "en": "MEDIUM - Regional sentiment cautious ahead of US open. Any broader Asian decline could spill over to US equity risk.",
         "zh": "中风险 - 区域情绪在美国开盘前谨慎。任何广泛亚洲下跌可能波及美国股权风险。"
@@ -110,8 +110,8 @@
         "en": "DXY stable to slightly higher with yield curve steepening. Safe-haven flows support USD strength vs emerging markets but multinationals face FX headwinds.",
         "zh": "DXY 在收益率曲线陡峭时保持稳定到略有上涨。避险资金支持美元对新兴市场强势但跨国公司面临外汇逆风。"
       },
-      "bullish": ["US Treasuries", "multinational exporters if USD weakens"],
-      "bearish": ["emerging market assets", "import-dependent sectors"],
+      "bullish": ["US Treasuries / 美国国债", "multinational exporters if USD weakens / 若美元走弱，跨国出口商将受益"],
+      "bearish": ["emerging market assets / 新兴市场资产", "import-dependent sectors / 依赖进口的行业"],
       "macroRisk": {
         "en": "MEDIUM - Strong USD pressures EM and import-heavy sectors. Fed rate decision will determine whether dollar strength persists or moderates.",
         "zh": "中风险 - 强劲美元施压新兴市场和重进口板块。美联储利率决策将决定美元强势是否持续或缓和。"

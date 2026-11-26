@@ -2,7 +2,7 @@
 	"date": "2026-09-11",
 	"summary": {
 		"en": "Friday morning markets focus on weekly economic data releases and earnings season mid-point, with investors watching for inflation implications ahead of potential Fed policy guidance. Energy sector gains from OPEC+ discussions while tech faces volatility on AI regulatory concerns.",
-		"zh": "周五盘前市场关注每周经济数据发布及财报季中段，投资者观望通胀对美联储政策指引的影响。能源股因 OPEC+ 讨论获利，科技股受 AI 监管担忧而波动。"
+		"zh": "周五盘前市场关注每周经济数据发布及财报季中段，投资者观望通胀对美联储政策指引的影响。受 OPEC+ 讨论影响，能源股上涨，科技股受 AI 监管担忧而波动。"
 	},
 	"topNews": [
 		{
@@ -14,8 +14,8 @@
 				"en": "Rising oil prices benefit upstream energy producers while increasing transportation and manufacturing costs. Higher energy prices may trigger inflation concerns affecting Fed policy stance.",
 				"zh": "油价上涨利好上游能源生产商，同时增加交通和制造成本。能源价格升高可能引发通胀担忧，影响美联储政策立场。"
 			},
-			"bullish": ["energy sector", "oil producers", "transportation costs hedge"],
-			"bearish": ["consumer spending", "airline profits", "retail margins"],
+			"bullish": ["energy sector / 能源板块", "oil producers / 石油生产商", "transportation costs hedge / 运输成本对冲"],
+			"bearish": ["consumer spending / 消费者支出", "airline profits / 航空业利润", "retail margins / 零售利润率"],
 			"macroRisk": {
 				"en": "Potential inflation spike could constrain Fed policy, limiting risk-on flows to growth names.",
 				"zh": "通胀可能飙升，制约美联储政策，限制成长股的风险偏好资金流入。"
@@ -30,8 +30,8 @@
 				"en": "Antitrust concerns around AI models and potential regulatory frameworks could impact big tech earnings guidance. Investors remain cautious on capex plans for generative AI infrastructure.",
 				"zh": "围绕 AI 模型的反垄断担忧及潜在监管框架可能影响科技巨头盈利指引。投资者对生成式 AI 基础设施资本开支计划保持谨慎。"
 			},
-			"bullish": ["established players with moats", "regulatory-compliant AI vendors"],
-			"bearish": ["mid-cap tech", "capex-heavy AI startups", "advertising platforms"],
+			"bullish": ["established players with moats / 拥有护城河的成熟玩家", "regulatory-compliant AI vendors / 合规 AI 供应商"],
+			"bearish": ["mid-cap tech / 中型科技股", "capex-heavy AI startups / 资本支出密集的 AI 初创企业", "advertising platforms / 广告平台"],
 			"macroRisk": {
 				"en": "Policy uncertainty around AI regulation could delay capex plans and impact earnings growth expectations for semiconductor and software sectors.",
 				"zh": "AI 监管政策的不确定性可能推迟资本开支计划，影响半导体和软件板块的盈利增长预期。"
@@ -46,8 +46,8 @@
 				"en": "Weaker-than-expected Chinese consumer data raises concerns about global demand for US tech exports. Semiconductor manufacturers serving China face potential volume challenges in the coming quarter.",
 				"zh": "中国消费者数据不及预期，引发对美国科技出口需求的担忧。为华供货的半导体制造商面临下个季度的潜在销量挑战。"
 			},
-			"bullish": ["companies with non-China revenue", "domestic-focused tech"],
-			"bearish": ["China-exposed hardware", "export-dependent software", "EV supply chain"],
+			"bullish": ["companies with non-China revenue / 非中国收入公司", "domestic-focused tech / 本土化科技股"],
+			"bearish": ["China-exposed hardware / 受中国影响的硬件厂商", "export-dependent software / 出口依赖型软件", "EV supply chain / 电动汽车供应链"],
 			"macroRisk": {
 				"en": "Geopolitical tensions combined with weak Chinese demand create headwinds for global tech growth, particularly for companies with significant China exposure.",
 				"zh": "地缘政治紧张与疲软的中国需求叠加，为全球科技增长带来逆风，尤其是对中国有重大敞口的公司。"
@@ -62,8 +62,8 @@
 				"en": "The 10Y Treasury yield holding near key levels provides support for equity valuations. Stable yields reduce financing costs for companies while limiting rate-sensitive growth stock pressure.",
 				"zh": "10 年期美债收益率在关键水平附近支撑股市估值。稳定的收益率降低了公司融资成本，同时限制了对利率敏感的成长股压力。"
 			},
-			"bullish": ["growth stocks", "tech names", "duration-sensitive portfolios"],
-			"bearish": ["fixed income alternatives", "leveraged loans"],
+			"bullish": ["growth stocks / 成长股", "tech names / 科技股名称", "duration-sensitive portfolios / 对期限敏感的投资组合"],
+			"bearish": ["fixed income alternatives / 固定收益替代品", "leveraged loans / 杠杆贷款"],
 			"macroRisk": {
 				"en": "Any sudden yield spike could pressure growth equities; conversely, yields falling too low might signal recession fears.",
 				"zh": "收益率突然飙升可能压制成长股；反之，收益率过低可能信号衰退担忧。"
@@ -78,8 +78,8 @@
 				"en": "A stabilizing DXY benefits multinational earnings visibility while limiting pressure on commodity prices. Weakness could open opportunities for emerging market exposure.",
 				"zh": "稳定的美元利好跨国盈利可见性，同时限制商品价格压力。美元疲软可能为新兴市场敞口创造机会。"
 			},
-			"bullish": ["international companies", "multinational earnings", "emerging markets"],
-			"bearish": ["US exporters", "foreign assets in dollar terms", "travel-related revenue"],
+			"bullish": ["international companies / 国际公司", "multinational earnings / 跨国企业盈利", "emerging markets / 新兴市场"],
+			"bearish": ["US exporters / 美国出口商", "foreign assets in dollar terms / 以美元计价的海外资产", "travel-related revenue / 与旅行相关的收入"],
 			"macroRisk": {
 				"en": "Dollar strength or weakness is closely tied to Fed policy divergence, creating cross-asset correlations that could impact risk sentiment.",
 				"zh": "美元强弱与美联储政策分化紧密相关，创造跨资产相关性，可能影响风险情绪。"

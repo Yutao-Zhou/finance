@@ -15,12 +15,12 @@
         "zh": "当前上涨仍主要由少数大市值龙头驱动，这对指数点位有利，但对市场广度并不友好。若领涨群体停顿，其他板块未必能顺利接棒。"
       },
       "bullish": [
-        "Mega-cap technology",
-        "AI infrastructure"
+        "Mega-cap technology / 大型科技股",
+        "AI infrastructure / 人工智能基础设施"
       ],
       "bearish": [
-        "Weak breadth",
-        "High-beta laggards"
+        "Weak breadth / 广度疲软",
+        "High-beta laggards / 高贝塔滞后者"
       ],
       "macroRisk": {
         "en": "A leadership fade would expose how dependent the rally is on a narrow set of names.",
@@ -37,12 +37,12 @@
         "zh": "短期仓位与季末再平衡会让半导体和 AI 个股波动加大，但云计算和基础设施支出周期本身仍然偏正面。这更像估值和资金流问题，而不是需求塌陷。"
       },
       "bullish": [
-        "AI capex visibility",
-        "Cloud infrastructure spend"
+        "AI capex visibility / 人工智能资本支出可见性",
+        "Cloud infrastructure spend / 云计算基础设施支出"
       ],
       "bearish": [
-        "Semiconductor valuation risk",
-        "Positioning-driven volatility"
+        "Semiconductor valuation risk / 半导体估值风险",
+        "Positioning-driven volatility / 由仓位驱动的波动"
       ],
       "macroRisk": {
         "en": "If yields keep edging higher, duration-sensitive AI leaders can de-rate quickly.",
@@ -59,12 +59,12 @@
         "zh": "原油价格已经足以影响通胀预期和能源股，但还没有高到迫使市场按衰退逻辑重定价。这意味着市场处于警惕状态，而不是恐慌状态。"
       },
       "bullish": [
-        "Energy producers",
-        "Oil services"
+        "Energy producers / 能源生产商",
+        "Oil services / 油气服务股"
       ],
       "bearish": [
-        "Airlines",
-        "Transport names"
+        "Airlines / 航空公司",
+        "Transport names / 运输类股票"
       ],
       "macroRisk": {
         "en": "A move toward $80 would quickly lift inflation breakevens and Treasury yields.",
@@ -136,7 +136,7 @@
     },
     "note": {
       "en": "The tape is slightly constructive, but not enough to call it clean risk-on because futures are mixed and geopolitics still matters. The market is supported by mega-cap tech and contained oil, yet it remains vulnerable to month-end flows and any jump in crude.",
-      "zh": "当前盘面略偏积极，但期货分化，暂时还不能算纯粹的 risk-on。大盘受大科技和受控油价支撑，不过仍容易受到月末资金流和油价急升的冲击。"
+      "zh": "当前盘面略偏积极，但期货分化，暂时还不能算纯粹的 风险偏好回升。大盘受大科技和受控油价支撑，不过仍容易受到月末资金流和油价急升的冲击。"
     }
   }
 }

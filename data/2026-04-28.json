@@ -2,7 +2,7 @@
   "date": "2026-04-28",
   "summary": {
     "en": "Geopolitical tensions in the Middle East push oil above $110, reigniting inflation concerns as Fed policy uncertainty looms ahead of big tech earnings. Tech futures slip on AI jitters despite record highs, while energy names benefit from the oil surge.",
-    "zh": "中东地缘政治紧张推高油价突破 110 美元，通胀担忧再起，加上美联储政策不确定性 looming，正值科技股财报季前夕。科技股因 AI 焦虑回落，尽管指数仍处高位；能源股因油价上涨受益。"
+    "zh": "中东地缘政治紧张推高油价突破 110 美元，通胀担忧再起，科技巨头即将公布财报，美联储政策前景仍不明朗。科技股期货因 AI 相关担忧走弱，尽管指数仍处高位；能源股因油价上涨受益。"
   },
   "topNews": [
     {
@@ -15,7 +15,7 @@
         "zh": "霍尔木兹/伊朗冲突风险推高油价，引发滞胀担忧。BP 盈利因燃料价格飙升翻倍。传导路径：油价上涨→通胀预期上升→降息概率下降→科技股估值承压。"
       },
       "bullish": ["XOM", "CVX", "COP", "BP", "SLB"],
-      "bearish": ["TSLA", "UAA", "JPM", "XOM (consumer demand risk)"],
+      "bearish": ["TSLA", "UAA", "JPM", "XOM (consumer demand risk) / XOM（消费者需求风险）"],
       "macroRisk": {
         "en": "Yes - Oil price shock adds to inflation risk, constrains Fed cutting space, benefits energy cyclicals, pressures rate-sensitive tech and consumer names.",
         "zh": "是 - 油价冲击加大通胀风险，压缩 Fed 降息空间，利好能源周期股，压制对利率敏感的科技和消费股。"

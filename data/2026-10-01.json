@@ -14,8 +14,8 @@
         "en": "Markets digest dovish rhetoric but remain attentive to data-dependent policy path. Treasury yields stabilize as investors price in slower pivot timing.",
         "zh": "市场消化鸽派言论但仍关注数据依赖的政策路径。美债收益率稳定，投资者定价较慢的转向时机。"
       },
-      "bullish": ["financials", "banks"],
-      "bearish": ["small-cap_value"],
+      "bullish": ["financials / 金融业", "banks / 银行股"],
+      "bearish": ["small-cap_value / 小盘价值股"],
       "macroRisk": {
         "en": "Yes - Yield curve dynamics could pressure rate-sensitive sectors including REITs and utilities.",
         "zh": "是 - 收益率曲线动态可能对利率敏感板块包括 REITs 和公用事业构成压力。"
@@ -30,7 +30,7 @@
         "en": "WTI/Brent consolidation limits broad-based inflation surge concerns but creates sector-specific headwinds for energy-intensive industries.",
         "zh": "WTI/布伦特盘整限制了广泛通胀激增担忧但对能源密集型行业造成特定不利因素。"
       },
-      "bullish": ["energy_producers"],
+      "bullish": ["energy_producers / 能源生产商"],
       "bearish": [],
       "macroRisk": {
         "en": "Yes - Oil price volatility transmits to service inflation expectations and wage pressures.",
@@ -46,7 +46,7 @@
         "en": "Expectations elevated for guidance on next-gen chip capacity. Cloud hyperscalers' capex allocation critical for sector sentiment.",
         "zh": "对下一代芯片产能指引预期高涨。云超大规模数据中心的资本支出配置对板块情绪至关重要。"
       },
-      "bullish": ["nvidia", "semiconductors"],
+      "bullish": ["nvidia", "semiconductors / 半导体"],
       "bearish": [],
       "macroRisk": {
         "en": "No - Earnings-driven rally isolated from macro environment.",
@@ -63,7 +63,7 @@
         "zh": "DXY 上行压力影响跨国企业收益和新兴资产敞口。跨国科技股票监控外汇逆风。"
       },
       "bullish": [],
-      "bearish": ["em_equities", "multinationals"],
+      "bearish": ["em_equities / 新兴市场股票", "multinationals / 跨国企业"],
       "macroRisk": {
         "en": "Yes - DXY strength correlates with weaker growth prospects for FX-sensitive sectors.",
         "zh": "是 - DXY 走强与外汇敏感板块增长前景较弱相关。"
@@ -79,7 +79,7 @@
         "zh": "ECB 对通胀轨迹的评论影响全球债券市场情绪和跨资产配置。"
       },
       "bullish": [],
-      "bearish": ["euro_bond"],
+      "bearish": ["euro_bond / 欧元债券"],
       "macroRisk": {
         "en": "Yes - ECB dovishness could spill over to yield curve flattening concerns.",
         "zh": "是 - ECB 鸽派言论可能蔓延至收益率曲线平坦化担忧。"

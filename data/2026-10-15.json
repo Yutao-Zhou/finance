@@ -2,7 +2,7 @@
   "date": "2026-10-15",
   "summary": {
     "en": "Premarket sentiment cautious as investors await key CPI inflation data at 8:30 AM ET. Oil prices elevated near $106 from geopolitical supply concerns, while tech sector shows mixed signals ahead of earnings season. Market positioning defensive with growth stocks waiting for inflation clarity before directional moves.",
-    "zh": "盘前情绪谨慎，投资者等待上午 8:30 ET 的关键 CPI 通胀数据。受地缘政治供应担忧影响，油价维持在近 106 美元的高位，而科技板块在财报季前呈现混合信号。市场采取防御性定位，成长股在获取通胀清晰度前等待方向性变动。"
+    "zh": "盘前情绪谨慎，投资者等待上午 8:30 ET 的关键 CPI 通胀数据。受地缘政治供应担忧影响，油价维持在近 106 美元的高位，而科技板块在财报季前走势分化。市场配置偏向防御，成长股投资者等待通胀形势进一步明朗。"
   },
   "topNews": [
     {
@@ -14,8 +14,8 @@
         "en": "Critical data point for Fed policy calibration. Soft print supports risk assets and growth stocks; sticky inflation triggers defensive rotation and yield sensitivity.",
         "zh": "对美联储政策校准的关键数据点。软着陆读数支持风险资产和成长股；粘性通胀触发防御性轮动和收益率敏感性。"
       },
-      "bullish": ["XLK", "QQQ", "Technology"],
-      "bearish": ["Financial", "Real Estate", "Utilities"],
+      "bullish": ["XLK", "QQQ", "Technology / 科技"],
+      "bearish": ["Financial / 金融股", "Real Estate / 房地产", "Utilities / 公用事业"],
       "macroRisk": {
         "en": "Critical - All macro positioning hinges on this release. Could trigger broad market rotation depending on inflation vs. growth dynamics.",
         "zh": "关键 - 所有宏观定位都取决于此发布。可能根据通胀与增长动态触发广泛市场轮动。"
@@ -31,7 +31,7 @@
         "zh": "地缘政治供应冲击创造了对通胀对冲的需求。较高的油价压制消费者可选，但支持能源板块的盈利和利润边际。"
       },
       "bullish": ["XLE", "CVX", "COP", "OXY"],
-      "bearish": ["Consumer Discretionary", "Travel"],
+      "bearish": ["Consumer Discretionary / 可选消费", "Travel / 旅游业"],
       "macroRisk": {
         "en": "Yes - Supply shock dynamics → inflation expectations → Fed policy calibration chain. Oil prices directly impact PCE and CPI components.",
         "zh": "是 - 供应冲击动态→通胀预期→美联储政策校准链条。油价直接影响 PCE 和 CPI 组成部分。"
@@ -47,7 +47,7 @@
         "zh": "NVIDIA 和 AMD 在产品动量下保持稳定，而更广泛的半导体板块显示选择性定位。地缘政治供应链风险仍然次要于 AI 建设基本面。"
       },
       "bullish": ["NVDA", "AMD", "AVGO", "MRVL"],
-      "bearish": ["SMH - selective positioning"],
+      "bearish": ["SMH - selective positioning / SMH - 选择性布局"],
       "macroRisk": {
         "en": "No - AI demand fundamentals dominate; geopolitical supply concerns are manageable within product momentum framework.",
         "zh": "否-AI 需求基本面占主导地位；地缘政治供应担忧在产品和动量框架内是可以管理的。"
@@ -63,7 +63,7 @@
         "zh": "微软和谷歌在稳定的云轨迹上，而亚马逊面临消费支出压力。Meta 谨慎调整广告支出。尽管利率担忧，AI 基础设施投资仍在继续。"
       },
       "bullish": ["MSFT", "GOOGL", "META"],
-      "bearish": ["Consumer Staples", "Travel"],
+      "bearish": ["Consumer Staples / 必需消费品板块", "Travel / 旅游业"],
       "macroRisk": {
         "en": "Moderate - Rate sensitivity affects valuations but AI cloud fundamentals provide buffer. Defensive positioning may emerge on inflation confirmation.",
         "zh": "中等 - 利率敏感性影响估值，但 AI 云基本面提供缓冲。通胀确认可能出现防御性定位。"
@@ -78,8 +78,8 @@
         "en": "10Y yields hovering near 4.1-4.2% as market awaits inflation print. Higher readings support higher-for-longer Fed stance, lower prints enable rate-sensitive rally.",
         "zh": "随着市场等待通胀数据，10Y 收益率在 4.1-4.2% 附近徘徊。较高的读数支持更高利率的美联储立场，较低的打印启用利率敏感型反弹。"
       },
-      "bullish": ["TLT", "Bond ETFs"],
-      "bearish": ["Financial", "Real Estate"],
+      "bullish": ["TLT", "Bond ETFs / 债券 ETF"],
+      "bearish": ["Financial / 金融股", "Real Estate / 房地产"],
       "macroRisk": {
         "en": "Critical - Yield moves directly impact equity valuations and rate-sensitive sectors. Inflation print determines yield trajectory.",
         "zh": "关键 - 收益率变动直接影响股票估值和利率敏感型板块。通胀打印决定收益率轨迹。"
@@ -111,7 +111,7 @@
         "zh": "尽管宏观不确定性，TSLA 仍保持地位，但供应链约束和较高的投入成本压力利润边际。中国电动车竞争在全球范围内加剧创造定价压力。"
       },
       "bullish": ["TSLA", "RIVN"],
-      "bearish": ["Consumer Discretionary EV"],
+      "bearish": ["Consumer Discretionary EV / 可选消费电动汽车"],
       "macroRisk": {
         "en": "Moderate - Higher interest rates and input costs pressure margins. Geopolitical risks to Chinese supply chain are secondary to margin dynamics.",
         "zh": "中等 - 较高的利率和投入成本压力利润边际。中国供应链的地缘政治风险是次要于利润率动态的。"

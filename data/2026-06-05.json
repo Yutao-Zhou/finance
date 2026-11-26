@@ -2,7 +2,7 @@
   "date": "2026-06-05",
   "summary": {
     "en": "US stocks face premarket pressure ahead of critical May Non-Farm Payrolls release tonight. Broadcom (AVGO) disappointed AI guidance despite beating estimates, triggering semiconductor sector weakness. Middle East geopolitics continue to drive oil prices and DXY volatility.",
-    "zh": "美股在非农数据前承压，博通（AVGO）AI指引不及预期引发半导体板块回调。中东地缘政治持续影响油价和美元波动性。"
+    "zh": "美国 5 月非农就业数据公布前，美股面临盘前压力。博通（AVGO）业绩超出市场预期，但其 AI 业务指引令人失望，拖累半导体板块。中东局势仍在影响油价和美元指数。"
   },
   "topNews": [
     {
@@ -39,19 +39,27 @@
     },
     {
       "title": {
-        "en": "Non-Farm Payrolls Data Tonight: 5th Week of April/May Employment",
-        "zh": "非农数据今晚发布：四月底/五月初就业报告（注：此处为预披露语境）"
+        "en": "May U.S. employment report scheduled for 8:30 a.m. ET",
+        "zh": "美国 5 月就业报告定于美东时间上午 8:30 发布"
       },
       "impact": {
-        "en": "Markets expect ~80-85K jobs added in May vs. 122K ADP prior week; unemployment steady at 4.3%, HHE +0.3% YoY expected. Strong job data could drive Treasury yields higher and weigh on tech growth stocks.",
-        "zh": "预计五月增加约$80-85k，上周 ADP 为$12.2万；失业率稳于 4.3%，平均时薪预期 +0.3%。强劲就业数据可能推升美债收益率并压制科技成长股"
+        "en": "Ahead of the release, the brief cited a forecast of 80,000 to 85,000 jobs added in May. ADP reported 122,000 private-sector jobs added. Investors were also watching unemployment and average hourly earnings. Strong payrolls could push Treasury yields higher and weigh on technology and growth stocks.",
+        "zh": "数据发布前，晨报记录的市场预期为 5 月非农就业新增约 8 万至 8.5 万人。ADP 公布的私营部门就业新增 12.2 万人。投资者也在关注失业率和平均时薪。若非农就业强劲，美债收益率可能上行，科技和成长股或承压。"
       },
-      "bullish": ["JPM", "XOM"],
-      "bearish": ["MSFT", "NVDA", "GOOGL"],
+      "bullish": [
+        "JPM",
+        "XOM"
+      ],
+      "bearish": [
+        "MSFT",
+        "NVDA",
+        "GOOGL"
+      ],
       "macroRisk": {
         "en": "Yes - NFP directly impacts Fed policy expectations, Treasury yields (10Y 4.46%), and growth stock valuations.",
         "zh": "是——非农数据直接影响美联储政策预期、美债收益率和成长股估值"
-      }
+      },
+      "url": "https://www.bls.gov/news.release/archives/empsit_06052026.htm"
     },
     {
       "title": {
@@ -140,7 +148,7 @@
       },
       "impact": {
         "en": "FedWatch shows 96.4% chance of rate hold in June meeting. Fed Chair or governor comments can shift yield curve expectations and risk appetite.",
-        "zh": "期货暗示六月加息概率仅约 3%，主席或理事讲话可能影响收益率曲线和风险情绪"
+        "zh": "CME FedWatch 显示，市场预计美联储 6 月维持利率不变的概率为 96.4%。主席或理事的讲话仍可能改变市场对收益率曲线的预期和风险偏好。"
       },
       "bullish": [],
       "bearish": ["TLT", "BND"],
@@ -168,11 +176,11 @@
     {
       "title": {
         "en": "Gold Slips to ~$4,464; Bitcoin Below $62K on Risk Off",
-        "zh": "黄金跌至约$44.6万；比特币低于$62k避险情绪下"
+        "zh": "避险情绪升温，黄金回落至约 4,464 美元，比特币跌破 6.2 万美元"
       },
       "impact": {
         "en": "XAUUSD fell 0.28% to ~$4,463; BTC down 1-2%. Safe-haven demand muted by Middle East diplomacy hopes and equity market mixed signals.",
-        "zh": "黄金跌近；比特币下跌。地缘政治缓和希望和股市混合信号压制避险需求"
+        "zh": "黄金下跌 0.28% 至约 4,463 美元，比特币下跌 1% 至 2%。市场对中东外交缓和的期待和美股涨跌不一的表现，使避险需求较为有限。"
       },
       "bullish": [],
       "bearish": ["GLD", "IAU"],
@@ -200,7 +208,7 @@
     {
       "title": {
         "en": "Fed Watch Tool: 96.4% Chance of June Rate Hold",
-        "zh": "CME 期货工具显示六月维持利率概率达$96.4%"
+        "zh": "CME 期货工具显示六月维持利率概率达96.4%"
       },
       "impact": {
         "en": "Market prices in near-term rate stability; any deviation from expected hold triggers volatility across bonds and equities.",
@@ -216,7 +224,7 @@
     {
       "title": {
         "en": "Keel Infrastructure Falls 8.94% on Convertible Offering",
-        "zh": "基尔基础设施因可转债发行下跌$8.9%"
+        "zh": "基尔基础设施因发行可转债下跌 8.94%"
       },
       "impact": {
         "en": "$350M convertible senior notes dilution concerns trigger downside for infrastructure REIT-like entity.",
@@ -257,7 +265,7 @@
     },
     "preciousMetals": {
       "en": "Gold down to ~$4,463; safe-haven demand muted by Middle East diplomacy hopes and risk-on trade in equities.",
-      "zh": "黄金跌至约$44.6万；避险需求因中东缓和预期和股市风险偏好而减弱"
+      "zh": "黄金跌至约 4,463 美元。中东局势有望缓和，加上股市风险偏好回升，避险需求减弱。"
     },
     "oil": {
       "en": "WTI ~$92.80; Brent ~$93-95 (varies slightly by source). Direction uncertain as US-Iran flare-ups vs. peace progress unresolved.",
@@ -266,8 +274,8 @@
   },
   "premarketFocus": {
     "futures": {
-      "en": "Dow Futures +0.19% on Middle East relief, S&P 500 futures down ~-0.4%, Nasdaq -1.0%. Tech stocks drag broader index lower today.",
-      "zh": "道指期货微涨近 0.2%，标普期货跌约$0.4%，纳指接近下跌 1%。科技股拖累大盘"
+      "en": "Dow Futures +0.19% on Middle East relief, S&P 500 futures down about 0.4%, Nasdaq -1.0%. Tech stocks drag broader index lower today.",
+      "zh": "道指期货微涨近 0.2%，标普期货跌约0.4%，纳指接近下跌 1%。科技股拖累大盘"
     },
     "treasury10Y": {
       "en": "10-Year Treasury yield at ~4.46%; up slightly on tech earnings weakness and inflation persistence concerns from Middle East.",

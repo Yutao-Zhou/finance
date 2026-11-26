@@ -14,8 +14,8 @@
         "en": "Warsh's dovish commentary on rate hike timing could ease short-term volatility. The Fed is preparing to raise rates but policy transmission remains the critical question.",
         "zh": "Warsh 对利率上调时机的鸽派评论可能缓解短期波动。美联储正准备加息，但政策传导仍是关键问题。"
       },
-      "bullish": ["rates-sensitive equities", "financials if hike comes"],
-      "bearish": ["growth stocks if volatility persists"],
+      "bullish": ["rates-sensitive equities / 对利率敏感的股票", "financials if hike comes / 若加息来临则关注金融板块"],
+      "bearish": ["growth stocks if volatility persists / 若波动持续则增长型股票"],
       "macroRisk": {
         "en": "HIGH - Fed policy uncertainty could drive market rotation into defensive sectors before the rate decision. Geopolitical oil supply risks add inflation stickiness concern.",
         "zh": "高风险 - 美联储政策不确定性可能导致市场在利率决策前转向防御性板块。地缘政治油价供应风险增加了通胀粘性担忧。"
@@ -30,8 +30,8 @@
         "en": "WTI/Brent at multi-month highs signals persistent supply constraints. Oil price spike → inflation expectations → Treasury yields tension → potential equity volatility.",
         "zh": "WTI/布伦特创数月以来新高表明供应约束持续。油价飙升→通胀预期→美债收益率紧张→潜在股市波动。"
       },
-      "bullish": ["energy sector", "oil producers"],
-      "bearish": ["transportation", "retailers", "consumer discretionary"],
+      "bullish": ["energy sector / 能源板块", "oil producers / 石油生产商"],
+      "bearish": ["transportation / 交通运输业", "retailers / 零售商", "consumer discretionary / 可选消费板块"],
       "macroRisk": {
         "en": "MEDIUM-HIGH - Elevated oil prices could anchor inflation expectations higher, complicating Fed's disinflation path and pushing yields up.",
         "zh": "中高风险 - 油价高企可能使通胀预期更加固化，使美联储的降通胀路径复杂化并推高收益率。"
@@ -46,8 +46,8 @@
         "en": "Asian markets (Japan/Korea/Australia) showing mixed signals ahead of FOMC. Investors balancing rate cut hopes against geopolitical inflation risks.",
         "zh": "亚洲市场（日/韩/澳）在 FOMC 前显示混合信号。投资者在利率降息希望与地缘政治通胀风险间权衡。"
       },
-      "bullish": ["defensive sectors", "small caps if rate easing"],
-      "bearish": ["tech growth if inflation fears dominate"],
+      "bullish": ["defensive sectors / 防御性板块", "small caps if rate easing / 若利率宽松则小盘股"],
+      "bearish": ["tech growth if inflation fears dominate / 若通胀担忧主导则科技成长股"],
       "macroRisk": {
         "en": "MEDIUM - Asian market weakness could spill over to US equity sentiment. Energy price shock dominates headline risk today.",
         "zh": "中风险 - 亚洲市场疲软可能波及美股情绪。能源价格冲击成为今日头条风险。"

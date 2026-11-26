@@ -10,9 +10,12 @@
         "en": "Oil Surges Above $90 as US-Iran Tensions Flare Up; Futures Drop",
         "zh": "油价飙升突破$90，美伊紧张局势升级；期指下跌"
       },
-      "impact": "Energy crisis drives inflation expectations higher, pressuring rate-sensitive sectors and broadening risk-off sentiment.",
-      "bullish": ["OIL producers", "Transportation companies"],
-      "bearish": ["Big Tech", "Growth stocks"],
+      "impact": {
+        "en": "Energy crisis drives inflation expectations higher, pressuring rate-sensitive sectors and broadening risk-off sentiment.",
+        "zh": "能源危机推高通胀预期，施压利率敏感型板块并市场避险情绪升温。"
+      },
+      "bullish": ["OIL producers / 石油生产商", "Transportation companies / 运输公司"],
+      "bearish": ["Big Tech / 大型科技股", "Growth stocks / 成长股"],
       "macroRisk": {
         "en": "Oil above $90 + rising yields = valuation compression for duration-sensitive tech; potential stagflation narrative if sustained.",
         "zh": "油价$90+收益率上行=对久期敏感的科技股估值压缩；若持续将引发滞胀叙事风险"
@@ -23,7 +26,10 @@
         "en": "Nasdaq-100 Futures Down 0.9%; S&P 500 & Dow Also Off",
         "zh": "纳指-100期货跌0.9%；标普500与道指亦弱"
       },
-      "impact": "Rate-sensitive mega-caps under pressure; September starts on a cautious tone as investors reprice risk.",
+      "impact": {
+        "en": "Rate-sensitive mega-caps under pressure; September starts on a cautious tone as investors reprice risk.",
+        "zh": "利率敏感型巨头承压；九月开局谨慎，投资者正在重新定价风险。"
+      },
       "bullish": [],
       "bearish": ["AAPL", "NVDA", "MSFT", "AMZN"],
       "macroRisk": {
@@ -36,9 +42,12 @@
         "en": "Earnings Focus: MDT, DELL, PANW Heading Into Open",
         "zh": "财报前瞻：MDT、DELL、PANW今日开盘前关注"
       },
-      "impact": "Medtronic and enterprise IT/AI infra names set to report; outcomes could offset geopolitical noise.",
-      "bullish": ["HEALTH care if beat", "Datacenter infrastructure"],
-      "bearish": ["Laggards in software licensing model"],
+      "impact": {
+        "en": "Medtronic and enterprise IT/AI infra names set to report; outcomes could offset geopolitical noise.",
+        "zh": "美敦力及企业 IT/AI 基础设施公司即将发布财报，结果可能抵消地缘政治消息造成的干扰。"
+      },
+      "bullish": ["HEALTH care if beat / 医疗保健板块若业绩超预期", "Datacenter infrastructure / 数据中心基础设施"],
+      "bearish": ["Laggards in software licensing model / 软件授权模式中的落后者"],
       "macroRisk": {
         "en": "Earnings can anchor markets if AI/healthtech beat estimates despite broader weakness.",
         "zh": "若AI/医疗科技超预期，财报可能锚定市场"

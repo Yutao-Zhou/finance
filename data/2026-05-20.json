@@ -2,7 +2,7 @@
   "date": "2026-05-20",
   "summary": {
     "en": "Markets navigate Middle East escalation risk amid inflation fears; 10Y yields retreat to 4.64% as bond pricing wariness grows. Nvidia earnings tomorrow anchors tech attention, while geopolitics keeps energy elevated despite oil dips on peace-talk headlines.",
-    "zh": "市场在中东局势升级风险与通胀担忧间寻找平衡；10 年期美债收益率退至 4.64%，债市谨慎情绪升温。英伟达明早财报成为科技板块焦点，地缘政治支撑油价高位。"
+    "zh": "市场在中东局势升级风险与通胀担忧间寻找平衡；10 年期美债收益率退至 4.64%，债市谨慎情绪升温。英伟达明日财报成为科技板块焦点，地缘政治支撑油价高位。"
   },
   "topNews": [
     {
@@ -15,7 +15,7 @@
         "zh": "中东升级风险重新定价油价和通胀预期。伊斯兰革命卫队警告，若美国继续施压将付出惨痛代价。市场仍对特朗普的和平谈判叙事保持警惕。"
       },
       "bullish": ["XLE", "XOM", "COP"],
-      "bearish": ["USREIT", "Consumer Discretionary"],
+      "bearish": ["USREIT", "Consumer Discretionary / 可选消费"],
       "macroRisk": {
         "en": "Yes - Geopolitical escalation risks fueling oil prices and inflation expectations. Potential supply disruption if Hormuz Strait remains closed.",
         "zh": "是 - 地缘政治升级风险推高油价和通胀预期。霍尔木兹海峡若继续关闭，供应中断风险犹存。"
@@ -30,7 +30,7 @@
         "en": "10Y yield slipped to 4.639% from Tuesday's 4.687% high. 30Y bond at 5.164%. Fed's April FOMC minutes show 8-4 split on rates. Sticky inflation threatens to complicate Fed's pivot.",
         "zh": "10 年期收益率从周二 4.687% 高位回落至 4.639%。30 年期国债至 5.164%。美联储 4 月会议纪要显示利率决策分歧。顽固通胀恐使美联储转向复杂化。"
       },
-      "bullish": ["TLT", "US10Y-inversely"],
+      "bullish": ["TLT", "US10Y-inversely / 与 10 年期美债收益率反向波动"],
       "bearish": ["GLD", "XLF"],
       "macroRisk": {
         "en": "Yes - Inflation expectations rising could force Fed to hold rates longer. HSBC warns Treasurys in 'danger zone' from sticky inflation.",
@@ -47,7 +47,7 @@
         "zh": "WTI 跌 1.1% 至 103 美元，布伦特至 110 美元。市场在评估协议可行性，尽管中国油轮已驶离霍尔木兹。战后供应不会快速恢复正常。油价波动率仍高。"
       },
       "bullish": ["USO", "BNO"],
-      "bearish": ["OIH", "Energy stocks"],
+      "bearish": ["OIH", "Energy stocks / 能源股"],
       "macroRisk": {
         "en": "No - Price move is tactical. Geopolitical premium remains embedded. Watch for deal failure or supply disruption.",
         "zh": "否 - 价格调整属战术性。地缘溢价仍内嵌。关注协议失败或供应中断风险。"
@@ -63,7 +63,7 @@
         "zh": "预计财政 2027 年 Q1 财报显示 AI 芯片需求韧性。股价盘前已涨 20%。UBS 在强收入预期前上调目标。AI 基础设施支出依然强劲。"
       },
       "bullish": ["NVDA", "AMD", "SMCI", "Advanced Micro Devices"],
-      "bearish": ["Semiconductor laggers"],
+      "bearish": ["Semiconductor laggers / 半导体滞涨股"],
       "macroRisk": {
         "en": "No - Company-specific event. AI mega-cap earnings anchor tech sentiment.",
         "zh": "否 - 公司级事件。AI 巨头财报锚定科技板块情绪。"
@@ -78,7 +78,7 @@
         "en": "AMD down 1.6% as NVDA earnings overshadow chip sector. Investors weigh relative AI chip valuations. AMD holds market share but trades on NVDA narrative momentum.",
         "zh": "AMD 跌 1.6%，受 NVDA 财报笼罩。投资者权衡 AI 芯片相对估值。AMD 虽持市场份额，但交易取决于 NVDA 叙事动量。"
       },
-      "bullish": ["NVDA", "AI chip demand"],
+      "bullish": ["NVDA", "AI chip demand / AI 芯片需求"],
       "bearish": ["AMD", "Intel"],
       "macroRisk": {
         "en": "No - Relative sector positioning. NVDA momentum vs. AMD execution.",

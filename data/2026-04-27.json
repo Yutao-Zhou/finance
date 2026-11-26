@@ -72,7 +72,7 @@
       "bearish": [
         "长久期科技",
         "高估值软件",
-        "REITs"
+        "REITs / 房地产投资信托基金"
       ],
       "macroRisk": {
         "en": "Yes. If yields keep climbing alongside oil, the market could shift from a growth rally to an inflation scare regime.",
@@ -108,7 +108,7 @@
       },
       "impact": {
         "en": "That combination suggests the market is not in full panic, but it is still paying for geopolitical and inflation hedges. When gold is firm alongside oil, risk appetite can coexist with caution rather than clean risk-on behavior.",
-        "zh": "这说明市场并非完全进入恐慌模式，但仍在为地缘和通胀对冲付费。当黄金和油价同时偏强时，往往意味着市场不是纯粹 risk-on，而是带着防御的冒险。"
+        "zh": "这说明市场并非完全进入恐慌模式，但仍在为地缘和通胀对冲付费。当黄金和油价同时偏强时，往往意味着市场不是纯粹 风险偏好回升，而是带着防御的冒险。"
       },
       "bullish": [
         "GLD",
@@ -188,7 +188,7 @@
     },
     "note": {
       "en": "Tech leadership keeps risk appetite alive, but oil-led inflation pressure prevents a clean risk-on read. This looks like a mixed session with cross-asset macro dominating stock-specific narratives.",
-      "zh": "科技领涨让风险偏好没有熄火，但油价带来的通胀压力又不足以支持一个干净的 risk-on 判断。今天更像是跨资产宏观主导、个股叙事退居次要的分化交易日。"
+      "zh": "科技领涨让风险偏好没有熄火，但油价带来的通胀压力又不足以支持一个干净的 风险偏好回升 判断。今天更像是跨资产宏观主导、个股叙事退居次要的分化交易日。"
     }
   }
 }

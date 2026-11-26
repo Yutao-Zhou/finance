@@ -2,7 +2,7 @@
   "date": "2026-08-27",
   "summary": {
     "en": "Nvidia's blockbuster results reignited the AI trade and pushed Nasdaq futures sharply higher, but the tape is still carrying a sticky July PCE print and Jackson Hole risk in the background. Treasury yields are softer and oil is sliding on Middle East de-escalation hopes, so the setup is risk-on for semis and mega-cap tech but still event-driven rather than cleanly bullish.",
-    "zh": "Nvidia 强劲的财报与指引重新点燃了 AI 交易，并推动纳指期货明显走高，但粘性的 7 月 PCE 和 Jackson Hole 风险仍在背景中压着市场。美债收益率回落、油价因中东降温预期下跌，所以当前更像半导体和大科技领涨的事件驱动型偏多环境，而不是干净的全面 risk-on。"
+    "zh": "Nvidia 强劲的财报与指引重新点燃了 AI 交易，并推动纳指期货明显走高，但粘性的 7 月 PCE 和 Jackson Hole 风险仍在背景中压着市场。美债收益率回落、油价因中东降温预期下跌，所以当前更像半导体和大科技领涨的事件驱动型偏多环境，而不是干净的全面 风险偏好回升。"
   },
   "topNews": [
     {
@@ -93,7 +93,7 @@
     },
     "market": {
       "en": "The tape is risk-on at the index-futures level, but it is more of an event-driven rally led by Nvidia than a broad macro breakout.",
-      "zh": "从指数期货看市场偏 risk-on，但更像由 Nvidia 驱动的事件型上涨，而不是全面的宏观突破。"
+      "zh": "从指数期货看市场偏 风险偏好回升，但更像由 Nvidia 驱动的事件型上涨，而不是全面的宏观突破。"
     },
     "preciousMetals": {
       "en": "Gold and silver remain supported by lower real-yield pressure and geopolitical hedging, although a firmer dollar can still cap the upside.",
@@ -134,7 +134,7 @@
     },
     "note": {
       "en": "Nvidia's guidance is the immediate driver, but sticky inflation and Jackson Hole keep the rates backdrop from confirming a full risk-on regime.",
-      "zh": "Nvidia 的指引是眼下最直接的驱动，但粘性的通胀和 Jackson Hole 让利率背景还不足以确认一个完全的 risk-on 环境。"
+      "zh": "Nvidia 的指引是眼下最直接的驱动，但粘性的通胀和 Jackson Hole 让利率背景还不足以确认一个完全的 风险偏好回升 环境。"
     }
   }
 }

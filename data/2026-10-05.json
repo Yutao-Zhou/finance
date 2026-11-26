@@ -14,8 +14,8 @@
         "en": "Elevated 10Y Treasury yields near historic highs pressure rate-sensitive mega-cap tech growth. The unwinding of aggressive Fed rate-cut bets has led to dollar strength (DXY up), creating headwinds for multinational earnings and EM assets.",
         "zh": "接近历史高位的 10 年期美债收益率对利率敏感型大型科技成长股构成压力。美联储激进降息预期的消退导致美元走强（DXY 上升），给跨国企业盈利和新兴市场资产带来逆风。"
       },
-      "bullish": ["AI infrastructure demand remains structural"],
-      "bearish": ["Mega-cap growth valuations under yield pressure", "Dollar strength hurts EM exposure"],
+      "bullish": ["AI infrastructure demand remains structural / 人工智能基础设施需求仍具结构性"],
+      "bearish": ["Mega-cap growth valuations under yield pressure / 大型成长股估值受收益率压力影响", "Dollar strength hurts EM exposure / 美元走强损害新兴市场敞口"],
       "macroRisk": {
         "en": "Yes - high yields → duration risk for tech; DXY up → cross-holdings revaluation risk. Transmission: Treasury supply-demand disequilibrium → yields elevated → duration-sensitive sectors suffer.",
         "zh": "是——高收益率→科技股久期风险；美元走强→交叉持仓重估风险。传导路径：国债供需失衡→收益率高位→久期敏感板块承压。"
@@ -23,19 +23,25 @@
     },
     {
       "title": {
-        "en": "NVIDIA rallies to record highs on $150B buyback; AI hardware demand remains robust",
-        "zh": "英伟达因 150 亿美元回购飙升至历史高点，AI 硬件需求依然强劲"
+        "en": "Nvidia Adds $150 Billion to Its Share Repurchase Authorization; AI Hardware Demand Remains Strong",
+        "zh": "英伟达获批新增 1,500 亿美元股票回购额度，AI 硬件需求仍强"
       },
       "impact": {
         "en": "NVIDIA's massive buyback program and record chip demand signal sustained AI capital expenditure cycles. However, elevated rates could compress margins on capex-heavy clients despite strong product demand.",
         "zh": "英伟达大规模回购计划和芯片需求的记录级强度表明 AI 资本支出周期持续。然而，高利率可能压缩那些依赖资本支出的客户利润，尽管产品需求强劲。"
       },
-      "bullish": ["NVDA", "AMD", "Intel", "Broadcom"],
+      "bullish": [
+        "NVDA",
+        "AMD",
+        "Intel",
+        "Broadcom"
+      ],
       "bearish": [],
       "macroRisk": {
         "en": "Moderate - strong demand offset by rate-sensitive valuation multiple compression in the broader tech sector.",
         "zh": "中等——强劲需求被更广泛科技板块的利率敏感估值倍数压缩所抵消。"
-      }
+      },
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-a-150-Billion-Share-Repurchase-Authorization-Increase/default.aspx"
     },
     {
       "title": {
@@ -78,8 +84,8 @@
         "en": "Sector divergence between AI tech giants and broader market indicates selective positioning. Growth stocks benefit from AI capex while traditional industrials face margin pressure from persistent elevated rates.",
         "zh": "AI 科技巨头与更广泛市场之间的板块分化表明选择性配置。成长股从 AI 资本支出中受益，而传统工业面临持续高利率对利润率的压力。"
       },
-      "bullish": ["Big Tech selective names"],
-      "bearish": ["Traditional cyclical industrials", "Small-cap growth"],
+      "bullish": ["Big Tech selective names / 大型科技股中的精选标的"],
+      "bearish": ["Traditional cyclical industrials / 传统周期性工业品", "Small-cap growth / 小盘成长股"],
       "macroRisk": {
         "en": "Moderate - sector rotation driven by capital allocation shifts rather than broad macro regime changes.",
         "zh": "中等——行业轮动由资本配置转变驱动而非广泛的宏观制度变化。"

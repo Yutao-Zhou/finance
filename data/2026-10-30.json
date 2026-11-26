@@ -16,10 +16,10 @@
       },
       "bullish": [],
       "bearish": [
-        "Amazon Q3 revenue/EPS miss",
-        "Intel weak fourth quarter guidance",
-        "Negative free cash flow for consecutive quarters",
-        "PC market weakness extending into next year"
+        "Amazon Q3 revenue/EPS miss / 亚马逊第三季度营收和每股收益不及预期",
+        "Intel weak fourth quarter guidance / 英特尔第四季度指引疲软",
+        "Negative free cash flow for consecutive quarters / 连续多个季度自由现金流为负",
+        "PC market weakness extending into next year / 个人电脑市场疲软延续至明年"
       ],
       "macroRisk": {
         "en": "Tech sector valuations under pressure amid AI capex concerns and negative cash flow trends.",
@@ -37,10 +37,10 @@
       },
       "bullish": [],
       "bearish": [
-        "Historic security breach undermines crypto trust",
-        "$6.3B frozen by Binance, Circle and Tether",
-        "Bitcoin dropped below $78K amid fears",
-        "State-backed hack speculation (North Korea links)"
+        "Historic security breach undermines crypto trust / 历史性安全漏洞削弱加密货币信任",
+        "$6.3B frozen by Binance, Circle and Tether / Binance、Circle 和 Tether 冻结 63 亿美元",
+        "Bitcoin dropped below $78K amid fears / 比特币因担忧跌破 7.8 万美元",
+        "State-backed hack speculation (North Korea links) / 有猜测称黑客攻击获得国家支持，可能涉及朝鲜"
       ],
       "macroRisk": {
         "en": "Regulatory overhang could expand post-incident; systemic crypto market stability questioned.",
@@ -57,13 +57,13 @@
         "zh": "纳指本周最弱交易日，Alphabet 再跌约 13%，NVIDIA、Micron 和 ARM 也因芯片板块担忧受压。"
       },
       "bullish": [
-        "Microsoft cash flow positive",
-        "Raymond James strategists still see AI beneficiaries as fundamentally strong"
+        "Microsoft cash flow positive / 微软现金流为正",
+        "Raymond James strategists still see AI beneficiaries as fundamentally strong / Raymond James 策略师仍认为 AI 受益者基本面强劲"
       ],
       "bearish": [
-        "Tech positioning crowded despite fundamentals",
-        "Nasdaq could enter negative territory this week",
-        "Alphabet worst single-day drop in history"
+        "Tech positioning crowded despite fundamentals / 尽管基本面强劲但科技配置拥挤",
+        "Nasdaq could enter negative territory this week / 纳斯达克本周可能进入负值区域",
+        "Alphabet worst single-day drop in history / Alphabet 单日最大跌幅创历史纪录"
       ],
       "macroRisk": {
         "en": "Potential market correction if Nasdaq enters prolonged downtrend with no clear catalyst.",

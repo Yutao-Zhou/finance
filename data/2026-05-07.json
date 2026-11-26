@@ -14,8 +14,8 @@
         "en": "Geopolitical developments in Middle East remain central to market sentiment. Dow Jones futures gain 0.23% to near 50,150, S&P 500 up 0.18% to near 7,400, Nasdaq 100 futures advance 0.21%. Markets pricing in de-escalation risks; any escalation would trigger oil spike and rate-sensitive selloff. Key catalyst for sector rotation between defensive energy and growth tech.",
         "zh": "中东地缘政治进展仍是市场情绪核心。道指期货涨 0.23% 至约 50,150，标普 500 涨 0.18% 至约 7,400，纳指 100 期货涨 0.21%。市场定价去升级风险；任何升级将引发油价飙升和利率敏感股抛售。这是能源防御股和成长科技股之间板块轮动的关键催化剂。"
       },
-      "bullish": ["XOM", "CVX", "XLE", "DIA (defensive)", "GLD"],
-      "bearish": ["ARKK", "QQQ (if escalation)", "TLT"],
+      "bullish": ["XOM", "CVX", "XLE", "DIA (defensive) / DIA（防御性板块）", "GLD"],
+      "bearish": ["ARKK", "QQQ (if escalation) / QQQ（若局势升级）", "TLT"],
       "macroRisk": {
         "en": "Yes - Geopolitical risk transmission: escalation → oil spike → inflation concerns → Fed rate-cut compression. Strait of Hormuz disruption risk remains elevated. Peace prospect supports risk-on but uncertainty persists.",
         "zh": "是 - 地缘政治风险传导：升级→油价飙升→通胀担忧→Fed 降息空间压缩。霍尔木兹海峡中断风险仍高。和平前景支撑风险偏好但不确定性犹存。"
@@ -47,7 +47,7 @@
         "zh": "美国科技龙头持续强劲，云/AI 叙事支撑估值。Tesla 2026 Q1 财报显示营收不及预期但 EPS 达标；Optimus 机器人扩张支持 Nvidia 前景。NVIDIA FY27 Q1 财报定于 5 月 20 日发布。科技巨头仍是风险情绪关键驱动。利率敏感名目受通胀担忧压制但财报动量提供支撑。若油价企稳，板块轮动从能源转向科技加剧。"
       },
       "bullish": ["NVDA", "MSFT", "GOOGL", "META", "AMZN", "TSLA", "QQQ", "XLK"],
-      "bearish": ["TLT", "ARKK", "rate-sensitive small caps"],
+      "bearish": ["TLT", "ARKK", "rate-sensitive small caps / 对利率敏感的小盘股"],
       "macroRisk": {
         "en": "No - Company-specific earnings dynamics. AI narrative remains intact despite capex concerns. Rate sensitivity a headwind but earnings momentum supports valuations near records.",
         "zh": "否 - 公司特定财报动态。AI 叙事完好 despite 资本开支担忧。利率敏感性是压力但财报动量支撑接近纪录的估值。"
@@ -63,7 +63,7 @@
         "zh": "美债 10Y 收益率在油价驱动的波动初现后稳于 4.374%。4.2-4.6% 区间反映通胀溢价和 Fed 不确定性。FOMC 纪要显示对降息时机存在分歧。美联储主席鲍威尔下次会议对指引至关重要。债市若油价继续飙升将定价降息压缩。利率敏感板块的防御性仓位仍高。"
       },
       "bullish": ["GLD", "SLV", "JPM", "BAC", "XLF"],
-      "bearish": ["TLT", "XLB", "XLI", "ARKK", "growth stocks"],
+      "bearish": ["TLT", "XLB", "XLI", "ARKK", "growth stocks / 成长股"],
       "macroRisk": {
         "en": "Yes - Fed policy uncertainty persists. 7 dissenting votes signal policy divergence. Oil-driven inflation complicates easing timeline. Rate-sensitive growth faces headwinds if yields remain elevated.",
         "zh": "是 - Fed 政策不确定性犹存。7 票反对显示政策分歧。油价驱动通胀使宽松时间表复杂化。若收益率维持高位，利率敏感成长面临压力。"
@@ -79,7 +79,7 @@
         "zh": "市场动态由油价通胀 vs AI 增长叙事驱动，造成板块轮动而非普跌。能源周期股（XOM、CVX、BP）受益于$100+ 油价环境。科技名目（AAPL、MSFT、NVDA）显示财报韧性。标普 500 在 7,338-7,365，纳指 25,818 附近，道指 49,660。混合走势显示防御性能源抵消成长股利率敏感性。轮动是日内波动关键驱动。"
       },
       "bullish": ["XLE", "XLK", "QQQ", "XLF", "IWM"],
-      "bearish": ["XLB", "XLI", "ARKK", "long-duration growth"],
+      "bearish": ["XLB", "XLI", "ARKK", "long-duration growth / 长久期成长股"],
       "macroRisk": {
         "en": "No - Sector rotation is a healthy market dynamic, not systemic risk. Energy cyclicals and tech both have support from earnings and commodity dynamics. Market shows resilience near records.",
         "zh": "否 - 板块轮动是健康的市场动态，非系统性风险。能源周期股和科技股均有财报和商品动态支撑。市场接近纪录显示韧性。"

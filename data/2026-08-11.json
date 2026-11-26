@@ -10,9 +10,12 @@
         "en": "Oil Prices Slide Below $80 as Gulf Peace Hopes Rise",
         "zh": "油价跌破 80 美元，海湾和平预期升温"
       },
-      "impact": "Lower oil prices reduce inflation expectations and ease corporate margin pressure, benefiting energy stocks less than tech but supporting discretionary spending sectors.",
+      "impact": {
+        "en": "Lower oil prices reduce inflation expectations and ease corporate margin pressure, benefiting energy stocks less than tech but supporting discretionary spending sectors.",
+        "zh": "油价下跌降低通胀预期并缓解企业利润率压力，对能源股的提振作用小于科技股，但有利于可选消费板块。"
+      },
       "bullish": ["XLRE", "AMZN", "DIS"],
-      "bearish": ["USO", "XLE - select components"],
+      "bearish": ["USO", "XLE - select components / XLE - 精选成分股"],
       "macroRisk": {
         "en": "Geopolitical easing reduces oil supply risk premium, supports broader equity valuations via lower inflation expectations.",
         "zh": "地缘缓和降低油价供应风险溢价，通过通胀预期下行支持更广泛的股权估值。"
@@ -23,9 +26,12 @@
         "en": "AMD Beats Q2 Earnings Yet Stock Down 7% - Valuation Concerns Persist",
         "zh": "AMD 二季报超预期但股价跌约 7%，估值担忧持续"
       },
-      "impact": "Market reaction signals high short-term expectations for AI chip leaders; earnings beat alone insufficient without margin expansion narrative.",
+      "impact": {
+        "en": "Market reaction signals high short-term expectations for AI chip leaders; earnings beat alone insufficient without margin expansion narrative.",
+        "zh": "市场反应表明投资者对 AI 芯片龙头存在较高短期预期；仅靠业绩超预期不足以支撑股价，除非伴随利润率扩张叙事。"
+      },
       "bullish": ["MSFT", "GOOGL"],
-      "bearish": ["AMD", "NVDA - sentiment spillover"],
+      "bearish": ["AMD", "NVDA - sentiment spillover / 英伟达情绪溢出效应"],
       "macroRisk": {
         "en": "",
         "zh": ""
@@ -36,7 +42,10 @@
         "en": "Nasdaq and S&P 500 Futures Rise on Diplomatic Relief Hopes",
         "zh": "纳指和标普 500 期货上涨，外交缓和预期提振"
       },
-      "impact": "Risk-on sentiment from de-escalation risks in Middle East supports big tech, airlines and cyclical discretionary sectors.",
+      "impact": {
+        "en": "Risk-on sentiment from de-escalation risks in Middle East supports big tech, airlines and cyclical discretionary sectors.",
+        "zh": "中东局势缓和带来的风险偏好情绪利好大型科技公司、航空业及周期性可选消费板块。"
+      },
       "bullish": ["AAPL", "NVDA", "AAL"],
       "bearish": [],
       "macroRisk": {
@@ -49,9 +58,12 @@
         "en": "Tesla (TSLA) Under Pressure Amid Broader Tech Rotation",
         "zh": "特斯拉股价受压力，科技股板块轮动"
       },
-      "impact": "EV sector faces near-term volatility; broader market weakness in AI narrative detracts from consumer electronics and autonomous driving valuations.",
-      "bullish": ["RIVN - relative value play"],
-      "bearish": ["TSLA", "F - EV competition pressure"],
+      "impact": {
+        "en": "EV sector faces near-term volatility; broader market weakness in AI narrative detracts from consumer electronics and autonomous driving valuations.",
+        "zh": "电动汽车板块面临近期波动；AI 叙事下的整体市场疲软拖累消费电子和自动驾驶估值。"
+      },
+      "bullish": ["RIVN - relative value play / RIVN - 相对价值标的"],
+      "bearish": ["TSLA", "F - EV competition pressure / F - 电动汽车竞争压力"],
       "macroRisk": {
         "en": "",
         "zh": ""
@@ -62,7 +74,10 @@
         "en": "Palantir (PLTR) Earnings Watch: AI Platform Expansion in Focus",
         "zh": "关注 Palantir 财报：AI 平台扩张成焦点"
       },
-      "impact": "Key bellwether for data analytics and defense IT spending; strong demand signals institutional AI adoption beyond hype.",
+      "impact": {
+        "en": "Key bellwether for data analytics and defense IT spending; strong demand signals institutional AI adoption beyond hype.",
+        "zh": "作为数据分析与国防 IT 支出的关键风向标；强劲需求信号表明机构 AI 采用已超越炒作阶段。"
+      },
       "bullish": ["PLTR"],
       "bearish": [],
       "macroRisk": {
@@ -75,8 +90,11 @@
         "en": "Gold Holds Above $2,300 Despite Dollar Strength",
         "zh": "金价持稳在 2,300 美元以上，尽管美元走强"
       },
-      "impact": "Safe-haven demand from geopolitical concerns supports precious metals; gold miners could benefit if yields stay elevated.",
-      "bullish": ["GDX - Gold Miners ETF", "GLD"],
+      "impact": {
+        "en": "Safe-haven demand from geopolitical concerns supports precious metals; gold miners could benefit if yields stay elevated.",
+        "zh": "地缘政治担忧带来的避险需求支撑贵金属表现；若收益率维持高位，黄金矿业股或受益。"
+      },
+      "bullish": ["GDX - Gold Miners ETF / GDX - 黄金矿业 ETF", "GLD"],
       "bearish": [],
       "macroRisk": {
         "en": "",
@@ -88,8 +106,11 @@
         "en": "Treasury 10Y Yield Stabilizes Near Key Technical Levels",
         "zh": "美债 10 年期收益率在关键技术水平附近企稳"
       },
-      "impact": "Bond market positioning critical for rate-sensitive sectors; yield stability supports mortgage-backed and REIT valuations.",
-      "bullish": ["O - Realty Income ETF"],
+      "impact": {
+        "en": "Bond market positioning critical for rate-sensitive sectors; yield stability supports mortgage-backed and REIT valuations.",
+        "zh": "债券市场配置对利率敏感型板块至关重要；收益率稳定支撑抵押贷款支持证券和房地产投资信托的估值。"
+      },
+      "bullish": ["O - Realty Income ETF / O（Realty Income 房地产投资信托）"],
       "bearish": [],
       "macroRisk": {
         "en": "",

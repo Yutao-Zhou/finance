@@ -2,7 +2,7 @@
   "date": "2026-08-20",
   "summary": {
     "en": "US futures steady after Asian tech selloff as Treasury buybacks calm long-end yields. Moderna surges 177% on melanoma vaccine breakthrough while oil climbs near $92 amid Hormuz tensions. DXY slips below 99, gold rallies toward $4,500.",
-    "zh": "美股期货在亚洲科技股抛售后企稳，国债买盘压低长期收益率。Moderna 因黑色素瘤疫苗突破飙升 177%，油价受霍尔木兹海峡紧张局势影响升至近 92 美元。美元指数跌破 99，黄金反弹至 4500 美元附近。"
+    "zh": "美股期货在亚洲科技股抛售后企稳，美国财政部回购国债，长端收益率趋稳。Moderna 因黑色素瘤疫苗突破飙升 177%，油价受霍尔木兹海峡紧张局势影响升至近 92 美元。美元指数跌破 99，黄金反弹至 4500 美元附近。"
   },
   "topNews": [
     {
@@ -10,7 +10,10 @@
         "en": "Moderna's Melanoma Vaccine Passes Phase 3 Trial, Stock Soars 177%",
         "zh": "Moderna 黑色素瘤疫苗通过三期试验，股价飙升 177%"
       },
-      "impact": "Historic mRNA cancer therapy success with Merck partnership reduces melanoma recurrence risk; catalyst for biotech sector and broader healthcare rally.",
+      "impact": {
+        "en": "Historic mRNA cancer therapy success with Merck partnership reduces melanoma recurrence risk; catalyst for biotech sector and broader healthcare rally.",
+        "zh": "与默克公司的合作取得历史性 mRNA 癌症疗法突破，降低黑色素瘤复发风险；成为生物科技板块及更广泛医疗行情的催化剂。"
+      },
       "bullish": ["MRNA", "JNJ", "PFE", "GILD"],
       "bearish": [],
       "macroRisk": {
@@ -23,7 +26,10 @@
         "en": "Oil Prices Rise for Fifth Session as Hormuz Standoff Keeps WTI/Brent Near $92",
         "zh": "油价连涨五日，霍尔木兹僵局令 WTI/Brent 原油接近 92 美元"
       },
-      "impact": "Middle East tensions elevate supply risks; geopolitical premium weighs on inflation expectations and energy sector positioning.",
+      "impact": {
+        "en": "Middle East tensions elevate supply risks; geopolitical premium weighs on inflation expectations and energy sector positioning.",
+        "zh": "中东紧张局势推高供应风险；地缘风险溢价影响通胀预期和能源板块配置。"
+      },
       "bullish": ["XOM", "CVX", "COP"],
       "bearish": ["PSX", "VLO"],
       "macroRisk": {
@@ -36,7 +42,10 @@
         "en": "Treasury Doubles Buybacks, Yields Fall from 4.71% to 4.65%",
         "zh": "财政部加倍买盘，收益率从 4.71% 降至 4.65%"
       },
-      "impact": "Technical yield relief provides temporary respite for rate-sensitive equities; longer-term fundamentals remain challenging.",
+      "impact": {
+        "en": "Technical yield relief provides temporary respite for rate-sensitive equities; longer-term fundamentals remain challenging.",
+        "zh": "美债收益率暂时回落为利率敏感型股票提供暂时喘息；但长期基本面仍具挑战性。"
+      },
       "bullish": ["GLD", "TLT"],
       "bearish": ["XLK", "QQQ"],
       "macroRisk": {

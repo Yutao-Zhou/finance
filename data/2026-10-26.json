@@ -14,8 +14,8 @@
         "en": "Markets reacted with caution as some Fed policymakers emphasized data-dependency before committing to more aggressive easing. Bond yields rose slightly on the news.",
         "zh": "部分美联储政策制定者强调在承诺更积极宽松前需数据依赖，市场谨慎反应。债券收益率小幅回升。"
       },
-      "bullish": ["yields normalization", "inflation credibility"],
-      "bearish": ["equity valuations pressure", "dollar strength"],
+      "bullish": ["yields normalization / 收益率正常化", "inflation credibility / 通胀可信度"],
+      "bearish": ["equity valuations pressure / 股票估值压力", "dollar strength / 美元走强"],
       "macroRisk": {
         "en": "Prolonged elevated rates could slow growth more than expected, potentially triggering a softer landing scenario.",
         "zh": "较长时间的高利率可能比预期更大地减缓增长，潜在触发软着陆情景。"
@@ -30,8 +30,8 @@
         "en": "WTI crude held above $72/bbl as Middle East tensions eased slightly. Energy sector stocks showed mixed performance.",
         "zh": "中东紧张局势有所缓和，WTI 原油保持在$72/桶以上。能源板块股票表现不一。"
       },
-      "bullish": ["energy dividend yield", "transportation costs contained"],
-      "bearish": ["inflation re-ignition", "recession risk"],
+      "bullish": ["energy dividend yield / 能源股息收益率", "transportation costs contained / 运输成本得到控制"],
+      "bearish": ["inflation re-ignition / 通胀重燃", "recession risk / 衰退风险"],
       "macroRisk": {
         "en": "Sustained high oil prices could re-inflate consumer price pressures and impact profit margins.",
         "zh": "持续高油价可能重新点燃消费者物价压力并影响利润幅度。"
@@ -46,8 +46,8 @@
         "en": "Major semiconductor manufacturers reported robust order books. However, inventory build concerns persist in mid-tier chip companies.",
         "zh": "主要半导体制造商报告订单簿稳健。但中级芯片公司仍存在库存积累担忧。"
       },
-      "bullish": ["cloud capex", "generative AI adoption"],
-      "bearish": ["inventory correction", "valuation compression"],
+      "bullish": ["cloud capex / 云资本支出", "generative AI adoption / 生成式 AI 采用"],
+      "bearish": ["inventory correction / 库存修正", "valuation compression / 估值压缩"],
       "macroRisk": {
         "en": "Customer spending restraint could delay some product launches and impact Q4 guidance.",
         "zh": "客户支出克制可能推迟一些产品发布并影响第四季度指引。"
@@ -62,8 +62,8 @@
         "en": "Yield curve remains inverted, signaling recession concerns. Equities faced pressure from higher duration risk.",
         "zh": "收益率曲线保持倒挂，发出衰退担忧信号。股票面临更高久期风险压力。"
       },
-      "bullish": ["banking sector credit spreads", "bond prices stability"],
-      "bearish": ["small caps valuation compression", "growth stocks under pressure"],
+      "bullish": ["banking sector credit spreads / 银行业信贷利差", "bond prices stability / 债券价格稳定"],
+      "bearish": ["small caps valuation compression / 小盘股估值压缩", "growth stocks under pressure / 成长股承压"],
       "macroRisk": {
         "en": "Elevated yields may constrain mortgage rates and slow home sales, impacting regional banks.",
         "zh": "较高收益率可能约束抵押贷款利率并减缓房屋销售，影响地区银行。"
@@ -78,8 +78,8 @@
         "en": "DXY climbed to 106.2 as investors rotated into safe-haven assets amid geopolitical uncertainty.",
         "zh": "地缘政治不确定性驱使投资者转向避险资产，DXY 升至 106.2。"
       },
-      "bullish": ["international commodity sellers", "import relief for US consumers"],
-      "bearish": ["US multinationals with overseas earnings", "emerging markets"],
+      "bullish": ["international commodity sellers / 国际大宗商品卖家", "import relief for US consumers / 美国消费者获得进口缓解"],
+      "bearish": ["US multinationals with overseas earnings / 海外收益的美国跨国公司", "emerging markets / 新兴市场"],
       "macroRisk": {
         "en": "Strong dollar exacerbates headwinds for multinational corporations with significant foreign revenue.",
         "zh": "强势美元加剧了有大量海外收入的跨国公司的逆风。"

@@ -2,7 +2,7 @@
   "date": "2026-08-28",
   "summary": {
     "en": "AI-led buying is still carrying the tape, with Nasdaq futures outperforming as chip momentum rolls through the supply chain. But higher Treasury yields, a firmer dollar, and weaker gold show the market is still pricing a hawkish Jackson Hole backdrop rather than a clean risk-on breakout.",
-    "zh": "AI 仍然是盘面的主导线，纳指期货领涨，资金正沿着芯片和数据中心供应链扩散。但美债收益率更高、美元更强、黄金走弱，说明市场交易的仍是偏鹰的 Jackson Hole 背景，而不是干净利落的 risk-on 突破。"
+    "zh": "AI 仍然是盘面的主导线，纳指期货领涨，资金正沿着芯片和数据中心供应链扩散。但美债收益率更高、美元更强、黄金走弱，说明市场交易的仍是偏鹰的 Jackson Hole 背景，而不是干净利落的 风险偏好回升 突破。"
   },
   "topNews": [
     {
@@ -131,7 +131,7 @@
     },
     "market": {
       "en": "The tape is index-level risk-on, but it is still event-driven and concentrated in AI rather than a broad breadth expansion. Breadth confirmation is still missing.",
-      "zh": "从指数层面看市场偏 risk-on，但本质上仍是事件驱动、集中在 AI，而不是广泛扩散的宽度扩张。市场需要更好的 breadth 佐证。"
+      "zh": "从指数层面看市场偏 风险偏好回升，但本质上仍是事件驱动、集中在 AI，而不是广泛扩散的宽度扩张。市场需要更好的 breadth 佐证。"
     },
     "preciousMetals": {
       "en": "Gold and silver are weaker as real yields and the dollar firm. That argues for caution on miners and less defensive support than earlier in the week.",
@@ -172,7 +172,7 @@
     },
     "note": {
       "en": "The move is still led by AI and Nvidia follow-through, but higher yields, a firmer dollar, and weaker gold/oil keep this from being a clean risk-on regime.",
-      "zh": "当前走势仍由 AI 和 Nvidia 的后续扩散主导，但更高的收益率、更强的美元，以及更弱的黄金和原油，都说明这还不是一个干净的 risk-on 环境。"
+      "zh": "当前走势仍由 AI 和 Nvidia 的后续扩散主导，但更高的收益率、更强的美元，以及更弱的黄金和原油，都说明这还不是一个干净的 风险偏好回升 环境。"
     }
   }
 }

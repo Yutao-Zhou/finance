@@ -3,7 +3,7 @@
   "asOf": "2026-11-16T14:00:00.288Z",
   "summary": {
     "en": "Information through 09:00 EST: US futures are lower relative to Friday's cash-close reference, led by Nasdaq-100 futures at -1.38%; S&P 500 futures are down 0.69%. The 10-year Treasury yield eases to 5.133%, while the dollar edges higher and crude declines. This week brings Nvidia's Tuesday results, Anthropic's planned IPO and a Monday speech by Fed Chair Kevin Warsh.",
-    "zh": "信息截至纽约时间09:00 EST：美股期货较周五现金收盘参考点下跌，纳指100期货跌1.38%、标普500期货跌0.69%。10年期美债收益率回落至5.133%，美元小幅走强，原油下跌。本周关注英伟达周二财报、Anthropic拟议IPO，以及美联储主席Kevin Warsh周一讲话。"
+    "zh": "信息截至纽约时间09:00 EST：美股期货较周五美股常规收盘时的参考值下跌，纳指100期货跌1.38%、标普500期货跌0.69%。10年期美债收益率回落至5.133%，美元小幅走强，原油下跌。本周关注英伟达周二财报、Anthropic拟议IPO，以及美联储主席Kevin Warsh周一讲话。"
   },
   "topNews": [
     {
@@ -113,7 +113,7 @@
     },
     "note": {
       "en": "I lean toward a cautious opening, with technology bearing the greater pressure. Nasdaq-100 futures are down 1.38% versus the prior cash-close reference, compared with a 0.69% decline in S&P 500 futures; Friday's SOXX decline of 3.65% adds sector context. The dollar is up 0.09%, but the 10-year yield has fallen 2.1 basis points to 5.133% and Brent is down 2.09%, so cross-asset signals are mixed. Lower yields could support valuations, while weaker oil alone does not prove a demand shock. Watch opening breadth and semiconductor participation: stabilization alongside easing yields would weaken the cautious view; broadening equity losses would support it.",
-      "zh": "我倾向于对开盘保持谨慎，科技板块承压更明显。纳指100期货较前一现金收盘参考点下跌1.38%，标普500期货下跌0.69%；周五SOXX下跌3.65%也提供了板块背景。美元上涨0.09%，但10年期收益率下降2.1个基点至5.133%，布伦特原油下跌2.09%，跨资产信号存在分歧。收益率回落可能支持估值，单凭油价走低则不能证明需求冲击。关注开盘广度及半导体参与情况：若利率压力缓解同时股票企稳，将削弱谨慎判断；若股票跌势扩散，则会支持这一判断。"
+      "zh": "我倾向于对开盘保持谨慎，科技板块承压更明显。纳指100期货较上一交易日美股常规收盘时的参考值下跌1.38%，标普500期货下跌0.69%；周五SOXX下跌3.65%也提供了板块背景。美元上涨0.09%，但10年期收益率下降2.1个基点至5.133%，布伦特原油下跌2.09%，跨资产信号存在分歧。收益率回落可能支持估值，单凭油价走低则不能证明需求冲击。关注开盘广度及半导体参与情况：若利率压力缓解同时股票企稳，将削弱谨慎判断；若股票跌势扩散，则会支持这一判断。"
     }
   },
   "marketData": {

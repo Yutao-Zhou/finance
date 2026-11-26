@@ -1,8 +1,8 @@
 {
   "date": "2026-06-10",
   "summary": {
-    "en": "US stock futures decline as markets digest elevated May CPI data while Middle East tensions between US and Iran escalate, sending oil prices higher despite peace deal signals. Tech sector under pressure amid inflation concerns that reignite Fed rate repriceing expectations; gold trades mixed as real yields fluctuate and geopolitical risk premium weighs on safe haven appeal.",
-    "zh": "美国股指期货下跌，市场消化高企的 5 月 CPI 数据同时美中-伊朗紧张局势升级推升油价。科技板块在通胀担忧中承压引发美联储重定价预期；黄金交易分化实际收益率波动和地缘政治风险溢价削弱避风港吸引力。"
+    "en": "US stock futures decline as markets digest elevated May CPI data while Middle East tensions between US and Iran escalate, sending oil prices higher despite peace deal signals. Tech sector under pressure amid inflation concerns that reignite Fed rate repricing expectations; gold trades mixed as real yields fluctuate and geopolitical risk premium weighs on safe haven appeal.",
+    "zh": "美国股指期货下跌，市场消化高企的 5 月 CPI 数据同时美伊紧张局势升级推升油价。通胀担忧使市场重新评估美联储利率路径，科技股承压。实际收益率波动和地缘风险溢价影响避险需求，黄金走势分化。"
   },
   "topNews": [
     {
@@ -14,8 +14,8 @@
         "en": "Elevated CPI reading reinforces hawkish Fed repriceing narrative, pushing Treasury yields higher and pressuring rate-sensitive growth stocks while creating inflation/employment regime support for dollar.",
         "zh": "高通胀读数支持鹰派美联储重定价叙事推升美债收益率并压制利率敏感成长股同时支撑美元在通胀就业制度下。"
       },
-      "bullish": ["financials", "oil E&P"],
-      "bearish": ["tech growth", "high duration bonds", "consumer discretionary"],
+      "bullish": ["financials / 金融业", "oil E&P / 石油勘探与生产"],
+      "bearish": ["tech growth / 科技成长股", "high duration bonds / 长久期债券", "consumer discretionary / 可选消费板块"],
       "macroRisk": {
         "en": "High - Inflation surprises drive yield curve repricing and threaten near-term recession fears via persistent price pressures.",
         "zh": "高——通胀意外驱动收益率曲线重定价并通过持续价格压力威胁近期衰退担忧。"
@@ -30,8 +30,8 @@
         "en": "Geopolitical risk premium in energy markets pushes WTI toward $85-92 range while Houthi Red Sea threats add supply uncertainty; peace deal hopes provide temporary relief but underlying tensions remain structural.",
         "zh": "能源市场地缘风险溢价将 WTI 推至$85-92范围而胡塞红海威胁增加供应不确定性；和平协议希望提供暂时缓解但基本紧张保持结构性。"
       },
-      "bullish": ["oil E&P", "logistics defense contractors"],
-      "bearish": ["consumer staples", "airlines with fuel exposure"],
+      "bullish": ["oil E&P / 石油勘探与生产", "logistics defense contractors / 物流防务承包商"],
+      "bearish": ["consumer staples / 必需消费品", "airlines with fuel exposure / 具有燃油敞口的航空公司"],
       "macroRisk": {
         "en": "High - Escalating oil prices feed inflation concerns that challenge Fed rate cut hopes and pressure CPI-sensitive portfolios.",
         "zh": "高——升级油价加剧通胀担忧挑战美联储降息希望并压制通胀敏感投资组合。"
@@ -47,7 +47,7 @@
         "zh": "AI 芯片股、半导体名称延续盘前疲软因利率敏感成长估值面临更高收益率的逆风；广度担忧持续尽管个股质量。"
       },
       "bullish": [],
-      "bearish": ["semiconductors", "tech hardware", "software growth"],
+      "bearish": ["semiconductors / 半导体", "tech hardware / 科技硬件", "software growth / 软件成长股"],
       "macroRisk": {
         "en": "Medium - Growth stocks face valuation compression from real yield environment while geopolitical uncertainty creates sector rotation volatility.",
         "zh": "中等——成长股在真实收益率环境中面临估值压缩而地缘政治不确定性造成板块轮动波动。"
@@ -63,7 +63,7 @@
         "zh": "黄金难以维持支撑因 5 月强通胀数据推升实际收益率同时中东紧张仅提供部分避风港吸引力在通胀风险溢价动态中。"
       },
       "bullish": [],
-      "bearish": ["gold miners", "broad precious metals"],
+      "bearish": ["gold miners / 黄金矿业股", "broad precious metals / 广泛贵金属"],
       "macroRisk": {
         "en": "Mixed - Inflation risk supports safe haven but real yield pressure weakens gold; outcome depends on CPI evolution vs escalation resolution.",
         "zh": "混合——通胀风险支持避风港但实际收益率压力削弱黄金；结果取决于 CPI 演变对升级解决。"
@@ -78,8 +78,8 @@
         "en": "Strong jobs-inflation data supports dollar against emerging market currencies while DXY benefits from rate regime but faces headwinds from geopolitical risk to EM economies.",
         "zh": "强劲就业通胀数据支撑美元对新兴市场货币同时美元指数从利率制度受益但面临地缘政治风险到新兴市场经济体的阻力。"
       },
-      "bullish": ["US banking", "multinational exporters"],
-      "bearish": ["emerging markets debt holders"],
+      "bullish": ["US banking / 美国银行业", "multinational exporters / 跨国出口商"],
+      "bearish": ["emerging markets debt holders / 新兴市场债务持有者"],
       "macroRisk": {
         "en": "Medium - Strong dollar from rate support risks EM assets while geopolitical tensions create FX portfolio volatility.",
         "zh": "中等——从利率支持的强美元危及新兴市场资产同时地缘政治紧张造成外汇投资组合波动。"
@@ -94,8 +94,8 @@
         "en": "Elevated CPI pushes market pricing for first rate cut later than expected with Treasury 2s10s spread tightening as real yields climb; growth stocks face valuation headwinds while banks benefit from duration compression.",
         "zh": "高通胀推升首次降息定价晚于预期美债 2s10s 利差因实际收益率上升而收紧；成长股面临估值阻力同时银行从久期压缩受益。"
       },
-      "bullish": ["financial banks", "small-cap value"],
-      "bearish": ["tech growth", "high duration bonds"],
+      "bullish": ["financial banks / 金融银行", "small-cap value / 小盘价值股"],
+      "bearish": ["tech growth / 科技成长股", "high duration bonds / 长久期债券"],
       "macroRisk": {
         "en": "High - Delayed rate cut path threatens recession fears and creates divergence between near-term cuts vs inflation persistence.",
         "zh": "高——延迟降息路径威胁衰退担忧并造成近期降息对通胀持续的偏差。"
@@ -110,8 +110,8 @@
         "en": "S&P and Nasdaq futures slip on tech weakness despite individual quality while Dow underperforms; energy sector rallies on Middle East risk premium creating style rotation from growth to value.",
         "zh": "标普和纳斯达克期货在科技疲软下滑尽管个别质量同时道琼斯表现不佳；能源板块在中东风险溢价中上涨造成从成长到价值的风格轮动。"
       },
-      "bullish": ["energy", "value stocks"],
-      "bearish": ["growth tech", "large-cap growth"],
+      "bullish": ["energy / 能源板块", "value stocks / 价值股"],
+      "bearish": ["growth tech / 成长型科技股", "large-cap growth / 大盘成长股"],
       "macroRisk": {
         "en": "Mixed - Growth/Value divergence from rate environment and sector rotation dynamics while geopolitical events create style volatility.",
         "zh": "混合——成长价值分歧从利率环境和板块轮动动态同时地缘政治事件造成风格波动。"
@@ -129,7 +129,7 @@
     },
     "bigTech": {
       "en": "Big Tech names face headwinds from higher-for-longer rates affecting consumer discretionary spending; MSFT, GOOGL trade mixed as growth valuation concerns offset AI revenue strength.",
-      "zh": "大科技名称面临更高长期利率的阻力影响消费者可选消费；MSFT、GOOGL 交易混合成长估值担忧抵消 AI 收入强度。"
+      "zh": "大科技股面临更高长期利率的阻力影响消费者可选消费；MSFT、GOOGL 交易混合成长估值担忧抵消 AI 收入强度。"
     },
     "energy": {
       "en": "Energy sector rallies on Middle East geopolitical risk premium with oil E&P names outperforming despite brief dips at peace deal signals; downstream retailers lag from supply uncertainty.",

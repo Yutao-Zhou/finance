@@ -72,14 +72,14 @@
     {
       "title": {
         "en": "Dollar Index consolidates near 98.5 as EUR recovers from earlier weakness",
-        "zh": "美元指数在 98.5 附近 Consolidation，欧元从前弱中恢复"
+        "zh": "美元指数在 98.5 附近 盘整，欧元从前弱中恢复"
       },
       "impact": {
         "en": "DXY stabilizes after volatility from peace deal news. EUR/USD rebounds to 1.095. Strong US data keeps dollar supported despite rate cut hopes. Emerging market currencies face continued pressure from USD strength.",
         "zh": "DXY 在和平协议新闻波动后稳定。欧元/美元反弹至 1.095。强劲的美国数据在降息希望下支撑美元。新兴市场货币继续面临美元走强压力。"
       },
-      "bullish": ["U.S. Treasurys", "Energy stocks"],
-      "bearish": ["EM currencies", "AUD", "CAD"],
+      "bullish": ["U.S. Treasurys / 美国国债", "Energy stocks / 能源股"],
+      "bearish": ["EM currencies / 新兴市场货币", "AUD", "CAD"],
       "macroRisk": {
         "en": "Moderate - USD strength self-reinforces but rate differentials eventually limit upside. EM debt servicing costs elevated.",
         "zh": "中等 - 美元自我强化但利率差异最终限制上行。新兴市场债务偿付成本高昂。"
@@ -123,7 +123,7 @@
   "premarketFocus": {
     "futures": {
       "en": "S&P 500 futures slightly down 0.2%, Nasdaq down 0.4%, Dow flat. Energy futures mixed. Tech names under pressure from growth rotation. Expect selective open with energy outpacing growth.",
-      "zh": "标普 500 期货微跌 0.2%，纳斯达克下跌 0.4%，道指平盘。能源期货分化。科技名称在成长轮动下受压。预期选择性开盘，能源跑赢成长。"
+      "zh": "标普 500 期货微跌 0.2%，纳斯达克下跌 0.4%，道指平盘。能源期货分化。科技股在成长轮动下受压。预期选择性开盘，能源跑赢成长。"
     },
     "treasury10Y": {
       "en": "10Y yield above 4.62%, 2Y-10Y curve steepens. Bond vigilance persists despite weak growth data. Fed pivot narrative delayed by inflation stickiness. Long-duration assets face pressure.",
@@ -131,7 +131,7 @@
     },
     "dxy": {
       "en": "DXY near 98.50 after consolidation. EUR/USD rebounds. USD supported by strong data but capped by rate cut expectations. Safe-haven flows moderate post-peace deal.",
-      "zh": "DXY 在 98.50 附近 Consolidation 后。欧元/美元反弹。美元受强数据支持但降息预期封顶。和平协议后避险资金流缓和。"
+      "zh": "DXY 在 98.50 附近 盘整 后。欧元/美元反弹。美元受强数据支持但降息预期封顶。和平协议后避险资金流缓和。"
     },
     "oil": {
       "en": "WTI stabilizes ~$103.50-104. Range-bound until further demand data. Supply constraints limit downside but demand concerns cap upside. Energy sector leadership expected.",

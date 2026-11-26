@@ -15,7 +15,7 @@
         "zh": "科技板块在 NVDA 结果不及预期后重新定价。成长股估值承压，AI 基础设施支出显示放缓迹象。板块轮动至价值和能源。"
       },
       "bullish": [],
-      "bearish": ["NVDA", "AMD", "SMCI", "Big Tech"],
+      "bearish": ["NVDA", "AMD", "SMCI", "Big Tech / 大型科技股"],
       "macroRisk": {
         "en": "No - Company-specific earnings. Broader AI theme intact despite single stock miss.",
         "zh": "否 - 公司级财报。尽管个股不及预期，更广泛的 AI 主题仍然完整。"
@@ -31,7 +31,7 @@
         "zh": "外交突破宣布但中国油轮已驶离霍尔木兹。市场定价战后供应约束。WTI 约 103 美元，布伦特约 105 美元。能源股在近端供应前景上分化。"
       },
       "bullish": ["XOM", "COP", "XLE"],
-      "bearish": ["USO", "OIH", "Oil services"],
+      "bearish": ["USO", "OIH", "Oil services / 油气服务股"],
       "macroRisk": {
         "en": "Partial - Geopolitical premium fades but supply disruption concerns remain. Oil volatility elevated until infrastructure rebuilds.",
         "zh": "部分 - 地缘溢价消退但供应中断担忧犹存。基础设施重建前油价波动率仍高。"
@@ -47,7 +47,7 @@
         "zh": "尽管降息希望，债市谨慎情绪持续。上周美联储 4 月会议纪要显示内部分歧。市场担忧顽固通胀使美联储转向复杂化。金价在收益率走强下滑。"
       },
       "bullish": ["TLT"],
-      "bearish": ["GLD", "USREIT", "Rate-sensitive"],
+      "bearish": ["GLD", "USREIT", "Rate-sensitive / 对利率敏感"],
       "macroRisk": {
         "en": "Yes - Inflation expectations anchor rates higher. HSBC warns Treasurys in 'danger zone' from sticky CPI data.",
         "zh": "是 - 通胀预期锚定利率更高。HSBC 警告美债因顽固 CPI 数据陷入'危险区'。"
@@ -63,7 +63,7 @@
         "zh": "和平叙事削弱避险需求。美元在协议进展下走强。美债收益率走强。金价在突破 4,480 美元高点后回落至约 4,470 美元。白银、铂金跟随下跌。"
       },
       "bullish": [],
-      "bearish": ["GLD", "Physical Gold"],
+      "bearish": ["GLD", "Physical Gold / 实物黄金"],
       "macroRisk": {
         "en": "Partial - Peace reduces geopolitical risk premium but inflation hedge narrative remains relevant.",
         "zh": "部分 - 和平减少地缘风险溢价但通胀对冲叙事仍相关。"
@@ -78,8 +78,8 @@
         "en": "DXY rebounds from earlier peak after peace deal news. Safe-haven flows to dollar on uncertainty. EUR/USD lower, JPY/USD mixed. Dollar strength benefits US Treasurys but pressures emerging markets.",
         "zh": "DXY 在和平协议新闻后从 earlier 高点反弹。不确定性下流向美元的避险资金。欧元/美元更低，日元/美元分化。美元走强有利于美债但施压新兴市场。"
       },
-      "bullish": ["USDX", "US Treasurys", "Energy stocks"],
-      "bearish": ["Emerging Markets", "Commodities USD-denominated"],
+      "bullish": ["USDX", "US Treasurys / 美国国债", "Energy stocks / 能源股"],
+      "bearish": ["Emerging Markets / 新兴市场", "Commodities USD-denominated / 以美元计价的商品"],
       "macroRisk": {
         "en": "Partial - USD strength is self-reinforcing with safe-haven flows. Dollar-denominated assets face headwinds.",
         "zh": "部分 - 美元与避险资金自我强化。以美元计价资产面临逆风。"

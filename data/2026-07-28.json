@@ -2,7 +2,7 @@
   "date": "2026-07-28",
   "summary": {
     "en": "Markets mixed as chip selloff and easing geopolitical tensions create divergence. S&P futures -0.25%, Nasdaq slips -1% ahead of open while oil prices continue declining (WTI/Brent down ~4%) amid relaxed Middle East pressures. Fed decision looms tomorrow alongside big tech earnings scrutiny with AI spending facing renewed attention.",
-    "zh": "市场分化：芯片抛售和地缘政治缓和形成背离。标普期货 -0.25%、纳指盘前跌 1%，而油价在中东压力缓解下持续走低（WTI/布伦特周跌约 4%）。美联储决定即将公布，同时大科技财报受审查，AI 支出面临新一轮关注。"
+    "zh": "市场分化：芯片抛售和地缘政治缓和形成背离。标普期货 -0.25%、纳指盘前跌 1%，而油价在中东压力缓解下持续走低（WTI 与布伦特原油均下跌约 4%）。美联储决定即将公布，同时大科技财报受审查，AI 支出面临新一轮关注。"
   },
   "topNews": [
     {
@@ -14,10 +14,11 @@
         "en": "Semiconductor sector under pressure with NVDA dropping significantly, dragging down broad chip exposure. Selloff driven by big tech earnings anticipation and scrutiny on AI infrastructure spending efficiency. Hardware-focused names affected while application layer divergence emerging.",
         "zh": "半导体板块承压，NVDA 大幅下跌拖累整体芯片敞口。抛售由大科技财报预期和 AI 基础设施支出效率审查驱动。硬件名称受影响而应用层分化显现。"
       },
-      "bullish": ["value stocks", "traditional hardware"],
-      "bearish": ["semiconductors", "tech growth", "AI infrastructure names"],
+      "bullish": ["value stocks / 价值股", "traditional hardware / 传统硬件"],
+      "bearish": ["semiconductors / 半导体", "tech growth / 科技成长股", "AI infrastructure names / 人工智能基础设施相关公司"],
       "macroRisk": {
-        "en": "Partial - AI spending concerns affecting capital allocation efficiency; if inefficiency confirmed could impact tech sector profitability and valuation multiples."
+        "en": "Partial - AI spending concerns affecting capital allocation efficiency; if inefficiency confirmed could impact tech sector profitability and valuation multiples.",
+        "zh": "部分 - 人工智能支出担忧影响资本配置效率；若低效性得到确认，可能影响科技行业的盈利能力和估值倍数。"
       }
     },
     {
@@ -29,10 +30,11 @@
         "en": "WTI down ~4% and Brent extending weekly decline to 10%. Easing geopolitical tensions remove risk premium, forcing oil markets back toward fundamentals. Energy producers face margin pressure while consumer stocks could benefit from lower transportation costs.",
         "zh": "WTI 跌约 4%，布伦特延续周跌幅超 10%。地缘政治缓和移除风险溢价，迫使油价回归基本面。能源生产商面临利润率压力而消费股可能从高运输成本中受益。"
       },
-      "bullish": ["consumer discretionary", "travel", "airlines"],
-      "bearish": ["energy producers", "oil services"],
+      "bullish": ["consumer discretionary / 可选消费板块", "travel / 旅游业", "airlines / 航空业"],
+      "bearish": ["energy producers / 能源生产商", "oil services / 石油服务板块"],
       "macroRisk": {
-        "en": "Partial - Oil deflation reducing headline CPI concerns but energy sector profitability compressed. Lower oil supports consumer spending power and inflation expectations moderate."
+        "en": "Partial - Oil deflation reducing headline CPI concerns but energy sector profitability compressed. Lower oil supports consumer spending power and inflation expectations moderate.",
+        "zh": "部分 - 石油通缩降低了 整体 CPI 的担忧，但能源行业盈利能力受到压缩。较低的油价支持消费者购买力，通胀预期趋于温和。"
       }
     },
     {
@@ -41,13 +43,14 @@
         "zh": "指数期货预示混合开盘：科技损失拖累市场，交易员消化对 AI 支出的审查"
       },
       "impact": {
-        "en": "S&P e-mini futures slip -0.25%, Nasdaq 100 down -1%. Broad market caught between earnings quality support and macro uncertainties including AI infrastructure ROI questions. Tech-heavy index underperforming as investors reassess growth narratives.",
-        "zh": "标普迷你期货滑跌-0.25%，纳指下跌 1%。大盘夹在财报质量支撑和宏观不确定性之间，包括 AI 基础设施投资回报率问题。科技主导指数表现不佳，投资者重新评估成长叙事。"
+        "en": "S&P e-mini futures slip -0.25%, Nasdaq 100 down 1%. Broad market caught between earnings quality support and macro uncertainties including AI infrastructure ROI questions. Tech-heavy index underperforming as investors reassess growth narratives.",
+        "zh": "标普迷你期货滑跌0.25%，纳指下跌 1%。大盘夹在财报质量支撑和宏观不确定性之间，包括 AI 基础设施投资回报率问题。科技主导指数表现不佳，投资者重新评估成长叙事。"
       },
-      "bullish": ["value stocks", "small-cap value"],
-      "bearish": ["mega-cap tech", "growth names", "semiconductor leaders"],
+      "bullish": ["value stocks / 价值股", "small-cap value / 小盘价值股"],
+      "bearish": ["mega-cap tech / 大型科技巨头", "growth names / 成长股", "semiconductor leaders / 半导体龙头企业"],
       "macroRisk": {
-        "en": "Medium - AI spending efficiency concerns could restructure tech valuations; growth vs value rotation accelerating if capital allocation questions persist."
+        "en": "Medium - AI spending efficiency concerns could restructure tech valuations; growth vs value rotation accelerating if capital allocation questions persist.",
+        "zh": "中等 - 人工智能支出效率担忧可能重塑科技估值；如果资本配置问题持续存在，成长与价值板块轮动将加速。"
       }
     },
     {
@@ -59,10 +62,11 @@
         "en": "Precious metals benefiting from DXY weakness despite risk-on tendencies. Fed pivot expectations supporting non-yielding assets while geopolitical easing reduces safe-haven premium.",
         "zh": "贵金属在美元走弱中受益，尽管有风险偏好倾向。美联储转向预期支撑非生息资产而地缘政治缓和减少避险溢价。"
       },
-      "bullish": ["gold miners", "precious metals producers"],
+      "bullish": ["gold miners / 黄金矿业股", "precious metals producers / 贵金属生产商"],
       "bearish": [],
       "macroRisk": {
-        "en": "Low - Dollar dynamics and Fed policy expectations drive precious metal direction more than geopolitical events currently."
+        "en": "Low - Dollar dynamics and Fed policy expectations drive precious metal direction more than geopolitical events currently.",
+        "zh": "低 - 美元动态和美联储政策预期目前对贵金属走势的驱动作用大于地缘政治事件。"
       }
     }
   ],

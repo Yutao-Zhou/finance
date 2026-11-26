@@ -3,7 +3,7 @@
   "asOf": "2026-11-13T14:00:00.270Z",
   "summary": {
     "en": "Information through 09:00 EST: US futures attempt a modest recovery after Thursday's decline, with S&P 500 futures up 0.42% and Nasdaq-100 futures up 0.20% versus the previous cash close. October PPI rose 0.3% month over month and 6.5% year over year; the measure excluding food, energy and trade services rose 0.5%. Treasury yields remain elevated as next week's AI catalysts approach.",
-    "zh": "信息截至纽约时间09:00 EST：周四美股下跌后，标普500和纳斯达克100期货较前一现金收盘分别上涨0.42%和0.20%，呈现温和修复。10月PPI环比上涨0.3%、同比上涨6.5%；剔除食品、能源和贸易服务的指标环比上涨0.5%。美债收益率仍处高位，下周AI相关重要事件临近。"
+    "zh": "信息截至纽约时间09:00 EST：周四美股下跌后，标普500和纳斯达克100期货较上一交易日美股常规收盘时的参考值分别上涨0.42%和0.20%，呈现温和修复。10月PPI环比上涨0.3%、同比上涨6.5%；剔除食品、能源和贸易服务的指标环比上涨0.5%。美债收益率仍处高位，下周AI相关重要事件临近。"
   },
   "topNews": [
     {
@@ -56,7 +56,7 @@
       "url": "https://www.fidelity.com/news/article/us-markets/202611130746MIDNIGHTUSEQUITY_A3753608",
       "impact": {
         "en": "MT Newswires' 07:46 EST overview describes firmer futures following Thursday's cash-market decline. It reviews Thursday remarks from Goolsbee, Hammack and Daly, reflecting differing views on the pace of further tightening. Its 08:30 PPI schedule has now passed; today's actual release is covered separately above.",
-        "zh": "MT Newswires在07:46 EST的盘前综述中记录了周四现金市场下跌后的期货回升，并回顾古尔斯比、哈马克和戴利周四的讲话，显示对进一步收紧步伐的看法有所差异。该综述所列08:30 PPI发布时间在当前截点已经过去，实际数据单列于上方。"
+        "zh": "MT Newswires在07:46 EST的盘前综述中记录了周四现货市场下跌后的期货回升，并回顾古尔斯比、哈马克和戴利周四的讲话，显示对进一步收紧步伐的看法有所差异。该综述所列08:30 PPI发布时间在当前截点已经过去，实际数据单列于上方。"
       },
       "bullish": [
         "期货回升显示修复意愿 / Firmer futures suggest an attempted recovery."
@@ -66,7 +66,7 @@
       ],
       "macroRisk": {
         "en": "Official commentary is not a new FOMC rate decision. Premarket futures direction does not guarantee cash-market follow-through.",
-        "zh": "官员评论不等于新的FOMC利率决议；盘前期货方向也不能保证现金市场开盘后的延续性。"
+        "zh": "官员评论不等于新的FOMC利率决议；盘前期货方向也不能保证美股常规交易开盘后的延续性。"
       }
     }
   ],
@@ -134,7 +134,7 @@
     },
     "note": {
       "en": "I lean toward a tentative recovery with continuing rate sensitivity. S&P 500 futures are up 0.42% and Nasdaq-100 futures 0.20% after Thursday's declines, while the 10-year yield has risen 2.6 basis points to 5.129%. The dollar is nearly flat at +0.02%, and Brent is up 0.93%, giving the rebound a mixed cross-asset backdrop. October's 0.3% headline PPI increase offers some moderation, but the 0.5% increase excluding food, energy and trade services limits confidence in rapid inflation relief. Watch cash-market breadth and semiconductor participation: broader gains with easing yield pressure would support the recovery; narrowing participation or further yield increases would weaken it.",
-      "zh": "我倾向于将盘前表现解读为试探性修复，利率敏感性仍高。周四下跌后，标普500和纳指100期货分别上涨0.42%和0.20%，但10年期收益率上升2.6个基点至5.129%。美元指数仅上涨0.02%、基本持平，布伦特原油上涨0.93%，跨资产背景仍有分歧。10月整体PPI环比上涨0.3%体现一定缓和，但剔除食品、能源和贸易服务后上涨0.5%，限制了对通胀迅速减轻的信心。关注现金市场广度和半导体参与度：若涨势扩散且利率压力缓解，将支持修复；若参与度收窄或收益率进一步上行，则会削弱这一判断。"
+      "zh": "我倾向于将盘前表现解读为试探性修复，利率敏感性仍高。周四下跌后，标普500和纳指100期货分别上涨0.42%和0.20%，但10年期收益率上升2.6个基点至5.129%。美元指数仅上涨0.02%、基本持平，布伦特原油上涨0.93%，跨资产背景仍有分歧。10月整体PPI环比上涨0.3%体现一定缓和，但剔除食品、能源和贸易服务后上涨0.5%，限制了对通胀迅速减轻的信心。关注美股市场广度和半导体参与度：若涨势扩散且利率压力缓解，将支持修复；若参与度收窄或收益率进一步上行，则会削弱这一判断。"
     }
   },
   "marketData": {

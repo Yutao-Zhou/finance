@@ -1,8 +1,8 @@
 {
   "date": "2026-09-21",
   "summary": {
-    "en": "US pre-market shows mixed sentiment ahead of week's close with sector rotation continuing between growth and value stocks. Treasury yields remain elevated while oil prices stabilize, creating uncertainty for rate-sensitive sectors. No major geopolitical developments overnight; focus remains on Fed policy positioning and earnings expectations.",
-    "zh": "美盘前呈现混合情绪，临近周末交易期间成长股和价值股轮动持续。美债收益率保持高位而油价稳定，造成利率敏感型板块的不确定性。隔夜无重大地缘政治发展；焦点仍集中在美联储政策定位和盈利预期上。"
+    "en": "US pre-market shows mixed sentiment with sector rotation continuing between growth and value stocks. Treasury yields remain elevated while oil prices stabilize, creating uncertainty for rate-sensitive sectors. No major geopolitical developments overnight; focus remains on Fed policy positioning and earnings expectations.",
+    "zh": "美盘前呈现混合情绪，成长股和价值股之间的轮动仍在持续。美债收益率保持高位而油价稳定，造成利率敏感型板块的不确定性。隔夜无重大地缘政治发展；焦点仍集中在美联储政策定位和盈利预期上。"
   },
   "topNews": [
     {
@@ -14,8 +14,8 @@
         "en": "Investors shifting capital from high-multiple growth names to value sectors as earnings season approaches, creating divergence in market breadth despite overall strength.",
         "zh": "随着盈利季临近，投资者从高倍数成长股转向价值板块，在市场整体走强背景下造成广度分化。"
       },
-      "bullish": ["value stocks", "small caps"],
-      "bearish": ["high-multiple growth", "tech mega-caps"],
+      "bullish": ["value stocks / 价值股", "small caps / 小盘股"],
+      "bearish": ["high-multiple growth / 高估值成长股", "tech mega-caps / 科技巨头"],
       "macroRisk": {
         "en": "No - rotation reflects normal market dynamics; sector divergence healthy but watch for breadth deterioration if continuation becomes excessive.",
         "zh": "否——轮动反映正常市场动态；板块分化健康但需关注若持续过度导致广度恶化。"
@@ -31,7 +31,7 @@
         "zh": "10年期收益率保持在关键技术之上，市场计价的是渐进式美联储转向路径而非立即降息，影响久期敏感型股票和贷款增长前景。"
       },
       "bullish": [],
-      "bearish": ["growth stocks", "REITs", "utilities"],
+      "bearish": ["growth stocks / 成长股", "REITs / 房地产投资信托基金", "utilities / 公用事业"],
       "macroRisk": {
         "en": "Yes - elevated yields compress bond-equity correlation risks, while yield volatility creates uncertainty for rate-dependent sectors.",
         "zh": "是——高收益率压缩债券股票相关风险，而收益率波动造成利率依赖型板块的不确定性。"
@@ -46,8 +46,8 @@
         "en": "WTI and Brent stabilizing at elevated levels, signaling demand resilience but also inflation transmission risks that could complicate Fed's dual mandate.",
         "zh": "WTI 和布伦特原油在高位稳定，显示需求韧性但同时也暗示通胀传导风险，可能使美联储的双重使命复杂化。"
       },
-      "bullish": ["energy sector", "oil services"],
-      "bearish": ["consumer discretionary", "airlines"],
+      "bullish": ["energy sector / 能源板块", "oil services / 石油服务板块"],
+      "bearish": ["consumer discretionary / 可选消费板块", "airlines / 航空业"],
       "macroRisk": {
         "en": "Partial - stable prices support inflation moderation but sustained high levels keep recession risk premium elevated and complicate monetary policy.",
         "zh": "部分——稳定价格支持通胀缓和但持续高位保持衰退风险溢价并复杂化货币政策。"
@@ -62,7 +62,7 @@
         "en": "Semiconductor sector shows resilience with cloud capex supporting demand, though supply chain constraints and valuation concerns create selective strength.",
         "zh": "半导体板块显示韧性，云资本开支支撑需求，但供应链限制和估值担忧造成选择性强劲。"
       },
-      "bullish": ["semiconductors", "cloud infrastructure"],
+      "bullish": ["semiconductors / 半导体", "cloud infrastructure / 云基础设施"],
       "bearish": [],
       "macroRisk": {
         "en": "No - sector-specific AI investment cycle insulates from broader macro weakness; supply chain exposure remains key risk factor.",
@@ -78,8 +78,8 @@
         "en": "DXY remains above 100.50 as strong USD supports yield-capped equities but pressures emerging market currencies and debt servicing for multinationals.",
         "zh": "美元指数保持在 100.50 之上，强美元支持收益率封顶股票但给新兴市场货币和跨国公司的债务偿付带来压力。"
       },
-      "bullish": ["USD-denominated bonds"],
-      "bearish": ["emerging market currencies", "international equities"],
+      "bullish": ["USD-denominated bonds / 以美元计价的债券"],
+      "bearish": ["emerging market currencies / 新兴市场货币", "international equities / 国际股票"],
       "macroRisk": {
         "en": "Partial - strong dollar creates headwinds for global growth while supporting US rate-sensitive sectors; mixed signal for overall market breadth.",
         "zh": "部分——强美元为全球增长带来逆风但支持美国利率敏感型板块；对整体市场广度发出混合信号。"

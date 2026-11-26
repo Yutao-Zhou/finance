@@ -55,19 +55,26 @@
     },
     {
       "title": {
-        "en": "NVIDIA Post-Earnings Pressure: $91B Market Cap Slide",
-        "zh": "英伟达财报后承压：市值蒸发 9,100 亿美元"
+        "en": "Nvidia’s May Earnings Report Remains a Reference for AI Demand",
+        "zh": "英伟达 5 月披露的财报仍是评估 AI 芯片需求的参考"
       },
       "impact": {
-        "en": "Despite record Q1 fiscal revenue of $81.6B, stock faces profit-taking; AI chip demand remains strong but short-term volatility elevated.",
-        "zh": "尽管财全年第一季度营收创纪录的 816 亿美元，但股票面临获利了结；AI芯片需求强劲，但短期波动加剧。"
+        "en": "Nvidia reported $81.6 billion of fiscal first-quarter revenue on May 20, 2026. At the time it forecast about $91.0 billion of second-quarter revenue, plus or minus 2%.",
+        "zh": "英伟达于 2026 年 5 月 20 日公布财年第一季度营收 816 亿美元，并预计第二季度营收约为 910 亿美元，上下浮动 2%。"
       },
-      "bullish": ["AMD", "AVGO"],
-      "bearish": ["NVDA", "SMCI"],
+      "bullish": [
+        "AMD",
+        "AVGO"
+      ],
+      "bearish": [
+        "NVDA",
+        "SMCI"
+      ],
       "macroRisk": {
-        "en": "$91B market cap slide reflects short-term profit-taking on record earnings; valuation compression amid AI sector rotation and potential regulatory scrutiny.",
-        "zh": "市值蒸发 9,100亿美元反映记录性收益后的短期获利了结；AI板块轮动及龙头可能面临监管审查压制估值。"
-      }
+        "en": "Investors are watching AI demand, semiconductor valuations, and regulatory developments. The cited earnings were released in May.",
+        "zh": "市场继续关注 AI 芯片需求、半导体估值和监管动态。本条所引业绩于 5 月公布。"
+      },
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-First-Quarter-Fiscal-2027/"
     },
     {
       "title": {
@@ -123,7 +130,7 @@
   "premarketFocus": {
     "futures": {
       "en": "S&P/E-mini futures +0.2%, Nasdaq gains; broad market lifted by geopolitical easing.",
-      "zh": "标普/小型盘期指上涨，纳斯达克走高；市场在地缘缓和提振下上行。"
+      "zh": "标普 500 E-mini 期货上涨 0.2%，纳指期货走高。地缘局势缓和提振市场。"
     },
     "treasury10Y": {
       "en": "Watch for yields responding to peace deal signals and Fed speaker commentary today.",

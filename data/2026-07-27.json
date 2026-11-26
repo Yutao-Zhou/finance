@@ -1,8 +1,8 @@
 {
    "date":"2026-07-27",
    "summary":{
-      "en":"US futures rise on relief that U.S.-Iran hostilities paused, tech leading higher while oil plunges. AI financing momentum persists with Nvidia exploring $50B partnerships.",
-      "zh":"美股期货因美伊停火传闻上涨，科技股领涨大盘，石油暴跌。AI 融资势头延续，NVIDIA 探索为数据中心提供 50 亿美元合作方案。"
+      "en":"U.S. stock futures rose as a pause in U.S.-Iran hostilities eased geopolitical concerns. Technology led gains while oil fell. The Wall Street Journal reported that Nvidia was in talks to provide about $250 billion in financing guarantees for OpenAI’s Ohio data-center project.",
+      "zh":"美伊交火暂停缓解地缘风险，美股期货上涨，科技股领涨，油价下跌。《华尔街日报》报道，英伟达正商谈为 OpenAI 的俄亥俄州数据中心项目提供约 2,500 亿美元融资担保。"
    },
    "topNews":[
       {
@@ -27,25 +27,24 @@
          }
       },
       {
-         "title":{
-            "en":"Nvidia $250B Credit Backstop for OpenAI Ohio Data Center Project Unveiled",
-            "zh":"英伟达为美国 AI 俄亥俄数据中心项目提供 250 亿美元信用支持"
-         },
-         "impact":{
-            "en":"Corporate financing milestone validating massive data center CAPEX cycle with SoftBank involvement.",
-            "zh":"企业融资里程碑级进展；验证了软银参与的大型数据中心资本开支周期。"
-         },
-         "bullish":[
-            "NVDA",
-            "SMCI"
-         ],
-         "bearish":[
-            
-         ],
-         "macroRisk":{
-            "en":null,
-            "zh":""
-         }
+        "title": {
+          "en": "Nvidia in talks to provide about $250 billion of financing guarantees for OpenAI’s Ohio data center",
+          "zh": "英伟达正商谈为 OpenAI 俄亥俄州数据中心项目提供约 2,500 亿美元融资担保"
+        },
+        "impact": {
+          "en": "The Wall Street Journal reported that Nvidia was discussing a financing guarantee of about $250 billion to help OpenAI lease capacity at a data center in southern Ohio being developed by SoftBank’s energy subsidiary. The reported terms were under discussion.",
+          "zh": "据《华尔街日报》报道，英伟达正在商谈提供约 2,500 亿美元融资担保，以帮助 OpenAI 租用软银旗下能源子公司在俄亥俄州南部开发的数据中心算力。相关条款仍在洽谈。"
+        },
+        "bullish": [
+          "NVDA",
+          "SMCI"
+        ],
+        "bearish": [],
+        "macroRisk": {
+          "en": null,
+          "zh": ""
+        },
+        "url": "https://www.wsj.com/tech/ai/nvidia-in-talks-with-openai-to-guarantee-250-billion-financing-for-data-center-3dd6eae3"
       },
       {
          "title":{
@@ -90,12 +89,12 @@
    ],
    "sectorRadar":{
       "ai":{
-         "en":"AI surges on Nvidia $250B OpenAI backstop. Mega data center CAPEX validated with SoftBank.",
-         "zh":"英伟达为美国 AI 提供的 250 亿美元支持推动 AI 板块上涨。软银参与验证了大型数据中心资本开支周期。"
+         "en":"The report of possible Nvidia financing guarantees for OpenAI’s Ohio data-center project drew attention to the scale of AI infrastructure investment.",
+         "zh":"英伟达可能为 OpenAI 的俄亥俄州数据中心项目提供融资担保的消息，引发市场对 AI 基础设施投资规模的关注。"
       },
       "semiconductor":{
-         "en":"Broadcom and SK Hynix unveil $950B memory supply partnership with Nvidia. Korean stocks slip.",
-         "zh":"博通和美光与 NVIDIA 推出价值 9,500 亿美元内存供应合作方案，韩国股票出现下滑。"
+         "en":"SK Group and Nvidia announced plans for a partnership valued at more than $500 billion, spanning AI infrastructure and next-generation memory. The companies signed letters of intent, including plans for long-term memory cooperation with SK hynix.",
+         "zh":"SK 集团和英伟达宣布签署意向书，计划开展规模超过 5,000 亿美元的合作，涵盖 AI 基础设施和下一代存储芯片，其中包括与 SK 海力士的长期存储合作。"
       },
       "bigTech":{
          "en":"Nasdaq futures up 1.2%. META posting gains ahead of earnings season.",
@@ -114,7 +113,7 @@
          "zh":"标普期货上涨 0.6%，至 7,493；纳斯达克指数领涨，涨幅达 1.2%。广度改善。"
       },
       "preciousMetals":{
-         "en":"Gold up +0.6% to $4,093; Silver following with strength.",
+         "en":"Gold up 0.6% to $4,093; Silver following with strength.",
          "zh":"黄金上涨 0.6%，至每盎司 4,094；白银跟随走强。"
       },
       "oil":{

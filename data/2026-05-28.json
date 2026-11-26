@@ -15,12 +15,12 @@
         "zh": "地缘政治不确定性拖累风险资产，油价波动且避险资金涌现。市场广度仍然狭窄，科技板块领涨而其他板块落后。"
       },
       "bullish": [
-        "Potential oil supply constraints could boost energy prices",
-        "Strategic reserves and production increases may offset supply shocks"
+        "Potential oil supply constraints could boost energy prices / 潜在的石油供应限制可能推高能源价格",
+        "Strategic reserves and production increases may offset supply shocks / 战略储备和生产增加可能抵消供应冲击"
       ],
       "bearish": [
-        "Escalation risks to global growth and trade",
-        "Supply chain disruptions in Middle East regions"
+        "Escalation risks to global growth and trade / 全球增长和贸易的升级风险",
+        "Supply chain disruptions in Middle East regions / 中东地区的供应链中断"
       ],
       "macroRisk": {
         "en": "Military activity in the Strait of Hormuz threatens oil flows. Risk of escalation to global conflict could spike oil and trigger flight to safety across asset classes.",
@@ -37,12 +37,12 @@
         "zh": "半导体强劲表现以美光里程碑为标志，推动股市更高尽管地缘政治风险笼罩。存储芯片收益提升更广泛的芯片板块和科技指数。"
       },
       "bullish": [
-        "Micron breakthrough validates AI infrastructure demand",
-        "Semiconductor cyclicality may benefit from supply constraints"
+        "Micron breakthrough validates AI infrastructure demand / 美光突破验证了 AI 基础设施需求",
+        "Semiconductor cyclicality may benefit from supply constraints / 半导体周期性可能受益于供应约束"
       ],
       "bearish": [
-        "AI spending capex concerns may limit upside",
-        "Valuation pressure in oversold tech names"
+        "AI spending capex concerns may limit upside / AI 支出资本开支担忧可能限制上行空间",
+        "Valuation pressure in oversold tech names / 超卖科技股面临估值压力"
       ],
       "macroRisk": {
         "en": "AI spending sustainability concerns mixed with geopolitical headwinds could limit broad market participation if tech leadership falters.",
@@ -59,12 +59,12 @@
         "zh": "核心 PCE 同比 3.8% 仍高于美联储 2% 目标但月度偏差为通胀数据流提供首个裂痕。技术和增长股票在缓解恐惧下买高。"
       },
       "bullish": [
-        "Cooler PCE opens door to eventual Fed rate cuts",
-        "Inflation easing supports equity valuations long-term"
+        "Cooler PCE opens door to eventual Fed rate cuts / PCE 降温为美联储最终降息打开大门",
+        "Inflation easing supports equity valuations long-term / 通胀缓解长期支撑股票估值"
       ],
       "bearish": [
-        "Still above target; not enough to change policy immediately",
-        "One print not enough to justify major shift yet"
+        "Still above target; not enough to change policy immediately / 仍高于目标；不足以立即改变政策",
+        "One print not enough to justify major shift yet / 一次数据不足以证明重大转变的理由"
       ],
       "macroRisk": {
         "en": "Single reading insufficient; geopolitical risks could re-heat inflation quickly if ceasefire fails. Market needs sustained cooling to shift Fed policy expectations.",

@@ -2,7 +2,7 @@
   "date": "2026-10-28",
   "summary": {
     "en": "Markets face a pivotal day ahead of the Federal Reserve's rate decision with expectations for a hawkish hold. Tech earnings from Alphabet and Microsoft will provide key AI debt tests, while European bank earnings show strength. SK Hynix's strong results may lift semiconductors. Inflation concerns persist with AI-driven demand pushing prices higher.",
-    "zh": "市场对美联储利率决议前的关键交易日充满关注，预计将采取鹰派维持立场。Alphabet 和微软的技术财报将对 AI 债务进行测试，欧洲银行表现强劲。SK Hynix 的强劲业绩或提振半导体板块。通胀担忧持续存在，AI 驱动的需求推高物价。"
+    "zh": "市场迎来美联储利率决议前的关键交易日。投资者预期美联储将维持利率不变，并释放偏鹰信号。Alphabet 和微软的财报将帮助市场评估 AI 投资相关的债务压力，欧洲银行表现强劲。SK Hynix 的强劲业绩或提振半导体板块。通胀担忧持续存在，AI 驱动的需求推高物价。"
   },
   "topNews": [
     {
@@ -14,8 +14,8 @@
         "en": "The Fed's expected rate hold signals continued tight monetary policy despite easing inflation. This could pressure rates-sensitive sectors like real estate and growth stocks while supporting the dollar.",
         "zh": "美联储预计维持利率，显示尽管通胀降温但货币紧缩政策仍在持续。这可能给利率敏感型板块（如房地产和成长股）带来压力，同时支持美元。"
       },
-      "bullish": ["USD strength", "Bonds stability"],
-      "bearish": ["Rate-sensitive sectors", "Growth stocks"],
+      "bullish": ["USD strength / 美元走强", "Bonds stability / 债券市场稳定"],
+      "bearish": ["Rate-sensitive sectors / 利率敏感型板块", "Growth stocks / 成长股"],
       "macroRisk": {
         "en": "Hawkish hold could disappoint if inflation proves stickier than expected, triggering sell-offs in high-duration assets.",
         "zh": "若通胀比预期更顽固，鹰派维持可能令投资者失望，引发高久期资产抛售。"
@@ -30,8 +30,8 @@
         "en": "Big Tech earnings are crucial for validating continued investment in artificial intelligence. Positive reports would ease AI debt fears, while misses could trigger sector rotation into value.",
         "zh": "大科技股财报对于验证持续的人工智能投资至关重要。正面报告将缓解 AI 债务担忧，而不及预期可能引发板块轮动向价值股。"
       },
-      "bullish": ["AI stocks if positive", "Cloud computing"],
-      "bearish": ["AI debt fears if negative", "Tech valuations"],
+      "bullish": ["AI stocks if positive / 人工智能股票若表现积极", "Cloud computing / 云计算"],
+      "bearish": ["AI debt fears if negative / 若为负面则引发对 AI 债务的担忧", "Tech valuations / 科技估值"],
       "macroRisk": {
         "en": "Negative earnings could signal AI investment saturation or spending cuts, affecting entire tech sector.",
         "zh": "负面业绩可能显示 AI 投资饱和或支出削减，影响整个科技板块。"
@@ -46,7 +46,7 @@
         "en": "Strong European bank earnings reflect resilient consumer spending and improved net interest margins. This signals broader economic stability despite US inflation concerns.",
         "zh": "强劲的欧洲银行业绩反映消费者支出韧性和净息差改善。这显示尽管美国通胀担忧，但整体经济保持稳定。"
       },
-      "bullish": ["Banks", "Financials sector"],
+      "bullish": ["Banks / 银行板块", "Financials sector / 金融板块"],
       "bearish": [],
       "macroRisk": {
         "en": "Regional divergence could complicate global risk appetite as European strength contrasts with US caution.",
@@ -62,7 +62,7 @@
         "en": "SK Hynix's triple-digit operating profit growth demonstrates strong AI chip demand. The Broadcom banking financing announcement further validates enterprise AI infrastructure spending.",
         "zh": "SK Hynix 三位数运营利润增长显示强劲 AI 芯片需求。Broadcom 银行融资公告进一步证实企业级 AI 基础设施支出。"
       },
-      "bullish": ["Semiconductors", "Micron", "Chip stocks"],
+      "bullish": ["Semiconductors / 半导体", "Micron", "Chip stocks / 芯片股"],
       "bearish": [],
       "macroRisk": {
         "en": "Geopolitical tensions over chip manufacturing could offset earnings gains.",
@@ -79,7 +79,7 @@
         "zh": "Robinhood 不及预期凸显了依赖波动性资产和佣金收入的风投业务模型风险。更广泛的加密货币下滑可能延伸到其他数字资产平台。"
       },
       "bullish": [],
-      "bearish": ["Fintech", "Crypto-exposed stocks"],
+      "bearish": ["Fintech / 金融科技", "Crypto-exposed stocks / 涉币股票"],
       "macroRisk": {
         "en": "Crypto-related volatility could spill over to fintech earnings and consumer sentiment.",
         "zh": "加密货币相关波动可能蔓延至风投业绩和消费者情绪。"
@@ -94,7 +94,7 @@
         "en": "Treasury Secretary Scott Bessent's upcoming interview will address AI liability concerns and fiscal priorities. Policy clarity could boost infrastructure spending.",
         "zh": "财政部部长 Scott Bessent 即将接受的采访将讨论 AI 责任担忧和财政优先事项。政策清晰度可能提振基础设施支出。"
       },
-      "bullish": ["Government tech programs", "Infrastructure stocks"],
+      "bullish": ["Government tech programs / 政府技术项目", "Infrastructure stocks / 基础设施股票"],
       "bearish": [],
       "macroRisk": {
         "en": "Unresolved policy tensions could create uncertainty around government AI initiatives.",

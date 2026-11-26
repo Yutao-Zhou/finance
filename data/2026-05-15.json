@@ -2,7 +2,7 @@
   "date": "2026-05-15",
   "summary": {
     "en": "US markets advance as Trump-Xi summit delivers trade truce extension but Middle East stalemate fuels inflation concerns. S&P 500 and Nasdaq extend gains to fresh highs while 10Y Treasury yield surges to 4.53% on inflation data. Brent crude jumps to $108/barrel on Iran conflict uncertainty creating stagflation toggle risk. New Fed Chair Warsh faces complex inflation picture with CPI at 3.8% and PPI at 6%.",
-    "zh": "美股上涨Trump-Xi 峰会交付贸易休战延长但中东僵局加剧通胀担忧。标普 500 和纳指延续涨幅至新高 10Y 美债收益率因通胀数据飙升至 4.53%。布油因伊朗冲突不确定飙升至$108/桶造成滞胀切换风险。新 Fed 主席 Warsh 面临复杂通胀图景 CPI 3.8% PPI 6%。"
+    "zh": "特朗普与习近平会晤后，贸易休战得以延长，美股上涨，标普 500 和纳指再创新高。中东僵局仍在加剧通胀担忧；布伦特原油因伊朗局势未明而升至每桶 108 美元。通胀数据推动 10 年期美债收益率升至 4.53%。CPI 和 PPI 分别上涨 3.8% 和 6%，新任美联储主席沃什面临复杂的通胀形势。"
   },
   "topNews": [
     {
@@ -30,7 +30,7 @@
       "bearish": [
         "TLT",
         "XLE",
-        "defensive names"
+        "defensive names / 防御性个股"
       ],
       "macroRisk": {
         "en": "Partial - Summit de-escalation supports risk sentiment but deal implementation vague. China oil purchase claims unconfirmed. Taiwan discussion absent though Xi warned of relationship jeopardy. Framework extends trade truce to October 2025 expiration date. Tech export prospects improved but execution critical.",
@@ -61,8 +61,8 @@
         "BND",
         "ARKK",
         "IWM",
-        "growth stocks",
-        "rate-sensitive names"
+        "growth stocks / 成长股",
+        "rate-sensitive names / 对利率敏感的个股"
       ],
       "macroRisk": {
         "en": "Yes - Inflation surge creates primary Fed policy uncertainty. Warsh faces challenging environment: Trump wants rate cuts while data shows persistent inflation. Import prices at 4.2% annual, driven by Middle East conflict. Energy prices spiked again on Iran stalemate. Long end rates in control of monetary policy limits Fed flexibility. Fiscal deficits matter with $97B interest costs on debt second-highest expenditure after Social Security. Market repricing rate cut timing creates volatility for duration assets.",
@@ -95,9 +95,9 @@
         "XLI",
         "XLY",
         "XLP",
-        "consumer cyclical",
-        "transportation",
-        "rate-sensitive names"
+        "consumer cyclical / 消费周期股",
+        "transportation / 交通运输业",
+        "rate-sensitive names / 对利率敏感的个股"
       ],
       "macroRisk": {
         "en": "Yes - Primary stagflation toggle risk persists. Strait of Hormuz closure threat creates supply disruption concerns. Iran ceasefire remains fragile despite Trump-Xi dialogue. $100+ sustained creates inflation expectations upward pressure. $95 support critical; $110+ requires escalation. Energy sector fundamentals supported but growth environment pressured. Oil volatility creates inflation uncertainty complicating Fed policy path. Watch for formal ceasefire details and China-US oil purchase confirmations.",
@@ -131,8 +131,8 @@
       "zh": "广泛市场上涨标普 500 7,501.24 新高纳指 26,635.22 新高道指 50,063.46 (+0.14%)。科技板块领涨但债市飙升创造利率敏感性。Trump-Xi 峰会贸易休战延长支持风险情绪。CPI 3.8%、PPI 6% 驱动通胀担忧。10Y 收益率 4.53% 压制造久期资产。油价$108 造成滞胀切换。板块轮动从防御性至成长继续。新 Fed 主席 Warsh 面临复杂政策环境。关键催化剂：NVDA 5 月 20 日财报鲍威尔 6 月 11 日 FOMC 会议中东发展通胀数据。市场高位对负面催化剂创造脆弱性。"
     },
     "preciousMetals": {
-      "en": "Precious metals face headwinds from yield surge and USD strength despite Middle East tensions. Gold and silver favored amid geopolitical uncertainty but spike in 10Y and 30Y Treasury yields creates opportunity cost pressure. Real yield dynamics critical - 4.53% 10Y yield compression benefits metals but inflation hedge demand partially offset by dollar strength. De-escalation from Trump-Xi summit could reduce safe-haven flows. Oil-driven inflation supports commodity complex. Watch for Iran conflict developments and Fed policy path. Metals face mixed dynamics with inflation hedge appeal vs. yield pressure.",
-      "zh": "贵金属面临收益率飙升和美元压力尽管中东紧张。黄金和白银受青睐于地缘不确定但 10Y 和 30Y 美债收益率飙升创造机会成本压力。实际收益率动态关键 -4.53% 10Y 收益率压缩受益金属但通胀对冲需求部分被美元抵消。Trump-Xi 降级可能减少避险资金流。油价驱动通胀支撑大宗商品。关注 Iran 冲突发展和 Fed 政策路径。金属面临混合动态通胀对冲吸引力 vs. 收益率压力。"
+      "en": "Gold and silver face pressure from the stronger dollar and rising Treasury yields despite Middle East tensions. The nominal 10-year Treasury yield reached 4.53%; higher yields raise the opportunity cost of holding bullion. Oil-driven inflation may support commodity demand, while diplomatic easing could reduce safe-haven buying.",
+      "zh": "尽管中东局势紧张，美元走强和美债收益率上行仍令金银承压。10 年期美债名义收益率升至 4.53%，债券收益率走高增加了持有贵金属的机会成本。油价推升的通胀或支撑大宗商品需求，外交缓和则可能减弱避险买盘。"
     },
     "oil": {
       "en": "Brent crude at $108.25/barrel (+2.39%) on Iran conflict stalemate. WTI at $103.39/barrel (+2.79%). Strait of Hormuz remains open with Trump-Xi agreement but Iran ceasefire fragile. China to potentially purchase US oil with ships to Texas, Louisiana, Alaska though unconfirmed. Trump-Xi dialogue reduces Middle East escalation fears temporarily but conflict unresolved. $100+ supported by supply security concerns and OPEC+ dynamics. $95-100 range supported by demand; $110+ requires escalation. Energy sector fundamentals strong but stagflation toggle risk persists. Watch for formal ceasefire details and China-US energy purchase confirmations. Oil volatility key driver of inflation expectations.",
@@ -169,7 +169,7 @@
     },
     "note": {
       "en": "Market extended sixth consecutive rally with S&P 500 and Nasdaq at fresh record highs driven by Trump-Xi summit trade truce extension. Tech sector leads with semiconductor and AI names strong on NVDA May 20 anticipation. China summit provides positive export backdrop. However, inflation surge creates significant uncertainty: CPI at 3.8%, PPI at 6%, import prices 4.2% annually. 10Y Treasury yield at 4.53% and 30Y near 5.1% pressuring duration assets. New Fed Chair Warsh faces challenging environment with Trump pushing for rate cuts while data shows persistent inflation. Oil volatility at $108/barrel creates stagflation toggle risk. Market positioning favors growth but record valuations create fragility to negative catalysts. Mixed signals from summit progress versus inflation reality warrant medium confidence with risk-on bias tempered by rate sensitivity concerns.",
-      "zh": "市场延续第六周 rallies 标普 500 和纳指创新高由 Trump-Xi 峰会贸易休战延长驱动。科技板块领涨半导体和 AI 名目强劲 NVDA 5 月 20 日 anticipation。China 峰会提供积极出口背景。然而通胀飙升创造重大不确定：CPI 3.8%、PPI 6%、进口价格 4.2% 年化。10Y 美债收益率 4.53% 30Y 近 5.1% 压制造久期资产。新 Fed 主席 Warsh 面临挑战环境 Trump 推动降息而数据显示持续通胀。油价波动$108/桶造成滞胀切换风险。市场仓位偏好成长但历史估值创造对负面催化剂脆弱性。峰会进展 vs 通胀现实混合信号 warrant 中信心风险偏好偏向下受利率敏感性担忧制约。"
+      "zh": "市场延续第六周 上涨 标普 500 和纳指创新高由 Trump-Xi 峰会贸易休战延长驱动。科技板块领涨半导体和 AI 名目强劲 NVDA 5 月 20 日 anticipation。China 峰会提供积极出口背景。然而通胀飙升创造重大不确定：CPI 3.8%、PPI 6%、进口价格 4.2% 年化。10Y 美债收益率 4.53% 30Y 近 5.1% 压制造久期资产。新 Fed 主席 Warsh 面临挑战环境 Trump 推动降息而数据显示持续通胀。油价波动$108/桶造成滞胀切换风险。市场仓位偏好成长但历史估值创造对负面催化剂脆弱性。峰会进展 vs 通胀现实混合信号 warrant 中信心风险偏好偏向下受利率敏感性担忧制约。"
     }
   }
 }

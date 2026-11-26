@@ -14,8 +14,8 @@
         "en": "Market sentiment deteriorated overnight as concerns about sustained AI infrastructure spending faded, combined with Middle East tensions driving oil higher to ~$95/Bbl. Tech-heavy indices face headwinds from rate-sensitive positioning and commodity cost pressures.",
         "zh": "市场情绪隔夜恶化，市场对持续投入 AI 基础设施的担忧减弱，加上中东紧张局势推升油价至约$95/桶。以科技为主的指数面临利率敏感型配置和商品成本压力的阻力。"
       },
-      "bullish": ["oil producers"],
-      "bearish": ["hyperscalers", "semiconductor equipment makers"],
+      "bullish": ["oil producers / 石油生产商"],
+      "bearish": ["hyperscalers / 超大规模云服务商", "semiconductor equipment makers / 半导体设备制造商"],
       "macroRisk": {
         "en": "Yes - Oil at $95/Bbl raises inflation re-pricing risks, potentially tightening Fed policy. Tech sector compression if commodity costs persist.",
         "zh": "是——$95/桶的油价推升通胀重定价风险，可能收紧货币政策。若商品成本持续存在，科技板块承压。"
@@ -34,7 +34,7 @@
       "bearish": ["GOOGL", "TSLA"],
       "macroRisk": {
         "en": "Earnings overhang creates sector rotation volatility. Investors may flee growth names ahead of big tech prints.",
-        "zh": "财报季悬念引发板块轮动波动。投资者可能在大型科技股发布前逃离成长股名称。"
+        "zh": "财报季悬念引发板块轮动波动。投资者可能在大型科技股发布前逃离成长股。"
       }
     },
     {
@@ -62,8 +62,8 @@
         "en": "10Y Treasury yields drifted higher on mixed economic data and persistent inflation readings. Rate-sensitive mega-cap tech faces valuation compression from yield curve steepening.",
         "zh": "混合经济数据和持续的通胀读数推动 10 年期国债收益率微幅上涨。对利率敏感的大型科技股因收益率曲线陡峭化而面临估值压缩。"
       },
-      "bullish": ["utilities", "banks"],
-      "bearish": ["growth stocks", "tech hardware"],
+      "bullish": ["utilities / 公用事业", "banks / 银行股"],
+      "bearish": ["growth stocks / 成长股", "tech hardware / 科技硬件"],
       "macroRisk": {
         "en": "Rising yields compress valuation multiples for long-duration growth. Flight to value names persists as defensive positioning increases.",
         "zh": "收益率上涨压缩长期成长股估值倍数。资金流向价值股的态势持续，防御性配置增加。"
@@ -79,7 +79,7 @@
         "zh": "收入多元化超过的芯片制造商表现优于过度依赖超大规模计算中心资本支出周期的厂商。中国相关敞口给板块基本面增加了地缘政治不确定性。"
       },
       "bullish": ["NVDA", "AMBA"],
-      "bearish": ["SMH-ETF sensitive names"],
+      "bearish": ["SMH-ETF sensitive names / 对 SMH 指数敏感的个股"],
       "macroRisk": {
         "en": "AI demand sustainability concerns persist. Hyperscaler spending discipline may constrain equipment makers and fab developers.",
         "zh": "AI 需求可持续性担忧持续。超大规模计算中心的支出纪律可能限制设备制造商和晶圆代工厂开发商的发展空间。"
@@ -94,8 +94,8 @@
         "en": "DXY gained ground on mixed inflation signals and strong US economic data. Multinational earnings may be impacted by currency headwinds while EM assets face pressure.",
         "zh": "美元指数在混合通胀信号和强劲的美国经济数据支持下上涨。跨国盈利可能受到货币阻力影响，而新兴市场资产面临压力。"
       },
-      "bullish": ["USD", "gold producers"],
-      "bearish": ["international stocks", "EM equities"],
+      "bullish": ["USD", "gold producers / 黄金生产商"],
+      "bearish": ["international stocks / 国际股票", "EM equities / 新兴市场股票"],
       "macroRisk": {
         "en": "Currency volatility adds complexity to earnings forecasts. Strong dollar amplifies weakness in import-dependent tech segments.",
         "zh": "货币波动使盈利预测更加复杂。强势美元放大了依赖进口的科技板块的疲态。"
@@ -110,8 +110,8 @@
         "en": "Declining count of advancing stocks signals sector rotation from growth into value. Volume patterns suggest institutional de-risking ahead of key economic prints and earnings season.",
         "zh": "上涨的股票数量减少表明资金从成长股向价值股的板块轮动。成交量模式显示机构在关键经济数据和财报季前降低风险倾向。"
       },
-      "bullish": ["value stocks", "financials"],
-      "bearish": ["growth tech", "small-cap growth"],
+      "bullish": ["value stocks / 价值股", "financials / 金融业"],
+      "bearish": ["growth tech / 成长型科技股", "small-cap growth / 小盘成长股"],
       "macroRisk": {
         "en": "Rotation may persist if earnings miss expectations materialize. Risk-off bias could intensify with negative economic surprises.",
         "zh": "若盈利不及预期出现，轮动可能持续。负面经济意外可能导致避险偏好加剧。"

@@ -1,8 +1,8 @@
 {
   "date": "2026-06-16",
   "summary": {
-    "en": "US stocks edge higher in premarket with futures mixed as focus shifts to Fed Chair Kevin Warsh's first policy decision next Wednesday, while the U.S.-Iran peace deal continues weighing on oil prices. SpaceX extends its post-IPO rally above 9%, memory chip makers surge ahead of AI data center demand, and Tesla climbs alongside lower crude.",
-    "zh": "美股盘前小幅走高，三大指数期货方向不一，市场焦点转向美联储新主席 Kevin Warsh 周三的首次政策决定。美伊和平协议持续压制油价，SpaceX 股价连续三天大涨超 9%，存储芯片厂商受益于 AI 数据中心需求上涨，特斯拉随原油下跌而反弹。"
+    "en": "US stocks edge higher in premarket with futures mixed as focus shifts to Fed Chair Kevin Warsh's first policy decision on June 17, while the U.S.-Iran peace deal continues weighing on oil prices. SpaceX extends its post-IPO rally above 9%, memory chip makers surge ahead of AI data center demand, and Tesla climbs alongside lower crude.",
+    "zh": "美股盘前小幅走高，三大指数期货方向不一，市场焦点转向美联储新任主席沃什将在 6 月 17 日公布的首次政策决定。美伊和平协议持续压制油价，SpaceX 股价延续上市后涨势，涨幅超过 9%，存储芯片厂商受益于 AI 数据中心需求上涨，特斯拉随原油下跌而反弹。"
   },
   "topNews": [
     {
@@ -14,7 +14,7 @@
         "en": "Preliminary agreement to end Middle East conflict signed in Switzerland expected June 19. Strait of Hormuz reopening lowers oil prices ~5-8% and eases energy inflation expectations.",
         "zh": "瑞士签定的结束中东冲突的初步协议将于 6 月 19 日生效。霍尔木兹海峡重开使油价下跌约 5-8%，缓解能源通胀预期。"
       },
-      "bullish": ["Energy producers hedging exposure", "Growth stocks sensitive to lower rates"],
+      "bullish": ["Energy producers hedging exposure / 对冲能源敞口的能源生产商", "Growth stocks sensitive to lower rates / 对低利率敏感的成长股"],
       "bearish": [],
       "macroRisk": {
         "en": "No - Deal reduces geopolitical risk premium but implementation uncertainty remains. Oil at 3-month lows (WTI $78.42, Brent $80.94) provides inflation relief.",
@@ -30,7 +30,7 @@
         "en": "Elon Musk-led company acquiring enterprise AI software firm for $60B to expand in corporate market. If realized, SpaceX could become 5th-largest U.S. public company.",
         "zh": "埃隆·马斯克领导的公司以 600 亿美元收购企业级 AI 软件公司，拓展企业市场。若成功实现，SpaceX 将成为美国第五大上市公司。"
       },
-      "bullish": ["SPCX (post-IPO momentum)", "AI infrastructure plays", "Musk ecosystem premium"],
+      "bullish": ["SPCX (post-IPO momentum) / SPCX（IPO 后动量）", "AI infrastructure plays / 人工智能基础设施板块", "Musk ecosystem premium / 马斯克生态溢价"],
       "bearish": [],
       "macroRisk": {
         "en": "No - Company-specific catalyst. Large-scale M&A may face regulatory scrutiny but primarily benefits tech/AI sector sentiment.",
@@ -46,7 +46,7 @@
         "en": "AI data center expansion drives demand for high-bandwidth memory (HBM). Micron up 3.5%, storage makers rally as capital seeks elasticity in AI hardware chain.",
         "zh": "数据中心扩展推动对高带宽内存 (HBM)的需求。美光科技上涨 3.5%，存储厂商随资金寻求人工智能硬件链的弹性而大涨。"
       },
-      "bullish": ["MU (Micron)", "WDC (Western Digital)", "STX (Seagate Technology)", "QCOM", "AMCX"],
+      "bullish": ["MU (Micron)", "WDC (Western Digital)", "STX (Seagate Technology) / STX（希捷科技）", "QCOM", "AMCX"],
       "bearish": [],
       "macroRisk": {
         "en": "No - Fundamental demand from AI data center buildout. Rate-sensitive indirectly but driven by corporate capex, not yield moves.",
@@ -62,7 +62,7 @@
         "en": "Potential deal would boost Qualcomm's edge computing, inference chip business and AI hardware cycle participation. Market sees strategic expansion in high-margin AI segment.",
         "zh": "潜在交易将增强高通的边缘计算、推理芯片业务和人工智能硬件周期参与度。市场认为在高利润的人工智能领域进行战略扩张。"
       },
-      "bullish": ["QCOM (high beta)", "Semiconductor sector sentiment"],
+      "bullish": ["QCOM (high beta) / 高通（QCOM，高贝塔）", "Semiconductor sector sentiment / 半导体板块情绪"],
       "bearish": [],
       "macroRisk": {
         "en": "No - Company-specific M&A catalyst. Strategic fit strengthens position in edge/AI markets.",
@@ -78,8 +78,8 @@
         "en": "First FOMC meeting under new Fed chair on June 17. Markets pricing 42% chance of rate hike in December, cuts only after mid-2027 per CME FedWatch.",
         "zh": "6 月 17 日新美联储主席的首次联邦公开市场委员会会议。市场对 12 月加息定价为 42%，CME 期货看跌师仅在中期之后降息。"
       },
-      "bullish": ["Warsh dovish tone if inflation falling", "Risk assets if Fed supportive"],
-      "bearish": ["Higher rates prolong growth concerns"],
+      "bullish": ["Warsh dovish tone if inflation falling / 若通胀回落则沃什态度偏鸽派", "Risk assets if Fed supportive / 风险资产（若美联储释放支持性信号）"],
+      "bearish": ["Higher rates prolong growth concerns / 高利率延长成长担忧"],
       "macroRisk": {
         "en": "Yes - Warsh's characterization of inflation trajectory crucial for monetary policy direction. Inflation >1pp above 2% target complicates path.",
         "zh": "是—Warsh 对通胀轨迹的阐述对于货币政策方向至关重要。通胀高于目标值 1 个百分点使路径复杂化。"
@@ -94,7 +94,7 @@
         "en": "BoJ raised rates as it focuses on taming price pressures from Middle East energy shock. Adds inflation backdrop to global macro picture.",
         "zh": "日本央行关注中东能源冲击的价格压力而加息。为全球宏观图景添加了通胀背景。"
       },
-      "bullish": ["Emerging market currencies vs yen"],
+      "bullish": ["Emerging market currencies vs yen / 新兴市场货币兑日元"],
       "bearish": [],
       "macroRisk": {
         "en": "Yes - Adds complexity to global rate differentials. Energy shock from conflict transmits via oil prices.",
@@ -111,7 +111,7 @@
         "zh": "娱乐公司报告低于共识的盈利和收入。小型股零售休闲股票在广泛上涨中表现不佳。"
       },
       "bullish": [],
-      "bearish": ["DVRS (entertainment sector)"],
+      "bearish": ["DVRS (entertainment sector) / DVRS（娱乐板块）"],
       "macroRisk": {
         "en": "No - Single stock disappointment. Consumer spending concerns may have broader implications but not directly tied to macro.",
         "zh": "否—个股失望。消费者支出担忧可能有更广泛的影响，但与宏观没有直接关系。"

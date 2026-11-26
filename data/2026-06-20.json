@@ -2,7 +2,7 @@
   "date": "2026-06-20",
   "summary": {
     "en": "US futures retreated on Juneteenth ahead of the US-Iran nuclear agreement milestone, while economic data (ADP +122K jobs, ISM Services PMI at 54.5) reinforces Fed's higher-for-longer stance amid surging oil prices ($96 WTI, $97 Brent). Chip stocks rallied on improved geopolitical sentiment and TSMC/Nvidia strength.",
-    "zh": "美盘前受 Juneteenth 假期和 US-伊朗核协议里程碑影响，美股期货回落。强劲的经济数据（ADP+12.2K 职位、ISM 服务业 PMI54.5）与飙升的油价支撑美联储维持高利率立场。芯片股在地缘政治缓和及 TSMC/Nvidia 走强带动下上涨。"
+    "zh": "美盘前受 Juneteenth 假期和 US-伊朗核协议里程碑影响，美股期货回落。强劲的经济数据（ADP 私营部门新增 12.2 万个岗位、ISM 服务业 PMI54.5）与飙升的油价支撑美联储维持高利率立场。芯片股在地缘政治缓和及 TSMC/Nvidia 走强带动下上涨。"
   },
   "topNews": [
     {
@@ -14,8 +14,8 @@
         "en": "E-mini S&P futures down 0.5%, Nasdaq -0.7% overnight due to holiday and geopolitical easing from the upcoming permanent peace deal milestone",
         "zh": "美股指期货因假期和即将达成的永久和平协议的地缘政治缓和，标普期货跌 0.5%，纳指跌 0.7%"
       },
-      "bullish": ["holiday pullback"],
-      "bearish": ["Juneteenth holiday closing", "uncertainty before deal finalization"],
+      "bullish": ["holiday pullback / 假期前后回调"],
+      "bearish": ["Juneteenth holiday closing / 六月节假期休市", "uncertainty before deal finalization / 协议敲定前的不确定性"],
       "macroRisk": {
         "en": "Yes - Holiday effect combined with Iran peace deal progress could lead to further downside or stabilization ahead of Monday open.",
         "zh": "是——假期效应加伊朗和平协议进展可能在周一开盘前导致进一步下跌或企稳"
@@ -24,18 +24,21 @@
     {
       "title": {
         "en": "Strong Economic Prints: ADP Jobs +122K, ISM Services PMI Hits 54.5",
-        "zh": "强劲经济数据：ADP 职位+12.2K，ISM 服务业 PMI升至 54.5"
+        "zh": "强劲经济数据：ADP 私营部门新增 12.2 万个岗位，ISM 服务业 PMI升至 54.5"
       },
       "impact": {
-        "en": "Robust private sector employment and services expansion signal resilient economy, reducing near-term rate cut probability to below 20% for September FOMC",
-        "zh": "强劲的非联储就业和服务业扩张显示经济韧性，降低近期内利率下调概率"
+        "en": "Robust private sector employment and services expansion signal resilient economy, reducing expectations for near-term rate cuts",
+        "zh": "强劲的私营部门就业和服务业扩张显示经济仍具韧性，削弱了市场对短期降息的预期。"
       },
       "bullish": [],
-      "bearish": ["rate hike expectations increase"],
+      "bearish": [
+        "rate hike expectations increase / 加息预期升温"
+      ],
       "macroRisk": {
         "en": "Yes - hawkish Fed pivot increases bond volatility, supports yield-capped equities over duration-sensitive names",
         "zh": "是——鹰派美联储转向增加债券波动性，支持收益率封顶股票而非久期敏感型股票"
-      }
+      },
+      "url": "https://adpemploymentreport.com/artifacts/us_ner/20260603/ADP_NATIONAL_EMPLOYMENT_REPORT_Press_Release_2026_05%20FINAL.pdf"
     },
     {
       "title": {
@@ -44,10 +47,10 @@
       },
       "impact": {
         "en": "WTI at $96 (+2.4%), Brent $97.81 (+1.89%). EIA inventory draw of 7.97M barrels exceeds expectations, geopolitical tensions drive US crude exports",
-        "zh": "WTI$96(+2.4%)、Brent$97.81(+1.89%)。EIA 库存降幅超预期，地缘紧张推动美国原油出口"
+        "zh": "WTI$96(+2.4%)、Brent$97.81(+1.89%)。EIA 公布的原油库存下降 797 万桶，降幅超预期，地缘紧张推动美国原油出口"
       },
-      "bullish": ["energy sector stocks"],
-      "bearish": ["inflation reacceleration risks", "growth costs for consumers and businesses"],
+      "bullish": ["energy sector stocks / 能源板块股票"],
+      "bearish": ["inflation reacceleration risks / 通胀重燃风险", "growth costs for consumers and businesses / 消费者和企业的成长成本"],
       "macroRisk": {
         "en": "Yes - rising oil feeds inflation expectations, complicates Fed's dual mandate, could push December rate hike probability to 41%",
         "zh": "是——油价上涨助推通胀预期，令美联储双重使命复杂化"
@@ -62,7 +65,7 @@
         "en": "PHLX Semiconductor Index +7.3%. Taiwan central bank raises growth forecast to 9.45% citing chip demand boom; TSMC supply constraints create bottleneck premium",
         "zh": "费城半导体指数+7.3%。台湾央行上调增长预期至 9.45%，AI芯片需求激增；TSMC供应限制形成瓶颈溢价"
       },
-      "bullish": ["NASDAQ semiconductors", "big tech capex"],
+      "bullish": ["NASDAQ semiconductors / 纳斯达克半导体", "big tech capex / 大型科技公司资本支出"],
       "bearish": [],
       "macroRisk": {
         "en": "No - sector-specific AI demand drives rally; supply chain exposure to Taiwan's economic cycle supports outperformance despite macro headwinds.",
@@ -78,7 +81,7 @@
         "en": "10Y yield below 50-day MA at ~4.40%. Short-term yields remain elevated due to FOMC hawkish dot plot shift; curve inversion deepens",
         "zh": "10年期收益率低于 50日均值约 4.4%；短期收益率因鹰派点阵图而保持高位；曲线倒挂加深"
       },
-      "bullish": ["duration-sensitive equities"],
+      "bullish": ["duration-sensitive equities / 对期限敏感的个股"],
       "bearish": [],
       "macroRisk": {
         "en": "Yes - curve inversion signals recession risk; yield stability supports rate-sensitive sectors but broader economy faces slowdown pressures.",
@@ -94,8 +97,8 @@
         "en": "Dollar strengthens against euro and pound; EM assets face headwinds but multinationals benefit from FX tailwind amid resilient US data",
         "zh": "美元对欧元和英镑走强；新兴市场资产承压，但跨国企业受益于汇率顺风"
       },
-      "bullish": ["USD-denominated bonds"],
-      "bearish": ["emerging market currencies and assets"],
+      "bullish": ["USD-denominated bonds / 以美元计价的债券"],
+      "bearish": ["emerging market currencies and assets / 新兴市场货币和资产"],
       "macroRisk": {
         "en": "Partial - strong dollar pressures EM debt servicing but supports yield-capped US equities; mixed signal for overall market breadth.",
         "zh": "部分——强美元增加新兴市场债务负担但支持收益率封顶美股；对整体市场广度信号混合。"
@@ -110,8 +113,8 @@
         "en": "Precious metals gain 3% on safe-haven flows from persistent inflation concerns, oil price link creates complex dynamics in gold market.",
         "zh": "贵金属因持续通胀担忧的安全港流入上涨 3%，油价与黄金的关联在市场产生复杂动态。"
       },
-      "bullish": ["gold miners", "inflation hedges"],
-      "bearish": ["real yields stabilization reducing safe-haven appeal"],
+      "bullish": ["gold miners / 黄金矿业股", "inflation hedges / 通胀对冲资产"],
+      "bearish": ["real yields stabilization reducing safe-haven appeal / 实际收益率企稳削弱避险吸引力"],
       "macroRisk": {
         "en": "No - gold prices reflect inflation expectations and central bank demand; oil-price correlation creates mixed signals for precious metals sector.",
         "zh": "否——金价反映通胀预期和央行需求；油价相关关系为贵金属板块提供混合信号。"
@@ -149,7 +152,7 @@
     },
     "oil": {
       "en": "WTI at $96.02 (+2.4%), Brent $97.81 (+1.89%). Supply constraints from Middle East tensions support prices. EIA drawdown of 7.97M barrels exceeds forecasts.",
-      "zh": "WTI$96(+2.4%)，Brent约$98。中东紧张局势支撑供应限制下的价格。EIA库存降幅超过预期。"
+      "zh": "WTI$96(+2.4%)，布伦特原油约为每桶 98 美元，上涨 1.89%。中东紧张局势支撑供应限制下的价格。EIA 公布的原油库存下降 797 万桶，降幅超过预期。"
     }
   },
   "premarketFocus": {
@@ -158,8 +161,8 @@
       "zh": "亚洲盘美股指期货回落；Juneteenth 假期加伊朗和平协议里程碑影响市场情绪。"
     },
     "treasury10Y": {
-      "en": "10-year Treasury yield around 4.45% (-3bps), below its ~4.40% level; inflation easing but curve inversion signals recession risk remains.",
-      "zh": "美债收益率约 4.4%，略低于其水平；通胀缓和但曲线倒挂显示衰退风险。"
+      "en": "The 10-year U.S. Treasury yield was around 4.4%. Investors continued to watch inflation and the yield curve.",
+      "zh": "10 年期美债收益率在 4.4% 附近。市场继续关注通胀和收益率曲线变化。"
     },
     "dxy": {
       "en": "Dollar Index above 100.55 resistance, euro and pound extend losses; Fed's hawkish stance supports greenback amid strong US data.",

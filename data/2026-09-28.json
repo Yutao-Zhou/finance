@@ -78,7 +78,7 @@
         "en": "DXY edges higher as U.S. economic data beats expectations while Eurozone growth concerns and UK political uncertainty weigh on alternative currencies. Multinationals face FX headwinds but benefit from reduced import costs.",
         "zh": "随着美国经济数据好于预期，而欧元区增长担忧和英国政治不确定性拖累替代货币，美元走高。跨国公司的外汇面临阻力，但受益于进口成本降低。"
       },
-      "bullish": ["FDXY", "Currencies ETF"],
+      "bullish": ["FDXY", "Currencies ETF / 货币 ETF"],
       "bearish": ["EWY", "EURS", "GBPY"],
       "macroRisk": {
         "en": "YES - Strong dollar supports commodity-importing sectors but pressures emerging market assets and multinationals with overseas revenue.",

@@ -11,7 +11,7 @@
         "zh": "美伊多哈和平谈判受阻；地缘政治风险溢价回归"
       },
       "impact": {
-        "en": "Diplomatic hopes dimmed after Tehran announced it won't meet directly with US envoys Jared Kushner and Steve Witkoff. Oil price drops ~1% as Brent slips below $69; risk assets承压 while defensive sectors supported.",
+        "en": "Diplomatic hopes dimmed after Tehran announced it won't meet directly with US envoys Jared Kushner and Steve Witkoff. Oil price drops ~1% as Brent slips below $69; risk assets came under pressure while defensive sectors held up.",
         "zh": "德黑兰宣布不会直接与美方代表贾里德·库什纳和史蒂夫·维特科夫会面，外交希望降温。布伦特原油下跌约 1%，跌破 68.50 美元；风险资产受压，防御性板块获得支撑。"
       },
       "bullish": [
@@ -95,7 +95,7 @@
     },
     "market": {
       "en": "S&P 500 futures flat to +0.1%, Nasdaq -0.2%, Dow -0.3% as Q2 rally fades into summer; market rotation from mega-cap tech toward mid-cap and defensive names ahead of ISM/NFP week.",
-      "zh": "标普 500 期货平盘至微涨 +0.1%，纳斯达克跌 0.2%，道指跌 0.3%；二季度反弹在夏季趋于平淡，市场从 mega-cap 科技向中盘和防御性名称轮动。"
+      "zh": "标普 500 期货平盘至微涨 0.1%，纳斯达克跌 0.2%，道指跌 0.3%；二季度反弹在夏季趋于平淡，市场从 mega-cap 科技向中盘和防御性名称轮动。"
     },
     "preciousMetals": {
       "en": "Gold -0.7% below $4015, silver weaker toward ~$37; DXY strength and rising real yield expectations pressure precious metals while geopolitical risk premium remains muted post-Doha pause.",
@@ -109,7 +109,7 @@
   "premarketFocus": {
     "futures": {
       "en": "Dow futures -0.34% near $52,500; S&P 500 futures +0.1%, Nasdaq futures -0.2%; market consolidation ahead of ISM data with rotation from big tech toward mid-cap.",
-      "zh": "道指期货在 52500 附近跌 0.34%，标普 500 期货平盘至微涨 +0.1%，纳斯达克期货跌 0.2%；ISM 数据发布前市场 consolidation，从大科技向中盘轮动。"
+      "zh": "道指期货在 52500 附近跌 0.34%，标普 500 期货平盘至微涨 0.1%，纳斯达克期货跌 0.2%；ISM 数据发布前市场 盘整，从大科技向中盘轮动。"
     },
     "treasury10Y": {
       "en": "~4.35-4.40%; hawkish Fed expectations and strong PMI flash print pressure yields slightly higher while Q2 GDP strength offsets inflation cooling.",

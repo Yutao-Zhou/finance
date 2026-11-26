@@ -122,7 +122,7 @@
   },
   "premarketFocus": {
     "futures": {
-      "en": "S&P 500 futures up +0.1%, Nasdaq +0.3%, Dow +0.2% as premarket trading opens. Tech strength drives index divergence.",
+      "en": "S&P 500 futures up 0.1%, Nasdaq +0.3%, Dow +0.2% as premarket trading opens. Tech strength drives index divergence.",
       "zh": "标普 500 期货上涨 0.1%，纳斯达克涨 0.3%，道指涨 0.2%，盘前交易开启。科技股强势推动指数分化。"
     },
     "treasury10Y": {

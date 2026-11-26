@@ -10,7 +10,10 @@
         "en": "Semiconductor stocks pressured on AI revenue concerns despite broader market rally",
         "zh": "半导体股票受 AI 营收担忧压制，尽管大盘整体反弹"
       },
-      "impact": "AI sector profitability questions creating headwinds for chip designers while hardware beneficiaries (NVIDIA) may outperform.",
+      "impact": {
+        "en": "AI sector profitability questions creating headwinds for chip designers while hardware beneficiaries (NVIDIA) may outperform.",
+        "zh": "AI 板块盈利问题对芯片设计商构成逆风，而硬件受益者（NVIDIA）可能表现优于大盘。"
+      },
       "bullish": ["NVIDIA", "AMD"],
       "bearish": ["Intel", "TSM"],
       "macroRisk": {
@@ -23,7 +26,10 @@
         "en": "Oil prices retreat from $104 as Hormuz tensions ease slightly but remain elevated",
         "zh": "油价从 104 美元水平回落，尽管霍尔木兹局势略有缓解但仍维持高位"
       },
-      "impact": "WTI/Brent volatility creating opportunity for energy sector defensive positioning; geopolitical premium persisting above OPEC+ supply cuts.",
+      "impact": {
+        "en": "WTI/Brent volatility creating opportunity for energy sector defensive positioning; geopolitical premium persisting above OPEC+ supply cuts.",
+        "zh": "WTI/布伦特原油波动为能源部门防御性配置创造机会；地缘政治溢价持续高于 OPEC+ 减产水平。"
+      },
       "bullish": ["XOM", "CVX"],
       "bearish": [],
       "macroRisk": {
@@ -36,7 +42,10 @@
         "en": "10Y Treasury yields decline amid Middle East oil supply concerns, dollar mixed on risk sentiment",
         "zh": "10 年期美债收益率在中东石油供应担忧中下降，美元因风险情绪走势分化"
       },
-      "impact": "Flight-to-quality flows into bonds while equity markets maintain rally; DXY stability supports multinationals.",
+      "impact": {
+        "en": "Flight-to-quality flows into bonds while equity markets maintain rally; DXY stability supports multinationals.",
+        "zh": "资金流向债券市场避险，而股市维持涨势；美元指数稳定支持跨国企业。"
+      },
       "bullish": ["GLD", "SLV"],
       "bearish": [],
       "macroRisk": {
@@ -49,7 +58,10 @@
         "en": "Telecom stocks pressured by SpaceX spectrum deal; wireless infrastructure competition intensifies",
         "zh": "电信股受 SpaceX 频谱协议压制，无线基础设施竞争加剧"
       },
-      "impact": "Spectrum reallocation creates uncertainty for traditional carriers while benefiting satellite/5G leaders.",
+      "impact": {
+        "en": "Spectrum reallocation creates uncertainty for traditional carriers while benefiting satellite/5G leaders.",
+        "zh": "频谱重分配给传统运营商带来不确定性，而利好卫星/5G 龙头。"
+      },
       "bullish": ["VZ", "T"],
       "bearish": [],
       "macroRisk": {
@@ -62,7 +74,10 @@
         "en": "OpenAI revenue expectations support AI chip demand despite profitability questions in broader semiconductor sector",
         "zh": "OpenAI 营收预期支持 AI 芯片需求，尽管半导体板块更广泛的盈利问题"
       },
-      "impact": "AI infrastructure spending accelerating while margins remain under pressure; hardware vendors benefit more than pure-play software.",
+      "impact": {
+        "en": "AI infrastructure spending accelerating while margins remain under pressure; hardware vendors benefit more than pure-play software.",
+        "zh": "AI 基础设施支出加速，但利润率仍承压；硬件供应商受益程度高于纯软件公司。"
+      },
       "bullish": ["AVGO"],
       "bearish": [],
       "macroRisk": {
@@ -75,7 +90,10 @@
         "en": "Asian markets climb ahead of US open, reflecting global risk-on sentiment amid declining yield curve",
         "zh": "亚洲市场在美股开盘前上涨，反映收益率曲线下降背景下的全球风险偏好情绪"
       },
-      "impact": "Futures positioning suggests positive US open; international earnings season providing additional catalysts.",
+      "impact": {
+        "en": "Futures positioning suggests positive US open; international earnings season providing additional catalysts.",
+        "zh": "期货头寸显示美股有望高开；国际财报季提供额外催化剂。"
+      },
       "bullish": ["AAPL", "MSFT"],
       "bearish": [],
       "macroRisk": {
@@ -88,7 +106,10 @@
         "en": "EV sector underperforming broadly as traditional auto manufacturers report margin compression from higher energy costs",
         "zh": "电动车板块普遍跑输，传统汽车制造商报告能源成本上升导致利润率压缩"
       },
-      "impact": "Transition to electrification facing headwinds while EV-specific companies with differentiated technology remain resilient.",
+      "impact": {
+        "en": "Transition to electrification facing headwinds while EV-specific companies with differentiated technology remain resilient.",
+        "zh": "电气化转型面临逆风，而拥有差异化技术的电动汽车专用公司保持韧性。"
+      },
       "bullish": ["RIVN"],
       "bearish": ["TSLA", "F"],
       "macroRisk": {

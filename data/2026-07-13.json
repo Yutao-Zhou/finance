@@ -14,8 +14,8 @@
         "en": "Supply shock premium widens as Strait of Hormuz traffic concerns materialize; one-fifth of global crude supply at risk, pushing inflation hedge demand and broadening energy rally",
         "zh": "霍尔木兹海峡交通风险兑现，供应冲击溢价扩大；全球原油五分之一储量受威胁，通胀避险需求升温带动能源板块普涨"
       },
-      "bullish": ["XLK (selective)", "XLE leaders"],
-      "bearish": ["Semiconductor stocks", "Big Tech growth names"],
+      "bullish": ["XLK (selective) / XLK（选择性持仓）", "XLE leaders / XLE 领涨股"],
+      "bearish": ["Semiconductor stocks / 半导体股票", "Big Tech growth names / 大型科技成长股"],
       "macroRisk": {
         "en": "Yes - Oil → Inflation expectations ↑ → 10Y Treasury yields to ~4.62%; Dollar strength via safe-haven flows; Potential Fed rate pause reconsideration if inflation resurges",
         "zh": "是：油价上涨推升通胀预期，美债收益率升至约 4.62%；避险资金流向美元强化 DXY；若通胀重燃或迫美联储重新考虑暂停加息"
@@ -46,7 +46,7 @@
         "en": "Dollar strength flows into USD as geopolitical safe-haven asset priced in oil shock; Gold underpressure from higher real yields and stronger currency amid conflict escalation",
         "zh": "地缘避险+油价冲击定价下资金涌入美元；黄金受实际收益率攀升和强势货币压制"
       },
-      "bullish": ["USD pairs"],
+      "bullish": ["USD pairs / 美元兑货币对"],
       "bearish": ["GLD", "XAU/USD"],
       "macroRisk": {
         "en": "Yes - Higher USD suppresses EM equities; Gold rotation to real assets if inflation fears persist beyond temporary shock window",
@@ -62,8 +62,8 @@
         "en": "Higher yields pressure rate-sensitive growth stocks; flight-to-quality in Treasuries but yield curve steepens as inflation re-enters pricing models",
         "zh": "收益率上行施压利率敏感型成长股；避险国债买入但长端收益率在通胀预期回归定价模型后走陡"
       },
-      "bullish": ["TLT defensive names"],
-      "bearish": ["XLP growth rotation away from tech"],
+      "bullish": ["TLT defensive names / TLT 防御性品种"],
+      "bearish": ["XLP growth rotation away from tech / 资金从科技股转向 XLP 所代表的必需消费板块"],
       "macroRisk": {
         "en": "Yes - Yield curve inflation hedge becomes material if supply shocks persist; Fed policy stance recalibration risk on sustained oil premium",
         "zh": "是：若供应冲击持续，收益率曲线通胀对冲将实质性显现；油价溢价持久化或迫使美联储政策立场重新校准"
@@ -78,8 +78,8 @@
         "en": "Overseas Asian markets drag down premarket positioning despite selective strength in defense and energy sectors; S&P futures point lower into open",
         "zh": "亚洲海外市场拖累盘前布局，尽管防御与能源板块表现选择性走强；标普期指低开"
       },
-      "bullish": ["Energy defensive names"],
-      "bearish": ["Tech growth breadth"],
+      "bullish": ["Energy defensive names / 能源防御性品种"],
+      "bearish": ["Tech growth breadth / 科技成长广度"],
       "macroRisk": {
         "en": "Yes - Geopolitical risk premium persists; Selective rallies vulnerable if oil spike triggers broader inflation spiral",
         "zh": "是：地缘风险溢价持续；若油价飙升引发更广泛通胀螺旋，选择性反弹将受挫"
@@ -94,7 +94,7 @@
         "en": "Escalation loop widens conflict scope beyond immediate oil choke points; Long-term regional instability reinforces premium on energy inflation hedge",
         "zh": "升级循环扩大冲突范围超越即时油气咽喉；长期区域不稳定强化能源通胀避险溢价"
       },
-      "bullish": ["Energy sector defensive positions"],
+      "bullish": ["Energy sector defensive positions / 能源板块防御性配置"],
       "bearish": [],
       "macroRisk": {
         "en": "Yes - Regional war spillover could force sustained oil supply constraints; Energy inflation feeds back into Fed rate expectations",
@@ -110,7 +110,7 @@
         "en": "Market pricing in sustained higher energy costs; Equity valuations pressured unless inflation stays contained within Fed policy window",
         "zh": "市场定价为持续较高的能源成本；除非通胀控制在美联储政策窗口内，否则股票估值受压"
       },
-      "bullish": ["Energy infrastructure plays"],
+      "bullish": ["Energy infrastructure plays / 能源基础设施标的"],
       "bearish": [],
       "macroRisk": {
         "en": "Yes - Escalation risk keeps oil elevated; If supply disruptions persist, Fed may pause hikes or pivot faster to avoid recession",

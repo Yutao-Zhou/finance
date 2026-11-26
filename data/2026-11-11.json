@@ -2,7 +2,7 @@
   "date": "2026-11-11",
   "summary": {
     "en": "US equities face a tech-led recovery attempt after Tuesday's losses. CoreWeave reported revenue growth of 168% and a path to profitability in H1 2028, while Goldman Sachs added a March 25bp Fed hike to its outlook after the October inflation report. Nasdaq-100 futures are up 1.94% and S&P 500 futures 0.98% versus the previous US cash close, but a 0.52% stronger dollar highlights the tension between AI optimism and tighter policy expectations. US stock markets are open on Veterans Day; the 4.983% Treasury yield is a previous bond-session reference during the fixed-income holiday.",
-    "zh": "美股在周二下跌后迎来科技股带动的修复尝试。CoreWeave报告营收增长168%，并给出2028年上半年实现盈利的展望；高盛则在10月通胀数据公布后，将3月加息25个基点纳入美联储利率展望。纳斯达克100期货较前一美股现金收盘上涨1.94%，标普500期货上涨0.98%，但美元指数走强0.52%，显示AI乐观预期与政策收紧预期之间仍有拉锯。退伍军人节当天美股照常交易；债市假日期间，4.983%的美债收益率仅作为前一债市交易日参考。"
+    "zh": "美股在周二下跌后迎来科技股带动的修复尝试。CoreWeave报告营收增长168%，并给出2028年上半年实现盈利的展望；高盛则在10月通胀数据公布后，将3月加息25个基点纳入美联储利率展望。纳斯达克100期货较上一交易日美股常规收盘时的参考值上涨1.94%，标普500期货上涨0.98%，但美元指数走强0.52%，显示AI乐观预期与政策收紧预期之间仍有拉锯。退伍军人节当天美股照常交易；债市假日期间，4.983%的美债收益率仅作为前一债市交易日参考。"
   },
   "topNews": [
     {
@@ -80,7 +80,7 @@
     },
     "energy": {
       "en": "XLE gained 0.43% in the previous session. Brent is up 0.77% versus the previous US cash-session reference in the verified snapshot; the available sources do not confirm the cause of the oil move.",
-      "zh": "XLE前一交易日上涨0.43%。已核实快照中，布伦特原油较前一美股现金收盘参考上涨0.77%；可用来源没有确认油价变动原因。"
+      "zh": "XLE前一交易日上涨0.43%。已核实快照中，布伦特原油较上一交易日美股常规收盘时的参考值上涨0.77%；可用来源没有确认油价变动原因。"
     },
     "ev": {
       "en": "Global X Autonomous & Electric Vehicles ETF 29.06 USD/share（11/10, 16:00 EST; -1.39% versus 11/09, 15:55 EST）. Previous-session close; ETF performance is a sector reference, not a new company announcement. Source: Yahoo Finance.",
@@ -129,7 +129,7 @@
     },
     "note": {
       "en": "The main tension is between an AI earnings rebound and a longer expected Fed tightening cycle. CoreWeave's reported 168% revenue growth and H1 2028 profitability outlook support the demand narrative, while Nasdaq-100 futures up 1.94% and S&P 500 futures up 0.98% versus the previous cash close suggest an attempted repair. The dollar's 0.52% rise and reported 13.5% odds of a 50bp December hike provide contrary signals; the 4.983% Treasury yield is a prior bond-session reference during today's bond holiday. I lean toward a fragile tech-led recovery, with medium confidence because demand optimism does not remove rate uncertainty. For today's equity open, watch whether gains broaden into cash semiconductor shares and whether dollar strength moderates; narrowing breadth or a firmer dollar would weaken the repair view.",
-      "zh": "核心矛盾是AI财报带动的反弹与更长的预期美联储紧缩周期之间的拉锯。CoreWeave报告营收增长168%，并给出2028年上半年盈利展望，为需求叙事提供支撑；纳斯达克100期货和标普500期货较前一现金收盘分别上涨1.94%和0.98%，显示修复尝试。相反信号来自美元指数上涨0.52%，以及报道中的12月加息50个基点概率升至13.5%；债市假日期间，4.983%的美债收益率仅是前一债市交易日参考。我倾向于认为这是脆弱的科技股修复，保持中等置信度，因为需求乐观预期并未消除利率不确定性。关注今天美股开盘后涨势能否扩散至半导体现货股票，以及美元强势是否缓和；若市场广度收窄或美元继续走强，修复判断将削弱。"
+      "zh": "核心矛盾是AI财报带动的反弹与更长的预期美联储紧缩周期之间的拉锯。CoreWeave报告营收增长168%，并给出2028年上半年盈利展望，为需求叙事提供支撑；纳斯达克100期货和标普500期货较上一交易日美股常规收盘时的参考值分别上涨1.94%和0.98%，显示修复尝试。相反信号来自美元指数上涨0.52%，以及报道中的12月加息50个基点概率升至13.5%；债市假日期间，4.983%的美债收益率仅是前一债市交易日参考。我倾向于认为这是脆弱的科技股修复，保持中等置信度，因为需求乐观预期并未消除利率不确定性。关注今天美股开盘后涨势能否扩散至半导体股票，以及美元强势是否缓和；若市场广度收窄或美元继续走强，修复判断将削弱。"
     }
   },
   "marketData": {

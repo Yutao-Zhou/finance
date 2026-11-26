@@ -14,8 +14,8 @@
         "en": "TSMC reported 77% profit surge but U.S.-listed shares fell 4.6%. Memory chip makers Western Digital (-7.2%) and Seagate (-5.8%) led declines amid investor concerns about AI spending sustainability.",
         "zh": "台积电利润激增 77%，但美股股价跌 4.6%。投资者担忧 AI 支出可持续性，美光科技(-3.7%)、西部数据(-7.2%)和希捷技术(-5.8%)等存储芯片股领跌纳斯达克"
       },
-      "bullish": ["AI infrastructure spending remains robust", "TSMC raised capital investment to $100B in US"],
-      "bearish": ["Valuation compression after year's massive AI rally", "Investor rotation from mega-cap tech into banks and healthcare"]
+      "bullish": ["AI infrastructure spending remains robust / AI 基础设施支出保持强劲", "TSMC raised capital investment to $100B in US / 台积电在美国增加资本投资至 1000 亿美元"],
+      "bearish": ["Valuation compression after year's massive AI rally / 年度 AI 大涨后的估值压缩", "Investor rotation from mega-cap tech into banks and healthcare / 投资者从大型科技股轮动至银行和医疗保健"]
     },
     {
       "title": {
@@ -26,20 +26,24 @@
         "en": "Brent crude rose to $85.43/barrel as Strait of Hormuz conflict escalates, reigniting inflation fears and pressuring rate-sensitive sectors including airlines (-3.1%) and retail.",
         "zh": "霍尔木兹海峡局势升级推动布伦特原油升至 85.43/桶，重燃通胀担忧并压制航空(-3.1%)和零售等利率敏感板块"
       },
-      "bullish": ["Geopolitical premium supports energy supercycle", "U.S. Central Command strikes on oil tankers keep passage open"],
-      "bearish": ["Secondary inflation wave risks Fed rate hike bets", "Oil price spike threatens margin compression in downstream industries"]
+      "bullish": ["Geopolitical premium supports energy supercycle / 地缘政治溢价支撑能源超级周期", "U.S. Central Command strikes on oil tankers keep passage open / 美军中央司令部打击油轮以维持航道畅通"],
+      "bearish": ["Secondary inflation wave risks Fed rate hike bets / 通胀再度升温可能推高美联储加息预期", "Oil price spike threatens margin compression in downstream industries / 油价飙升威胁下游行业利润率压缩"]
     },
     {
       "title": {
-        "en": "UnitedHealth Beats Estimates, Raises 2026 Profit Forecast by 6.7%",
-        "zh": "联合健康超预期并上调 2026 年盈利预测"
+        "en": "UnitedHealth Raises 2026 Profit Guidance; Shares Rise 6.7% Premarket",
+        "zh": "联合健康上调 2026 年盈利指引，股价盘前上涨 6.7%"
       },
       "impact": {
-        "en": "UNH's profit forecast raise helped lift Dow futures (+95 points/0.18%) alongside Humana and Centene gains of 5-4%. Healthcare sector outperforms tech under rate sensitivity constraints.",
-        "zh": "联合健康上调盈利预测提振道指期货(+95点)及友邦保险(-5%)和森蒂纳(+-4%)等医疗股表现，医疗保健板块在利率敏感环境下优于科技"
+        "en": "UnitedHealth raised its 2026 adjusted earnings guidance to $19.50–$20.00 per share. In Reuters’ premarket snapshot, UnitedHealth gained 6.7%, Humana gained 5%, and Centene gained 4.2%. UnitedHealth’s gain helped support Dow futures.",
+        "zh": "联合健康将 2026 年调整后每股收益指引上调至 19.50 至 20.00 美元。据路透社盘前行情，联合健康上涨 6.7%，Humana 上涨 5%，Centene 上涨 4.2%。联合健康走高为道指期货提供了支撑。"
       },
-      "bullish": ["Healthcare remains defensive haven", "UnitedHealth guidance improvement validates healthcare investment thesis"],
-      "bearish": []
+      "bullish": [
+        "Healthcare remains defensive haven / 医疗保健仍是防御性避风港",
+        "UnitedHealth guidance improvement validates healthcare investment thesis / 联合健康指引改善验证医疗保健投资逻辑"
+      ],
+      "bearish": [],
+      "url": "https://www.unitedhealthgroup.com/newsroom/2026/2026-07-16-uhg-reports-second-quarter-2026-results.html"
     },
     {
       "title": {
@@ -50,7 +54,7 @@
         "en": "10Y yield climbed to 4.58% from prior session's 4.55%, while 2Y rose 3bps to 4.16%. June PPI surprise dip provided disinflationary support but oil surge has reversed gains.",
         "zh": "10年期收益率从上一交易日 4.55%升至 4.58%，2年期上升 3bp至 4.16%。尽管 PMI 意外回落提供通缩支持，油价飙升已逆转此前收益"
       },
-      "bullish": ["Lower yields support mortgage demand and refinancing", "Bond market anticipates Fed hold at next meeting (90% probability)"],
+      "bullish": ["Lower yields support mortgage demand and refinancing / 收益率下行支持抵押贷款需求和再融资", "Bond market anticipates Fed hold at next meeting (90% probability) / 债券市场预计美联储将在下次会议维持利率（概率 90%）"],
       "bearish": []
     },
     {
@@ -62,7 +66,7 @@
         "en": "S&P 500 futures down 14.75 points (-0.19%), Nasdaq -210 pts (-0.71%). June retail sales came in at +0.2% vs expectations; jobless claims fell to 208k below forecast.",
         "zh": "标普 500期货跌 14.75点(-0.19%)，纳斯达克-210点(-0.71%).6月零售销售符合预期+0.2%，失业金申领降至低于预期的 208k"
       },
-      "bullish": ["Resilient consumer spending despite high oil prices", "Job market remains strong with lower-than-expected claims"],
+      "bullish": ["Resilient consumer spending despite high oil prices / 尽管油价高企但消费者支出依然韧性十足", "Job market remains strong with lower-than-expected claims / 就业市场保持强劲，失业金申领量低于预期"],
       "bearish": []
     }
   ],
@@ -119,7 +123,7 @@
     },
     "keyRisk": {
       "en": "U.S.-Iran conflict escalation in Strait of Hormuz threatens oil supply disruption and secondary inflation spike, potentially altering Fed rate path beyond current hold consensus (90% probability).",
-      "zh": "霍尔木兹海峡美伊冲突升级威胁石油供应中断和二次通胀飙升，可能改变美联储利率路径超出当前维持共识(90 概率)"
+      "zh": "霍尔木兹海峡美伊冲突升级威胁石油供应中断和二次通胀飙升，可能改变美联储利率路径超出当前维持共识(约 90% 的概率)"
     }
   },
   "judgment": {

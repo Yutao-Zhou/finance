@@ -2,7 +2,7 @@
   "date": "2026-07-06",
   "summary": {
     "en": "Wall Street futures climb ahead of services data, with Nasdaq futures moving higher as markets digest a strong week and position for Fed meeting minutes. Tech sector leads gains after holiday break while oil and precious metals ease from recent highs.",
-    "zh": "美股期货盘前上涨，纳斯达克期货表现强劲。市场在经历一周的强势行情后调整仓位，静待美联储会议决议纪要发布。科技板块假期休市后领涨，而原油和贵金属价格从近期高点回落。"
+    "zh": "美国服务业数据公布前，美股期货盘前走高，纳指期货领涨。市场在经历一周的强势行情后调整仓位，静待美联储会议决议纪要发布。科技板块假期休市后领涨，而原油和贵金属价格从近期高点回落。"
   },
   "topNews": [
     {
@@ -14,7 +14,7 @@
         "en": "Tech stocks led gains with AI leaders and chipmakers pushing major indices higher. Market sentiment remains bullish ahead of key earnings.",
         "zh": "科技公司领涨，AI 龙头和芯片制造商推动主要指数上涨。在关键财报发布前市场情绪保持乐观。"
       },
-      "bullish": ["NASDAQ", "semiconductor sector", "big tech names"],
+      "bullish": ["NASDAQ", "semiconductor sector / 半导体板块", "big tech names / 大型科技公司"],
       "bearish": [],
       "macroRisk": {
         "en": "Elevated valuations in AI names raise concerns if earnings miss expectations; Fed rate policy uncertainty remains key overhang.",
@@ -30,8 +30,8 @@
         "en": "Investors will scrutinize June FOMC meeting minutes released July 28th for guidance on timing and magnitude of rate cuts. Markets favor dovish signals.",
         "zh": "投资者将仔细审视将于 7 月 28 日发布的 6 月份会议纪要，获取有关降息时点和幅度的指引。市场更偏向于鸽派信号。"
       },
-      "bullish": ["dollar", "growth stocks"],
-      "bearish": ["bonds if hawkish tone appears"],
+      "bullish": ["dollar / 美元", "growth stocks / 成长股"],
+      "bearish": ["bonds if hawkish tone appears / 若出现鹰派基调则债券"],
       "macroRisk": {
         "en": "Hawkish surprises could trigger sell-off in rate-sensitive sectors and dollar weakness reversal.",
         "zh": "鹰派意外可能引发对利率敏感板块的抛售，美元走软。"
@@ -46,8 +46,8 @@
         "en": "WTI crude easing from recent highs amid OPEC+ supply discipline. Lower energy costs could provide relief to inflation-sensitive retail sectors.",
         "zh": "在欧佩克 + 供应纪律支持下，西德克萨斯中质原油价格从近期高点回落。较低能源成本可缓解通胀敏感型零售板块的压力。"
       },
-      "bullish": ["energy producers hedged positions", "retail consumer discretionary"],
-      "bearish": ["oil and gas sector momentum"],
+      "bullish": ["energy producers hedged positions / 已对冲头寸的能源生产商", "retail consumer discretionary / 零售可选消费板块"],
+      "bearish": ["oil and gas sector momentum / 油气板块动量"],
       "macroRisk": {
         "en": "Geopolitical shocks could quickly reverse trend with supply disruptions in Middle East or Russia-Ukraine energy flows.",
         "zh": "地缘政治冲击可能迅速逆转趋势，中东或俄乌能源运输出现供应中断。"
@@ -62,8 +62,8 @@
         "en": "Real yields rising provide headwind for non-yielding precious metals. Dollar strength also weighs on bullion demand.",
         "zh": "实际收益率上升对非生息贵金属构成阻力。美元走强也抑制了黄金需求。"
       },
-      "bullish": ["bond yield sensitive portfolios", "inflation hedge positions"],
-      "bearish": ["precious metals miners", "gold ETFs"],
+      "bullish": ["bond yield sensitive portfolios / 对债券收益率敏感的投资组合", "inflation hedge positions / 通胀对冲头寸"],
+      "bearish": ["precious metals miners / 贵金属矿业公司", "gold ETFs / 黄金 ETF"],
       "macroRisk": {
         "en": "Central bank buying provides partial floor, but higher-for-longer rates could keep precious metals in correction mode.",
         "zh": "央行购买提供部分支撑，但利率维持高位可能使贵金属处于修正模式。"
@@ -78,8 +78,8 @@
         "en": "DXY holding near support levels as yield differentials narrow. Emerging markets may see relief from currency headwinds.",
         "zh": "随着收益率利差收窄，美元指数在近支撑位企稳。新兴市场可能看到汇率逆风的缓解。"
       },
-      "bullish": ["US exports", "international travel stocks"],
-      "bearish": ["multinational earnings with overseas exposure"],
+      "bullish": ["US exports / 美国出口", "international travel stocks / 国际旅行股票"],
+      "bearish": ["multinational earnings with overseas exposure / 海外敞口的大型跨国企业盈利"],
       "macroRisk": {
         "en": "Unanticipated policy divergence between Fed and foreign central banks could trigger sharp moves.",
         "zh": "美联储与外国央行之间政策意外分化可能引发急剧变动。"
@@ -94,8 +94,8 @@
         "en": "Electric vehicle manufacturers deal with supply chain constraints, interest rate sensitivity, and demand uncertainty. Higher rates hurt capital-intensive EV expansion plans.",
         "zh": "电动汽车制造商应对供应链限制、利率敏感性和需求不确定性。较高的利率打击了资本密集型的电动车扩张计划。"
       },
-      "bullish": ["traditional automakers with electrification strategies", "battery recyclers"],
-      "bearish": ["pure-play EV names in growth phase"],
+      "bullish": ["traditional automakers with electrification strategies / 拥有电气化战略的传统汽车制造商", "battery recyclers / 电池回收商"],
+      "bearish": ["pure-play EV names in growth phase / 处于成长阶段的纯电动汽车股"],
       "macroRisk": {
         "en": "Policy changes including tariff shifts and subsidies could dramatically reshape competitive landscape.",
         "zh": "政策变化包括关税转变和补贴可能彻底重塑竞争格局。"
@@ -110,8 +110,8 @@
         "en": "Upcoming services inflation and employment data will be closely watched for soft landing evidence. Sticky prints could raise rate cut expectations while weak readings fuel recession fears.",
         "zh": "将密切关注即将到来的服务通胀和就业数据，以获取软着陆证据。粘性读数可能提高降息预期，而疲软读数会引发衰退担忧。"
       },
-      "bullish": ["financial sector", "consumer discretionary"],
-      "bearish": ["utilities", "real estate if data shows strength reducing yield support"],
+      "bullish": ["financial sector / 金融板块", "consumer discretionary / 可选消费板块"],
+      "bearish": ["utilities / 公用事业", "real estate if data shows strength reducing yield support / 若数据显示经济强劲削弱收益率支撑则房地产板块"],
       "macroRisk": {
         "en": "Discrepancy between labor market and inflation readings could create volatility around key Fed speakers.",
         "zh": "劳动力市场和通胀读数之间的差异可能在关键美联储发言人周围造成波动。"

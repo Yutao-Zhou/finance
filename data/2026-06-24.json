@@ -67,7 +67,7 @@
   },
   "premarketFocus": {
     "futures": {"en": "S&P futures tick higher after overnight gains; Nasdaq, Dow stabilize with chip sector relief. Asia mixed but improving sentiment from Korean semis stabilization.", "zh": "标普期指在隔夜上涨后小幅走高；纳指、道指随芯片板块缓解而稳定。亚洲市场分化但改善情绪因韩国半导体企稳而上升。"},
-    "treasury10Y": {"en": "10Y Treasury yields volatile amid rate hike bets vs. inflation data uncertainty. Yield fluctuations signal policy transition phase affecting duration-sensitive growth names.", "zh": "10Y 美债收益率在加息赌注和通胀数据不确定性间波动。收益率波动显示政策过渡期影响久期敏感的成长股名称。"},
+    "treasury10Y": {"en": "10Y Treasury yields volatile amid rate hike bets vs. inflation data uncertainty. Yield fluctuations signal policy transition phase affecting duration-sensitive growth names.", "zh": "10Y 美债收益率在加息赌注和通胀数据不确定性间波动。收益率波动显示政策过渡期影响久期敏感的成长股。"},
     "dxy": {"en": "Dollar index maintains strength as dollar aids EM assets while multinationals face currency headwinds. Strong USD weighs on tech exports but benefits energy sector revenues.", "zh": "美元指数保持强势，美元助推新兴市场资产而跨国企业面临汇率阻力。强势美元压制科技出口但有利于能源板块营收。"},
     "oil": {"en": "Oil prices trade below $72 as peace hopes dominate headlines. WTI/Brent volatility elevated but disinflation narrative supports lower price regime despite supply risks.", "zh": "油价交易于$72 以下，和平希望主导头条新闻。WTI/布伦特波动率升高但通缩叙事支持较低价格格局尽管存在供应风险。"},
     "keyRisk": {"en": "AI valuation compression spreading to broader tech amid Korean chip weakness and earnings season ahead. Oil disinflation vs supply disruption balance; Fed pivot timing uncertainty.", "zh": "在亚洲芯片疲软和财报季临近之际，AI 估值压缩蔓延至更广泛科技板块。油价通缩与供应中断平衡；美联储转向时机不确定。"}

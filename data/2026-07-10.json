@@ -1,25 +1,31 @@
 {
   "date": "2026-07-10",
   "summary": {
-    "en": "Premarket mixed as memory chip sector surges ahead of SK Hynix IPO while geopolitical tensions ease. Semiconductor stocks lead gains with Micron, AMD rising over 5% on strong AI demand outlook and robust earnings momentum.",
-    "zh": "盘前市场震荡，存储芯片板块因三星电子（SK Hynix）IPO 而走强；地缘政治紧张局势缓和。半导体股领涨，美光科技、AMD 涨幅超 5%，受益于强劲的人工智能需求预期和稳健的盈利势头。"
+    "en": "U.S. stock futures were mixed as memory-chip shares rose ahead of SK hynix’s U.S. ADR debut and Middle East tensions eased. Micron and AMD rose more than 5% as investors focused on AI demand and earnings.",
+    "zh": "美股股指期货盘前涨跌互现。SK 海力士美国存托凭证（ADR）即将在纳斯达克挂牌，存储芯片板块走强，中东紧张局势也有所缓和。市场看好 AI 需求和企业业绩，美光与 AMD 涨逾 5%。"
   },
   "topNews": [
     {
       "title": {
-        "en": "SK Hynix IPO Oversubscribed: Memory Chip Sector Leads Rally",
-        "zh": "三星电子（SK Hynix）IPO 超额认购：存储芯片板块领涨大盘"
+        "en": "SK hynix U.S. ADR listing draws strong demand; memory stocks rise",
+        "zh": "SK 海力士美国存托凭证认购踊跃，存储芯片股领涨"
       },
       "impact": {
-        "en": "Memory chip sector sentiment strongly positive as SK Hynix ADRs priced at $149 oversubscribed by 7+ times. Benefits memory makers (Micron, Western Digital) and storage partners (SanDisk, Seagate). Geopolitical easing in Middle East reduces risk premium on commodities.",
-        "zh": "SK Hynix IPO 定价$149，获超 7 倍超额认购，存储芯片板块情绪强烈正面。利好内存厂商（美光科技、西部数据）及存储合作伙伴（闪迪、希捷）。中东地缘局势缓和降低大宗商品风险溢价。"
+        "en": "Memory chip sector sentiment strongly positive as SK hynix’s U.S. ADR offering, priced at $149 per ADR, drew strong demand. Benefits memory makers (Micron, Western Digital) and storage partners (SanDisk, Seagate). Geopolitical easing in Middle East reduces risk premium on commodities.",
+        "zh": "SK 海力士美国存托凭证的发行定价为每份 149 美元，认购踊跃。上市提振了美光、西部数据、闪迪和希捷等存储产业链公司的市场情绪。中东局势缓和也减轻了大宗商品的风险溢价。"
       },
-      "bullish": ["MU", "WDC", "SNDK", "STX"],
+      "bullish": [
+        "MU",
+        "WDC",
+        "SNDK",
+        "STX"
+      ],
       "bearish": [],
       "macroRisk": {
         "en": "Positive - reduced geopolitical premium on energy/oil prices supports tech hardware margin expansion",
         "zh": "正面——能源/油价地缘溢价下降支持科技硬件利润率扩张"
-      }
+      },
+      "url": "https://www.sec.gov/Archives/edgar/data/2120882/000119312526299963/d32785d424b4.htm"
     },
     {
       "title": {
@@ -27,8 +33,8 @@
         "zh": "美股期指震荡：纳斯达克下跌，道指稳定等待开盘"
       },
       "impact": {
-        "en": "Mixed futures sentiment as investors weigh SK Hynix IPO excitement against lingering geopolitical risks. Asian markets: Nikkei +1.2%, Hang Seng -0.7%. European indices mostly neutral.",
-        "zh": "期指情绪分化，投资者权衡三星电子 IPO 兴奋度与持续的地缘政治风险。亚洲市场：日经指数+1.2%，恒生指数-0.7%；欧洲指数大多中性。"
+        "en": "Mixed futures sentiment as investors weigh enthusiasm for SK hynix’s U.S. ADR listing against lingering geopolitical risks. Asian markets: Nikkei +1.2%, Hang Seng -0.7%. European indices mostly neutral.",
+        "zh": "期指情绪分化，投资者权衡对 SK 海力士美国存托凭证上市的乐观情绪与持续的地缘政治风险。亚洲市场：日经指数+1.2%，恒生指数-0.7%；欧洲指数大多中性。"
       },
       "bullish": ["DIA"],
       "bearish": ["NDX", "^GSPC"],
@@ -87,7 +93,7 @@
     },
     {
       "title": {
-        "en": "Delta Air Lines Beaten to Earnings, Consumer Discretionary Steady",
+        "en": "Delta Air Lines Beats Earnings Estimates; Consumer Discretionary Holds Steady",
         "zh": "达美航空盈利超预期，可选消费稳健"
       },
       "impact": {
@@ -124,8 +130,8 @@
       "zh": "人工智能板块因存储芯片复苏而重振，推动数据中心资本开支周期。英伟达、AMD 和云基础设施提供商受益于企业级 AI 采用加速。"
     },
     "semiconductor": {
-      "en": "Strong rally in memory and storage sector led by Micron (+4.5%), Intel, AMD with SK Hynix IPO excitement spilling over into peer names.",
-      "zh": "存储和半导体板块强劲反弹，美光科技（+4.5%）、英特尔、AMD 领涨；SK Hynix IPO 兴奋情绪蔓延至同行股票。"
+      "en": "Strong rally in memory and storage sector led by Micron (+4.5%), Intel, AMD with enthusiasm for SK hynix’s U.S. ADR listing spilling over into peer names.",
+      "zh": "存储和半导体板块强劲反弹，美光科技（+4.5%）、英特尔、AMD 领涨；SK 海力士美国存托凭证上市也提振了同行股价。"
     },
     "bigTech": {
       "en": "Big Tech stocks remain mixed with NVIDIA slight weakness amid memory sector strength, but cloud services (AWS/Azure) see sustained demand from AI workload growth.",
@@ -140,8 +146,8 @@
       "zh": "电动车板块对高利率和供应链约束保持谨慎。电池技术进展（恩诺维克斯）提供边际乐观预期；竞争市场中需求软化。"
     },
     "market": {
-      "en": "Futures mixed with Nasdaq slightly down, Dow steady. Broad market breadth neutral-to-slightly-positive ahead of earnings season kickoff and SK Hynix listing.",
-      "zh": "期指震荡，纳斯达克小幅下跌、道琼斯指数稳定；在盈利季开启和三星电子 IPO 上市前，市场整体宽度中性偏正面。"
+      "en": "Futures mixed with Nasdaq slightly down, Dow steady. Broad market breadth neutral-to-slightly-positive ahead of earnings season kickoff and SK hynix’s U.S. ADR listing.",
+      "zh": "期指震荡，纳斯达克小幅下跌、道琼斯指数稳定；在财报季开启和 SK 海力士美国存托凭证挂牌前，市场上涨范围中性偏广。"
     },
     "preciousMetals": {
       "en": "Gold rebounds above $4100/oz on DXY weakness and cooling geopolitics. Silver follows closely; safe-haven demand modestly elevated.",

@@ -31,7 +31,7 @@
         "zh": "微软财报稳健但股价下跌，投资者关注 OpenAI 投资风险和 AI 资本开支路径。对 AI 可持续变现的担忧压制科技巨头。云业务增长强劲，但 AI 基础设施投资导致利润率压力。"
       },
       "bullish": ["MSFT", "GOOGL", "AMZN"],
-      "bearish": ["MSFT (short-term)", "NVDA", "META", "XLK"],
+      "bearish": ["MSFT (short-term) / MSFT（短期）", "NVDA", "META", "XLK"],
       "macroRisk": {
         "en": "No - Company-specific headwinds but reflects broader AI capex sustainability concerns among investors.",
         "zh": "否 - 公司特定压力，但反映投资者对 AI 资本开支可持续性的普遍担忧。"
@@ -63,7 +63,7 @@
         "zh": "10 年期美债收益率 4.398%，油价驱动通胀担忧后初现抛售。随着布油从$125 高位回落，买盘介入。对利率敏感板块获得喘息，但通胀溢价仍嵌入长久期资产。"
       },
       "bullish": ["TLT", "LQD", "AGG"],
-      "bearish": ["TLT (if yields resume rise)", "REITs", "XLU"],
+      "bearish": ["TLT (if yields resume rise) / TLT（若收益率重启上涨）", "REITs / 房地产投资信托基金", "XLU"],
       "macroRisk": {
         "en": "Yes - Yield trajectory uncertain; oil inflation persistence could reignite rate fears and compress equity valuations.",
         "zh": "是 - 收益率路径不确定；油价通胀持续可能重燃利率担忧并压缩估值。"
@@ -138,8 +138,8 @@
       "zh": "布油$114 因伊朗战争溢价，贴水反映供应短缺。OPEC 动态和中东风险压缩供应预期，石油市场仍处贴水状态。关注$120+ 重新测试。"
     },
     "keyRisk": {
-      "en": "Oil surge → inflation spike → Fed rate-cut压缩. Iran war escalation risk remains elevated. Tech sector rotation from capex concerns. Currency volatility adds global capital allocation complexity.",
-      "zh": "油价飙升→通胀 spike→Fed 降息空间压缩。伊朗战争升级风险仍高。科技板块从资本开支担忧轮动。汇率波动增加全球资本配置复杂性。"
+      "en": "An oil-price surge could push inflation higher and reduce the Fed’s scope for rate cuts. The risk of escalation in the Iran conflict remains elevated. Capital-spending concerns are driving rotation within technology, and currency volatility complicates global allocations.",
+      "zh": "油价飙升可能推高通胀、压缩美联储降息空间。伊朗冲突升级的风险仍高。对资本开支的担忧推动科技股内部轮动，汇率波动增加了全球资产配置的难度。"
     }
   },
   "judgment": {

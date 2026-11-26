@@ -2,7 +2,7 @@
   "date": "2026-04-20",
   "summary": {
     "en": "Stock futures point to mixed open as AI sector rally continues amid Google TPU launch and TSMC earnings momentum. Geopolitical risk premium remains embedded in oil prices despite Hormuz opening. 10Y yields stabilize near 4.27%.",
-    "zh": "股市期货指向混合开盘，AI 板块在 Google TPU 发布和台积电财报带动下继续反弹。尽管霍尔木兹开放，油价仍嵌入了地缘政治风险溢价。10 年期美债收益率稳定在 4.27% 附近。"
+    "zh": "股指期货显示美股可能涨跌互现开盘，AI 板块在 Google TPU 发布和台积电财报带动下继续反弹。尽管霍尔木兹开放，油价仍包含地缘政治风险溢价。10 年期美债收益率稳定在 4.27% 附近。"
   },
   "topNews": [
     {
@@ -15,7 +15,7 @@
         "zh": "AI 硬件竞争加剧。利好多元化，但可能削弱 Nvidia 定价权叙事。"
       },
       "bullish": ["GOOGL", "NVDA", "AMD"],
-      "bearish": ["AI infrastructure monopoly thesis"],
+      "bearish": ["AI infrastructure monopoly thesis / AI 基础设施或呈垄断格局"],
       "macroRisk": {
         "en": "No - Sector competition accelerates innovation but maintains overall AI growth thesis.",
         "zh": "否 - 行业竞争加速创新但维持整体 AI 增长叙事。"
@@ -63,7 +63,7 @@
         "zh": "地缘政治风险主导供应逻辑。高油价支撑能源板块但风险通胀重新定价。"
       },
       "bullish": ["XLE", "XOM", "CVX", "COP"],
-      "bearish": ["Consumer discretionary", " Airlines"],
+      "bearish": ["Consumer discretionary / 可选消费", " Airlines / 航空公司"],
       "macroRisk": {
         "en": "Yes - Persistent oil premium complicates inflation-Fed policy dynamics.",
         "zh": "是 - 持续的油价溢价使通胀-美联储政策动态复杂化。"

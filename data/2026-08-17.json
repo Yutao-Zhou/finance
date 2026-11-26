@@ -11,15 +11,21 @@
         "zh": "纳斯达克期货上涨 0.52%，AI 热潮因英伟达 IPO 乐观情绪加速"
       },
       "impact": {
-        "en": "Anthropic's $190-200B revenue forecast for 2028 boosts AI ecosystem confidence, lifting Amazon and chipmakers.",
-        "zh": "英伟达对 2028 年营收 190-200 亿美元的预测提振了 AI 生态系统信心，带动亚马逊和芯片制造商。"
+        "en": "Reuters reported that Anthropic projected revenue of roughly $190 billion to $200 billion for 2028. The outlook lifted sentiment across the AI sector, including Amazon and chipmakers.",
+        "zh": "据路透社报道，Anthropic 预计 2028 年营收约为 1,900 亿至 2,000 亿美元。该预期提振了 AI 板块情绪，亚马逊和芯片股受益。"
       },
-      "bullish": ["NVDA", "AVGO", "AMZN", "GOOGL"],
+      "bullish": [
+        "NVDA",
+        "AVGO",
+        "AMZN",
+        "GOOGL"
+      ],
       "bearish": [],
       "macroRisk": {
         "en": "AI concentration risk; rally may be valuation-driven rather than earnings-led.",
         "zh": "AI 集中风险；上涨可能由估值驱动而非盈利带动。"
-      }
+      },
+      "url": "https://www.marketscreener.com/news/anthropic-ipo-valuation-hinges-on-190-200-billion-2028-revenue-forecast-sources-say-ce7859dfda8bfe21"
     },
     {
       "title": {

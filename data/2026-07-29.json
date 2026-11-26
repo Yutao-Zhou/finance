@@ -2,7 +2,7 @@
   "date": "2026-07-29",
   "summary": {
     "en": "Semiconductor weakness led broad tech decline with NVDA, AMD down ~8% on chip demand concerns. Financials and healthcare stocks provided support while futures point to cautious open. Key watch: whether AI sector selloff is healthy profit-taking or fundamental shift.",
-    "zh": "半导体板块走弱带动科技股普遍下跌，NVDA、AMD 约跌 8%，引发对芯片需求担忧。金融和医疗保健股票提供支持，而期货预示谨慎开盘。关键看点：AI 板块抛售是健康获利了结还是基本面转变"
+    "zh": "对芯片需求的担忧引发半导体股下跌，拖累科技板块，英伟达与 AMD 各跌约 8%。金融和医疗保健股票提供支持，而期货预示谨慎开盘。关键看点：AI 板块抛售是健康获利了结还是基本面转变"
   },
   "topNews": [
     {
@@ -15,7 +15,7 @@
         "zh": "NVDA、AMD 等暴跌显示行业面临库存积压和需求放缓压力"
       },
       "bullish": ["QCOM +0.05%", "AVGO -0.60%"],
-      "bearish": ["SMCI -4.56%", "SMIC related names", "AI chip demand uncertainty"],
+      "bearish": ["SMCI -4.56%", "SMIC related names / 与中芯国际相关的公司", "AI chip demand uncertainty / 人工智能芯片需求不确定性"],
       "macroRisk": {
         "en": "Yes: Chip slowdown → Tech earnings re-rating downward; could spread to broader growth stocks if inflation fears intensify (oil volatility)",
         "zh": "是：芯片放缓→科技盈利重估下行；若通胀担忧加剧可能蔓延至宽幅成长股"
@@ -62,7 +62,7 @@
         "en": "Energy sector mixed: some names up on demand resilience but broader uncertainty from Middle East dynamics remains",
         "zh": "能源板块分化：部分股票因需求韧性上涨，但中东动态带来的广泛不确定性仍存"
       },
-      "bullish": ["Oil price stabilization"],
+      "bullish": ["Oil price stabilization / 油价企稳"],
       "bearish": [],
       "macroRisk": {
         "en": "Yes: Geopolitical easing → Lower oil risk premium; inflation expectations may decline modestly",
@@ -104,8 +104,8 @@
       "zh": "特斯拉中性：电动车放缓担忧下，利率上升和竞争格局正常化；更广泛汽车板块提供支持"
     },
     "market": {
-      "en": "Mixed: S&P 500 at 7,428 (+0.21%) but breadth weak with semiconductor拖累 (-3-9%). Rotation to financials (BAC +0.79%), healthcare (HCA +7.33%) provides defensive support.",
-      "zh": "混合：标普500在7,428点(+0.21%)但广度弱，半导体拖累(-3-9%)。流向金融和医疗保健提供防御支撑"
+      "en": "The S&P 500 was at 7,428, up 0.21%, but semiconductor losses of 3% to 9% weighed on market breadth. Financials and healthcare provided some support, with Bank of America up 0.79% and HCA up 7.33%.",
+      "zh": "标普 500 指数在 7,428 点，涨 0.21%，但芯片股下跌约 3% 至 9%，拖累市场广度。金融和医疗保健股为大盘提供一定支撑，其中美国银行上涨 0.79%，HCA 上涨 7.33%。"
     },
     "preciousMetals": {
       "en": "Limited data but gold typically responds to real yields and risk sentiment; watch 10Y Treasury inversion spread as key indicator for safe-haven flows.",

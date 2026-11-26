@@ -14,8 +14,8 @@
         "en": "Japan/Nikkei and Korea/KOSPI closed lower overnight, signaling risk-off sentiment ahead of Fed decision. Asian weakness may spill over to US equity sentiment at market open.",
         "zh": "日本日经和韩国 Kospi 隔夜收低，表明美联储决策前的避险情绪。亚洲疲软可能在市场开盘时波及美股情绪。"
       },
-      "bullish": ["defensive sectors", "energy if supply concerns persist"],
-      "bearish": ["growth stocks", "tech sector if inflation fears materialize"],
+      "bullish": ["defensive sectors / 防御性板块", "energy if supply concerns persist / 若供应担忧持续则能源股"],
+      "bearish": ["growth stocks / 成长股", "tech sector if inflation fears materialize / 若通胀担忧成真则科技板块"],
       "macroRisk": {
         "en": "MEDIUM-HIGH - Fed decision timing critical. Oil price inflation from Middle East could anchor higher yields, complicating Fed's disinflation path.",
         "zh": "中高风险 - 美联储决策时机关键。中东油价通胀可能使收益率保持在高位，使美联储降通胀路径复杂化。"
@@ -30,8 +30,8 @@
         "en": "Yanbu refinery disruption and Saudi pipeline issues keep oil elevated. Oil price shock → inflation expectations → Treasury yields tension. Energy stocks benefit while transportation costs rise.",
         "zh": "延布炼油厂中断和沙特管道问题使油价维持高位。油价冲击→通胀预期→美债收益率紧张。能源股受益而运输成本上升。"
       },
-      "bullish": ["energy producers", "oil services"],
-      "bearish": ["consumer discretionary", "retailers", "airlines"],
+      "bullish": ["energy producers / 能源生产商", "oil services / 石油服务板块"],
+      "bearish": ["consumer discretionary / 可选消费板块", "retailers / 零售商", "airlines / 航空业"],
       "macroRisk": {
         "en": "HIGH - Sustained elevated oil prices could anchor inflation expectations, complicating Fed rate decision narrative and pushing yields higher.",
         "zh": "高风险 - 持续高企的油价可能固化通胀预期，使美联储利率决策叙事复杂化并推高收益率。"
@@ -46,8 +46,8 @@
         "en": "Supply-driven inflation from Middle East makes Fed rate hike justification stronger but also more aggressive. Rate-sensitive sectors (tech/growth) face headwinds while value/energy leadership emerges.",
         "zh": "中东供应驱动通胀使美联储加息理由更充分但也更激进。利率敏感板块（科技/成长）面临逆风，而价值/能源领先显现。"
       },
-      "bullish": ["value stocks", "financials if yields stabilize"],
-      "bearish": ["high duration bonds", "growth equities"],
+      "bullish": ["value stocks / 价值股", "financials if yields stabilize / 若收益率稳定则金融业"],
+      "bearish": ["high duration bonds / 长久期债券", "growth equities / 成长型股票"],
       "macroRisk": {
         "en": "MEDIUM - Elevated 10Y yield could pressure rate-sensitive sectors. Fed communication on inflation vs growth tradeoff remains key.",
         "zh": "中风险 - 高企的 10 年期美债收益率可能施压利率敏感板块。美联储关于通胀与增长权衡的沟通仍是关键。"
@@ -62,8 +62,8 @@
         "en": "Safe-haven flows support precious metals despite strong USD. Gold offers inflation hedge as oil price-driven inflation concerns persist.",
         "zh": "避险资金在美元强劲的情况下支持贵金属。金价提供通胀保值，因为油价驱动的通胀担忧持续存在。"
       },
-      "bullish": ["precious metals miners", "defensive positioning"],
-      "bearish": ["risk-on assets if oil inflation subsides"],
+      "bullish": ["precious metals miners / 贵金属矿业公司", "defensive positioning / 防御性配置"],
+      "bearish": ["risk-on assets if oil inflation subsides / 若石油通胀消退则风险偏好资产"],
       "macroRisk": {
         "en": "MEDIUM - Gold benefits from geopolitical uncertainty. However, strong USD and higher yields limit upside potential.",
         "zh": "中风险 - 黄金受益于地缘政治不确定性。然而，强劲美元和较高收益率限制上行潜力。"
@@ -78,8 +78,8 @@
         "en": "NVIDIA and semiconductor peers maintain strong positioning. China demand provides support but supply chain disruptions from Middle East pose operational risks.",
         "zh": "NVIDIA 和半导体同行保持强劲位置。中国需求提供支持，但中东供应链中断构成运营风险。"
       },
-      "bullish": ["semiconductor leaders", "AI infrastructure"],
-      "bearish": ["if geopolitical tensions escalate further"],
+      "bullish": ["semiconductor leaders / 半导体龙头企业", "AI infrastructure / 人工智能基础设施"],
+      "bearish": ["if geopolitical tensions escalate further / 若地缘政治紧张局势进一步升级"],
       "macroRisk": {
         "en": "LOW - AI fundamentals remain strong but geopolitical risk premium could impact longer-term supply chain planning.",
         "zh": "低风险 - AI 基本面保持强劲，但地缘政治风险溢价可能影响长期供应链规划。"

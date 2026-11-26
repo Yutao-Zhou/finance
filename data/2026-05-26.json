@@ -2,7 +2,7 @@
   "date": "2026-05-26",
   "summary": {
     "en": "U.S. stock index futures rose to record highs on Tuesday as AI-driven optimism in semiconductor stocks offset Middle East geopolitical risks, with S&P 500 E-minis up 0.78% and Nasdaq 100 E-minis gaining 1.16% in premarket trading ahead of the Fed chair's first week.",
-    "zh": "美国股市指数期货周二升至纪录高位，AI驱动的半导体股票乐观情绪抵消了中东地缘政治风险，标普500 E-mini 期货上涨 0.78%，纳斯达克 100 E-mini 期货上涨 1.16%，盘前交易中美联储主席首周前夕市场氛围积极。"
+    "zh": "周二美股股指期货创历史新高。AI 热潮提振半导体股，抵消了中东地缘风险。盘前标普 500 E-mini 期货涨 0.78%，纳斯达克 100 E-mini 期货涨 1.16%，市场也关注美联储主席上任后的首周。"
   },
   "topNews": [
     {
@@ -14,8 +14,8 @@
         "en": "Semiconductor and AI stocks (Marvell +5.4%, Micron +6.3%) led premarket gains, showing investor confidence in AI trade despite ongoing Iran conflict. The Dow became the last index to hit a record high since the Iran war began.",
         "zh": "半导体和 AI 股票（Marvell 涨 5.4%、Micron 涨 6.3%）带动盘前上涨，显示投资者对 AI 交易的信心尽管伊朗冲突仍在继续。道琼斯指数成为自伊朗战争开始以来最后触及新高的指数。"
       },
-      "bullish": ["AI", "semiconductor", "bigTech"],
-      "bearish": ["energy"],
+      "bullish": ["AI", "semiconductor / 半导体", "bigTech / 大型科技公司"],
+      "bearish": ["energy / 能源板块"],
       "macroRisk": {
         "en": "Yes - Middle East conflict impacts oil prices (Brent +2%), inflation expectations, and global supply chains through Hormuz Strait shipping concerns.",
         "zh": "是 - 中东冲突影响油价（布伦特涨 2%）、通胀预期和全球供应链，通过霍尔木兹海峡航运担忧。"
@@ -31,7 +31,7 @@
         "zh": "对伊朗的打击后出现缓和希望，造成不确定性。如果和平协议开通霍尔木兹海峡航运，油价可能稳定。市场预期需几天时间达成和平协议。"
       },
       "bullish": [],
-      "bearish": ["oil", "energy"],
+      "bearish": ["oil / 石油", "energy / 能源板块"],
       "macroRisk": {
         "en": "Geopolitical de-escalation risk; oil prices could fall if peace deal materializes, but strike-related uncertainty keeps prices elevated short-term.",
         "zh": "地缘政治降级风险；如果达成和平协议油价可能下跌，但与打击相关的不确定性短期内维持高油价。"
@@ -46,7 +46,7 @@
         "en": "Small-cap AI/tech stocks showing strong momentum. Joyy's revenue beat and Pony AI's robotaxi expansion demonstrate continued investor enthusiasm for AI applications and autonomous vehicle sector.",
         "zh": "小盘 AI/科技股显示强劲势头。Joyy 营收超预期和 Pony AI 机器人出租车扩张显示投资者对 AI 应用和自动驾驶汽车板块的持续热情。"
       },
-      "bullish": ["AI", "small-cap", "robotics"],
+      "bullish": ["AI", "small-cap / 小盘股", "robotics / 机器人"],
       "bearish": [],
       "macroRisk": {
         "en": "No significant macro risk; company-level earnings driven by AI demand fundamentals.",
@@ -63,7 +63,7 @@
         "zh": "Kevin Warsh 周五就任，油价推高通胀担忧。市场预期美联储全年维持利率，12 月可能加息 25 个基点。稍后公布的消费者信心数据影响市场情绪。"
       },
       "bullish": [],
-      "bearish": ["rates", "inflation"],
+      "bearish": ["rates / 利率", "inflation / 通胀"],
       "macroRisk": {
         "en": "Inflation risk from elevated oil prices creates upward pressure on yields and could delay Fed rate cuts. Consumer confidence data later today could weigh on sentiment if gasoline prices drag on sentiment.",
         "zh": "高油价引发的通胀风险对上行动益率和延迟美联储降息产生上行压力。今日稍后公布的消费者信心数据若受汽油价格拖累可能打击情绪。"
@@ -78,8 +78,8 @@
         "en": "Gold weakened alongside dollar surge on Iran strike news. Precious metals face headwinds if geopolitical tensions ease but dollar strength from risk-off sentiment continues. Oil prices up 2% on Strait of Hormuz concerns affect energy sector.",
         "zh": "黄金随美元因伊朗打击消息而下跌。如果地缘政治紧张缓和但避险情绪导致美元走强，贵金属面临阻力。霍尔木兹海峡担忧使油价上涨 2%，影响能源板块。"
       },
-      "bullish": ["dollar"],
-      "bearish": ["preciousMetals", "gold"],
+      "bullish": ["dollar / 美元"],
+      "bearish": ["preciousMetals / 贵金属", "gold / 黄金"],
       "macroRisk": {
         "en": "Yes - Middle East strikes drive dollar strength, gold weakness, and oil price volatility through supply disruption fears and risk-off flows.",
         "zh": "是 - 中东打击推动美元走强、黄金走弱和油价波动，通过供应中断担忧和风险规避资金流动。"
@@ -94,7 +94,7 @@
         "en": "LSEG data shows first-quarter earnings growth expected at 29% vs 16.1% estimate. Upbeat earnings with AI trade confidence driving equities higher despite ongoing Middle East conflict. Earnings season nearly over supports continued momentum.",
         "zh": "LSEG 数据显示一季度收益增长预期为 29%，优于 16.1% 估计。积极收益和 AI 交易信心推动股票上涨，尽管中东冲突仍在继续。收益季即将结束支持持续势头。"
       },
-      "bullish": ["earnings", "semiconductor", "AI"],
+      "bullish": ["earnings / 企业业绩", "semiconductor / 半导体", "AI"],
       "bearish": [],
       "macroRisk": {
         "en": "No significant macro risk; earnings-driven rally supported by strong corporate fundamentals and AI demand.",

@@ -14,8 +14,8 @@
         "en": "Tech sector positioning ahead of Friday close will influence Monday open breadth. Earnings guidance revisions track inflation and Fed expectations despite limited pre-market data access.",
         "zh": "周五收盘前科技股布局影响周一开盘广度。盈利指引修订追踪通胀与美联储预期，尽管盘前数据获取有限。"
       },
-      "bullish": ["NASDAQ futures", "Tech dividend growers"],
-      "bearish": ["Rate-sensitive small caps"],
+      "bullish": ["NASDAQ futures / 纳斯达克期货", "Tech dividend growers / 科技股息增长型公司"],
+      "bearish": ["Rate-sensitive small caps / 对利率敏感的小盘股"],
       "macroRisk": {
         "en": "Pending weekend geopolitical developments may trigger Monday open volatility via oil price and inflation repricing.",
         "zh": "周末地缘政治发展可能通过油价和通胀重定价引发周一开盘波动。"
@@ -31,7 +31,7 @@
         "zh": "监测包括 Warsh 在内的美联储讲话人；经济数据日历清淡但地缘政治头条可能溢出至周一交易。"
       },
       "bullish": [],
-      "bearish": ["Event-driven uncertainty", "EM currencies"],
+      "bearish": ["Event-driven uncertainty / 事件驱动型不确定性", "EM currencies / 新兴市场货币"],
       "macroRisk": {
         "en": "Weekend headlines from Middle East or global markets create event-driven Monday volatility risk.",
         "zh": "中东或全球市场的周末头条构成事件驱动周一波动风险。"
@@ -46,8 +46,8 @@
         "en": "Middle East tensions influence oil price expectations which transmit to inflation dynamics, Treasury yields, and equity positioning. Premium on crude persists in risk-on environments but spooks on geopolitical spikes.",
         "zh": "中东局势影响油价预期并传导至通胀动态、美债收益率和股票定位。原油溢价在风险偏好环境中持续但在地缘政治飙升时受惊。"
       },
-      "bullish": ["Oil", "Energy stocks"],
-      "bearish": ["Growth stocks", "Consumer discretionary"],
+      "bullish": ["Oil / 石油", "Energy stocks / 能源股"],
+      "bearish": ["Growth stocks / 成长股", "Consumer discretionary / 可选消费"],
       "macroRisk": {
         "en": "Oil price spikes → inflation repricing → 10Y yield rises → growth stock pressure.",
         "zh": "油价飙升→通胀重定价→10Y 收益率上升→成长股承压。"

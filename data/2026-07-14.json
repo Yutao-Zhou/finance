@@ -71,19 +71,23 @@
     },
     {
       "title": {
-        "en": "Asian Markets Slip Amid Gulf War Escalation",
-        "zh": "亚洲股市受海湾战争升级拖累回调"
+        "en": "Nikkei 225 and KOSPI recover from early weakness",
+        "zh": "日经 225 指数与韩国 KOSPI 指数盘中由跌转涨"
       },
       "impact": {
-        "en": "KOSPI -0.99%, Nikkei -0.7%. Regional risk-off sentiment carries into U.S. premarket. EM and tech names in Asia show weakness ahead of Fed day.",
-        "zh": "KOSPI 跌 0.99%，日经涨 0.7%。区域避险情绪延续至美股盘前，亚太新兴市场和科技股在美联储交易日前夕走弱"
+        "en": "The Nikkei 225 recovered from early losses to close up 0.74%. South Korea’s KOSPI also rebounded, closing up 0.73%.",
+        "zh": "日经 225 指数收复早盘跌幅，最终上涨 0.74%。韩国 KOSPI 指数也盘中反弹，收涨 0.73%。"
       },
       "bullish": [],
-      "bearish": ["Asia tech", "EM"],
+      "bearish": [
+        "Asia tech / 亚洲科技",
+        "EM"
+      ],
       "macroRisk": {
         "en": "Yes - global risk-off from Gulf conflict. Macro link: Geopolitical escalation → Risk appetite ↓ → Growth stocks vulnerable to inflation/rate headwinds.",
         "zh": "是——海湾冲突引发全球避险。传导链：地缘升级→风险偏好↓→成长股易受通胀/利率逆风影响"
-      }
+      },
+      "url": "https://indexes.nikkei.co.jp/en/nkave/archives/summary?dt=07142026&idx=nk225"
     },
     {
       "title": {

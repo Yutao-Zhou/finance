@@ -14,7 +14,7 @@
         "en": "Markets await Fed policy direction as first chairman under new admin. Yield stability suggests cautious optimism while geopolitical easing reduces inflation fears.",
         "zh": "市场等待美联储政策方向，作为新政府下的首位主席。收益率稳定性表明谨慎乐观，同时地缘局势缓和减少通胀担忧。"
       },
-      "bullish": ["Financials", "Growth Tech"],
+      "bullish": ["Financials / 金融股", "Growth Tech / 成长型科技"],
       "bearish": [],
       "macroRisk": {
         "en": "None - Rate clarity benefits risk appetite",
@@ -30,8 +30,8 @@
         "en": "Lower oil prices reduce inflation expectations and energy sector costs, providing tailwind for growth stocks while easing recession fears.",
         "zh": "较低油价降低通胀预期和能源成本，为成长股提供顺风并缓解衰退恐惧。"
       },
-      "bullish": ["Energy Selects", "Tech Growth"],
-      "bearish": ["Oil Majors"],
+      "bullish": ["Energy Selects / 能源精选", "Tech Growth / 科技成长股"],
+      "bearish": ["Oil Majors / 石油巨头"],
       "macroRisk": {
         "en": "Deflationary pressure from commodity ease supports growth narrative; recession fears decline.",
         "zh": "商品价格缓和带来的通缩压力支持增长叙事；衰退恐惧下降。"
@@ -46,7 +46,7 @@
         "en": "Momentum trades lift rocket/Aerospace/Defense sector with Starlink expansion driving growth. Secondary beneficiaries: Advanced Materials, Microelectromechanical Systems stocks.",
         "zh": "势头交易提振火箭/航空航天/国防板块，Starlink 扩张驱动增长。次级受益者：先进材料、微机电系统股票。"
       },
-      "bullish": ["Aerospace", "Defense"],
+      "bullish": ["Aerospace / 航空航天", "Defense / 国防板块"],
       "bearish": [],
       "macroRisk": {
         "en": "None - Pure company momentum driver; no systemic risk.",
@@ -62,7 +62,7 @@
         "en": "Peace hopes reduce safe-haven premium but gold remains supported by real yield dynamics and central bank buying. Silver outperforms above $70/oz.",
         "zh": "和平希望减少对避险溢价的支撑，但金价仍受实际收益率动态和央行购金支持。银价在$70 盎司上方表现更佳。"
       },
-      "bullish": ["Gold Miners", "Silver Selects"],
+      "bullish": ["Gold Miners / 黄金矿业股", "Silver Selects / 部分白银相关股票"],
       "bearish": [],
       "macroRisk": {
         "en": "Low - Real yield declines offset geopolitical de-escalation.",
@@ -78,7 +78,7 @@
         "en": "Beijing curbs local government debt and real estate stimulus while moderating credit growth pace. Export-focused US firms see mixed impact; commodity demand remains resilient.",
         "zh": "北京遏制地方政府债务和房地产刺激，同时缓和信贷增长节奏。面向出口的美国企业影响不一；商品需求仍然坚韧。"
       },
-      "bullish": ["Exporters", "Industrial Selects"],
+      "bullish": ["Exporters / 出口企业", "Industrial Selects / 部分工业股"],
       "bearish": [],
       "macroRisk": {
         "en": "Low - China policy normalizes after pandemic-era stimulus phase.",
@@ -94,7 +94,7 @@
         "en": "Cloud-compute demand, data licensing models, and AI infrastructure build anticipation. Chip designers see positive re-rating on inference compute needs.",
         "zh": "云计算需求、数据授权模型和 AI 基础设施建设引发期待。芯片设计商因推理计算需求获得积极重估。"
       },
-      "bullish": ["AI Infrastructure", "Semiconductor"],
+      "bullish": ["AI Infrastructure / AI 基础设施", "Semiconductor / 半导体"],
       "bearish": [],
       "macroRisk": {
         "en": "None - New tech platform expands TAM and capex cycles.",
@@ -140,8 +140,8 @@
       "zh": "电动车板块受美国政策影响分化：来自加拿大的电动车进口限制支持国内需求，而中国信用缓和使疫情刺激归位。面向出口的自动公司受到中性至负面冲击。"
     },
     "market": {
-      "en": "Broad market sentiment mixed with Nasdaq futures +0.71%, S&P 52% and Dow flat ahead of Fed announcement. AI/tech rallies while oil-sensitive sectors face pressure from commodity decline.",
-      "zh": "大盘情绪分化：纳斯达克期货涨 0.71%，标普持平，道指基本不变。AI 科技反弹而石油敏感板块受商品价格下跌压力。"
+      "en": "Futures were mixed ahead of the Fed decision. Nasdaq futures gained 0.71% and Dow futures were little changed. Technology rebounded as lower commodity prices weighed on oil-sensitive sectors.",
+      "zh": "美联储决议公布前，股指期货涨跌互现。纳指期货上涨 0.71%，道指期货变化不大。科技股反弹，大宗商品价格下跌令油价敏感板块承压。"
     },
     "preciousMetals": {
       "en": "Gold stabilizes near $4,350/oz as peace hopes reduce safe-haven premium but real yield dynamics continue supporting price floor. Silver outperforms above $70 with industrial demand intact.",

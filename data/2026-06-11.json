@@ -1,8 +1,8 @@
 {
   "date": "2026-06-11",
   "summary": {
-    "en": "Markets face headwinds from mixed inflation data (CPI at 4.2%, highest since April 2023) and escalating Iran-US strikes driving oil prices up to $89.64 WTI/Brent, with AI chips under pressure amid sector selloff.",
-    "zh": "市场受混合通胀数据（CPI升至4.2%，为今年最高）和美伊冲突升级推动油价攀升的拖累，AI芯片股在板块抛压下承压。"
+    "en": "May U.S. consumer prices rose 4.2% year over year, the largest increase since April 2023. Escalating U.S.-Iran tensions pushed oil higher, and semiconductor stocks came under pressure.",
+    "zh": "美国 5 月 CPI 同比上涨 4.2%，为 2023 年 4 月以来最大同比涨幅。美伊紧张局势升级推升油价，半导体股票承压。"
   },
   "topNews": [
     {
@@ -27,24 +27,27 @@
         "zh": "通胀数据过热使Fed利率上调概率升至43%"
       },
       "impact": {
-        "en": "BLS reported 4.2% annualized CPI rise through May, fastest pace since April 2023 driven by energy surge (+23.5%). Markets now price nearly 43% probability of quarter-point hike at June 17 meeting.",
-        "zh": "劳工部报告显示截至5月年化CPI升幅为4.2%，自今年9月以来最快。"
+        "en": "The U.S. Bureau of Labor Statistics reported that May CPI rose 4.2% from a year earlier, the largest increase since April 2023. Energy prices rose 23.5% year over year.",
+        "zh": "美国劳工统计局公布，5 月 CPI 同比上涨 4.2%，为 2023 年 4 月以来最大同比涨幅。能源价格同比上涨 23.5%。"
       },
       "bullish": [],
-      "bearish": ["XLK"],
+      "bearish": [
+        "XLK"
+      ],
       "macroRisk": {
         "en": "Yes - hot inflation forces Fed hawk stance despite rate-sensitive growth stocks.",
         "zh": "是——通胀迫使美联储鹰派立场压制利率敏感型成长股。"
-      }
+      },
+      "url": "https://www.bls.gov/news.release/archives/cpi_06102026.htm"
     },
     {
       "title": {
         "en": "Chip Selloff Deepens: NVIDIA Down 3%, Broadcom/AMD Sink",
-        "zh": "芯片抛压加剧：英伟达跌-3%，博通和超威承压"
+        "zh": "芯片抛压加剧：英伟达跌3%，博通和超威承压"
       },
       "impact": {
         "en": "Semiconductor stocks fell amid inflation worries and rate hike fears affecting growth valuations. AMD down ~5% on data center guidance concerns; Broadcom -4% as AI infrastructure investment timeline extends.",
-        "zh": "芯片股在通胀担忧和加息恐惧中下跌影响成长估值。AMD跌约-5%，博通因AI基础设施投资期限延长而跌-4%。"
+        "zh": "芯片股在通胀担忧和加息恐惧中下跌影响成长估值。AMD跌约5%，博通因AI基础设施投资期限延长而跌4%。"
       },
       "bullish": ["MSFT"],
       "bearish": ["NVDA", "AMD", "AVGO"],
@@ -60,7 +63,7 @@
       },
       "impact": {
         "en": "Precious metals fell 2.26% after CPI release with gold sliding to $4,130/oz on inflation-driven real yields. Safe haven demand from ongoing Middle East tension counterbalanced but not sufficient.",
-        "zh": "贵金属在CPI发布后跌-2.26%，金价滑落至$4,130/盎司。"
+        "zh": "贵金属在CPI发布后跌2.26%，金价滑落至$4,130/盎司。"
       },
       "bullish": ["GLD"],
       "bearish": [],
@@ -75,8 +78,8 @@
         "zh": "美国期货亚洲回撤平盘：标普+0.03%，纳斯达克+0.04%"
       },
       "impact": {
-        "en": "US indices opened choppy as European Stoxx recovered 0.1% from earlier losses after Asian markets fell -2.3%. Tech-heavy Nasdaq modestly supported but broader market cautious given inflation data.",
-        "zh": "美国指数在亚洲市场跌-2.3%后欧洲Stoxx微涨+0.1%时呈现纠结开盘。"
+        "en": "US indices opened choppy as European Stoxx recovered 0.1% from earlier losses after Asian markets fell 2.3%. Tech-heavy Nasdaq modestly supported but broader market cautious given inflation data.",
+        "zh": "美国指数在亚洲市场跌2.3%后欧洲Stoxx微涨0.1%时呈现纠结开盘。"
       },
       "bullish": [],
       "bearish": [],
@@ -93,7 +96,7 @@
     },
     "semiconductor": {
       "en": "Chip makers face dual headwinds: inflation/rate sensitivity (AMD -5%, NVDA -3%) and energy cost impacts on margins. Automotive memory chip prices surge.",
-      "zh": "芯片制造商面临双重阻力：通胀/利率敏感性（AMD跌-5%，英伟达跌-3%）和能源成本对利润率的影响。"
+      "zh": "芯片制造商面临双重阻力：通胀/利率敏感性（AMD跌5%，英伟达跌3%）和能源成本对利润率的影响。"
     },
     "bigTech": {
       "en": "Big Tech shows defensive tilt as AI capex uncertainty grows. Cloud revenue remains strong but rate sensitivity dominates valuation dynamics.",
@@ -105,7 +108,7 @@
     },
     "ev": {
       "en": "EV sector weakens amid tariff effects and inflation-driven consumer price pressure. China NEV retail sales fall -14% as 25% auto tariffs take effect.",
-      "zh": "电动车在关税效应和通胀驱动的消费者价格压力下疲软。中国新能源车零售销售随6月生效的25%汽车关税而跌-14%。"
+      "zh": "电动车在关税效应和通胀驱动的消费者价格压力下疲软。中国新能源车零售销售随6月生效的25%汽车关税而跌14%。"
     },
     "market": {
       "en": "Broad market exhibits mixed sentiment with Nasdaq +0.04%, S&P +0.03%. Risk-on/risk-off balance depends on inflation data vs geopolitical flash points.",
@@ -131,7 +134,7 @@
     },
     "dxy": {
       "en": "Dollar index fell 0.18% to 99.83 as yen strengthened from BOJ rate hike expectations and euro steadied near $1.16.",
-      "zh": "美元指数跌-0.18%至99.83时日元随日本央行加息预期走强。"
+      "zh": "美元指数跌0.18%至99.83时日元随日本央行加息预期走强。"
     },
     "oil": {
       "en": "WTI crude at $89.64 (+1.63%) and Brent $92.65 after fresh strikes with Hormuz closure risk premium.",

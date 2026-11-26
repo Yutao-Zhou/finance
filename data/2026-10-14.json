@@ -15,7 +15,7 @@
         "zh": "盘前反弹显示尽管通胀担忧，风险偏好仍存。BlackRock 的举动表明机构对成长板块的信心。"
       },
       "bullish": ["XLK", "XLF", "TSLA"],
-      "bearish": ["Financial"],
+      "bearish": ["Financial / 金融股"],
       "macroRisk": {
         "en": "No - CPI data will be the key driver; inflation concerns may persist but supply-side oil dynamics dominate headline risk.",
         "zh": "否 -CPI 数据将是关键驱动因素；通胀担忧可能持续，但供应端油价动态主导头条风险。"
@@ -31,7 +31,7 @@
         "zh": "中东紧张局势造成的供应约束创造了对通胀对冲的需求。较高的油价可能会压制消费支出，但支持能源股票。"
       },
       "bullish": ["XLE", "CVX", "COP", "OXY"],
-      "bearish": ["Consumer Staples", "Travel"],
+      "bearish": ["Consumer Staples / 必需消费品板块", "Travel / 旅游业"],
       "macroRisk": {
         "en": "Yes - Geopolitical supply shock → inflation expectations → Fed policy implications. Oil prices feed into PCE data at 2:00 PM ET.",
         "zh": "是 -地缘政治供应冲击→通胀预期→美联储政策含义。油价将影响下午 2:00 ET 发布的 PCE 数据。"
@@ -47,7 +47,7 @@
         "zh": "芯片供应链韧性在中东紧张局势下受到考验。尽管宏观不确定性，AI 基础设施投资仍在继续。"
       },
       "bullish": ["NVDA", "AMD", "AVGO"],
-      "bearish": ["SMH - cautious positioning"],
+      "bearish": ["SMH - cautious positioning / SMH - 谨慎布局"],
       "macroRisk": {
         "en": "No - AI demand fundamentals remain strong; geopolitical supply chain risks are secondary to product momentum.",
         "zh": "否-AI 需求基本面依然强劲；地缘政治供应链风险是产品动量的次要因素。"
@@ -63,7 +63,7 @@
         "zh": "主要指数在通胀报告前布局。科技板块谨慎，而防御性板块吸引资本流动。"
       },
       "bullish": ["XLV", "XLP"],
-      "bearish": ["Technology - selective positioning"],
+      "bearish": ["Technology - selective positioning / 科技 - 选择性布局"],
       "macroRisk": {
         "en": "Yes - Inflation print will determine market direction. Fed speakers and rate-sensitive valuations at risk.",
         "zh": "是 - 通胀数据将决定市场方向。美联储讲话和利率敏感估值面临风险。"
@@ -78,8 +78,8 @@
         "en": "Critical data point for Fed policy calibration. Lower than expected prints support risk assets, higher readings trigger defensive rotation.",
         "zh": "对美联储政策校准的关键数据点。低于预期的读数支持风险资产，较高的读数触发防御性轮动。"
       },
-      "bullish": ["Technology", "Growth"],
-      "bearish": ["Long Duration Bonds"],
+      "bullish": ["Technology / 科技", "Growth / 成长"],
+      "bearish": ["Long Duration Bonds / 长期债券"],
       "macroRisk": {
         "en": "Critical - All macro positions depend on this release. Could trigger rate-sensitive stock rotation.",
         "zh": "关键 - 所有宏观头寸都取决于此发布。可能触发利率敏感型股票的轮动。"
@@ -122,8 +122,8 @@
   },
   "premarketFocus": {
     "futures": {
-      "en": "S&P Futures up +0.3% at 7,871.25; Nasdaq mixed on earnings concerns; Dow steady. Asia markets (Japan/Korea) positive heading into US session.",
-      "zh": "标普期货上涨 +0.3% 至 7,871.25；纳斯达克因盈利担忧而混合；道指稳定。亚洲市场（日本/韩国）在美国交易时段前呈正面。"
+      "en": "S&P Futures up 0.3% at 7,871.25; Nasdaq mixed on earnings concerns; Dow steady. Asia markets (Japan/Korea) positive heading into US session.",
+      "zh": "标普期货上涨 0.3% 至 7,871.25；纳斯达克因盈利担忧而混合；道指稳定。亚洲市场（日本/韩国）在美国交易时段前呈正面。"
     },
     "treasury10Y": {
       "en": "10Y Treasury yields hovering near 4.1-4.2%. CPI print at 8:30 AM ET will be critical for rate-sensitive positioning. Fed speakers later in day may move rates.",

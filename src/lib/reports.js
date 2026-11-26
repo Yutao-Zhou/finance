@@ -9,6 +9,19 @@ export function hasContent(value, lang) {
   const content = text(value, lang).trim();
   return content !== "" && !content.startsWith("[");
 }
+function localizedFactor(value, lang) {
+  const factor = text(value, lang).replace(/^(en|zh)\s*:\s*/i, "").trim();
+  const pair = factor.match(/^(.+?)\s+\/\s+(.+)$/u);
+  if (pair) {
+    const [, first, second] = pair;
+    const firstIsChinese = /\p{Script=Han}/u.test(first);
+    const secondIsChinese = /\p{Script=Han}/u.test(second);
+    if (firstIsChinese !== secondIsChinese) {
+      return (firstIsChinese === (lang === "zh") ? first : second).trim();
+    }
+  }
+  return factor;
+}
 export function localizedItems(values, lang) {
   if (!Array.isArray(values)) return [];
   const tagged = values.filter(
@@ -24,11 +37,7 @@ export function localizedItems(values, lang) {
     value.toLowerCase().startsWith("en:"),
   );
   return [...plain, ...(preferred.length ? preferred : fallback)]
-    .map((value) =>
-      text(value, lang)
-        .replace(/^(en|zh)\s*:\s*/i, "")
-        .trim(),
-    )
+    .map((value) => localizedFactor(value, lang))
     .filter((value) => value && !/^\[|^TICKER\d/i.test(value));
 }
 export function reportMatches(report, query) {

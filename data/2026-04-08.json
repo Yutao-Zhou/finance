@@ -2,7 +2,7 @@
   "date": "2026-04-08",
   "summary": {
     "en": "U.S. equities staged a sharp relief rally as markets leaned into a fragile U.S.-Iran ceasefire narrative, pushing the S&P 500 up about 2.5%, the Nasdaq up about 2.8%, and the Dow up about 2.9%. The tone flipped risk-on, led by technology and duration-sensitive assets, but the whole move still rests on whether Middle East de-escalation holds and whether oil avoids a renewed spike.",
-    "zh": "美股今天走出明显的缓和式反弹：市场重新押注美伊停火叙事，标普约涨 2.5%、纳指约涨 2.8%、道指约涨 2.9%。整体情绪转向 risk-on，科技和长久期资产领涨，但这波行情的根基仍取决于中东局势是否真的持续降温，以及油价会不会再次急冲。"
+    "zh": "美股今天走出明显的缓和式反弹：市场重新押注美伊停火叙事，标普约涨 2.5%、纳指约涨 2.8%、道指约涨 2.9%。整体情绪转向 风险偏好回升，科技和长久期资产领涨，但这波行情的根基仍取决于中东局势是否真的持续降温，以及油价会不会再次急冲。"
   },
   "topNews": [
     {
@@ -16,7 +16,7 @@
         "zh": "Reuters 的市场数据直接显示：标普约涨 2.5%、纳指涨 2.8%、道指涨 2.9%。这种指数级别的同步上冲，说明资金在快速撤掉地缘政治对冲，重新回到成长、周期和大盘 beta。"
       },
       "bullish": ["SPY", "QQQ", "IWM", "XLK", "SOXX"],
-      "bearish": ["GLD", "defensive hedges"],
+      "bearish": ["GLD", "defensive hedges / 防御性对冲标的"],
       "macroRisk": {
         "en": "Yes - if ceasefire confidence breaks, the same positioning unwind can reverse quickly across equities, oil, and rates.",
         "zh": "是——如果停火预期破裂，这种仓位回补和风险偏好修复可能会在股票、油价和利率之间迅速反转。"
@@ -30,10 +30,10 @@
       "url": "https://www.cnbc.com/2026/04/08/oil-prices-resume-gains-after-iran-accuses-us-of-breaching-ceasefire-deal.html",
       "impact": {
         "en": "CNBC highlighted that oil resumed gains after Iran accused the U.S. of violating the ceasefire. This matters because crude remains the fastest transmission channel from Middle East headlines into inflation expectations, sector leadership, and overall equity risk appetite.",
-        "zh": "CNBC 提到，在伊朗指责美国违反停火协议后，油价重新上涨。这很关键，因为原油仍是中东 headline 传导到通胀预期、板块强弱和整体风险偏好的最快通道。"
+        "zh": "CNBC 提到，在伊朗指责美国违反停火协议后，油价重新上涨。这很关键，因为原油仍是中东 消息面 传导到通胀预期、板块强弱和整体风险偏好的最快通道。"
       },
       "bullish": ["XLE", "CVX", "XOM", "OXY"],
-      "bearish": ["JETS", "XLY", "rate-sensitive growth if oil keeps spiking"],
+      "bearish": ["JETS", "XLY", "rate-sensitive growth if oil keeps spiking / 若油价持续飙升则对利率敏感的成长股"],
       "macroRisk": {
         "en": "Yes - higher oil can quickly feed back into CPI, Treasury yields, and a renewed rotation away from long-duration growth.",
         "zh": "是——如果油价继续上冲，会很快反馈到 CPI、长端利率以及从长久期成长股撤出的风格切换。"
@@ -49,11 +49,11 @@
         "en": "Reuters market data showed the U.S. 10Y Treasury yield near 4.295%. That level is not a panic print, but it also is not loose financial conditions. The message is that the market got relief on geopolitics, not a full macro all-clear from rates.",
         "zh": "Reuters 的数据里，10 年期美债大约在 4.295%。这不是恐慌式利率水平，但也谈不上宽松环境。市场今天更像是拿到了地缘缓和的 relief，而不是利率层面的“全线放行”。"
       },
-      "bullish": ["QQQ", "XLK", "mega-cap tech"],
-      "bearish": ["highly leveraged cyclicals", "small caps if yields re-accelerate"],
+      "bullish": ["QQQ", "XLK", "mega-cap tech / 大型科技巨头"],
+      "bearish": ["highly leveraged cyclicals / 高杠杆周期股", "small caps if yields re-accelerate / 若收益率重新加速则小盘股"],
       "macroRisk": {
         "en": "Yes - if oil re-ignites and pushes yields higher, today's risk-on leadership could narrow or reverse.",
-        "zh": "是——如果油价重新点火、把利率往上推，今天这种 risk-on 领涨结构可能会明显收窄甚至反转。"
+        "zh": "是——如果油价重新点火、把利率往上推，今天这种 风险偏好回升 领涨结构可能会明显收窄甚至反转。"
       }
     },
     {
@@ -67,7 +67,7 @@
         "zh": "从 CNBC 的市场版块和今天的盘面看，这是很典型的 relief 结构：只要利率没有失控、地缘尾部风险短暂降温，大科技和半导体就会先冲。这更像是估值修复重新打开，而不一定代表新一轮盈利驱动的上修。"
       },
       "bullish": ["QQQ", "XLK", "SOXX", "NVDA", "AMD", "AVGO"],
-      "bearish": ["defensive sectors", "oil-beta laggards if crude stabilizes"],
+      "bearish": ["defensive sectors / 防御性板块", "oil-beta laggards if crude stabilizes / 对油价敏感的落后股（若原油企稳）"],
       "macroRisk": {
         "en": "Yes - semis and AI leaders stay highly sensitive to any reversal in yields, oil, or geopolitical sentiment.",
         "zh": "是——半导体和 AI 龙头仍然高度敏感，只要利率、油价或地缘情绪反向，就可能先回吐。"
@@ -97,7 +97,7 @@
     },
     "market": {
       "en": "The broad market tone is firmly relief-driven risk-on, not a clean fundamental reset. Good enough for upside follow-through, but fragile if headlines reverse.",
-      "zh": "大盘基调明显是 relief-driven risk-on，不是基本面彻底重估。它足够支持继续反弹，但 headline 一反转就仍然很脆。"
+      "zh": "大盘基调明显是 relief-driven 风险偏好回升，不是基本面彻底重估。它足够支持继续反弹，但 消息面 一反转就仍然很脆。"
     },
     "preciousMetals": {
       "en": "Gold held up surprisingly well despite the equity relief move, suggesting the market is reducing panic, not abandoning hedges entirely.",
@@ -111,7 +111,7 @@
   "premarketFocus": {
     "futures": {
       "en": "Cash market close showed strong upside follow-through: S&P 500 +2.51%, Nasdaq +2.80%, Dow +2.85% based on Reuters market data. The burden now shifts to whether that relief can survive the next geopolitical headline.",
-      "zh": "从收盘看，今天的风险偏好修复非常扎实：Reuters 数据里标普 +2.51%、纳指 +2.80%、道指 +2.85%。接下来关键不是今天涨了多少，而是下一条地缘 headline 来时这波修复能不能扛住。"
+      "zh": "从收盘看，今天的风险偏好修复非常扎实：Reuters 数据里标普 +2.51%、纳指 +2.80%、道指 +2.85%。接下来关键不是今天涨了多少，而是下一条地缘 消息面 来时这波修复能不能扛住。"
     },
     "treasury10Y": {
       "en": "U.S. 10Y Treasury around 4.295%, still elevated enough that rates remain a constraint even as sentiment improves.",
@@ -127,7 +127,7 @@
     },
     "keyRisk": {
       "en": "The key risk is that ceasefire optimism proves premature and oil resumes a stronger break higher. That would pressure inflation expectations, yields, and today's tech-led risk-on structure all at once.",
-      "zh": "最大风险是市场对停火的乐观过早，导致油价重新更强上冲。一旦发生，通胀预期、长端利率以及今天科技主导的 risk-on 结构都可能一起受压。"
+      "zh": "最大风险是市场对停火的乐观过早，导致油价重新更强上冲。一旦发生，通胀预期、长端利率以及今天科技主导的 风险偏好回升 结构都可能一起受压。"
     }
   },
   "judgment": {
@@ -138,7 +138,7 @@
     },
     "note": {
       "en": "Today's move was a genuine risk-on squeeze, especially in equities and growth beta, but it is still a headline-sensitive rally rather than a durable macro reset. As long as oil stays contained and ceasefire language holds, upside can continue; if not, this can unwind fast.",
-      "zh": "今天这波确实是一次真实的 risk-on 挤仓，尤其体现在权益和成长 beta 上，但它仍然更像 headline 驱动的修复，而不是可持续的宏观重置。只要油价继续受控、停火叙事不破，这波上行还能延续；反过来，一旦 headline 反噬，回撤也会很快。"
+      "zh": "今天这波确实是一次真实的 风险偏好回升 挤仓，尤其体现在权益和成长 beta 上，但它仍然更像 消息面 驱动的修复，而不是可持续的宏观重置。只要油价继续受控、停火叙事不破，这波上行还能延续；反过来，一旦 消息面 反噬，回撤也会很快。"
     }
   }
 }

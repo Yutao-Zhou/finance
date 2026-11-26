@@ -10,9 +10,12 @@
         "en": "US Stock Futures Mixed on Geopolitical Uncertainty and Oil Price Fluctuations",
         "zh": "美股期货因地缘政治不确定性和油价波动而表现分化"
       },
-      "impact": "Investors are weighing mixed signals from geopolitical headlines, with Trump's ceasefire claims dampening oil prices while Middle East tensions provide support. This creates a choppy premarket environment for equities.",
-      "bullish": ["Energy sectors hedged against oil price volatility", "Large banks ahead of earnings"],
-      "bearish": ["Technology stocks amid chip revenue concerns", "Consumer discretionary sensitive to inflation/oil costs"],
+      "impact": {
+        "en": "Investors are weighing mixed signals from geopolitical headlines, with Trump's ceasefire claims dampening oil prices while Middle East tensions provide support. This creates a choppy premarket environment for equities.",
+        "zh": "投资者权衡地缘政治消息带来的混合信号，特朗普的停火声明打压油价，而中东紧张局势提供支撑，这导致股票盘前环境震荡。"
+      },
+      "bullish": ["Energy sectors hedged against oil price volatility / 能源板块对冲油价波动风险", "Large banks ahead of earnings / 大型银行财报前瞻"],
+      "bearish": ["Technology stocks amid chip revenue concerns / 芯片营收承压背景下的科技股", "Consumer discretionary sensitive to inflation/oil costs / 可选消费对通胀/油价成本敏感"],
       "macroRisk": {
         "en": "Geopolitical uncertainty creates mixed market sentiment. Oil supply risks from Middle East tensions support prices, while ceasefire claims create downward pressure.",
         "zh": "地缘政治不确定性造成市场情绪分化。中东紧张的油价供应风险支撑价格，而停火声明制造下行压力。"
@@ -23,9 +26,12 @@
         "en": "OpenAI Revenue Miss Rattles Chip Stocks as Nvidia Eyes HBM4 Technology",
         "zh": "OpenAI 收入未达标冲击芯片股，Nvidia 聚焦 HBM4 技术"
       },
-      "impact": "Chip stocks fell on OpenAI revenue concerns, but sector remains supported by AI infrastructure demand. Nvidia is pursuing HBM4 and partnerships with SpaceX.",
-      "bullish": ["Nvidia (NVDA) on new product roadmap", "Semiconductor equipment suppliers"],
-      "bearish": ["Advanced Micro Devices (AMD)", "Broad semiconductor index"],
+      "impact": {
+        "en": "Chip stocks fell on OpenAI revenue concerns, but sector remains supported by AI infrastructure demand. Nvidia is pursuing HBM4 and partnerships with SpaceX.",
+        "zh": "受 OpenAI 营收担忧影响芯片股下跌，但板块仍获 AI 基础设施需求支撑。英伟达正推进 HBM4 以及与 SpaceX 的合作。"
+      },
+      "bullish": ["Nvidia (NVDA) on new product roadmap / 英伟达 (NVDA) 推出新产品路线图", "Semiconductor equipment suppliers / 半导体设备供应商"],
+      "bearish": ["Advanced Micro Devices (AMD)", "Broad semiconductor index / 广泛半导体指数"],
       "macroRisk": {
         "en": "AI sector-specific risk as company-level revenue misses create stock weakness despite broader AI infrastructure demand.",
         "zh": "AI 板块特定风险，公司级收入未达标造成股价疲软，尽管更广泛的 AI 基础设施需求依然强劲。"
@@ -36,9 +42,12 @@
         "en": "Brent Crude Dips to $103.50 on Energy Ceasefire Claims Amid Middle East Tensions",
         "zh": "布伦特原油因中东紧张局势下的能源停火声明跌至 103.50 美元"
       },
-      "impact": "Oil price volatility driven by geopolitical headlines creates uncertainty for energy sector earnings and consumer costs. Trump's diesel deal aims to provide relief.",
-      "bullish": ["WTI crude holding key support levels", "Energy companies with international exposure"],
-      "bearish": ["Oil refiners on margin compression", "Retail consumers sensitive to fuel costs"],
+      "impact": {
+        "en": "Oil price volatility driven by geopolitical headlines creates uncertainty for energy sector earnings and consumer costs. Trump's diesel deal aims to provide relief.",
+        "zh": "地缘政治消息引发的油价波动给能源板块盈利和消费者成本带来不确定性。特朗普的柴油协议旨在提供缓解。"
+      },
+      "bullish": ["WTI crude holding key support levels / WTI 原油守住关键支撑位", "Energy companies with international exposure / 具有国际敞口的能源公司"],
+      "bearish": ["Oil refiners on margin compression / 利润率受压的炼油企业", "Retail consumers sensitive to fuel costs / 对燃料成本敏感的零售消费者"],
       "macroRisk": {
         "en": "Oil price sensitivity affects inflation expectations, Treasury yields, and broader market risk appetite. Supply disruption risks from Middle East remain.",
         "zh": "油价敏感度影响通胀预期、美债收益率和更广泛的风险偏好。中东供应中断风险依然存在。"
@@ -49,9 +58,12 @@
         "en": "US 10-Year Treasury Yield Fluctuates Around 5.24-5.31% Ahead of CPI",
         "zh": "美债收益率在 CPI 数据前于 5.24%-5.31% 区间波动"
       },
-      "impact": "Bond yields in this range reflect persistent inflation concerns. Higher yields pressure growth stocks and increase borrowing costs for corporations.",
-      "bullish": ["Value stocks, financials on stable rates"],
-      "bearish": ["Growth stocks on rate sensitivity", "Real estate sensitive to yield environment"],
+      "impact": {
+        "en": "Bond yields in this range reflect persistent inflation concerns. Higher yields pressure growth stocks and increase borrowing costs for corporations.",
+        "zh": "此范围内的债券收益率反映持续的通胀担忧。较高收益率压制成长股并增加企业借贷成本。"
+      },
+      "bullish": ["Value stocks, financials on stable rates / 利率稳定下的价值股与金融股"],
+      "bearish": ["Growth stocks on rate sensitivity / 对利率敏感的成长股", "Real estate sensitive to yield environment / 受收益率环境影响的房地产"],
       "macroRisk": {
         "en": "Elevated 10Y yields indicate inflation persistence, which affects equity valuations and Fed policy trajectory. Higher yields also strengthen USD.",
         "zh": "高企的 10Y 收益率表明通胀持续性，影响股票估值和美联储政策路径。高收益率也支撑美元。"
@@ -62,9 +74,12 @@
         "en": "Microsoft Gains on Software Strength Despite OpenAI Revenue Jitters",
         "zh": "微软因软件强势获利，尽管 OpenAI 收入波动"
       },
-      "impact": "Big Tech showing divergence: software leaders holding up while AI-specific ventures face headwinds. Microsoft's diversified revenue stream provides resilience.",
-      "bullish": ["Microsoft (MSFT)", "Cloud infrastructure companies"],
-      "bearish": ["Pure-play AI startups", "Software vendors dependent on AI spend slowdown"],
+      "impact": {
+        "en": "Big Tech showing divergence: software leaders holding up while AI-specific ventures face headwinds. Microsoft's diversified revenue stream provides resilience.",
+        "zh": "科技巨头呈现分化态势：软件龙头表现坚挺，而专注于人工智能的初创企业面临逆风。微软多元化的收入流提供了韧性。"
+      },
+      "bullish": ["Microsoft (MSFT)", "Cloud infrastructure companies / 云基础设施公司"],
+      "bearish": ["Pure-play AI startups / 纯 AI 初创企业", "Software vendors dependent on AI spend slowdown / 依赖 AI 支出放缓的软件供应商"],
       "macroRisk": {
         "en": "Big Tech performance reflects broader market health. Divergence within sector shows selectivity amid AI investment questions.",
         "zh": "大科技表现反映更广泛的市场健康。板块内分化显示 AI 投资问题下的选择性。"
@@ -75,9 +90,12 @@
         "en": "Trump's Russian Diesel Deal Sparks Criticism Over War Finance Aid",
         "zh": "特朗普俄罗斯柴油协议引发对援助战争资金的批评"
       },
-      "impact": "Energy policy decisions create regulatory uncertainty. European buyers facing criticism may affect trade relationships and energy security premiums.",
-      "bullish": ["U.S. oil producers with strategic reserves"],
-      "bearish": ["European-exposed U.S. companies", "Companies reliant on clean energy transition amid geopolitical friction"],
+      "impact": {
+        "en": "Energy policy decisions create regulatory uncertainty. European buyers facing criticism may affect trade relationships and energy security premiums.",
+        "zh": "能源政策决策引发监管不确定性。欧洲买家面临的批评可能影响贸易关系及能源安全溢价。"
+      },
+      "bullish": ["U.S. oil producers with strategic reserves / 拥有战略储备的美国石油生产商"],
+      "bearish": ["European-exposed U.S. companies / 受欧洲影响的美国公司", "Companies reliant on clean energy transition amid geopolitical friction / 在地缘政治摩擦中依赖清洁能源转型的公司"],
       "macroRisk": {
         "en": "Energy geopolitics directly impact commodity prices and inflation expectations. Trade policy decisions affect global supply chains and market sentiment.",
         "zh": "能源地缘政治直接影响商品价格、通胀预期和贸易政策决策对全球供应链及市场情绪的影响。"
@@ -88,9 +106,12 @@
         "en": "Bank Earnings Week Ahead as Large Financial Institutions Report Q3 Results",
         "zh": "大银行业绩周到来，大型金融机构发布第三季度财报"
       },
-      "impact": "Major banks start third-quarter earnings cycle. Credit quality and net interest margin trends will be closely watched ahead of FOMC.",
-      "bullish": ["Large bank stocks (JPM, BAC, WFC)", "Regional banks on stable deposits"],
-      "bearish": ["Smaller lenders on credit concerns", "Financials sensitive to yield curve changes"],
+      "impact": {
+        "en": "Major banks start third-quarter earnings cycle. Credit quality and net interest margin trends will be closely watched ahead of FOMC.",
+        "zh": "主要银行开启第三季度财报周期。在美联储会议前夕，市场将密切关注信贷质量与净息差走势。"
+      },
+      "bullish": ["Large bank stocks (JPM, BAC, WFC) / 大型银行股（JPM、BAC、WFC）", "Regional banks on stable deposits / 存款稳定的地区银行"],
+      "bearish": ["Smaller lenders on credit concerns / 小型贷款机构面临信贷担忧", "Financials sensitive to yield curve changes / 对收益率曲线变化敏感的金融股"],
       "macroRisk": {
         "en": "Bank earnings provide insights into economic health and credit conditions. Mixed signals from geopolitical events add uncertainty to financial sector outlook.",
         "zh": "银行业绩提供经济健康和信贷状况的洞见。地缘政治事件的混合信号给金融板块前景带来不确定性。"

@@ -43,14 +43,14 @@
         "zh": "美债 10Y 收益率因中东升级创八周新高"
       },
       "impact": {
-        "en": "US, EU and UK 10Y yields rose to four.636%, 3.114% and 5.045% respectively on rate-sensitive positioning amid Middle East conflict escalating.",
-        "zh": "美欧英 10Y 收益率分别升至四。636%/三。114%/五。045%，中东冲突升级下的利率敏感配置推升债券收益率。"
+        "en": "US, EU and UK 10Y yields rose to 4.636%, 3.114% and 5.045% respectively on rate-sensitive positioning amid Middle East conflict escalating.",
+        "zh": "中东局势升级影响债市配置，美国、欧洲和英国的 10 年期国债基准收益率分别升至 4.636%、3.114% 和 5.045%。"
       },
       "bullish": [],
       "bearish": ["XLF", "XLK"],
       "macroRisk": {
-        "en": "Yes - Yield spike: Rates at 8-week high of ~4.636% press on equities and make fixed income less attractive; flight-to-quality signals stress.",
-        "zh": "是——收益率飙升：利率创八周~四。636%高位压制股票、使固定收益吸引力减弱；避险情绪显露压力信号。"
+        "en": "Yes - Yield spike: Rates at 8-week high of ~4.636% press on equities; flight-to-quality signals stress.",
+        "zh": "美国 10 年期美债收益率升至约 4.636%，创八周新高，令股票估值承压。市场上的避险交易也反映出投资者仍然谨慎。"
       }
     },
     {
@@ -60,7 +60,7 @@
       },
       "impact": {
         "en": "Futures mixed: Dow -0.04%, S&P +0.38%, Nasdaq +0.9%. Tech sector defensive on AI growth despite broader market unease from geopolitics.",
-        "zh": "期货分歧：道指降 四。四%、标普升三。八%、纳指升九。技术板块在 AI 增长支撑下具防御性，但地缘政治整体市场不安。"
+        "zh": "股指期货涨跌互现：道指期货下跌 0.04%，标普 500 期货上涨 0.38%，纳指期货上涨 0.9%。AI 需求前景支撑科技股，地缘政治风险令大盘情绪谨慎。"
       },
       "bullish": ["NVDA", "MSFT"],
       "bearish": [],
@@ -123,11 +123,11 @@
   "premarketFocus": {
     "futures": {
       "en": "Dow futures -0.04% to ~52,780; S&P +0.38%, Nasdaq +0.9%; Dow edge lower but tech-led index gains dominate.",
-      "zh": "道指期货降四。零一%至~五二七八零；标普升三。八%，纳指升九；道指微跌但科技股主导的指数涨幅占据上风。"
+      "zh": "道指期货下跌 0.04% 至约 52,780 点，标普 500 期货上涨 0.38%，纳指期货上涨 0.9%。科技股权重较高的指数涨幅较大。"
     },
     "treasury10Y": {
       "en": "~4.636%, up from recent lows on Middle East escalation and oil shock; yield-sensitive sectors face headwinds.",
-      "zh": "~四。六三六%，在中东升级和油价冲击下从近期低点反弹；收益率敏感板块承压。"
+      "zh": "10 年期美债收益率约为 4.636%，在中东局势升级和油价冲击下自近期低点回升，利率敏感板块承压。"
     },
     "dxy": {
       "en": "$1.09-1.10, modest strengthening on safe-haven demand; dollar holds as risk-off flows from Middle East tensions.",

@@ -15,7 +15,7 @@
         "zh": "重大缓和信号。开放霍尔木兹可能稳定油价同时保留伊朗筹码。市场已定价中东和平协议可能性。"
       },
       "bullish": ["SPY", "QQQ", "OIL", "XOM", "COP"],
-      "bearish": ["Brent crude uncertainty"],
+      "bearish": ["Brent crude uncertainty / 布伦特原油走势不确定"],
       "macroRisk": {
         "en": "Yes - Geopolitical de-escalation benefits risk assets. Oil price stability helps inflation expectations. DXY may face headwinds from peace premium.",
         "zh": "是 - 地缘缓和利好风险资产。油价稳定有助于通胀预期。DXY可能因和平溢价承压。"
@@ -63,7 +63,7 @@
         "zh": "黄金受益于避风港地位及实际利率下降。工业金属信号复杂。"
       },
       "bullish": ["GLD", "GOLD", "NEM"],
-      "bearish": ["Copper futures"],
+      "bearish": ["Copper futures / 铜期货"],
       "macroRisk": {
         "en": "Partial - Gold is safe haven but industrial metals may face demand concerns.",
         "zh": "部分 - 黄金是避风港但工业金属可能面临需求担忧。"
@@ -76,10 +76,10 @@
       },
       "impact": {
         "en": "Oil up despite Hormuz opening due to lingering supply fears. Inflation implications debated.",
-        "zh": "尽管霍尔木兹开放，油价仍涨 10% 以上，供应担忧 lingering。通胀影响存疑。"
+        "zh": "尽管霍尔木兹海峡开放，供应忧虑未消，油价仍上涨。涨价对通胀的影响尚待观察。"
       },
       "bullish": ["USO", "XLE", "CVX", "COP"],
-      "bearish": ["Consumer discretionary"],
+      "bearish": ["Consumer discretionary / 可选消费"],
       "macroRisk": {
         "en": "Yes - High oil prices risk inflation repricing. Geopolitical oil premium dominates.",
         "zh": "是 - 高油价风险通胀重新定价。地缘政治油价溢价主导。"

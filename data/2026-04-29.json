@@ -14,7 +14,7 @@
         "en": "Highest level of FOMC dissent since 1992 signals deep policy uncertainty ahead. Powell's likely final press conference as central bank leader provides critical guidance. Markets reassess rate cut expectations as inflation dynamics remain sticky post-war shock.",
         "zh": "FOMC 分歧达 1992 年来最高，预示政策前景充满不确定性。Powell 作为央行领袖的最终记者会提供关键指引。市场重新评估降息预期，通胀动态在战争冲击后仍具粘性。"
       },
-      "bullish": ["SPY", "TLT (if yields stabilize)"],
+      "bullish": ["SPY", "TLT (if yields stabilize) / TLT（若收益率企稳）"],
       "bearish": ["TSLA", "XLK", "XLI"],
       "macroRisk": {
         "en": "Yes - Record dissent implies potential policy pivot risk. Sticky inflation + supply shocks constrain easing, pressures long-duration assets.",
@@ -46,7 +46,7 @@
         "en": "Geopolitical escalation pushes risk premiums into fixed income markets. Mortgage rates move higher as investors demand compensation for uncertainty. Real estate and homebuilder sectors face headwinds as borrowing costs rise.",
         "zh": "地缘政治升级推高固定收益市场风险溢价。投资者因不确定性要求补偿，房贷利率上升。房地产和建筑商行业因借贷成本上升面临压力。"
       },
-      "bullish": ["XOM", "GLD", "TLT (if safe-haven flows dominate)"],
+      "bullish": ["XOM", "GLD", "TLT (if safe-haven flows dominate) / TLT（若避险买盘主导市场）"],
       "bearish": ["ITB", "PHM", "LEN", "TSLA", "JPM", "MS"],
       "macroRisk": {
         "en": "Yes - Rising mortgage rates constrain housing demand, broader credit conditions tighten, pressures rate-sensitive cyclical sectors.",
@@ -79,7 +79,7 @@
         "zh": "Pershing Square USA 以明显低于 IPO 价格开盘，类似伯克希尔式集中价值方法。活跃投资者情绪受考验，新工具面临市场怀疑。凸显专业投资工具的高溢价估值。"
       },
       "bullish": ["PSAUX", "BRK.B"],
-      "bearish": ["PSAUX (short-term)"],
+      "bearish": ["PSAUX (short-term) / PSAUX（短期）"],
       "macroRisk": {
         "en": "No - Specific to this investment vehicle, but signals market skepticism on activist premium valuations.",
         "zh": "否 - 特定于该投资工具，但反映市场对活跃投资者高溢价估值的怀疑。"

@@ -2,7 +2,7 @@
   "date": "2026-05-08",
   "summary": {
     "en": "US stocks extend gains on optimism over US-Iran peace prospects as crude oil drops, with S&P 500 and Nasdaq futures near record highs while Dow lags. Oil plunges toward $100/barrel on Strait of Hormuz reopening hopes, easing inflation fears and supporting risk-on sentiment. Treasury yields compress as de-escalation narrative strengthens; sector rotation shifts from energy to tech as stagflation concerns abate. Fed policy uncertainty persists with rate-cut expectations intact.",
-    "zh": "美股在美中伊朗和平前景乐观推动下延续涨势，原油下跌，标普 500 和纳指期货接近纪录高位，道指落后。石油因霍尔木兹海峡 reopening 希望暴跌至$100/桶附近，缓解通胀担忧支撑风险偏好。收益率压缩因去升级叙事加强；板块轮动从能源转向科技，滞胀担忧缓解。Fed 政策不确定性犹存，降息预期维持。"
+    "zh": "市场对美伊和平前景转趋乐观，美股延续涨势。市场预期霍尔木兹海峡可能重开，油价跌向每桶 100 美元，缓解了通胀担忧。标普 500 和纳指期货接近纪录高位，道指表现相对落后。随着地缘紧张缓和，美债收益率回落，资金从能源股转向科技股。美联储政策前景仍不明朗，市场仍预期降息。"
   },
   "topNews": [
     {
@@ -60,10 +60,10 @@
       },
       "impact": {
         "en": "US 10Y Treasury yield declined from 4.45% Thursday toward 4.35% as peace hopes grow and oil slides. Yield curve steepens slightly; 2s10s spread remains inverted but narrowing. Bond market prices in rate-cut compression if Middle East tensions ease permanently. Fed Chair Powell's June meeting critical for guidance. 7 dissenting votes from FOMC record signal policy divergence. Rate-sensitive assets benefit: growth stocks, small caps, TLT bonds rally. Watch for USD strength and currency flows.",
-        "zh": "美债 10Y 收益率从周四 4.45% 下降至约 4.35% 因和平希望增长和油价下滑。收益率曲线轻微陡峭；2s10s 价差仍 inverted 但收窄。债市定价若中东紧张永久缓解则降息压缩。Fed 主席鲍威尔 6 月会议对指引关键。FOMC 纪要中 7 票反对信号政策分歧。利率敏感资产受益：成长股、小型股、TLT 债券 rallies。关注美元强度和货币资金流向。"
+        "zh": "美债 10Y 收益率从周四 4.45% 下降至约 4.35% 因和平希望增长和油价下滑。收益率曲线轻微陡峭；2s10s 价差仍 inverted 但收窄。债市定价若中东紧张永久缓解则降息压缩。Fed 主席鲍威尔 6 月会议对指引关键。FOMC 纪要中 7 票反对信号政策分歧。利率敏感资产受益：成长股、小型股、TLT 债券 上涨。关注美元强度和货币资金流向。"
       },
-      "bullish": ["TLT", "TLH", "IWM", "ARKK", "QQQ", "XLK", "rate-sensitive names"],
-      "bearish": ["GLD", "SLV", "XLF", "JPM", "banking sector"],
+      "bullish": ["TLT", "TLH", "IWM", "ARKK", "QQQ", "XLK", "rate-sensitive names / 对利率敏感的个股"],
+      "bearish": ["GLD", "SLV", "XLF", "JPM", "banking sector / 银行业板块"],
       "macroRisk": {
         "en": "Yes - Treasury market dynamics reflect inflation expectation shift. Yield compression supports growth valuations but signals lower growth expectations. Fed policy path unclear; rate-cut timing uncertain. USD strength from global uncertainty creates currency headwinds. Inflation trajectory critical for policy direction.",
         "zh": "是 - 债市动态反映通胀预期转变。收益率压缩支持成长估值但信号增长预期降低。Fed 政策路径不清；降息时机不确定。美元因全球不确定性造成货币压力。通胀轨迹对政策方向关键。"
@@ -78,8 +78,8 @@
         "en": "FOMC record shows 7 dissenting votes on rate-cut timing, indicating policy divergence among officials. Fed Chair Jerome Powell's June 11 meeting critical for guidance on balance sheet normalization and rate trajectory. Oil-driven inflation complicates easing timeline. Current market pricing in 2026 rate cuts if Middle East de-escalation continues. USD strength from safety trade and rate differential supports DXY near 105. Dollar index volatility creates FX headwinds for multinationals. Watch for Powell testimony and commentary.",
         "zh": "FOMC 纪要显示 7 票对降息时机异议，显示官员间政策分歧。Fed 主席鲍威尔 6 月 11 日会议对资产负债表正常化和利率轨迹指引关键。油价驱动通胀使宽松时间表复杂化。当前市场若中东去升级持续则定价 2026 年降息。美元从避险交易和利率差异支持 DXY 于 105 附近。美元指数波动造成跨国企业货币压力。关注鲍威尔证词和评论。"
       },
-      "bullish": ["TLT", "GLD", "SLV", "XLF (defensive positioning)"],
-      "bearish": ["rate-sensitive growth", "small caps if yields rise"],
+      "bullish": ["TLT", "GLD", "SLV", "XLF (defensive positioning) / XLF（防御性配置）"],
+      "bearish": ["rate-sensitive growth / 对利率敏感的成长股", "small caps if yields rise / 收益率上升时的小盘股"],
       "macroRisk": {
         "en": "Yes - Fed policy uncertainty creates volatility. 7 dissenting votes signal lack of consensus on rate-cut timing. Oil-driven inflation complicates easing path. Market pricing depends on geopolitical resolution. USD strength from safe-haven demand creates FX headwinds. Inflation trajectory critical for policy direction.",
         "zh": "是 - Fed 政策不确定性造成波动。7 票反对信号对降息时机缺乏共识。油价驱动通胀使宽松路径复杂化。市场定价依赖地缘政治解决。美元从避险需求造成货币压力。通胀轨迹对政策方向关键。"
@@ -127,7 +127,7 @@
     },
     "treasury10Y": {
       "en": "10Y Treasury Yield declined from 4.45% Thursday toward 4.35% on de-escalation. Yield compression supports duration assets. Curve steepening from 2s10s spread narrowing. Fed policy uncertainty persists; Powell June meeting critical. Rate-sensitive assets rally. Watch for USD flows and inflation expectation shifts.",
-      "zh": "10Y 美债收益率从周四 4.45% 下降至约 4.35% 因去升级。收益率压缩支持久期资产。曲线从 2s10s 收窄陡峭化。Fed 政策不确定性犹存；鲍威尔 6 月会议关键。利率敏感资产 rallies。关注美元资金流向和通胀预期转变。"
+      "zh": "10Y 美债收益率从周四 4.45% 下降至约 4.35% 因去升级。收益率压缩支持久期资产。曲线从 2s10s 收窄陡峭化。Fed 政策不确定性犹存；鲍威尔 6 月会议关键。利率敏感资产 上涨。关注美元资金流向和通胀预期转变。"
     },
     "dxy": {
       "en": "DXY elevated near 105 on USD safety trade and Fed policy uncertainty. Dollar strength from global risk flows and rate differential with other currencies. JPY/USD volatility adds FX complexity. USD benefits from Middle East uncertainty but rate-sensitive assets face headwinds if yields compress. Watch for dollar rotation if de-escalation persists.",

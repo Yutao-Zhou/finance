@@ -14,7 +14,7 @@
         "en": "Strong demand for advanced AI chips validates capex strategy across hyperscalers. Sector leadership positions reinforced while traditional semiconductor exposure lags.",
         "zh": "先进 AI 芯片强劲需求验证超大规模数据中心资本支出策略。板块领导地位巩固而传统半导体敞口滞后。"
       },
-      "bullish": ["nvidia", "amd", "advanced_semiconductors"],
+      "bullish": ["nvidia", "amd", "advanced_semiconductors / 先进半导体"],
       "bearish": [],
       "macroRisk": {
         "en": "No - Earnings-driven rally independent of macro environment.",
@@ -30,7 +30,7 @@
         "en": "Geopolitical risk premium sustains WTI near key resistance levels. Supply disruption concerns limit downside but cap upside given global recession fears.",
         "zh": "地缘政治风险溢价使 WTI 维持在关键阻力位附近。供应中断担忧限制下行但全球衰退恐惧抑制上行空间。"
       },
-      "bullish": ["energy_producers"],
+      "bullish": ["energy_producers / 能源生产商"],
       "bearish": [],
       "macroRisk": {
         "en": "Yes - Oil volatility transmits to inflation expectations with implications for Fed policy stance.",
@@ -46,7 +46,7 @@
         "en": "10Y yield consolidation reflects balanced positioning between inflation concerns and dovish policy expectations. Rate-sensitive sectors find support.",
         "zh": "10 年期收益率盘整反映通胀担忧和鸽派政策预期之间的平衡配置。利率敏感板块获得支撑。"
       },
-      "bullish": ["utilities", "reits"],
+      "bullish": ["utilities / 公用事业", "reits / 房地产投资信托基金"],
       "bearish": [],
       "macroRisk": {
         "en": "Medium - Yield direction sensitive to economic data releases and Fed commentary.",
@@ -63,7 +63,7 @@
         "zh": "DXY 盘整避险资金流与新兴资产流出相互制衡。跨国企业收益能见度改善但货币逆风持续。"
       },
       "bullish": [],
-      "bearish": ["em_equities", "multinationals"],
+      "bearish": ["em_equities / 新兴市场股票", "multinationals / 跨国企业"],
       "macroRisk": {
         "en": "Yes - DXY strength impacts growth prospects for FX-sensitive sectors.",
         "zh": "是 - DXY 强度影响外汇敏感板块增长前景。"
@@ -78,7 +78,7 @@
         "en": "Precious metals hold technical levels despite dollar strength. Central bank purchases and geopolitical uncertainty provide demand floor.",
         "zh": "贵金属尽管美元强劲维持技术水平。央行购买和地缘政治不确定性提供需求底部。"
       },
-      "bullish": ["gold", "silver"],
+      "bullish": ["gold / 黄金", "silver / 白银"],
       "bearish": [],
       "macroRisk": {
         "en": "Yes - Gold-pricing mechanism links dollar strength inversely to precious metal prices.",

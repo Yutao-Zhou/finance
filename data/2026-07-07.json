@@ -2,7 +2,7 @@
   "date": "2026-07-07",
   "summary": {
     "en": "US markets extended losses from Friday following overnight weakness in Asia. Semiconductor stocks sold off despite Samsung's record quarter as investors priced-in high valuations and profit-taking amid DeepSeek chip competition concerns. Oil prices surged on renewed Middle East tensions after US strikes against Iran, while Treasury yields rose and the dollar strengthened to week-high levels.",
-    "zh": "美股延续周五的下跌走势，亚洲盘前半导体板块承压。尽管 Samsung 交出创纪录季度业绩但仍遭抛售，市场对 AI 硬件股估值过高和获利了结担忧加剧，同时 DeepSeek 推出自有芯片引发竞争忧虑。油价因中东局势再度升级而飙升；美债收益率回升、美元走强至本周高点。"
+    "zh": "亚洲股市隔夜走弱后，美股延续跌势。尽管三星电子录得创纪录的季度业绩，半导体股仍遭抛售。投资者担忧估值过高，也在关注获利了结和 DeepSeek 相关的芯片竞争。美国对伊朗发动打击后，中东局势再度紧张，油价上涨。美债收益率上行，美元升至本周高点。"
   },
   "topNews": [
     {
@@ -14,10 +14,11 @@
         "en": "Samsung Electronics' Q2 earnings showing strong AI memory demand failed to boost chip stocks, instead raising concerns about overvaluation in the sector. Memory chips and storage makers saw collective selloff while investors rotated into healthcare and financials.",
         "zh": "尽管 Samsung 显示强劲的 AI 存储需求，但未能提振芯片股反而引发板块估值过高担忧。内存和存储器制造商遭集体抛售，投资者转向医疗保健和金融股避险。"
       },
-      "bullish": ["MU (after correction)", "JPM", "MSFT"],
+      "bullish": ["MU (after correction) / MU（回调后）", "JPM", "MSFT"],
       "bearish": ["NVDA", "AMD", "MCHP", "KLAC", "AMAT"],
       "macroRisk": {
-        "en": "AI infrastructure slowdown concerns transmitted from memory sector weakness to broader semiconductor ecosystem including big tech names reliant on hardware refresh cycles."
+        "en": "AI infrastructure slowdown concerns transmitted from memory sector weakness to broader semiconductor ecosystem including big tech names reliant on hardware refresh cycles.",
+        "zh": "AI 基础设施放缓担忧从内存板块弱势传导至更广泛的半导体生态系统，包括依赖硬件更新周期的科技巨头。"
       }
     },
     {
@@ -27,12 +28,13 @@
       },
       "impact": {
         "en": "Iran's drone and missile strikes on three tankers near the Strait of Hormuz pushed WTI +$72.19 (+5.2%) and Brent +$76.00 (+5.4%). Geopolitical supply shock risks inflation expectations, causing Treasury yields to rise and pressuring rate-sensitive growth stocks.",
-        "zh": "伊朗对霍尔木兹海峡附近三艘油轮的无人机和导弹袭击导致 WTI 涨至$72.19(+5.2%)，布兰特原油升至$76(+5.4%)。地缘政治供给冲击推升通胀预期，美债收益率反弹压低了利率敏感的成长股。"
+        "zh": "伊朗对霍尔木兹海峡附近三艘油轮的无人机和导弹袭击导致 WTI 涨至$72.19(+5.2%)，布伦特原油升至$76(+5.4%)。地缘政治供给冲击推升通胀预期，美债收益率反弹压低了利率敏感的成长股。"
       },
       "bullish": ["XOM", "CVX", "COP"],
       "bearish": [],
       "macroRisk": {
-        "en": "Oil supply disruption in Strait of Hormuz directly threatens inflation trajectory and Fed policy path. Energy sector benefits while growth/tech face stagflation risks."
+        "en": "Oil supply disruption in Strait of Hormuz directly threatens inflation trajectory and Fed policy path. Energy sector benefits while growth/tech face stagflation risks.",
+        "zh": "霍尔木兹海峡石油供应中断直接威胁通胀轨迹和美联储政策路径。能源板块受益，而成长股/科技股面临滞胀风险。"
       }
     },
     {
@@ -47,7 +49,8 @@
       "bullish": [],
       "bearish": ["FXE", "XEU"],
       "macroRisk": {
-        "en": "Dollar strength creates headwinds for US multinationals with significant overseas revenue while reducing imported inflation but raising borrowing costs in dollar-denominated markets."
+        "en": "Dollar strength creates headwinds for US multinationals with significant overseas revenue while reducing imported inflation but raising borrowing costs in dollar-denominated markets.",
+        "zh": "美元走强对美国海外收入占比显著的多国企业构成逆风，同时降低输入性通胀但推高以美元计价市场的借贷成本。"
       }
     },
     {
@@ -62,7 +65,8 @@
       "bullish": [],
       "bearish": ["NVDA", "AMD"],
       "macroRisk": {
-        "en": "Potential disruption to US chip dominance in AI inference market. Supply chain diversification away from Nvidia/Huawei products could accelerate, affecting revenue models for major semiconductor players."
+        "en": "Potential disruption to US chip dominance in AI inference market. Supply chain diversification away from Nvidia/Huawei products could accelerate, affecting revenue models for major semiconductor players.",
+        "zh": "美国在 AI 推理市场芯片主导权可能受干扰。供应链可能加快采用英伟达和华为以外的产品，将影响主要半导体厂商的营收模式。"
       }
     },
     {
@@ -77,7 +81,8 @@
       "bullish": [],
       "bearish": ["GLD"],
       "macroRisk": {
-        "en": "Inflation expectations from oil price shock threaten to extend Fed rate-holding period. Gold faces dual pressure: rising real yields offsetting safe-haven flows while energy-driven inflation complicates monetary policy outlook."
+        "en": "Inflation expectations from oil price shock threaten to extend Fed rate-holding period. Gold faces dual pressure: rising real yields offsetting safe-haven flows while energy-driven inflation complicates monetary policy outlook.",
+        "zh": "油价冲击引发的通胀预期威胁延长美联储维持利率不变的时间。黄金面临双重压力：实际收益率上升抵消避险资金流入，而能源驱动的通胀使货币政策前景复杂化。"
       }
     },
     {
@@ -92,7 +97,8 @@
       "bullish": [],
       "bearish": ["BHP", "CBA", "CSL"],
       "macroRisk": {
-        "en": "Transmitted volatility from US semiconductor and big tech declines affects exposure to global demand via Australian resource exporters' earnings."
+        "en": "Transmitted volatility from US semiconductor and big tech declines affects exposure to global demand via Australian resource exporters' earnings.",
+        "zh": "美国半导体和大型科技股下跌引发的波动传导，通过澳大利亚资源出口商的盈利影响了对全球需求的敞口。"
       }
     },
     {
@@ -107,7 +113,8 @@
       "bullish": [],
       "bearish": ["TLT", "IEF"],
       "macroRisk": {
-        "en": "Rising yields directly pressure mortgage REITs, growth stocks, and consumer discretionary spending. Bond market signals Fed may hold rates longer despite soft-landing hopes."
+        "en": "Rising yields directly pressure mortgage REITs, growth stocks, and consumer discretionary spending. Bond market signals Fed may hold rates longer despite soft-landing hopes.",
+        "zh": "收益率上升直接施压抵押贷款房地产投资信托基金、成长型股票及可选消费支出。债券市场信号显示，尽管存在软着陆预期，美联储可能维持利率更长时间。"
       }
     },
     {
@@ -122,7 +129,8 @@
       "bullish": [],
       "bearish": ["SPCX"],
       "macroRisk": {
-        "en": "High-growth tech valuations face pressure from rate sensitivity and earnings volatility. Space economy sector premium at risk of compression during periods of macro uncertainty."
+        "en": "High-growth tech valuations face pressure from rate sensitivity and earnings volatility. Space economy sector premium at risk of compression during periods of macro uncertainty.",
+        "zh": "高增长科技股的估值面临利率敏感性和盈利波动的压力。宏观经济不确定性期间，太空经济板块的溢价面临压缩风险。"
       }
     },
     {
@@ -137,7 +145,8 @@
       "bullish": [],
       "bearish": ["XLK", "XLF"],
       "macroRisk": {
-        "en": "Fed policy ambiguity and oil-driven inflation fears create mixed risk sentiment. Growth sectors face pressure while defensive positioning may attract capital until clarity emerges."
+        "en": "Fed policy ambiguity and oil-driven inflation fears create mixed risk sentiment. Growth sectors face pressure while defensive positioning may attract capital until clarity emerges.",
+        "zh": "美联储政策的不确定性以及由油价驱动的通胀担忧导致风险情绪分化。成长型板块面临压力，而在局势明朗之前，防御性配置可能吸引资金。"
       }
     },
     {
@@ -152,7 +161,8 @@
       "bullish": ["XLE"],
       "bearish": [],
       "macroRisk": {
-        "en": "Supply chain rerouting and energy price volatility affect global trade. Companies with exposure to Middle East shipping routes face disruption risks impacting earnings forecasts."
+        "en": "Supply chain rerouting and energy price volatility affect global trade. Companies with exposure to Middle East shipping routes face disruption risks impacting earnings forecasts.",
+        "zh": "供应链改道和能源价格波动影响全球贸易。涉及中东航运路线的公司面临中断风险，进而影响盈利预测。"
       }
     }
   ],
@@ -187,7 +197,7 @@
     },
     "oil": {
       "en": "WTI climbed to $72.19 (+5.2%) and Brent to $76.00 (+5.4%) as US military strikes against Iran followed three vessel attacks in Strait of Hormuz. Supply disruption fears dominate short-term pricing.",
-      "zh":"因伊朗袭击后对三个船只事件的担忧 WTI原油升至$72.19（+5.2%）和布兰特原油至$76 (+5.4%)。供应中断忧虑主导短期定价。"
+      "zh":"因伊朗袭击后对三个船只事件的担忧 WTI原油升至$72.19（+5.2%）和布伦特原油至$76 (+5.4%)。供应中断忧虑主导短期定价。"
     }
   },
   "premarketFocus": {

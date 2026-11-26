@@ -1,8 +1,8 @@
 {
   "date": "2026-06-23",
   "summary": {
-    "en": "Dow futures plunge ~1% (-$4,879) as AI megacap selloff spreads to Asian chipmakers (Korea -10%), with Nasdaq futures down nearly 3%. Treasury yields climb on rate hike bets while oil prices fall despite US-Iran peace hopes. SpaceX (+ve post-earnings) bucks broader tech trend amid Mag-7 concerns.",
-    "zh": "道指期货暴跌约 1%(-$4,879)，AI 龙头抛售蔓延至亚洲芯片股（韩国 -10%），纳指期指跌幅近 3%。美债收益率因加息赌注而上升，油价在美伊和平希望下下跌。SpaceX(财报后反弹)逆势上涨，Mag-7担忧加剧市场波动。"
+    "en": "Dow futures plunge about 1% as AI megacap selloff spreads to Asian chipmakers (Korea -10%), with Nasdaq futures down nearly 3%. Treasury yields climb on rate hike bets while oil prices fall despite US-Iran peace hopes. SpaceX (+ve post-earnings) bucks broader tech trend amid Mag-7 concerns.",
+    "zh": "道指期货暴跌约 1%，AI 龙头抛售蔓延至亚洲芯片股（韩国 -10%），纳指期指跌幅近 3%。美债收益率因加息赌注而上升，油价在美伊和平希望下下跌。SpaceX(财报后反弹)逆势上涨，Mag-7担忧加剧市场波动。"
   },
   "topNews": [
     {
@@ -66,7 +66,7 @@
     "oil": {"en": "Oil drops 3% as peace hopes dominate headlines. WTI/Brent volatility elevated amid supply glut fears vs OPEC+ restraint.", "zh": "油价下跌 3%，和平希望主导头条新闻。供应过剩担忧与 OPEC+ 克制的博弈导致 WTIBrent波动率升高。"}
   },
   "premarketFocus": {
-    "futures": {"en": "Dow futures -1% ($4,879), Nasdaq -3%, S&P down ~2%. Asia leads downturn with Korean semiconductors -10%.", "zh": "道指期指下跌 1%( $4,879)，纳指下跌 3%，标普指数下跌约 2%。亚洲领跌，韩国半导体暴跌 10%。"},
+    "futures": {"en": "Dow futures down 1%, Nasdaq -3%, S&P down ~2%. Asia leads downturn with Korean semiconductors -10%.", "zh": "道指期指下跌 1%，纳指下跌 3%，标普指数下跌约 2%。亚洲领跌，韩国半导体暴跌 10%。"},
     "treasury10Y": {"en": "10Y Treasury yields rise amid rate hike bets. Yield volatility signals policy uncertainty; duration risk escalates.", "zh": "加息赌注推动美债收益率上升。收益率波动显示政策不确定性；久期风险加剧。"},
     "dxy": {"en": "DXY strengthens as dollar aids EM assets and multinationals face currency headwinds. Strong dollar weighs on tech exports.", "zh": "美元指数走强，美元助推新兴市场资产而跨国企业面临汇率阻力。强势美元压制科技出口股表现。"},
     "oil": {"en": "WTI/Brent fall 3% despite geopolitics as peace talks advance. Oil disinflation eases inflation fears but risks GDP downside.", "zh": "尽管地缘政治紧张，油价仍下跌 3%，和平谈判取得进展。油价通缩缓解通胀担忧但拖累 GDP。"},
