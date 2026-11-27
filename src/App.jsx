@@ -1,11 +1,12 @@
-import { useEffect, useId, useRef, useState } from "react";
+import { useEffect, useId, useMemo, useRef, useState } from "react";
+import briefDates from "virtual:brief-dates";
 import {
+  archivePageSize,
   formatDate,
   hasContent,
   localizedItems,
   quoteChange,
   quoteTime,
-  reportMatches,
   safeUrl,
   sourceName,
   text,
@@ -19,12 +20,10 @@ import {
   AnnouncementDrawer,
 } from "./components/Announcements";
 import useAnnouncements from "./lib/useAnnouncements";
+import useBriefAsset from "./lib/useBriefAsset";
 
-const dataFiles = import.meta.glob("../data/*.json", { eager: true });
-const reports = Object.values(dataFiles)
-  .map((mod) => mod.default)
-  .filter((report) => /^\d{4}-\d{2}-\d{2}$/.test(report?.date))
-  .sort((a, b) => b.date.localeCompare(a.date));
+const editions = briefDates.map((date) => ({ date }));
+const latestDate = briefDates[0];
 const copy = {
   zh: {
     title: "美股晨报",
@@ -64,6 +63,9 @@ const copy = {
     clearSearch: "清除搜索",
     archiveIntro: "回看每个交易日的市场脉络。",
     empty: "暂无晨报",
+    loading: "正在加载晨报…",
+    loadError: "晨报加载失败，请重试。",
+    retry: "重试",
     noResults: "没有找到匹配的晨报",
     trySearch: "试试其他日期、关键词或股票代码。",
     count: "期晨报",
@@ -133,6 +135,9 @@ const copy = {
     clearSearch: "Clear search",
     archiveIntro: "Revisit the market, one morning at a time.",
     empty: "No briefs yet",
+    loading: "Loading briefings…",
+    loadError: "Could not load the briefings. Please try again.",
+    retry: "Try again",
     noResults: "No matching briefs",
     trySearch: "Try another date, keyword or ticker.",
     count: "briefs",
@@ -529,7 +534,7 @@ function RecentBriefs({ report, lang, onSelect, onArchive, className = "" }) {
     <section className={"panel recent-panel " + className}>
       <SectionTitle icon="calendar" title={labels.recent} />
       <div className="recent-list">
-        {reports.slice(0, 3).map((item) => (
+        {editions.slice(0, 3).map((item) => (
           <button
             className={"recent-date" + (item.date === report.date ? " selected" : "")}
             onClick={() => onSelect(item.date)}
@@ -706,6 +711,45 @@ function readPreference(key, fallback, allowed) {
     return fallback;
   }
 }
+function BriefLoadStatus({ request, labels }) {
+  return (
+    <div className="empty-state brief-load-status" role="status">
+      <p>{request.error ? labels.loadError : labels.loading}</p>
+      {request.error && (
+        <button className="text-button" type="button" onClick={request.retry}>
+          {labels.retry}
+        </button>
+      )}
+    </div>
+  );
+}
+
+function ArchiveCard({ report, lang, onSelect }) {
+  const labels = copy[lang];
+  return (
+    <button className="panel archive-card" onClick={() => onSelect(report.date)}>
+      <div className="archive-card-top">
+        <time dateTime={report.date}>{formatDate(report.date, lang)}</time>
+        <Mood type={report.mood} lang={lang} />
+      </div>
+      <h2>{report.title[lang] || labels.title}</h2>
+      <p>{text(report.summary, lang)}</p>
+      <span className="archive-card-footer">
+        {labels.readBrief}
+        <Icon name="arrow" size={16} />
+      </span>
+    </button>
+  );
+}
+
+function ArchivePage({ page, lang, onSelect }) {
+  const request = useBriefAsset(`archive/${page}.json`);
+  if (!request.data) return <BriefLoadStatus request={request} labels={copy[lang]} />;
+  return request.data.map((report) => (
+    <ArchiveCard key={report.date} report={report} lang={lang} onSelect={onSelect} />
+  ));
+}
+
 function App() {
   const updates = useAnnouncements();
   const [lang, setLang] = useState(() =>
@@ -720,25 +764,37 @@ function App() {
   const [readingMode, setReadingMode] = useState(() =>
     readPreference("reading-mode", "full", ["compact", "full"]),
   );
-  const [selectedDate, setSelectedDate] = useState(
-    () =>
-      reports.find(
-        (report) =>
-          report.date ===
-          new URLSearchParams(window.location.search).get("date"),
-      )?.date || reports[0]?.date,
-  );
+  const [selectedDate, setSelectedDate] = useState(() => {
+    const date = new URLSearchParams(window.location.search).get("date");
+    return briefDates.includes(date) ? date : latestDate;
+  });
   const [view, setView] = useState("brief"),
     [search, setSearch] = useState(""),
-    [archiveCount, setArchiveCount] = useState(18),
+    [archivePage, setArchivePage] = useState(1),
     [mobileOpen, setMobileOpen] = useState(false);
   const searchRef = useRef(null),
+    pendingSection = useRef(window.location.hash.slice(1)),
     labels = copy[lang];
-  const activeReport =
-    reports.find((report) => report.date === selectedDate) || reports[0];
-  const filtered = reports.filter((report) => reportMatches(report, search)),
-    showArchive = view === "archive" || search.trim() !== "",
-    activeIndex = reports.indexOf(activeReport);
+  const query = search.trim().toLowerCase();
+  const showArchive = view === "archive" || query !== "";
+  const briefRequest = useBriefAsset(selectedDate ? `reports/${selectedDate}.json` : null);
+  const searchRequest = useBriefAsset(query ? "search.json" : null);
+  const activeReport = briefRequest.data;
+  const activeIndex = briefDates.indexOf(selectedDate);
+  const filtered = useMemo(
+    () => searchRequest.data?.filter(({ searchText }) => searchText.includes(query)),
+    [searchRequest.data, query],
+  );
+  const archiveTotal = query ? filtered?.length : editions.length;
+  const archiveCount = archivePage * archivePageSize;
+
+  useEffect(() => {
+    if (!activeReport || showArchive || !pendingSection.current) return;
+    const section = document.getElementById(pendingSection.current);
+    pendingSection.current = "";
+    section?.scrollIntoView({ behavior: "smooth" });
+  }, [activeReport, showArchive]);
+
   useEffect(() => {
     document.documentElement.dataset.theme = theme;
     document.documentElement.dataset.readingSize = readingSize;
@@ -797,8 +853,9 @@ function App() {
     setView("brief");
     setSearch("");
     setMobileOpen(false);
+    pendingSection.current = "";
     const url = new URL(window.location.href);
-    if (date === reports[0]?.date) url.searchParams.delete("date");
+    if (date === latestDate) url.searchParams.delete("date");
     else url.searchParams.set("date", date);
     url.hash = "";
     window.history.replaceState(null, "", url);
@@ -814,11 +871,9 @@ function App() {
     setSearch("");
     setView("brief");
     setMobileOpen(false);
-    window.requestAnimationFrame(() =>
-      document
-        .getElementById("sectors")
-        ?.scrollIntoView({ behavior: "smooth" }),
-    );
+    const section = document.getElementById("sectors");
+    if (section) section.scrollIntoView({ behavior: "smooth" });
+    else pendingSection.current = "sectors";
   }
   return (
     <div className="app-shell" data-report-date={activeReport?.date || ""} data-analytics-language={lang} data-analytics-view={showArchive ? "archive" : "brief"}>
@@ -841,7 +896,7 @@ function App() {
           href={import.meta.env.BASE_URL}
           onClick={(event) => {
             event.preventDefault();
-            selectReport(reports[0]?.date);
+            selectReport(latestDate);
           }}
         >
           <BrandMark />
@@ -852,7 +907,7 @@ function App() {
           <button
             className={"nav-item" + (!showArchive ? " active" : "")}
             aria-current={!showArchive ? "page" : undefined}
-            onClick={() => selectReport(reports[0]?.date)}
+            onClick={() => selectReport(latestDate)}
           >
             <Icon name="brief" />
             <span>{labels.brief}</span>
@@ -865,7 +920,7 @@ function App() {
           >
             <Icon name="archive" />
             <span>{labels.archive}</span>
-            <span className="nav-count">{reports.length}</span>
+            <span className="nav-count">{editions.length}</span>
           </button>
           {activeReport &&
             Object.values(activeReport.sectorRadar || {}).some((value) =>
@@ -925,7 +980,7 @@ function App() {
                 value={search}
                 onChange={(event) => {
                   setSearch(event.target.value);
-                  setArchiveCount(18);
+                  setArchivePage(1);
                 }}
               />
               {search ? (
@@ -993,28 +1048,28 @@ function App() {
                 {showArchive ? labels.archiveIntro : labels.subtitle}
               </p>
             </div>
-            {activeReport && !showArchive && (
+            {selectedDate && !showArchive && (
               <div className="edition-picker">
                 <span className="edition-label">
-                  {activeReport.date === reports[0]?.date
+                  {selectedDate === latestDate
                     ? labels.latest
                     : labels.historical}
                 </span>
                 <EditionPicker
-                  reports={reports}
-                  value={activeReport.date}
+                  reports={editions}
+                  value={selectedDate}
                   lang={lang}
                   onChange={selectReport}
                 />
                 <span className="edition-date">
-                  DAILY INTELLIGENCE / {activeReport.date.replaceAll("-", ".")}
+                  DAILY INTELLIGENCE / {selectedDate.replaceAll("-", ".")}
                 </span>
               </div>
             )}
-            {showArchive && (
+            {showArchive && archiveTotal !== undefined && (
               <span className="archive-count">
-                {search.trim() ? labels.results + " · " : ""}
-                {filtered.length} {labels.count}
+                {query ? labels.results + " · " : ""}
+                {archiveTotal} {labels.count}
               </span>
             )}
           </header>
@@ -1087,41 +1142,36 @@ function App() {
               aria-label={labels.archive}
               aria-live="polite"
             >
-              {filtered.length ? (
+              {query && !searchRequest.data ? (
+                <BriefLoadStatus request={searchRequest} labels={labels} />
+              ) : archiveTotal ? (
                 <>
                   <div className="archive-grid">
-                    {filtered.slice(0, archiveCount).map((report) => (
-                      <button
-                        className="panel archive-card"
-                        key={report.date}
-                        onClick={() => selectReport(report.date)}
-                      >
-                        <div className="archive-card-top">
-                          <time dateTime={report.date}>
-                            {formatDate(report.date, lang)}
-                          </time>
-                          <Mood type={report.judgment?.type} lang={lang} />
-                        </div>
-                        <h2>
-                          {text(
-                            report.topNews?.find((news) =>
-                              hasContent(news.title, lang),
-                            )?.title,
-                            lang,
-                          ) || labels.title}
-                        </h2>
-                        <p>{text(report.summary, lang)}</p>
-                        <span className="archive-card-footer">
-                          {labels.readBrief}
-                          <Icon name="arrow" size={16} />
-                        </span>
-                      </button>
-                    ))}
+                    {filtered
+                      ? filtered.slice(0, archiveCount).map((report) => (
+                          <ArchiveCard
+                            key={report.date}
+                            report={report}
+                            lang={lang}
+                            onSelect={selectReport}
+                          />
+                        ))
+                      : Array.from(
+                          { length: Math.min(archivePage, Math.ceil(archiveTotal / archivePageSize)) },
+                          (_, index) => (
+                            <ArchivePage
+                              key={index + 1}
+                              page={index + 1}
+                              lang={lang}
+                              onSelect={selectReport}
+                            />
+                          ),
+                        )}
                   </div>
-                  {archiveCount < filtered.length && (
+                  {archiveCount < archiveTotal && (
                     <button
                       className="load-more"
-                      onClick={() => setArchiveCount(archiveCount + 18)}
+                      onClick={() => setArchivePage((page) => page + 1)}
                     >
                       {labels.showMore}
                       <Icon name="arrow" size={16} />
@@ -1200,28 +1250,30 @@ function App() {
               />
               <nav className="report-pagination" aria-label={labels.archive}>
                 <button
-                  disabled={activeIndex >= reports.length - 1}
-                  onClick={() => selectReport(reports[activeIndex + 1].date)}
+                  disabled={activeIndex >= briefDates.length - 1}
+                  onClick={() => selectReport(briefDates[activeIndex + 1])}
                 >
                   <Icon className="reverse-arrow" name="arrow" size={17} />
                   <span>
                     {labels.previous}
-                    <small>{reports[activeIndex + 1]?.date}</small>
+                    <small>{briefDates[activeIndex + 1]}</small>
                   </span>
                 </button>
                 <span className="pagination-edition">{activeReport.date}</span>
                 <button
                   disabled={activeIndex <= 0}
-                  onClick={() => selectReport(reports[activeIndex - 1].date)}
+                  onClick={() => selectReport(briefDates[activeIndex - 1])}
                 >
                   <span>
                     {labels.next}
-                    <small>{reports[activeIndex - 1]?.date}</small>
+                    <small>{briefDates[activeIndex - 1]}</small>
                   </span>
                   <Icon name="arrow" size={17} />
                 </button>
               </nav>
             </>
+          ) : selectedDate ? (
+            <BriefLoadStatus request={briefRequest} labels={labels} />
           ) : (
             <section className="empty-state">
               <Icon name="brief" size={32} />

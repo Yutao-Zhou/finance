@@ -40,8 +40,9 @@ export function localizedItems(values, lang) {
     .map((value) => localizedFactor(value, lang))
     .filter((value) => value && !/^\[|^TICKER\d/i.test(value));
 }
-export function reportMatches(report, query) {
-  if (!query.trim()) return true;
+export const archivePageSize = 18;
+
+export function reportSearchText(report) {
   const { date, summary, topNews, sectorRadar, premarketFocus, judgment } =
     report;
   return JSON.stringify({
@@ -51,9 +52,7 @@ export function reportMatches(report, query) {
     sectorRadar,
     premarketFocus,
     judgment,
-  })
-    .toLowerCase()
-    .includes(query.trim().toLowerCase());
+  }).toLowerCase();
 }
 export function safeUrl(value) {
   try {

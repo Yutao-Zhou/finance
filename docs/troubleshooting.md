@@ -69,11 +69,9 @@ As checked on 2026-11-16, `npm run lint` runs `eslint .`, which includes the leg
 
 Use `npx eslint src` for the current frontend. To fix the full command, separately organize the legacy output and scripts or adjust ESLint's scopes; do not disable rules globally. This existing issue was not introduced by the documentation work or an ordinary UI change.
 
-## The build warns about a JavaScript bundle over 500 kB
+## An edition fails to load after deployment
 
-All historical briefings are eagerly imported and loaded with the initial bundle. Vite's size warning reflects the current architecture and is separate from a syntax error or failed build.
-
-More historical reports will increase the initial download. Possible improvements include loading reports by date, splitting data or introducing a content index; none is currently implemented. Raising the warning threshold alone does not improve loading performance.
+Open the browser's Network panel and check the request under `/finance/briefs/reports/`. Confirm that the corresponding JSON is in `dist/briefs/reports/` and that the deployment published the entire `dist/` directory.
 
 ## The sitemap command or legacy screenshot script fails
 

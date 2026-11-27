@@ -21,7 +21,7 @@ flowchart LR
     I <--> J[localStorage preferences and announcement states]
 ```
 
-`App.jsx` imports briefings at build time using `import.meta.glob("../data/*.json", { eager: true })`, filters by the `date` format, then sorts by date descending. The running site does not fetch live quotes from providers or poll the `data/` directory.
+The Vite plugin in `scripts/brief-assets.js` reads the source JSON at build time. It embeds the sorted dates in the app and emits each full report, archive preview page and search index as a static JSON file under `dist/briefs/`. The browser requests the selected edition, defaulting to the latest.
 
 Adding report JSON or announcements therefore requires rebuilding and deploying. Stopping the local generation device does not affect static pages already published.
 
@@ -52,8 +52,8 @@ Adding report JSON or announcements therefore requires rebuilding and deploying.
 - Edition changes use `history.replaceState` to update the date parameter without adding a history entry for each selection. Selecting the latest edition removes the parameter.
 - The briefing/archive view, search query, archive display count and mobile navigation state are local React state, not URL state.
 - `#stories`, `#sectors` and `#premarket` navigate within the current edition. The app does not use React Router or routes such as `/finance/YYYY-MM-DD`.
-- The archive initially displays 18 editions and adds 18 at a time. Only rendering is paginated; all report data is already loaded with the initial JavaScript.
-- Search matches serialized dates, summaries, news, sectors, premarket focus and judgments without case sensitivity. It does not query an external search service or search announcements.
+- The archive fetches 18 previews on opening and another batch when readers select **Load more briefs**. Opening a card requests that edition's full report.
+- Entering a search term fetches a separate archive-wide index with dates, summaries, news, sectors, premarket focus and judgments. Matching is case-insensitive and runs in the browser.
 - An hourly timer reloads the page if it is hidden and browser speech is neither active nor queued. There is no foreground live-quote refresh.
 
 ## Browser storage
@@ -93,4 +93,4 @@ Before React loads, `index.html` initializes root attributes for the theme, text
 
 The main site maintains the analytics implementation. This repository provides `data-report-date`, `data-analytics-language`, `data-analytics-view` and a reading-end marker. It does not contain the analytics backend or full event implementation, so it cannot establish what the server actually stores.
 
-There is no complete report-generation pipeline, automated test suite or print/save-as-PDF feature. Eager loading of all historical JSON produces a large JavaScript bundle. Loading editions separately is a possible future improvement and is not implemented.
+There is no complete report-generation pipeline, automated test suite or print/save-as-PDF feature.

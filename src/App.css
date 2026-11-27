@@ -1149,6 +1149,9 @@ details[open] > .section-disclosure {
   text-align: center;
   color: var(--muted);
 }
+.brief-load-status {
+  grid-column: 1 / -1;
+}
 .empty-state > svg {
   margin-bottom: 16px;
 }
